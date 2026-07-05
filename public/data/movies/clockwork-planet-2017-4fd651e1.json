@@ -9,7 +9,30 @@
   "year": 2017,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Sci-Fi",
+      "slug": "sci-fi"
+    },
+    {
+      "name": "Ecchi",
+      "slug": "ecchi"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "countries": [],
+  "description": "Naoto's a high school dropout and brilliant amateur tinkerer. He lives in a world that has been so over-exploited that the entire surface has become one vast machine. When a box crashes into his home containing a female automaton, it's a harbinger of change that will rock the entire globe, and give Naoto his chance to be a hero.\n<br><br>\n(Source: Kodansha USA)",
   "episodes": [],
   "sources": [
     {

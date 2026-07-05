@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/fourever-you-phan-2-thumb.jpg",
   "year": 2025,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 21",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (24/24)",
   "categories": [
     {
       "name": "Hài Hước",
@@ -197,13 +197,37 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/dc599c7a324929b40daa7df6ab61af80",
       "m3u8Url": "https://vip.opstream90.com/20260612/34750_dc599c7a/index.m3u8"
+    },
+    {
+      "name": "22",
+      "slug": "22",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/5fdb81013e74b3bb0c0e0ce50249c0ca",
+      "m3u8Url": "https://vip.opstream90.com/20260704/36078_5fdb8101/index.m3u8"
+    },
+    {
+      "name": "23",
+      "slug": "23",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/3d95a7881b75010c3934a504104818ba",
+      "m3u8Url": "https://vip.opstream90.com/20260704/36085_3d95a788/index.m3u8"
+    },
+    {
+      "name": "24",
+      "slug": "24",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/4b7dc121caf2baf0963a047346fc8df6",
+      "m3u8Url": "https://vip.opstream90.com/20260704/36079_4b7dc121/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "fourever-you-phan-2",
-      "episodeCount": 21,
+      "episodeCount": 24,
       "priority": 0
     }
   ],

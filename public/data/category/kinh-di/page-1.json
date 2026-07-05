@@ -5,6 +5,35 @@
   "totalPages": 2,
   "items": [
     {
+      "id": "obsession-2026-9054b6f2",
+      "source": "ophim",
+      "slug": "am-anh-2026",
+      "name": "Ám Ảnh",
+      "originName": "Obsession",
+      "posterUrl": "https://img.ophim.live/uploads/movies/am-anh-2026-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/am-anh-2026-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
       "id": "pemuja-2026-43aa7828",
       "source": "ophim",
       "slug": "pemuja",
@@ -208,35 +237,6 @@
       ]
     },
     {
-      "id": "omukade-2026-a85c03f2",
-      "source": "ophim",
-      "slug": "omukade-con-ret-nguoi",
-      "name": "Omukade: Con Rết Người",
-      "originName": "Omukade",
-      "posterUrl": "https://img.ophim.live/uploads/movies/omukade-con-ret-nguoi-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/omukade-con-ret-nguoi-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chiến Tranh",
-          "slug": "chien-tranh"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
       "id": "iron-lung-2026-c2c479a2",
       "source": "ophim",
       "slug": "phoi-sat",
@@ -264,35 +264,6 @@
         {
           "name": "Bí ẩn",
           "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-calling-witch-2026-9c4dcb17",
-      "source": "ophim",
-      "slug": "phu-thuy-keu-goi",
-      "name": "Phù thủy kêu gọi",
-      "originName": "The Calling Witch",
-      "posterUrl": "https://img.ophim.live/uploads/movies/phu-thuy-keu-goi-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/phu-thuy-keu-goi-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
         }
       ],
       "countries": [
@@ -332,6 +303,39 @@
         {
           "name": "Thái Lan",
           "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "saccharine-2026-fa262e64",
+      "source": "ophim",
+      "slug": "saccharine",
+      "name": "Saccharine",
+      "originName": "Saccharine",
+      "posterUrl": "https://img.ophim.live/uploads/movies/saccharine-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/saccharine-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Úc",
+          "slug": "uc"
+        },
+        {
+          "name": "Phần Lan",
+          "slug": "phan-lan"
         }
       ]
     },
@@ -439,13 +443,13 @@
       "source": "phimapi",
       "slug": "ba-dong-muifei-muoi-phi",
       "name": "Bà Đồng Muifei (Muội Phi)",
-      "originName": "Mui Fei / Muifei The Medium",
+      "originName": "Mui Fei (Muifei The Medium)",
       "posterUrl": "https://phimimg.com/upload/vod/20260618-1/1c5c2f1516d809ce698ddac881b72bde.jpg",
       "thumbUrl": "https://phimimg.com/upload/vod/20260618-1/4daf691fdbcabbedc0890a863677c9ad.jpg",
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Khoa Học",
@@ -472,13 +476,50 @@
       ]
     },
     {
-      "id": "saccharine-2026-91018002",
+      "id": "pee-nak-5-2026-8ad04524",
       "source": "phimapi",
-      "slug": "vi-ngot-chet-choc",
-      "name": "Vị Ngọt Chết Chóc",
-      "originName": "Saccharine",
-      "posterUrl": "https://phimimg.com/upload/vod/20260625-1/94607ac38b959728ff688b9de0470999.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260625-1/f8c3668b3c20ebdbcb6cc3254bea2695.jpg",
+      "slug": "ngoi-den-ky-quai-5",
+      "name": "Ngôi Đền Kỳ Quái 5",
+      "originName": "Pee Nak 5",
+      "posterUrl": "https://phimimg.com/upload/vod/20260705-1/fc8b1cc13f62a71a7fda561d43423b03.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260705-1/3004beedc286a49ed16f58278d0da628.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "king-kaew-2026-61fbf2d2",
+      "source": "phimapi",
+      "slug": "quy-du-tu-luyen-nguc",
+      "name": "Quỷ Dữ Từ Luyện Ngục",
+      "originName": "King Kaew",
+      "posterUrl": "https://phimimg.com/upload/vod/20260701-1/24e1fc5d036c26320f14d4851fee6318.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260701-1/ddb253f98f8651ff266be5963ee29dd7.jpg",
       "year": 2026,
       "type": "single",
       "status": "completed",
@@ -487,20 +528,20 @@
         {
           "name": "Kinh Dị",
           "slug": "kinh-di"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
-          "name": "Úc",
-          "slug": "uc"
-        },
-        {
-          "name": "Phần Lan",
-          "slug": "phan-lan"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Thái Lan",
+          "slug": "thai-lan"
         }
       ]
     },
@@ -588,87 +629,29 @@
       ]
     },
     {
-      "id": "wellwood-2025-6981b1d7",
-      "source": "ophim",
-      "slug": "wellwood",
-      "name": "Wellwood",
-      "originName": "Wellwood",
-      "posterUrl": "https://img.ophim.live/uploads/movies/wellwood-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/wellwood-thumb.jpg",
-      "year": 2025,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "uncontained-2025-6b028d83",
+      "id": "smile-2-2024-a951bdc2",
       "source": "phimapi",
-      "slug": "vung-dich-khong-loi-thoat-mat-kiem-soat",
-      "name": "Vùng Dịch Không Lối Thoát (Mất Kiểm Soát)",
-      "originName": "Uncontained",
-      "posterUrl": "https://phimimg.com/upload/vod/20260624-1/38bd315373df223c237c7057daeacaff.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260624-1/91c77f5e50498490335d2bf3f0d850d4.jpg",
-      "year": 2025,
+      "slug": "cuoi-2",
+      "name": "Cười 2",
+      "originName": "Smile 2",
+      "posterUrl": "https://phimimg.com/upload/vod/20241109-1/a8d5f6a6b3e04b3e3db511f15ac151f2.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20241109-1/350c66465aa00bd060e1ac247b076021.jpg",
+      "year": 2024,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
         },
         {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        }
-      ],
-      "countries": [
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "insidious-inferno-2024-d158d432",
-      "source": "ophim",
-      "slug": "dia-nguc-hiem-ac",
-      "name": "Địa ngục hiểm ác",
-      "originName": "Insidious Inferno",
-      "posterUrl": "https://img.ophim.live/uploads/movies/dia-nguc-hiem-ac-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/dia-nguc-hiem-ac-thumb.jpg",
-      "year": 2024,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
@@ -712,39 +695,80 @@
       ]
     },
     {
-      "id": "zombiepura-2018-e9c074a7",
+      "id": "the-sand-2015-649aa81c",
       "source": "phimapi",
-      "slug": "khu-biet-giam-xac-song",
-      "name": "Khu Biệt Giam Xác Sống",
-      "originName": "Zombiepura",
-      "posterUrl": "https://phimimg.com/upload/vod/20260622-1/57b1ed2da8e68d2e15cc25d959acb589.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260622-1/e136f67c77bc3729cfc83e992e6c8f8b.jpg",
-      "year": 2018,
+      "slug": "cat-an-thit-nguoi",
+      "name": "Cát Ăn Thịt Người",
+      "originName": "The Sand",
+      "posterUrl": "https://phimimg.com/upload/vod/20260701-1/aa66df2ed3bf5ae5570889c067cfb925.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260701-1/105bff3f25fb87b2ffed4fbf9ca3a166.jpg",
+      "year": 2015,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
           "name": "Kinh Dị",
           "slug": "kinh-di"
         },
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
         },
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Singapore",
-          "slug": "singapore"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "skyfall-2012-6f71d025",
+      "source": "ophim",
+      "slug": "skyfall",
+      "name": "Điệp Viên 007: Tử Địa Skyfall",
+      "originName": "Skyfall",
+      "posterUrl": "https://img.ophim.live/uploads/movies/skyfall-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/skyfall-thumb.jpg",
+      "year": 2012,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Thổ Nhĩ Kỳ",
+          "slug": "tho-nhi-ky"
         }
       ]
     }

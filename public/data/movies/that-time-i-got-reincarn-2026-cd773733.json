@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 12",
+  "episodeCurrent": "Tập 13",
   "categories": [
     {
       "name": "Hành Động",
@@ -139,6 +139,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260627/35682_b4b673a5/index.m3u8"
     },
     {
+      "name": "13",
+      "slug": "13",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/c31298d87a7446a1854f5a71f475b343",
+      "m3u8Url": "https://vip.opstream90.com/20260703/36059_c31298d8/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -233,19 +241,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260626/HXWh0Ryl/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260626/HXWh0Ryl/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260703/yKTR3HsP/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260703/yKTR3HsP/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4",
-      "episodeCount": 12,
+      "episodeCount": 13,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4",
-      "episodeCount": 12,
+      "episodeCount": 13,
       "priority": 1
     }
   ],

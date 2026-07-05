@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 17",
+  "episodeCurrent": "Tập 21",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -167,6 +167,38 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260625/jlrk3kZx/index.m3u8"
     },
     {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260629/ZIyw8BIp/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260629/ZIyw8BIp/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260630/z2E6y3Rm/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260630/z2E6y3Rm/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260701/LeRTTO3M/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260701/LeRTTO3M/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260703/3Pt5eeVK/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260703/3Pt5eeVK/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -289,7 +321,7 @@
     {
       "source": "phimapi",
       "slug": "dieu-mua-lan-su-rong",
-      "episodeCount": 17,
+      "episodeCount": 21,
       "priority": 1
     }
   ],

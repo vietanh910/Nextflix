@@ -11,12 +11,16 @@
   "status": "unknown",
   "categories": [
     {
-      "name": "Ecchi",
-      "slug": "ecchi"
-    },
-    {
       "name": "Comedy",
       "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Ecchi",
+      "slug": "ecchi"
     },
     {
       "name": "Action",
@@ -25,10 +29,6 @@
     {
       "name": "Fantasy",
       "slug": "fantasy"
-    },
-    {
-      "name": "Romance",
-      "slug": "romance"
     }
   ],
   "countries": [],

@@ -2,28 +2,61 @@
   "slug": "chinh-kich",
   "name": "Chính kịch",
   "page": 15,
-  "totalPages": 260,
+  "totalPages": 16,
   "items": [
     {
-      "id": "witch-hat-atelier-2026",
-      "source": "ophim",
-      "slug": "xuong-phep-thuat",
-      "name": "Xưởng Phép Thuật",
-      "originName": "Witch Hat Atelier",
-      "posterUrl": "https://img.ophim.live/uploads/movies/xuong-phep-thuat-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/xuong-phep-thuat-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "id": "heroes-season-3-2008-1350cdbc",
+      "source": "phimapi",
+      "slug": "giai-cuu-the-gioi-phan-3",
+      "name": "Giải Cứu Thế Giới (Phần 3)",
+      "originName": "Heroes (Season 3)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260702-1/18fbb4c3924e06f1f7d885dde9c51265.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260702-1/67f77c84602a178d94176b8b059672cf.jpg",
+      "year": 2008,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (25/25)",
       "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
         {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
         },
         {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "after-sex-2007-51bd0e9b",
+      "source": "ophim",
+      "slug": "du-am-sau-cuoc-yeu",
+      "name": "Dư Âm Sau Cuộc Yêu",
+      "originName": "After Sex",
+      "posterUrl": "https://img.ophim.live/uploads/movies/du-am-sau-cuoc-yeu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/du-am-sau-cuoc-yeu-thumb.jpg",
+      "year": 2007,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
           "name": "Chính kịch",
@@ -32,23 +65,147 @@
       ],
       "countries": [
         {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
     {
-      "id": "once-more-love-in-1995-2026",
+      "id": "er-season-14-2007-f54505d5",
       "source": "ophim",
-      "slug": "xuyen-khong-ve-1995-de-yeu-anh",
-      "name": "Xuyên Không Về 1995 Để Yêu Anh",
-      "originName": "Once More Love in 1995",
-      "posterUrl": "https://img.ophim.live/uploads/movies/xuyen-khong-ve-1995-de-yeu-anh-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/xuyen-khong-ve-1995-de-yeu-anh-thumb.jpg",
-      "year": 2026,
+      "slug": "er-phong-cap-cuu-phan-14",
+      "name": "ER: Phòng Cấp Cứu (Phần 14)",
+      "originName": "ER (Season 14)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-14-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-14-thumb.jpg",
+      "year": 2007,
+      "type": "series",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "heroes-season-2-2007-00252cdf",
+      "source": "phimapi",
+      "slug": "giai-cuu-the-gioi-phan-2",
+      "name": "Giải Cứu Thế Giới (Phần 2)",
+      "originName": "Heroes (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260702-1/1c6efcb4ab1eb94e3fdeedca4adac5b9.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260702-1/d568c4a10ad95bb8bdff12533c36d390.jpg",
+      "year": 2007,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (24/24)",
+      "episodeCurrent": "Hoàn Tất (11/11)",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "wind-chill-2007-005ce7e4",
+      "source": "phimapi",
+      "slug": "gio-ret-gio-lanh-chet-choc",
+      "name": "Gió Rét (Gió Lạnh Chết Chóc)",
+      "originName": "Wind Chill",
+      "posterUrl": "https://phimimg.com/upload/vod/20260701-1/b98fe73639574d68ddce9584f80e3fa3.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260701-1/c514a280d7634ca561859c73218ac299.jpg",
+      "year": 2007,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "er-season-13-2006-c3513d1d",
+      "source": "ophim",
+      "slug": "er-phong-cap-cuu-phan-13",
+      "name": "ER: Phòng Cấp Cứu (Phần 13)",
+      "originName": "ER (Season 13)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-13-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-13-thumb.jpg",
+      "year": 2006,
+      "type": "series",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-conquest-2006-877406b1",
+      "source": "ophim",
+      "slug": "song-hung-tranh-ba",
+      "name": "Song Hùng Tranh Bá",
+      "originName": "The Conquest",
+      "posterUrl": "https://img.ophim.live/uploads/movies/song-hung-tranh-ba-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/song-hung-tranh-ba-thumb.jpg",
+      "year": 2006,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (42/42)",
       "categories": [
         {
           "name": "Chính kịch",
@@ -59,496 +216,25 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
         }
       ]
     },
     {
-      "id": "yesterday-2026",
-      "source": "ophim",
-      "slug": "yesterday",
-      "name": "Yesterday",
-      "originName": "Yesterday",
-      "posterUrl": "https://img.ophim.live/uploads/movies/yesterday-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/yesterday-thumb.jpg",
-      "year": 2026,
+      "id": "heroes-season-1-2006-ac150b6a",
+      "source": "phimapi",
+      "slug": "giai-cuu-the-gioi-phan-1",
+      "name": "Giải Cứu Thế Giới (Phần 1)",
+      "originName": "Heroes (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260702-1/ca1ce7ef95da295e1c7813ee69e26acb.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260702-1/b8c57b3775649d3423cdd47ae3b29d6b.jpg",
+      "year": 2006,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (11/11)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "love-me-love-me-2026",
-      "source": "ophim",
-      "slug": "yeu-em-nhe",
-      "name": "Yêu Em Nhé",
-      "originName": "Love Me Love Me",
-      "posterUrl": "https://img.ophim.live/uploads/movies/yeu-em-nhe-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/yeu-em-nhe-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Ý",
-          "slug": "y"
-        }
-      ]
-    },
-    {
-      "id": "the-devil-wears-prada-2-2026",
-      "source": "ophim",
-      "slug": "yeu-nu-thich-hang-hieu-2",
-      "name": "Yêu Nữ Thích Hàng Hiệu 2",
-      "originName": "The Devil Wears Prada 2",
-      "posterUrl": "https://img.ophim.live/uploads/movies/yeu-nu-thich-hang-hieu-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/yeu-nu-thich-hang-hieu-2-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "you-can-t-win-2026",
-      "source": "ophim",
-      "slug": "you-cant-win",
-      "name": "You Can't Win",
-      "originName": "You Can't Win",
-      "posterUrl": "https://img.ophim.live/uploads/movies/you-cant-win-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/you-cant-win-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "your-dear-daddy-2026",
-      "source": "ophim",
-      "slug": "your-dear-daddy-goi-dad-di-tharn",
-      "name": "Your Dear Daddy: Gọi Dad đi Tharn",
-      "originName": "Your Dear Daddy",
-      "posterUrl": "https://img.ophim.live/uploads/movies/your-dear-daddy-goi-dad-di-tharn-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/your-dear-daddy-goi-dad-di-tharn-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "agent-zeta-2026",
-      "source": "ophim",
-      "slug": "zeta",
-      "name": "Zeta",
-      "originName": "Agent Zeta",
-      "posterUrl": "https://img.ophim.live/uploads/movies/zeta-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/zeta-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Tây Ban Nha",
-          "slug": "tay-ban-nha"
-        }
-      ]
-    },
-    {
-      "id": "53-dimanches-53-sundays-2026",
-      "source": "phimapi",
-      "slug": "53-ngay-chu-nhat",
-      "name": "53 Ngày Chủ Nhật",
-      "originName": "53 dimanches/53 Sundays",
-      "posterUrl": "https://phimimg.com/upload/vod/20260327-1/837941ba0250b37669bc051c143cc595.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260327-1/b549265e135aa9fb15f473c8558d15bf.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Tây Ban Nha",
-          "slug": "tay-ban-nha"
-        }
-      ]
-    },
-    {
-      "id": "light-to-the-night-2026",
-      "source": "phimapi",
-      "slug": "anh-sang-dem-toi-hac-da-cao-bach",
-      "name": "Ánh Sáng Đêm Tối (Hắc Dạ Cáo Bạch)",
-      "originName": "Light To The Night",
-      "posterUrl": "https://phimimg.com/upload/vod/20260427-1/c97610bf8a67fbc5e02c45834b5a6f3d.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260427-1/85220547b32cc943094bfe9df2388445.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 17",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "love-behind-the-years-2026",
-      "source": "phimapi",
-      "slug": "anh-yeu-em-sau-dam-yeu-em-say-dam",
-      "name": "Anh Yêu Em Sâu Đậm (Yêu Em Say Đắm)",
-      "originName": "Love Behind The Years",
-      "posterUrl": "https://phimimg.com/upload/vod/20260320-1/2fb01eab312f3a03c0d9aee5f94dc230.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260320-1/cbccd6c8a00c7f57a9dab02bdd0c11c1.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (40/40)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "the-case-book-of-arne-2026",
-      "source": "phimapi",
-      "slug": "arne-no-jikenbo",
-      "name": "Arne no Jikenbo",
-      "originName": "The Case Book Of Arne",
-      "posterUrl": "https://phimimg.com/upload/vod/20260213-1/87a9d3c3fbb951dfe1f2950af3e95004.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260213-1/4f03b60ad8531bf7485194312236801e.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "positively-yours-2026",
-      "source": "phimapi",
-      "slug": "baby-den-roi",
-      "name": "Baby Đến Rồi!",
-      "originName": "Positively Yours",
-      "posterUrl": "https://phimimg.com/upload/vod/20260119-1/d86e4511a783ac1a47f1514cc5e1b7c6.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260119-1/97353760bbeaf11746aec8cf43222132.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "scarpetta-2026",
-      "source": "phimapi",
-      "slug": "bac-si-phap-y",
-      "name": "Bác Sĩ Pháp Y",
-      "originName": "Scarpetta",
-      "posterUrl": "https://phimimg.com/upload/vod/20260320-1/29a6e84d2221c7808cbd31b578a592c2.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260320-1/6ca82860c86069ef3d5f84f3f3ae73fe.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "doctor-shin-2026",
-      "source": "phimapi",
-      "slug": "bac-si-shin",
-      "name": "Bác Sĩ Shin",
-      "originName": "Doctor Shin",
-      "posterUrl": "https://phimimg.com/upload/vod/20260326-1/fef2b9e88f9ac3cb7d7dd1cd331fcc30.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260326-1/c53b3724cc73c1bf43d9936886a086a6.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (16/16)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "soda-master-2026",
-      "source": "phimapi",
-      "slug": "bac-thay-nuoc-ngot-ramune-monkey",
-      "name": "Bậc Thầy Nước Ngọt (Ramune Monkey)",
-      "originName": "Soda Master",
-      "posterUrl": "https://phimimg.com/upload/vod/20260202-1/f6a74507396720a2a99a01ef6b1f3a28.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260202-1/e91da1a32e9ef8d3f7c6901f17e72499.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 11",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "rent-a-girlfriend-season-5-2026",
-      "source": "phimapi",
-      "slug": "ban-gai-thue-phan-5",
-      "name": "Bạn Gái Thuê (Phần 5)",
-      "originName": "Rent-A-Girlfriend (Season 5)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260413-1/0b8e85147ee42a98b98f1c2c8f6f5410.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260413-1/0f7601ab0c569445b69a040dab869f72.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 5",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "boyfriend-on-demand-2026",
-      "source": "phimapi",
-      "slug": "ban-trai-theo-yeu-cau",
-      "name": "Bạn Trai Theo Yêu Cầu",
-      "originName": "Boyfriend On Demand",
-      "posterUrl": "https://phimimg.com/upload/vod/20260307-1/903ea6483ca481d7210d81a56cfce3a0.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260307-1/ef00c48fd12166b790bcaa6db6eddbaf.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
+      "episodeCurrent": "Hoàn Tất (23/23)",
       "categories": [
         {
           "name": "Khoa Học",
@@ -559,10 +245,6 @@
           "slug": "vien-tuong"
         },
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
@@ -573,31 +255,52 @@
       ],
       "countries": [
         {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
     {
-      "id": "mercy-2026",
+      "id": "er-season-12-2005-4e1595c6",
+      "source": "ophim",
+      "slug": "er-phong-cap-cuu-phan-12",
+      "name": "ER: Phòng Cấp Cứu (Phần 12)",
+      "originName": "ER (Season 12)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-12-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-12-thumb.jpg",
+      "year": 2005,
+      "type": "series",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "lords-of-dogtown-2005-3bcdebb5",
       "source": "phimapi",
-      "slug": "bang-chung-sinh-tu",
-      "name": "Bằng Chứng Sinh Tử",
-      "originName": "Mercy",
-      "posterUrl": "https://phimimg.com/upload/vod/20260221-1/89f62f6a24e129d18336a6aa9e61eccb.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260221-1/3af442e997a828b6cf8959b2014f0825.jpg",
-      "year": 2026,
+      "slug": "chua-te-dogtown",
+      "name": "Chúa Tể Dogtown",
+      "originName": "Lords Of Dogtown",
+      "posterUrl": "https://phimimg.com/upload/vod/20260704-1/4a0401c8c00a8884f6689fc72105b066.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260704-1/eb1fc64850f6ced794f9ce512b5b37bb.jpg",
+      "year": 2005,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Hành Động",
@@ -606,13 +309,13 @@
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
         }
       ],
       "countries": [
+        {
+          "name": "Đức",
+          "slug": "duc"
+        },
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
@@ -620,149 +323,29 @@
       ]
     },
     {
-      "id": "street-flow-3-banlieusards-3-2026",
+      "id": "into-the-blue-2005-4ab8dd9b",
       "source": "phimapi",
-      "slug": "bang-dang-duong-pho-3-nhung-cau-be-vung-ngoai-o-3",
-      "name": "Băng Đảng Đường Phố 3 (Những Cậu Bé Vùng Ngoại Ô 3)",
-      "originName": "Street Flow 3 (Banlieusards 3)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260307-1/51a774dc9d1597925a7393caaca691b1.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260307-1/3a081b70a2a637fdc720f9a2fdee22c7.jpg",
-      "year": 2026,
+      "slug": "duoi-day-bien-sau",
+      "name": "Dưới Đáy Biển Sâu",
+      "originName": "Into The Blue",
+      "posterUrl": "https://phimimg.com/upload/vod/20260701-1/4aee80bfb9374945a54ed38cf091e098.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260701-1/ec50b0efc78a3ddcea41fb9edc5d1211.jpg",
+      "year": 2005,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
         },
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Pháp",
-          "slug": "phap"
-        }
-      ]
-    },
-    {
-      "id": "rebirth-2026",
-      "source": "phimapi",
-      "slug": "bang-ho-trong-sinh-so-kieu-truyen-2",
-      "name": "Băng Hồ Trọng Sinh (Sở Kiều Truyện 2)",
-      "originName": "Rebirth",
-      "posterUrl": "https://phimimg.com/upload/vod/20260408-1/8ac546753f16b7e2ff322ed6bc3fe8a3.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260408-1/ae14f7758a769790000d14f01e84aa5f.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (40/40)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "frozan-three-kingdoms-ice-war-three-kingdoms-2026",
-      "source": "phimapi",
-      "slug": "bang-phong-tam-quoc",
-      "name": "Băng Phong Tam Quốc",
-      "originName": "Frozan Three Kingdoms (Ice War Three Kingdoms)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260411-1/ea58e34a098ee95e0f7f7a10a122fef1.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260411-1/5b4944ec65680b02bcbcd700f22fea32.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (9/9)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
         },
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "sharp-downpour-2026",
-      "source": "phimapi",
-      "slug": "bao-to-du-doi",
-      "name": "Bão Tố Dữ Dội",
-      "originName": "Sharp Downpour",
-      "posterUrl": "https://phimimg.com/upload/vod/20260406-1/10820dd6e425eb126e1d5111d470e6b4.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260406-1/6f1fb2abf8e481c29a540570c085e613.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 19",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "code-guardian-special-security-2026",
-      "source": "phimapi",
-      "slug": "bao-ve-dac-biet",
-      "name": "Bảo Vệ Đặc Biệt",
-      "originName": "Code: Guardian (Special Security)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260320-1/c3b8ed5432ccdf55e14e177cd66aea3d.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260320-1/5bc5c8d87392d465bdf4f4d0f1324c22.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
         },
         {
           "name": "Hình Sự",
@@ -771,6 +354,31 @@
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-queen-s-classroom-2005-892a0c6c",
+      "source": "phimapi",
+      "slug": "nu-hoang-lop-hoc-2005",
+      "name": "Nữ Hoàng Lớp Học",
+      "originName": "The Queen's Classroom",
+      "posterUrl": "https://phimimg.com/upload/vod/20260703-1/9aa0086ac5d5ac5ef203056480411b97.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260703-1/a7b51da92021b6dd0a5a2e367b152310.jpg",
+      "year": 2005,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (11/11)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Tâm Lý",
@@ -779,8 +387,336 @@
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "er-season-11-2004-44771850",
+      "source": "ophim",
+      "slug": "er-phong-cap-cuu-phan-11",
+      "name": "ER: Phòng Cấp Cứu (Phần 11)",
+      "originName": "ER (Season 11)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-11-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-11-thumb.jpg",
+      "year": 2004,
+      "type": "series",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "er-season-10-2003-4fe3f1f6",
+      "source": "ophim",
+      "slug": "er-phong-cap-cuu-phan-10",
+      "name": "ER: Phòng Cấp Cứu (Phần 10)",
+      "originName": "ER (Season 10)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-10-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-10-thumb.jpg",
+      "year": 2003,
+      "type": "series",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "er-season-9-2002-b031a0cd",
+      "source": "ophim",
+      "slug": "er-phong-cap-cuu-phan-9",
+      "name": "ER: Phòng Cấp Cứu (Phần 9)",
+      "originName": "ER (Season 9)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-9-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-9-thumb.jpg",
+      "year": 2002,
+      "type": "series",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "juwanna-mann-2002-76d6a8d5",
+      "source": "phimapi",
+      "slug": "juwanna-mann",
+      "name": "Juwanna Mann",
+      "originName": "Juwanna Mann",
+      "posterUrl": "https://phimimg.com/upload/vod/20260705-1/dac073459dbf8c90b826e393fe749970.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260705-1/c49369ea594ff36dadb7e43fd1fb650e.jpg",
+      "year": 2002,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "er-season-8-2001-84a91c07",
+      "source": "ophim",
+      "slug": "er-phong-cap-cuu-phan-8",
+      "name": "ER: Phòng Cấp Cứu (Phần 8)",
+      "originName": "ER (Season 8)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-8-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-8-thumb.jpg",
+      "year": 2001,
+      "type": "series",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "er-season-7-2000-7d677758",
+      "source": "ophim",
+      "slug": "er-phong-cap-cuu-phan-7",
+      "name": "ER: Phòng Cấp Cứu (Phần 7)",
+      "originName": "ER (Season 7)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-7-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-7-thumb.jpg",
+      "year": 2000,
+      "type": "series",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-patriot-2000-af6e30a0",
+      "source": "phimapi",
+      "slug": "nha-ai-quoc-nguoi-yeu-nuoc",
+      "name": "Nhà Ái Quốc (Người Yêu Nước)",
+      "originName": "The Patriot",
+      "posterUrl": "https://phimimg.com/upload/vod/20260705-1/677da5f251e9b8506a32bea1b912c7dd.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260705-1/7428ea459bd6d8fd2a6264cff7d9a0dc.jpg",
+      "year": 2000,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Lịch Sử",
+          "slug": "lich-su"
+        },
+        {
+          "name": "Chiến Tranh",
+          "slug": "chien-tranh"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Đức",
+          "slug": "duc"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "er-season-6-1999-e529d001",
+      "source": "ophim",
+      "slug": "er-phong-cap-cuu-phan-6",
+      "name": "ER: Phòng Cấp Cứu (Phần 6)",
+      "originName": "ER (Season 6)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-6-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-6-thumb.jpg",
+      "year": 1999,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (22/22)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "er-season-5-1998-838a566c",
+      "source": "ophim",
+      "slug": "er-phong-cap-cuu-phan-5",
+      "name": "ER: Phòng Cấp Cứu (Phần 5)",
+      "originName": "ER (Season 5)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-5-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-5-thumb.jpg",
+      "year": 1998,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (22/22)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "er-season-4-1997-47f48011",
+      "source": "ophim",
+      "slug": "er-phong-cap-cuu-phan-4",
+      "name": "ER: Phòng Cấp Cứu (Phần 4)",
+      "originName": "ER (Season 4)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-4-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-4-thumb.jpg",
+      "year": 1997,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (22/22)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "er-season-3-1996-1e44b4e8",
+      "source": "ophim",
+      "slug": "er-phong-cap-cuu-phan-3",
+      "name": "ER: Phòng Cấp Cứu (Phần 3)",
+      "originName": "ER (Season 3)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-3-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-3-thumb.jpg",
+      "year": 1996,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (22/22)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "er-season-2-1995-733af3ff",
+      "source": "ophim",
+      "slug": "er-phong-cap-cuu-phan-2",
+      "name": "ER: Phòng Cấp Cứu (Phần 2)",
+      "originName": "ER (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-2-thumb.jpg",
+      "year": 1995,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (22/22)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     }

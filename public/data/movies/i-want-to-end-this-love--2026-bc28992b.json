@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/toi-muon-cham-dut-tro-choi-tinh-yeu-nay-thumb.jpg",
   "year": 2026,
   "type": "anime",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 11",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (12/12)",
   "categories": [
     {
       "name": "Hài Hước",
@@ -115,6 +115,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260624/35493_761cf01d/index.m3u8"
     },
     {
+      "name": "12",
+      "slug": "12",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/db053e0098ea16f96df697e9bd55af86",
+      "m3u8Url": "https://vip.opstream90.com/20260701/35944_db053e00/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -201,19 +209,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260623/pg0eNMzn/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260623/pg0eNMzn/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260701/WUmmUSQY/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260701/WUmmUSQY/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "toi-muon-cham-dut-tro-choi-tinh-yeu-nay",
-      "episodeCount": 11,
+      "episodeCount": 12,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "toi-muon-cham-dut-tro-choi-tinh-yeu-nay",
-      "episodeCount": 11,
+      "episodeCount": 12,
       "priority": 1
     }
   ],

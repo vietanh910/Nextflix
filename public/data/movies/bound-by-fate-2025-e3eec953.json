@@ -9,7 +9,7 @@
   "year": 2025,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 40",
+  "episodeCurrent": "Tập 45",
   "categories": [
     {
       "name": "Gia Đình",
@@ -349,13 +349,53 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/a384ead3aad1e06df0952aa69c305380",
       "m3u8Url": "https://vip.opstream10.com/20260610/33899_a384ead3/index.m3u8"
+    },
+    {
+      "name": "41",
+      "slug": "41",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/b90b1b71d03d17c8af3e78947fa87a0a",
+      "m3u8Url": "https://vip.opstream10.com/20260610/33906_b90b1b71/index.m3u8"
+    },
+    {
+      "name": "42",
+      "slug": "42",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/8960b97658a66ea0f690cfac1a10e124",
+      "m3u8Url": "https://vip.opstream10.com/20260702/33964_8960b976/index.m3u8"
+    },
+    {
+      "name": "43",
+      "slug": "43",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/a96683574013404fbdc72bcb5f4c80e7",
+      "m3u8Url": "https://vip.opstream10.com/20260610/33905_a9668357/index.m3u8"
+    },
+    {
+      "name": "44",
+      "slug": "44",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/e7b437d65b3073c6804fbeb2c9e1d16c",
+      "m3u8Url": "https://vip.opstream10.com/20260703/33965_e7b437d6/index.m3u8"
+    },
+    {
+      "name": "45",
+      "slug": "45",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/79778539c65bffa4a3c2d44d56c16d91",
+      "m3u8Url": "https://vip.opstream10.com/20260703/33966_79778539/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "ranh-gioi-dinh-menh",
-      "episodeCount": 40,
+      "episodeCount": 45,
       "priority": 0
     }
   ],

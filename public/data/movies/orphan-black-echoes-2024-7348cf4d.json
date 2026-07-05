@@ -9,7 +9,7 @@
   "year": 2024,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Viễn Tưởng",
@@ -53,14 +53,76 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/fcd8fefbf2b5dd996ad37e6ffc99234a",
       "m3u8Url": "https://vip.opstream10.com/20260625/33947_fcd8fefb/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/cc1293b4eae66aa4fa2960e6ccb8ae96",
+      "m3u8Url": "https://vip.opstream10.com/20260701/33961_cc1293b4/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/481ee6046757e6873a4e05c36203d7ca",
+      "m3u8Url": "https://vip.opstream10.com/20260702/33963_481ee604/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/d8e917c6af68b61ef2b3ba045c3436f4",
+      "m3u8Url": "https://vip.opstream10.com/20260704/33971_d8e917c6/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260630/0Cw21kGQ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260630/0Cw21kGQ/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260630/rpxy8Pcy/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260630/rpxy8Pcy/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260701/cdEqYQkX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260701/cdEqYQkX/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260703/wmxAT6aQ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260703/wmxAT6aQ/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "goc-toi-nhan-ban",
-      "episodeCount": 2,
+      "episodeCount": 5,
       "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "goc-toi-nhan-ban",
+      "episodeCount": 4,
+      "priority": 1
     }
   ],
   "_priority": 0

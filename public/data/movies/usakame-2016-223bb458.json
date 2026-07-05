@@ -9,7 +9,18 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  ],
+  "countries": [],
+  "description": "A spin-off of focusing on the rivals of the Teekyuu girls.",
   "episodes": [],
   "sources": [
     {

@@ -113,8 +113,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/nguoi-tren-van-nguoi-phan-6-thumb.jpg",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 25",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (26/26)",
       "categories": [
         {
           "name": "Hành Động",
@@ -158,8 +158,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/nhat-niem-so-kien-cam-y-dao-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 20",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (36/36)",
       "categories": [
         {
           "name": "Hành Động",
@@ -225,7 +225,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Hành Động",
@@ -299,7 +299,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 12",
+      "episodeCurrent": "Tập 13",
       "categories": [
         {
           "name": "Hành Động",
@@ -410,7 +410,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 16",
+      "episodeCurrent": "Tập 17",
       "categories": [
         {
           "name": "Hành Động",
@@ -458,17 +458,46 @@
       ]
     },
     {
-      "id": "the-boys-season-5-2026-9589e13c",
+      "id": "the-land-of-sometimes-2026-1f5f3ce9",
       "source": "ophim",
-      "slug": "the-boys-phan-5",
-      "name": "The Boys (Phần 5)",
-      "originName": "The Boys (Season 5)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/the-boys-phan-5-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/the-boys-phan-5-thumb-1775624659696.jpg",
+      "slug": "the-gioi-doi-khi",
+      "name": "Thế Giới Đôi Khi",
+      "originName": "The Land of Sometimes",
+      "posterUrl": "https://img.ophim.live/uploads/movies/the-gioi-doi-khi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/the-gioi-doi-khi-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (1/1)",
+      "categories": [
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "avatar-the-last-airbende-2026-d2d6cc71",
+      "source": "ophim",
+      "slug": "the-than-ngu-khi-su-cuoi-cung-phan-2-2026",
+      "name": "Thế Thần: Ngự khí sư cuối cùng (Phần 2)",
+      "originName": "Avatar the Last Airbender (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/the-than-ngu-khi-su-cuoi-cung-phan-2-2026-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/the-than-ngu-khi-su-cuoi-cung-phan-2-2026-thumb.jpg",
       "year": 2026,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (8/8)",
+      "episodeCurrent": "Hoàn tất (7/7)",
       "categories": [
         {
           "name": "Hành Động",
@@ -485,6 +514,14 @@
         {
           "name": "Khoa Học",
           "slug": "khoa-hoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
@@ -507,6 +544,47 @@
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "fighter-of-the-destiny-3-2026-28794156",
+      "source": "ophim",
+      "slug": "trach-thien-ky-2026",
+      "name": "Trạch Thiên Ký",
+      "originName": "Fighter of the Destiny 3D",
+      "posterUrl": "https://img.ophim.live/uploads/movies/trach-thien-ky-2026-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/trach-thien-ky-2026-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 25",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
         {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
@@ -610,36 +688,32 @@
       ]
     },
     {
-      "id": "wistoria-wand-and-sword--2026-4dcb6007",
+      "id": "the-beginning-after-the--2026-ab0ff2be",
       "source": "ophim",
-      "slug": "wistoria-truong-va-kiem-phan-2",
-      "name": "Wistoria: Trượng và Kiếm (Phần 2)",
-      "originName": "Wistoria: Wand and Sword (Season 2)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/wistoria-truong-va-kiem-phan-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/wistoria-truong-va-kiem-phan-2-thumb.jpg",
+      "slug": "vi-vua-manh-nhat-lam-gi-o-kiep-thu-hai-phan-2",
+      "name": "Vị vua mạnh nhất làm gì ở kiếp thứ hai? (Phần 2)",
+      "originName": "The Beginning After the End (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/vi-vua-manh-nhat-lam-gi-o-kiep-thu-hai-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/vi-vua-manh-nhat-lam-gi-o-kiep-thu-hai-phan-2-thumb.jpg",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
       "categories": [
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
         },
         {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
         }
       ],
       "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
@@ -656,8 +730,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/wu-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (9/9)",
       "categories": [
         {
           "name": "Hành Động",
@@ -688,17 +762,17 @@
       ]
     },
     {
-      "id": "ghost-concert-missing-so-2026-ead5ccf9",
+      "id": "agent-kim-reactivated-2026-1be4a8b8",
       "source": "phimapi",
-      "slug": "buoi-hoa-nhac-ma-nhung-bai-hat-that-lac",
-      "name": "Buổi Hòa Nhạc Ma: Những Bài Hát Thất Lạc",
-      "originName": "Ghost Concert: Missing Songs",
-      "posterUrl": "https://phimimg.com/upload/vod/20260407-1/8e8a8ae6a8f1f25d487ef137fa03be2e.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260407-1/144c18214363250b12f99e9d426e1f5e.jpg",
+      "slug": "dac-vu-kim-tai-khoi-dong",
+      "name": "Đặc Vụ Kim Tái Khởi Động",
+      "originName": "Agent Kim Reactivated",
+      "posterUrl": "https://phimimg.com/upload/vod/20260627-1/9c11aa80dd2d77cb3130d3f41cf08f5f.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260627-1/e150d9ace6293867a4cc5df8ed33d03a.jpg",
       "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Hành Động",
@@ -707,6 +781,51 @@
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "aliens-among-immortals-2026-12182773",
+      "source": "phimapi",
+      "slug": "dao-yeu-hanh",
+      "name": "Đạo Yêu Hành",
+      "originName": "Aliens Among Immortals",
+      "posterUrl": "https://phimimg.com/upload/vod/20260312-1/2821d43d21af1b468167989aa1774fa8.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260312-1/1fd77b198bbcfc53b17dd17f75d70899.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (40/40)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Khoa Học",
@@ -717,30 +836,46 @@
           "slug": "vien-tuong"
         },
         {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
           "name": "Tâm Lý",
           "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
     {
-      "id": "petals-of-reincarnation-2026-0aa10dab",
+      "id": "house-of-the-dragon-seas-2026-5e29bbf9",
       "source": "phimapi",
-      "slug": "canh-hoa-luan-hoi",
-      "name": "Cánh Hoa Luân Hồi",
-      "originName": "Petals Of Reincarnation",
-      "posterUrl": "https://phimimg.com/upload/vod/20260404-1/55f3192300e6d5d2168e3f4de7d1a048.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260404-1/fcf47b00f03e8c0c4b609351c7e80d21.jpg",
+      "slug": "gia-toc-rong-phan-3",
+      "name": "Gia Tộc Rồng (Phần 3)",
+      "originName": "House Of The Dragon (Season 3)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260622-1/ace539cd539e20a8fd3642678f65d525.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260622-1/344ec2281ef56c96894e787a834f0ace.jpg",
       "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 2",
       "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
@@ -750,145 +885,14 @@
           "slug": "phieu-luu"
         },
         {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
           "name": "Tâm Lý",
           "slug": "tam-ly"
         }
       ],
       "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        },
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "jujutsu-kaisen-season-3-2026-ed6e5a63",
-      "source": "phimapi",
-      "slug": "chu-thuat-hoi-chien-phan-3",
-      "name": "Chú Thuật Hồi Chiến (Phần 3)",
-      "originName": "Jujutsu Kaisen (Season 3)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260109-1/c99ee9406799474fcd724211f93a1d4d.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260109-1/30bbc3c9118bdda3e751cec034b99886.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "reborn-as-a-vending-mach-2026-10c9f6b8",
-      "source": "phimapi",
-      "slug": "chuyen-sinh-thanh-may-ban-hang-va-vuot-ai-ham-nguc-phan-3",
-      "name": "Chuyển Sinh Thành Máy Bán Hàng Và Vượt Ải Hầm Ngục (Phần 3)",
-      "originName": "Reborn As A Vending Machine, I Now Wander The Dungeon (Season 3)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260512-1/8029ff3ad5249c83e797a215873f3bd8.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260512-1/4d67322c07ddba99029c00d35aeab034.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "my-ribdiculous-reincarna-2026-5a4b4c16",
-      "source": "phimapi",
-      "slug": "chuyen-sinh-thanh-xuong-suon-cua-dung-si",
-      "name": "Chuyển Sinh Thành Xương Sườn Của Dũng Sĩ",
-      "originName": "My Ribdiculous Reincarnation",
-      "posterUrl": "https://phimimg.com/upload/vod/20260420-1/2c2cf03c6ca0da1a3c07ccef9ad9ca03.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260420-1/1e00b55b2c565774b0c608230682a429.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
         }
       ]
     }

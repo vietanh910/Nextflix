@@ -9,7 +9,22 @@
   "year": 2015,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Slice of Life",
+      "slug": "slice-of-life"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    }
+  ],
+  "countries": [],
+  "description": "Short specials included in the Blu-ray/DVD releases.\n",
   "episodes": [],
   "sources": [
     {

@@ -9,7 +9,7 @@
   "year": 2024,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 190",
+  "episodeCurrent": "Tập 192",
   "categories": [
     {
       "name": "Hành Động",
@@ -1559,6 +1559,22 @@
       "m3u8Url": "https://vip.opstream90.com/20260626/35647_e4e2602e/index.m3u8"
     },
     {
+      "name": "191",
+      "slug": "191",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/08178acdaf59fb8ef375c94d8977cc93",
+      "m3u8Url": "https://vip.opstream90.com/20260703/36039_08178acd/index.m3u8"
+    },
+    {
+      "name": "192",
+      "slug": "192",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/759d94ed9613553067e609bc7abe20dd",
+      "m3u8Url": "https://vip.opstream90.com/20260703/36040_759d94ed/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -3077,19 +3093,35 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260627/OodTFytX/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260627/OodTFytX/index.m3u8"
+    },
+    {
+      "name": "Tập 191",
+      "slug": "tap-191",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260629/KTpVcZlj/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260629/KTpVcZlj/index.m3u8"
+    },
+    {
+      "name": "Tập 192",
+      "slug": "tap-192",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/OcnTiPGr/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260704/OcnTiPGr/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "linh-vu-dai-luc",
-      "episodeCount": 190,
+      "episodeCount": 192,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "dai-luc-linh-vo",
-      "episodeCount": 190,
+      "episodeCount": 192,
       "priority": 1
     }
   ],

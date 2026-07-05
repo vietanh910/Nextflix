@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/thi-tran-ac-mong-phan-4-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 9",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (10/10)",
   "categories": [
     {
       "name": "Viễn Tưởng",
@@ -111,90 +111,20 @@
       "m3u8Url": "https://vip.opstream10.com/20260621/33940_cc01090a/index.m3u8"
     },
     {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260423/u3Uo6Zmt/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260423/u3Uo6Zmt/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260427/2ZAc3cjB/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260427/2ZAc3cjB/index.m3u8"
-    },
-    {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260504/gsjvYztP/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260504/gsjvYztP/index.m3u8"
-    },
-    {
-      "name": "Tập 04",
-      "slug": "tap-04",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260511/4n3zB0wF/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260511/4n3zB0wF/index.m3u8"
-    },
-    {
-      "name": "Tập 05",
-      "slug": "tap-05",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260517/Scvcs1D2/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260517/Scvcs1D2/index.m3u8"
-    },
-    {
-      "name": "Tập 06",
-      "slug": "tap-06",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260601/CcPQLbaq/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260601/CcPQLbaq/index.m3u8"
-    },
-    {
-      "name": "Tập 07",
-      "slug": "tap-07",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260608/WVJk3iLc/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260608/WVJk3iLc/index.m3u8"
-    },
-    {
-      "name": "Tập 08",
-      "slug": "tap-08",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/fZWDXFYW/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260616/fZWDXFYW/index.m3u8"
-    },
-    {
-      "name": "Tập 09",
-      "slug": "tap-09",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260621/7HNKCfYg/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260621/7HNKCfYg/index.m3u8"
+      "name": "10",
+      "slug": "10",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/b4a1dbf2668db2f4e1e14a6bd25e28b1",
+      "m3u8Url": "https://vip.opstream10.com/20260628/33954_b4a1dbf2/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "thi-tran-ac-mong-phan-4",
-      "episodeCount": 9,
+      "episodeCount": 10,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "thi-tran-ac-mong-hoi-chuong-la-phan-4",
-      "episodeCount": 9,
-      "priority": 1
     }
   ],
   "_priority": 0

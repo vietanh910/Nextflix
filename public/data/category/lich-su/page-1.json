@@ -5,62 +5,21 @@
   "totalPages": 1,
   "items": [
     {
-      "id": "the-yellow-tie-2025-660ad326",
+      "id": "the-patriot-2000-af6e30a0",
       "source": "phimapi",
-      "slug": "ca-vat-vang",
-      "name": "Cà vạt vàng",
-      "originName": "The Yellow Tie",
-      "posterUrl": "https://phimimg.com/upload/vod/20260617-1/10eb625506e917631691eb8ac2b0a9fa.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/5444f172a6c032201603d1c1d2d8d028.jpg",
-      "year": 2025,
+      "slug": "nha-ai-quoc-nguoi-yeu-nuoc",
+      "name": "Nhà Ái Quốc (Người Yêu Nước)",
+      "originName": "The Patriot",
+      "posterUrl": "https://phimimg.com/upload/vod/20260705-1/677da5f251e9b8506a32bea1b912c7dd.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260705-1/7428ea459bd6d8fd2a6264cff7d9a0dc.jpg",
+      "year": 2000,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Âm Nhạc",
-          "slug": "am-nhac"
-        },
-        {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Lịch Sử",
-          "slug": "lich-su"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Quốc Gia Khác",
-          "slug": "quoc-gia-khac"
-        }
-      ]
-    },
-    {
-      "id": "sgt-stubby-an-american-h-2018-57c277ac",
-      "source": "phimapi",
-      "slug": "chu-cho-anh-hung",
-      "name": "Chú Chó Anh Hùng",
-      "originName": "Sgt. Stubby: An American Hero",
-      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/ab9583aaefd36e872e2af6f8f0b3a159.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/4e95ec94de00a1e3b2405df5bef56928.jpg",
-      "year": 2018,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
         },
         {
           "name": "Lịch Sử",
@@ -71,11 +30,19 @@
           "slug": "chien-tranh"
         },
         {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
           "name": "Tâm Lý",
           "slug": "tam-ly"
         }
       ],
       "countries": [
+        {
+          "name": "Đức",
+          "slug": "duc"
+        },
         {
           "name": "Âu Mỹ",
           "slug": "au-my"

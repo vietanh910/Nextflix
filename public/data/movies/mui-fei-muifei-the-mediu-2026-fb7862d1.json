@@ -3,13 +3,13 @@
   "source": "phimapi",
   "slug": "ba-dong-muifei-muoi-phi",
   "name": "Bà Đồng Muifei (Muội Phi)",
-  "originName": "Mui Fei / Muifei The Medium",
+  "originName": "Mui Fei (Muifei The Medium)",
   "posterUrl": "https://phimimg.com/upload/vod/20260618-1/1c5c2f1516d809ce698ddac881b72bde.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20260618-1/4daf691fdbcabbedc0890a863677c9ad.jpg",
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 6",
   "categories": [
     {
       "name": "Khoa Học",
@@ -71,6 +71,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260624/2Il0SKIT/index.m3u8"
     },
     {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260701/FOY2YFhw/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260701/FOY2YFhw/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260701/gY2d2ipx/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260701/gY2d2ipx/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Thuyết Minh)",
@@ -101,13 +117,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260624/CC9ArVjz/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260624/CC9ArVjz/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Thuyết Minh)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260701/3U1Om8My/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260701/3U1Om8My/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "#Hà Nội (Thuyết Minh)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260701/y7l1jcWG/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260701/y7l1jcWG/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "ba-dong-muifei-muoi-phi",
-      "episodeCount": 8,
+      "episodeCount": 12,
       "priority": 1
     }
   ],

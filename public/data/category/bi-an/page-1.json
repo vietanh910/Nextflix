@@ -311,8 +311,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/dem-qua-toi-gan-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
       "categories": [
         {
           "name": "Bí ẩn",
@@ -401,6 +401,39 @@
       ]
     },
     {
+      "id": "enola-holmes-3-2026-62afd575",
+      "source": "ophim",
+      "slug": "enola-holmes-3",
+      "name": "Enola Holmes 3",
+      "originName": "Enola Holmes 3",
+      "posterUrl": "https://img.ophim.live/uploads/movies/enola-holmes-3-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/enola-holmes-3-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "griya-2026-a6bc9a5e",
       "source": "ophim",
       "slug": "griya",
@@ -463,6 +496,39 @@
         {
           "name": "Canada",
           "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "archives-the-nanyang-mys-2026-69875541",
+      "source": "ophim",
+      "slug": "ho-so-nam-bo",
+      "name": "Hồ Sơ Nam Bộ",
+      "originName": "Archives: The Nanyang Mystery",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ho-so-nam-bo-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ho-so-nam-bo-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (33/33)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -531,7 +597,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Hình Sự",
@@ -583,39 +649,6 @@
       ]
     },
     {
-      "id": "missing-2026-6643e9e9",
-      "source": "ophim",
-      "slug": "mat-trai-cua-mat-tich-ban-thai",
-      "name": "Mặt Trái Của Mất Tích (Bản Thái)",
-      "originName": "Missing",
-      "posterUrl": "https://img.ophim.live/uploads/movies/mat-trai-cua-mat-tich-ban-thai-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/mat-trai-cua-mat-tich-ban-thai-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (12/12)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
       "id": "colors-of-evil-black-2026-5251a6f9",
       "source": "ophim",
       "slug": "mau-ta-ac-den",
@@ -655,7 +688,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 20",
       "categories": [
         {
           "name": "Chính kịch",
@@ -736,35 +769,6 @@
         {
           "name": "Đức",
           "slug": "duc"
-        }
-      ]
-    },
-    {
-      "id": "notes-from-the-last-row-2026-08bc4e68",
-      "source": "ophim",
-      "slug": "nhung-ghi-chu-o-hang-cuoi",
-      "name": "Những ghi chú ở hàng cuối",
-      "originName": "Notes from the Last Row",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nhung-ghi-chu-o-hang-cuoi-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nhung-ghi-chu-o-hang-cuoi-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (6/6)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
         }
       ]
     }

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 4",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -51,6 +51,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260625/yZW48TB5/index.m3u8"
     },
     {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260701/JMGrxh03/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260701/JMGrxh03/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260702/ZMFhiMQ7/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260702/ZMFhiMQ7/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Thuyết Minh)",
@@ -65,6 +81,22 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260625/WZImqc8S/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260625/WZImqc8S/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Thuyết Minh)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260701/iH8LWEGm/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260701/iH8LWEGm/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Thuyết Minh)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260702/44ciac1d/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260702/44ciac1d/index.m3u8"
     },
     {
       "name": "1",
@@ -85,7 +117,7 @@
     {
       "source": "phimapi",
       "slug": "tieng-anh-thanh-tieng-yeu",
-      "episodeCount": 4,
+      "episodeCount": 8,
       "priority": 1
     }
   ],

@@ -4,16 +4,20 @@
   "slug": "tam-tay-lua-dao",
   "name": "Tám Tay Lừa Đảo",
   "originName": "The Scammer Games",
-  "posterUrl": "https://phimimg.com/upload/vod/20260619-1/7bf09bb914fb8f8ac58f4b3c47425048.jpg",
+  "posterUrl": "https://phimimg.com/upload/vod/20260702-1/662375d82c0df6023d38812cb33f4661.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20260619-1/9e93d64325569582ddae5c844a3c1d4d.jpg",
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 3",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Chính Kịch",
       "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
     }
   ],
   "countries": [
@@ -51,6 +55,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260626/fSypCDav/index.m3u8"
     },
     {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260701/njF9RwFw/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260701/njF9RwFw/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260703/F8JtvUvV/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260703/F8JtvUvV/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -65,19 +85,27 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/9e92c56b07777926189cdffe9110dffd",
       "m3u8Url": "https://vip.opstream90.com/20260624/35555_9e92c56b/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/297599ea587669a83f7d30846c397b72",
+      "m3u8Url": "https://vip.opstream90.com/20260701/35902_297599ea/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "tam-tay-lua-dao",
-      "episodeCount": 2,
+      "episodeCount": 3,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "tam-tay-lua-dao",
-      "episodeCount": 3,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

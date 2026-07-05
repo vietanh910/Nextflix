@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 3",
   "categories": [
     {
       "name": "Hài Hước",
@@ -41,14 +41,52 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/a6cae5623d9d6b8ab35132faf5e02bc1",
       "m3u8Url": "https://vip.opstream90.com/20260628/35748_a6cae562/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/a551f123e505d4d5d75058aae10e993b",
+      "m3u8Url": "https://vip.opstream90.com/20260704/36103_a551f123/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260620/RbuTVmPt/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260620/RbuTVmPt/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260628/cX5cCqTc/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260628/cX5cCqTc/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/2e7MpP5L/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260704/2e7MpP5L/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "gieo-gi-gat-nay-nong-trai-thang-tien",
-      "episodeCount": 2,
+      "episodeCount": 3,
       "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "gieo-gi-gat-nay-nong-trai-thang-tien",
+      "episodeCount": 3,
+      "priority": 1
     }
   ],
   "_priority": 0

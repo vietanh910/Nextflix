@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 3",
   "categories": [
     {
       "name": "Chính kịch",
@@ -43,25 +43,49 @@
       "m3u8Url": "https://vip.opstream90.com/20260628/35753_1be7371e/index.m3u8"
     },
     {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/c3a5d96180f4811f93e797bb2bca08ee",
+      "m3u8Url": "https://vip.opstream90.com/20260705/36134_c3a5d961/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260622/G3z93oVC/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260622/G3z93oVC/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260630/mJNJN5Oe/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260630/mJNJN5Oe/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/qBOvUXhS/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260704/qBOvUXhS/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "sieu-sao-hay-sieu-xit",
-      "episodeCount": 2,
+      "episodeCount": 3,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "sieu-sao-hay-sieu-xit",
-      "episodeCount": 1,
+      "episodeCount": 3,
       "priority": 1
     }
   ],

@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/chuyen-tau-dem-kinh-hoang-thumb.jpg",
   "year": 2024,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 3",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (6/6)",
   "categories": [
     {
       "name": "Hành Động",
@@ -63,6 +63,30 @@
       "m3u8Url": "https://vip.opstream10.com/20260626/33950_c9509ee0/index.m3u8"
     },
     {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/1c7addefad25c798c1ff7f0c1c338f2c",
+      "m3u8Url": "https://vip.opstream10.com/20260629/33955_1c7addef/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/e20dd8dbc9d9a3e0f0396c27a38df6aa",
+      "m3u8Url": "https://vip.opstream10.com/20260702/33962_e20dd8db/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/e762fc6ea6f58248cedceb99f7120338",
+      "m3u8Url": "https://vip.opstream10.com/20260704/33970_e762fc6e/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -77,19 +101,43 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260624/dNFl7aPM/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260624/dNFl7aPM/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260630/4ZSb2geC/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260630/4ZSb2geC/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260630/XtdUsMul/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260630/XtdUsMul/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260703/oDJpxWoU/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260703/oDJpxWoU/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "chuyen-tau-dem-kinh-hoang",
-      "episodeCount": 3,
+      "episodeCount": 6,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "chuyen-tau-dem-kinh-hoang",
-      "episodeCount": 2,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

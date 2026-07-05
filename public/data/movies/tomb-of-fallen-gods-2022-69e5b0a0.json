@@ -9,7 +9,7 @@
   "year": 2022,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 91",
+  "episodeCurrent": "Tập 92",
   "categories": [
     {
       "name": "Khoa Học",
@@ -769,13 +769,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260625/Ui57ao5d/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260625/Ui57ao5d/index.m3u8"
+    },
+    {
+      "name": "Tập 92",
+      "slug": "tap-92",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260702/eON3u88D/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260702/eON3u88D/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "than-mo-2022",
-      "episodeCount": 91,
+      "episodeCount": 92,
       "priority": 1
     }
   ],

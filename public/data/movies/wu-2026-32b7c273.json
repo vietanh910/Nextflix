@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/wu-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (9/9)",
   "categories": [
     {
       "name": "Hành Động",
@@ -107,6 +107,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260624/35494_98ba58ed/index.m3u8"
     },
     {
+      "name": "9",
+      "slug": "9",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/439c56de17208ac25a2abee9beca46f7",
+      "m3u8Url": "https://vip.opstream90.com/20260701/35872_439c56de/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -169,19 +177,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260623/5alVlnI0/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260623/5alVlnI0/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260630/Fkt16vFM/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260630/Fkt16vFM/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "wu",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "nam-phu-thuy",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 1
     }
   ],

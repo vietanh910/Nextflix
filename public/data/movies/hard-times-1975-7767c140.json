@@ -1,0 +1,59 @@
+{
+  "id": "hard-times-1975-7767c140",
+  "source": "phimapi",
+  "slug": "vo-si-thoi-kho",
+  "name": "Võ Sĩ Thời Khó",
+  "originName": "Hard Times",
+  "posterUrl": "https://phimimg.com/upload/vod/20260705-1/c9e01ac47581022f246d20e523c97030.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260705-1/72ca5ddde3d211dbfc1965020bad0006.jpg",
+  "year": 1975,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Một võ sĩ đường phố đã lớn tuổi (Charles Bronson) đến New Orleans để chật vật mưu sinh trong thời kỳ Đại suy thoái.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/LoHecuxl/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260704/LoHecuxl/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "vo-si-thoi-kho",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

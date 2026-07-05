@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/nguoi-tren-van-nguoi-phan-6-thumb.jpg",
   "year": 2026,
   "type": "anime",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 25",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (26/26)",
   "categories": [
     {
       "name": "Hành Động",
@@ -245,13 +245,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/f58c6d5d815d0316589ae73246fd940a",
       "m3u8Url": "https://vip.opstream90.com/20260613/34772_f58c6d5d/index.m3u8"
+    },
+    {
+      "name": "26",
+      "slug": "26",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/bb0848134966fc5db45aa411b8933a5d",
+      "m3u8Url": "https://vip.opstream90.com/20260704/36098_bb084813/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "nguoi-tren-van-nguoi-phan-6",
-      "episodeCount": 25,
+      "episodeCount": 26,
       "priority": 0
     }
   ],

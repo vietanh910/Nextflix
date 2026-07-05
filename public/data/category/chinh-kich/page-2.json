@@ -2,8 +2,33 @@
   "slug": "chinh-kich",
   "name": "Chính kịch",
   "page": 2,
-  "totalPages": 14,
+  "totalPages": 16,
   "items": [
+    {
+      "id": "camellias-2026-e0c89a04",
+      "source": "ophim",
+      "slug": "chieu-dien-hoa-khai",
+      "name": "Chiếu Điện Hoa Khai",
+      "originName": "Camellias",
+      "posterUrl": "https://img.ophim.live/uploads/movies/chieu-dien-hoa-khai-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/chieu-dien-hoa-khai-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 23",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
     {
       "id": "dazzling-2026-2f9283e5",
       "source": "ophim",
@@ -41,6 +66,31 @@
       "type": "series",
       "status": "completed",
       "episodeCurrent": "Hoàn tất (48/48)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "zhong-mo-yuan-2026-47991e2e",
+      "source": "ophim",
+      "slug": "chung-mac-vien",
+      "name": "Chủng Mặc Viên",
+      "originName": "Zhong Mo Yuan",
+      "posterUrl": "https://img.ophim.live/uploads/movies/chung-mac-vien-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/chung-mac-vien-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 14",
       "categories": [
         {
           "name": "Chính kịch",
@@ -97,8 +147,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/chuyen-gia-tuoi-trung-nien-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
       "categories": [
         {
           "name": "Hành Động",
@@ -220,76 +270,6 @@
       ]
     },
     {
-      "id": "citadel-season-2-2026-86d7bc73",
-      "source": "ophim",
-      "slug": "citadel-phan-2",
-      "name": "Citadel (Phần 2)",
-      "originName": "Citadel (Season 2)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/citadel-phan-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/citadel-phan-2-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (7/7)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "bride-from-the-past-2026-336a8670",
-      "source": "ophim",
-      "slug": "co-dau-tu-qua-khu",
-      "name": "Cô Dâu Từ Quá Khứ",
-      "originName": "Bride from the past",
-      "posterUrl": "https://img.ophim.live/uploads/movies/co-dau-tu-qua-khu-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/co-dau-tu-qua-khu-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (13/13)",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Malaysia",
-          "slug": "malaysia"
-        }
-      ]
-    },
-    {
       "id": "trial-of-healer-2026-ae77687e",
       "source": "ophim",
       "slug": "con-duong-hanh-y",
@@ -299,8 +279,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/con-duong-hanh-y-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 17",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (24/24)",
       "categories": [
         {
           "name": "Chính kịch",
@@ -431,43 +411,6 @@
       ]
     },
     {
-      "id": "agent-kim-reactivated-2026-72ad79cb",
-      "source": "ophim",
-      "slug": "dac-vu-kim-tai-khoi-dong",
-      "name": "Đặc Vụ Kim Tái Khởi Động",
-      "originName": "Agent Kim Reactivated",
-      "posterUrl": "https://img.ophim.live/uploads/movies/dac-vu-kim-tai-khoi-dong-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/dac-vu-kim-tai-khoi-dong-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 2",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
       "id": "the-tang-mist-2026-8100a4f9",
       "source": "ophim",
       "slug": "dai-duong-me-vu",
@@ -536,7 +479,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 18",
       "categories": [
         {
           "name": "Chính kịch",
@@ -627,7 +570,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Hình Sự",
@@ -642,6 +585,39 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "double-helix-2026-c2769e55",
+      "source": "ophim",
+      "slug": "double-helix",
+      "name": "Double Helix",
+      "originName": "Double Helix",
+      "posterUrl": "https://img.ophim.live/uploads/movies/double-helix-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/double-helix-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Nga",
+          "slug": "nga"
+        },
+        {
+          "name": "Singapore",
+          "slug": "singapore"
         }
       ]
     },
@@ -671,17 +647,17 @@
       ]
     },
     {
-      "id": "couture-2026-95bc1b1e",
+      "id": "riding-the-wind-2026-c7743ba6",
       "source": "ophim",
-      "slug": "duoi-lop-hao-quang",
-      "name": "Dưới Lớp Hào Quang",
-      "originName": "Couture",
-      "posterUrl": "https://img.ophim.live/uploads/movies/duoi-lop-hao-quang-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/duoi-lop-hao-quang-thumb.jpg",
+      "slug": "dung-tren-dau-gio",
+      "name": "Đứng Trên Đầu Gió",
+      "originName": "Riding the Wind",
+      "posterUrl": "https://img.ophim.live/uploads/movies/dung-tren-dau-gio-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/dung-tren-dau-gio-thumb.jpg",
       "year": 2026,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 18",
       "categories": [
         {
           "name": "Chính kịch",
@@ -690,28 +666,32 @@
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Pháp",
-          "slug": "phap"
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
     {
-      "id": "fake-fact-lips-2026-52a2e876",
+      "id": "don-t-be-too-emotional-2026-f938bb14",
       "source": "ophim",
-      "slug": "fake-fact-lips",
-      "name": "Fake Fact Lips",
-      "originName": "Fake Fact Lips",
-      "posterUrl": "https://img.ophim.live/uploads/movies/fake-fact-lips-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/fake-fact-lips-thumb.jpg",
+      "slug": "dung-xin-anh-jane",
+      "name": "Đừng Xin Anh Jane",
+      "originName": "Don't Be Too Emotional",
+      "posterUrl": "https://img.ophim.live/uploads/movies/dung-xin-anh-jane-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/dung-xin-anh-jane-thumb.jpg",
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 2",
       "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
         {
           "name": "Chính kịch",
           "slug": "chinh-kich"
@@ -719,8 +699,8 @@
       ],
       "countries": [
         {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
+          "name": "Thái Lan",
+          "slug": "thai-lan"
         }
       ]
     }

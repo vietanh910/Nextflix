@@ -9,7 +9,7 @@
   "year": 2020,
   "type": "anime",
   "status": "completed",
-  "episodeCurrent": "Tập 180",
+  "episodeCurrent": "Tập 181",
   "categories": [
     {
       "name": "Viễn Tưởng",
@@ -1479,6 +1479,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260627/vI6badZF/index.m3u8"
     },
     {
+      "name": "Tập 181",
+      "slug": "tap-181",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/u8rEUo0a/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260704/u8rEUo0a/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Thuyết Minh)",
@@ -2763,7 +2771,7 @@
     {
       "source": "phimapi",
       "slug": "pham-nhan-tu-tien",
-      "episodeCount": 340,
+      "episodeCount": 341,
       "priority": 1
     }
   ],

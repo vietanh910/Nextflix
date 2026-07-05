@@ -77,54 +77,6 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/3761f19421dde49193924cdeece61636",
       "m3u8Url": "https://vip.opstream90.com/20260627/35689_3761f194/index.m3u8"
-    },
-    {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260626/VisSGbhC/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260626/VisSGbhC/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260626/Rgh7PPbq/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260626/Rgh7PPbq/index.m3u8"
-    },
-    {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260626/X8Kh5HBB/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260626/X8Kh5HBB/index.m3u8"
-    },
-    {
-      "name": "Tập 04",
-      "slug": "tap-04",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260626/Dlof0Cl7/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260626/Dlof0Cl7/index.m3u8"
-    },
-    {
-      "name": "Tập 05",
-      "slug": "tap-05",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260626/PGf7DQzr/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260626/PGf7DQzr/index.m3u8"
-    },
-    {
-      "name": "Tập 06",
-      "slug": "tap-06",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260626/5CpErfMC/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260626/5CpErfMC/index.m3u8"
     }
   ],
   "sources": [
@@ -133,12 +85,6 @@
       "slug": "nhung-ghi-chu-o-hang-cuoi",
       "episodeCount": 6,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "nhung-ghi-chu-o-hang-cuoi",
-      "episodeCount": 6,
-      "priority": 1
     }
   ],
   "_priority": 0

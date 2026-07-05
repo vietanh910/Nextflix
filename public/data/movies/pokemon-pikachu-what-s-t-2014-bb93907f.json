@@ -9,7 +9,22 @@
   "year": 2014,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "countries": [],
+  "description": "A short which ran along side the Pokemon XY: Hakai no Mayu to Diancie movie.",
   "episodes": [],
   "sources": [
     {

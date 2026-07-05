@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/hanh-gian-thac-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 19",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (22/22)",
   "categories": [
     {
       "name": "Chính kịch",
@@ -179,6 +179,30 @@
       "m3u8Url": "https://vip.opstream90.com/20260627/35705_5cefe77f/index.m3u8"
     },
     {
+      "name": "20",
+      "slug": "20",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/7bf3fbacc7fe74b379f7767efc372329",
+      "m3u8Url": "https://vip.opstream90.com/20260701/35834_7bf3fbac/index.m3u8"
+    },
+    {
+      "name": "21",
+      "slug": "21",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/f9d2dca8351ae2b08b2054b85efc73e5",
+      "m3u8Url": "https://vip.opstream90.com/20260701/35835_f9d2dca8/index.m3u8"
+    },
+    {
+      "name": "22",
+      "slug": "22",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/4eb544060a977bd905a6dacce9361d06",
+      "m3u8Url": "https://vip.opstream90.com/20260701/35836_4eb54406/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -329,19 +353,43 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260627/9r68uS6h/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260627/9r68uS6h/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260628/O6n4ROaH/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260628/O6n4ROaH/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260629/MttIqGqD/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260629/MttIqGqD/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260630/8iU24yxv/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260630/8iU24yxv/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "hanh-gian-thac",
-      "episodeCount": 19,
+      "episodeCount": 22,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "hanh-gian-thac-tam-gian-thac",
-      "episodeCount": 19,
+      "episodeCount": 22,
       "priority": 1
     }
   ],

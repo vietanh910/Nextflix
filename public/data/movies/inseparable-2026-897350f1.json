@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/dem-qua-toi-gan-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (12/12)",
   "categories": [
     {
       "name": "Bí ẩn",
@@ -91,74 +91,44 @@
       "m3u8Url": "https://vip.opstream90.com/20260627/35722_917ad256/index.m3u8"
     },
     {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260624/C1fu1Fki/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260624/C1fu1Fki/index.m3u8"
+      "name": "9",
+      "slug": "9",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/f73f24c01342e629a5e21b754a4e1bbc",
+      "m3u8Url": "https://vip.opstream90.com/20260701/35929_f73f24c0/index.m3u8"
     },
     {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260624/uAH50yyh/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260624/uAH50yyh/index.m3u8"
+      "name": "10",
+      "slug": "10",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/bef07eaa68a113f34457bc81a61dbf0b",
+      "m3u8Url": "https://vip.opstream90.com/20260702/36008_bef07eaa/index.m3u8"
     },
     {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260624/z7rv4c1u/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260624/z7rv4c1u/index.m3u8"
+      "name": "11",
+      "slug": "11",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/3e0d8c62831be543274f481342713d08",
+      "m3u8Url": "https://vip.opstream90.com/20260703/36055_3e0d8c62/index.m3u8"
     },
     {
-      "name": "Tập 04",
-      "slug": "tap-04",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260625/H8CI4C5U/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260625/H8CI4C5U/index.m3u8"
-    },
-    {
-      "name": "Tập 05",
-      "slug": "tap-05",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260625/emcy2uTM/index.m3u8.",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260625/emcy2uTM/index.m3u8."
-    },
-    {
-      "name": "Tập 06",
-      "slug": "tap-06",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260626/VxYRzZKL/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260626/VxYRzZKL/index.m3u8"
-    },
-    {
-      "name": "Tập 07",
-      "slug": "tap-07",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260626/qv3CciWu/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260626/qv3CciWu/index.m3u8"
+      "name": "12",
+      "slug": "12",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/aef966acbd6e6613d6a25097ec869b53",
+      "m3u8Url": "https://vip.opstream90.com/20260704/36114_aef966ac/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "dem-qua-toi-gan",
-      "episodeCount": 8,
+      "episodeCount": 12,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "dem-qua-toi-gan",
-      "episodeCount": 7,
-      "priority": 1
     }
   ],
   "_priority": 0

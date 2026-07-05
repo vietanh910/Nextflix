@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/vo-von-hien-luong-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 19",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (24/24)",
   "categories": [
     {
       "name": "Chính kịch",
@@ -179,6 +179,46 @@
       "m3u8Url": "https://vip.opstream90.com/20260627/35715_af5ac743/index.m3u8"
     },
     {
+      "name": "20",
+      "slug": "20",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/8fc019d475d2d5220014dd496524b7d0",
+      "m3u8Url": "https://vip.opstream90.com/20260701/35911_8fc019d4/index.m3u8"
+    },
+    {
+      "name": "21",
+      "slug": "21",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/b50a2d5cb97432f08ef7523ec1d9f0ad",
+      "m3u8Url": "https://vip.opstream90.com/20260701/35913_b50a2d5c/index.m3u8"
+    },
+    {
+      "name": "22",
+      "slug": "22",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/72ec488cc13c530187b1184f58c26a3f",
+      "m3u8Url": "https://vip.opstream90.com/20260701/35915_72ec488c/index.m3u8"
+    },
+    {
+      "name": "23",
+      "slug": "23",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/ab6e6f39240d7dc6387a0f2e0efc148e",
+      "m3u8Url": "https://vip.opstream90.com/20260701/35916_ab6e6f39/index.m3u8"
+    },
+    {
+      "name": "24",
+      "slug": "24",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/75394e5f44eea02f577f82aaf9c7a091",
+      "m3u8Url": "https://vip.opstream90.com/20260702/35995_75394e5f/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -329,19 +369,59 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260627/OudR0VBy/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260627/OudR0VBy/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260628/hA5voy78/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260628/hA5voy78/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260629/fIjaMRc1/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260629/fIjaMRc1/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260630/rOoyn5xI/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260630/rOoyn5xI/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260701/N7lSKUOg/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260701/N7lSKUOg/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260702/xM1PfOPm/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260702/xM1PfOPm/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "vo-von-hien-luong",
-      "episodeCount": 19,
+      "episodeCount": 24,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "vo-von-hien-luong",
-      "episodeCount": 19,
+      "episodeCount": 24,
       "priority": 1
     }
   ],

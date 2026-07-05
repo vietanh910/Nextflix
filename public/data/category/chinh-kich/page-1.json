@@ -2,7 +2,7 @@
   "slug": "chinh-kich",
   "name": "Chính kịch",
   "page": 1,
-  "totalPages": 14,
+  "totalPages": 16,
   "items": [
     {
       "id": "aakhri-sawal-2026-7698c0aa",
@@ -262,6 +262,39 @@
       ]
     },
     {
+      "id": "bittersweet-love-2026-3855b281",
+      "source": "ophim",
+      "slug": "bittersweet-love",
+      "name": "Bittersweet Love",
+      "originName": "Bittersweet Love",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bittersweet-love-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bittersweet-love-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Nga",
+          "slug": "nga"
+        },
+        {
+          "name": "Singapore",
+          "slug": "singapore"
+        }
+      ]
+    },
+    {
       "id": "tuner-2026-36f9e534",
       "source": "ophim",
       "slug": "bo-chinh-am-2025",
@@ -271,8 +304,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/bo-chinh-am-2025-thumb.jpg",
       "year": 2026,
       "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (1/1)",
       "categories": [
         {
           "name": "Hình Sự",
@@ -421,7 +454,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -662,31 +695,6 @@
       "type": "series",
       "status": "completed",
       "episodeCurrent": "Hoàn tất (24/24)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "camellias-2026-e0c89a04",
-      "source": "ophim",
-      "slug": "chieu-dien-hoa-khai",
-      "name": "Chiếu Điện Hoa Khai",
-      "originName": "Camellias",
-      "posterUrl": "https://img.ophim.live/uploads/movies/chieu-dien-hoa-khai-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/chieu-dien-hoa-khai-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 14",
       "categories": [
         {
           "name": "Chính kịch",

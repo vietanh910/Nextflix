@@ -9,7 +9,7 @@
   "year": 2021,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 460",
+  "episodeCurrent": "Tập 462",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -3699,6 +3699,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260627/XNk6o1zN/index.m3u8"
     },
     {
+      "name": "Tập 461",
+      "slug": "tap-461",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260630/rruDifO5/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260630/rruDifO5/index.m3u8"
+    },
+    {
+      "name": "Tập 462",
+      "slug": "tap-462",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/NBLj9Pk0/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260704/NBLj9Pk0/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -7217,19 +7233,35 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/b2cbc0a549ec535998da8223cde1099e",
       "m3u8Url": "https://vip.opstream90.com/20260623/35447_b2cbc0a5/index.m3u8"
+    },
+    {
+      "name": "441",
+      "slug": "441",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/a7c1aed2ae6b6ced5c3e83fb7c74d65d",
+      "m3u8Url": "https://vip.opstream90.com/20260701/35771_a7c1aed2/index.m3u8"
+    },
+    {
+      "name": "442",
+      "slug": "442",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/fedb9b30b75aca93755387e791897a53",
+      "m3u8Url": "https://vip.opstream90.com/20260701/35772_fedb9b30/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "van-gioi-doc-ton",
-      "episodeCount": 440,
+      "episodeCount": 442,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "van-gioi-doc-ton",
-      "episodeCount": 457,
+      "episodeCount": 459,
       "priority": 1
     }
   ],

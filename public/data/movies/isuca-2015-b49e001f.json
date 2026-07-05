@@ -11,6 +11,14 @@
   "status": "unknown",
   "categories": [
     {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
       "name": "Ecchi",
       "slug": "ecchi"
     },
@@ -19,16 +27,8 @@
       "slug": "supernatural"
     },
     {
-      "name": "Comedy",
-      "slug": "comedy"
-    },
-    {
       "name": "Action",
       "slug": "action"
-    },
-    {
-      "name": "Romance",
-      "slug": "romance"
     }
   ],
   "countries": [],

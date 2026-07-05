@@ -9,7 +9,7 @@
   "year": 2024,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 187",
+  "episodeCurrent": "Tập 189",
   "categories": [
     {
       "name": "Hành Động",
@@ -1529,13 +1529,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260625/fnKlDWml/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260625/fnKlDWml/index.m3u8"
+    },
+    {
+      "name": "Tập 188",
+      "slug": "tap-188",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260628/Mbf4wF0N/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260628/Mbf4wF0N/index.m3u8"
+    },
+    {
+      "name": "Tập 189",
+      "slug": "tap-189",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260701/ivWtgIUV/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260701/ivWtgIUV/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "do-thi-co-tien-y",
-      "episodeCount": 187,
+      "episodeCount": 189,
       "priority": 1
     }
   ],

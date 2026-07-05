@@ -5,39 +5,35 @@
   "totalPages": 2,
   "items": [
     {
-      "id": "skyfall-2012-6f71d025",
-      "source": "ophim",
-      "slug": "skyfall",
-      "name": "Điệp Viên 007: Tử Địa Skyfall",
-      "originName": "Skyfall",
-      "posterUrl": "https://img.ophim.live/uploads/movies/skyfall-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/skyfall-thumb.jpg",
-      "year": 2012,
+      "id": "drag-me-to-hell-2009-5f917d1b",
+      "source": "phimapi",
+      "slug": "loi-nguyen-ac-quy",
+      "name": "Lời Nguyền Ác Quỷ",
+      "originName": "Drag Me To Hell",
+      "posterUrl": "https://phimimg.com/upload/vod/20260701-1/86a67b56cf45cf0373a8d97aae98f131.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260701-1/4034ef4a38301773c1aeb085f15d7c63.jpg",
+      "year": 2009,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
           "name": "Kinh Dị",
           "slug": "kinh-di"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        },
-        {
-          "name": "Anh",
-          "slug": "anh"
-        },
-        {
-          "name": "Thổ Nhĩ Kỳ",
-          "slug": "tho-nhi-ky"
         }
       ]
     },
@@ -71,6 +67,43 @@
         {
           "name": "Anh",
           "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "wind-chill-2007-005ce7e4",
+      "source": "phimapi",
+      "slug": "gio-ret-gio-lanh-chet-choc",
+      "name": "Gió Rét (Gió Lạnh Chết Chóc)",
+      "originName": "Wind Chill",
+      "posterUrl": "https://phimimg.com/upload/vod/20260701-1/b98fe73639574d68ddce9584f80e3fa3.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260701-1/c514a280d7634ca561859c73218ac299.jpg",
+      "year": 2007,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },

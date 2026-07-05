@@ -251,32 +251,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "carizzma-2026-3f9fc3d4",
-      "source": "ophim",
-      "slug": "carizzma",
-      "name": "Caro tuyệt phẩm",
-      "originName": "Carizzma",
-      "posterUrl": "https://img.ophim.live/uploads/movies/carizzma-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/carizzma-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (10/10)",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hài Hước",
@@ -343,31 +318,6 @@
         {
           "name": "Gia Đình",
           "slug": "gia-dinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-roast-of-kevin-hart-2026-fcd4c4b4",
-      "source": "ophim",
-      "slug": "che-nhao-kevin-hart",
-      "name": "Chế nhạo Kevin Hart",
-      "originName": "The Roast of Kevin Hart",
-      "posterUrl": "https://img.ophim.live/uploads/movies/che-nhao-kevin-hart-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/che-nhao-kevin-hart-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
         }
       ],
       "countries": [
@@ -461,8 +411,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/chuyen-gia-tuoi-trung-nien-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
       "categories": [
         {
           "name": "Hành Động",
@@ -733,6 +683,72 @@
         {
           "name": "Mexico",
           "slug": "mexico"
+        }
+      ]
+    },
+    {
+      "id": "the-sheep-detectives-2026-c85ebf83",
+      "source": "ophim",
+      "slug": "doi-tham-tu-cuu-an-mang-luc-nua-dem",
+      "name": "Đội Thám Tử Cừu: Án Mạng Lúc Nửa Đêm",
+      "originName": "The Sheep Detectives",
+      "posterUrl": "https://img.ophim.live/uploads/movies/doi-tham-tu-cuu-an-mang-luc-nua-dem-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/doi-tham-tu-cuu-an-mang-luc-nua-dem-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "little-brother-2026-cbf93013",
+      "source": "ophim",
+      "slug": "em-trai",
+      "name": "Em trai",
+      "originName": "Little Brother",
+      "posterUrl": "https://img.ophim.live/uploads/movies/em-trai-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/em-trai-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     }

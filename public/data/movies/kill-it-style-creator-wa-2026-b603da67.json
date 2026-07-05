@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "tvshow",
   "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -87,24 +87,21 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260624/hiKdp73d/index.m3u8"
     },
     {
-      "name": "",
-      "serverName": "Vietsub #1",
-      "source": "ophim"
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260701/P9ned5yl/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260701/P9ned5yl/index.m3u8"
     }
   ],
   "sources": [
     {
-      "source": "ophim",
-      "slug": "kill-it-slay-toi-ben",
-      "episodeCount": 1,
-      "priority": 0
-    },
-    {
       "source": "phimapi",
       "slug": "kill-it-slay-toi-ben",
-      "episodeCount": 7,
+      "episodeCount": 8,
       "priority": 1
     }
   ],
-  "_priority": 0
+  "_priority": 1
 }

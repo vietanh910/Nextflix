@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Tình Cảm",
@@ -75,6 +75,22 @@
       "m3u8Url": "https://vip.opstream90.com/20260624/35495_16a8dbbb/index.m3u8"
     },
     {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/648ca16436a0cd9ae1e2e53ad9879f6d",
+      "m3u8Url": "https://vip.opstream90.com/20260701/35891_648ca164/index.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/aba627e6575de48bcd4fc3be3d373c21",
+      "m3u8Url": "https://vip.opstream90.com/20260701/35892_aba627e6/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -121,19 +137,35 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260623/JtQaLjb3/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260623/JtQaLjb3/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260629/gAvMMjsW/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260629/gAvMMjsW/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260630/yKQ5KrbN/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260630/yKQ5KrbN/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "the-gioi-em-va-toi",
-      "episodeCount": 6,
+      "episodeCount": 8,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "the-gioi-em-va-toi",
-      "episodeCount": 6,
+      "episodeCount": 8,
       "priority": 1
     }
   ],

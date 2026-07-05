@@ -2,7 +2,7 @@
   "slug": "hinh-su",
   "name": "Hình Sự",
   "page": 1,
-  "totalPages": 3,
+  "totalPages": 4,
   "items": [
     {
       "id": "movie-2026-55c4d1ef",
@@ -159,8 +159,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/bo-chinh-am-2025-thumb.jpg",
       "year": 2026,
       "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (1/1)",
       "categories": [
         {
           "name": "Hình Sự",
@@ -365,43 +365,6 @@
       ]
     },
     {
-      "id": "citadel-season-2-2026-86d7bc73",
-      "source": "ophim",
-      "slug": "citadel-phan-2",
-      "name": "Citadel (Phần 2)",
-      "originName": "Citadel (Season 2)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/citadel-phan-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/citadel-phan-2-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (7/7)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "the-furious-2026-18227862",
       "source": "ophim",
       "slug": "con-thinh-no",
@@ -435,43 +398,6 @@
         {
           "name": "Hồng Kông",
           "slug": "hong-kong"
-        }
-      ]
-    },
-    {
-      "id": "agent-kim-reactivated-2026-72ad79cb",
-      "source": "ophim",
-      "slug": "dac-vu-kim-tai-khoi-dong",
-      "name": "Đặc Vụ Kim Tái Khởi Động",
-      "originName": "Agent Kim Reactivated",
-      "posterUrl": "https://img.ophim.live/uploads/movies/dac-vu-kim-tai-khoi-dong-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/dac-vu-kim-tai-khoi-dong-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 2",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
         }
       ]
     },
@@ -538,6 +464,35 @@
       ]
     },
     {
+      "id": "wings-of-dread-2026-8150b512",
+      "source": "ophim",
+      "slug": "doi-canh-kinh-hoang",
+      "name": "Đôi Cánh Kinh Hoàng",
+      "originName": "Wings of Dread",
+      "posterUrl": "https://img.ophim.live/uploads/movies/doi-canh-kinh-hoang-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/doi-canh-kinh-hoang-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "the-sheep-detectives-2026-c85ebf83",
       "source": "ophim",
       "slug": "doi-tham-tu-cuu-an-mang-luc-nua-dem",
@@ -589,7 +544,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Hình Sự",
@@ -598,6 +553,39 @@
         {
           "name": "Chính kịch",
           "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "enola-holmes-3-2026-62afd575",
+      "source": "ophim",
+      "slug": "enola-holmes-3",
+      "name": "Enola Holmes 3",
+      "originName": "Enola Holmes 3",
+      "posterUrl": "https://img.ophim.live/uploads/movies/enola-holmes-3-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/enola-holmes-3-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
         }
       ],
       "countries": [
@@ -654,8 +642,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/gio-thoang-tinh-theo-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
       "categories": [
         {
           "name": "Hành Động",

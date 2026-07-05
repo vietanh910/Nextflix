@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/gio-thoang-tinh-theo-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (8/8)",
   "categories": [
     {
       "name": "Hành Động",
@@ -93,13 +93,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/e98f9a217e01cb808d706c22296b1ab7",
       "m3u8Url": "https://vip.opstream90.com/20260628/35754_e98f9a21/index.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/ae5ef52da81b8f483ac166475587ad87",
+      "m3u8Url": "https://vip.opstream90.com/20260704/36131_ae5ef52d/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "gio-thoang-tinh-theo",
-      "episodeCount": 7,
+      "episodeCount": 8,
       "priority": 0
     }
   ],

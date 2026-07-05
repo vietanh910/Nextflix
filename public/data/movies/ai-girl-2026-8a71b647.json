@@ -1,0 +1,65 @@
+{
+  "id": "ai-girl-2026-8a71b647",
+  "source": "ophim",
+  "slug": "ai-girl-ban-gai-nguoi-may",
+  "name": "AI Girl: Bạn Gái Người Máy",
+  "originName": "AI Girl",
+  "posterUrl": "https://img.ophim.live/uploads/movies/ai-girl-ban-gai-nguoi-may-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/ai-girl-ban-gai-nguoi-may-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 1",
+  "categories": [
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thái Lan",
+      "slug": "thai-lan"
+    }
+  ],
+  "description": "<p>Cuộc sống yên bình của Jen bị đảo lộn khi Ai, một robot bí ẩn có ngoại hình giống hệt cô gái trong mộng của cô, xuất hiện và gọi cô là \"Chủ nhân\". Bị buộc phải sống chung, Jen không ngờ rằng mình lại đem lòng yêu cỗ máy tinh nghịch này. Khi mối liên kết giữa họ ngày càng sâu đậm, cô phải đối mặt với câu hỏi cuối cùng: Ai chỉ là một chương trình lỗi lạc, hay chính là tình yêu của đời cô?</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/8a0a18ee792712a3d3aa044dbfc581ee",
+      "m3u8Url": "https://vip.opstream90.com/20260701/35941_8a0a18ee/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260701/D4qx0FL8/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260701/D4qx0FL8/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "ai-girl-ban-gai-nguoi-may",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "ban-gai-nguoi-may",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}
