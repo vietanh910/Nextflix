@@ -1,0 +1,51 @@
+{
+  "id": "blast-2026-6005e4d8",
+  "source": "phimapi",
+  "slug": "vu-no",
+  "name": "Vụ nổ",
+  "originName": "Blast",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260710/vu-no-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260710/vu-no-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Ấn Độ",
+      "slug": "an-do"
+    }
+  ],
+  "description": "<p>Câu chuyện kể về một gia đình được huấn luyện để bảo vệ những người yếu thế, nhưng chính họ lại trở thành trở ngại nguy hiểm nhất.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/WTaML3Wq/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/WTaML3Wq/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "vu-no",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

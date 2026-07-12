@@ -41,14 +41,6 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/59dde4945f938af0224dc8f323348f35",
       "m3u8Url": "https://vip.opstream90.com/20260705/36136_59dde494/index.m3u8"
-    },
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260701/1Jici43h/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260701/1Jici43h/index.m3u8"
     }
   ],
   "sources": [
@@ -61,7 +53,7 @@
     {
       "source": "phimapi",
       "slug": "bo-chinh-am-nguoi-chinh-dan",
-      "episodeCount": 1,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

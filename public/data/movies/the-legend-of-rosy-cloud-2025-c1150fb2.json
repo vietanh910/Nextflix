@@ -9,7 +9,7 @@
   "year": 2025,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 28",
+  "episodeCurrent": "Tập 30",
   "categories": [
     {
       "name": "Hài Hước",
@@ -255,6 +255,22 @@
       "m3u8Url": "https://vip.opstream90.com/20260704/36116_ed1b9807/index.m3u8"
     },
     {
+      "name": "29",
+      "slug": "29",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/18007a7aacc73d157da01668c5ca5660",
+      "m3u8Url": "https://vip.opstream90.com/20260705/36187_18007a7a/index.m3u8"
+    },
+    {
+      "name": "30",
+      "slug": "30",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/d28bab21a85b3f51bb54f9f78c9b01ed",
+      "m3u8Url": "https://vip.opstream90.com/20260706/36272_d28bab21/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Thuyết Minh #1",
@@ -477,13 +493,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/e135d58b281b92bb666a29ef5219dc90",
       "m3u8Url": "https://vip.opstream90.com/20260704/36115_e135d58b/index.m3u8"
+    },
+    {
+      "name": "29",
+      "slug": "29",
+      "serverName": "Thuyết Minh #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/f1d540af53a0349d758a40ce4ea1380d",
+      "m3u8Url": "https://vip.opstream90.com/20260705/36188_f1d540af/index.m3u8"
+    },
+    {
+      "name": "30",
+      "slug": "30",
+      "serverName": "Thuyết Minh #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/696da8718f4b20ac408558e7dfd9f7ee",
+      "m3u8Url": "https://vip.opstream90.com/20260706/36271_696da871/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "van-tu-hanh",
-      "episodeCount": 56,
+      "episodeCount": 60,
       "priority": 0
     }
   ],

@@ -7,51 +7,15 @@
   "posterUrl": "https://phimimg.com/upload/vod/20260704-1/d31f6c0d433bc42cc8a51de9d84d0322.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20260704-1/9ccd50c62a817ef006c1263e34f1fcf6.jpg",
   "year": 2000,
-  "type": "single",
-  "status": "completed",
-  "episodeCurrent": "Full",
-  "categories": [
-    {
-      "name": "Phiêu Lưu",
-      "slug": "phieu-luu"
-    },
-    {
-      "name": "Hành Động",
-      "slug": "hanh-dong"
-    },
-    {
-      "name": "Tâm Lý",
-      "slug": "tam-ly"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Đức",
-      "slug": "duc"
-    },
-    {
-      "name": "Âu Mỹ",
-      "slug": "au-my"
-    }
-  ],
-  "description": "Khi thảm họa ập đến với đoàn thám hiểm trên đỉnh K2, một nhà leo núi đã giải nghệ vội đi giải cứu em gái. Nhưng trong số những người mắc kẹt có một triệu phú ích kỷ và liều lĩnh.",
-  "quality": "FHD",
-  "lang": "Vietsub",
-  "episodes": [
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/dBpgyCeM/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260704/dBpgyCeM/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "gioi-han-sinh-tu",
-      "episodeCount": 1,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

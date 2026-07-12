@@ -1,0 +1,55 @@
+{
+  "id": "darkland-underverden-2017-dc643dea",
+  "source": "phimapi",
+  "slug": "the-gioi-ngam-2017",
+  "name": "Thế giới ngầm",
+  "originName": "Darkland / Underverden",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260710/the-gioi-ngam-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260710/the-gioi-ngam-thumb.webp",
+  "year": 2017,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Đan Mạch",
+      "slug": "dan-mach"
+    }
+  ],
+  "description": "<p>Một bác sĩ thành đạt mất đi người em trai trong một vụ tấn công liên quan đến băng đảng, đã từ bỏ cuộc sống sung túc của mình để trở thành một chiến binh đeo mặt nạ nhằm trả thù cho cái chết của em trai.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/Xkw102Xt/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/Xkw102Xt/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "the-gioi-ngam-2017",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -129,47 +129,76 @@
       ]
     },
     {
-      "id": "the-patriot-2000-af6e30a0",
+      "id": "killhouse-2026-70f02052",
       "source": "phimapi",
-      "slug": "nha-ai-quoc-nguoi-yeu-nuoc",
-      "name": "Nhà Ái Quốc (Người Yêu Nước)",
-      "originName": "The Patriot",
-      "posterUrl": "https://phimimg.com/upload/vod/20260705-1/677da5f251e9b8506a32bea1b912c7dd.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260705-1/7428ea459bd6d8fd2a6264cff7d9a0dc.jpg",
-      "year": 2000,
+      "slug": "ngoi-nha-chet-choc-2026",
+      "name": "Ngôi Nhà Chết Chóc",
+      "originName": "Killhouse",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260710/ngoi-nha-chet-choc-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260710/ngoi-nha-chet-choc-thumb.webp",
+      "year": 2026,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
+          "name": "Chiến Tranh",
+          "slug": "chien-tranh"
+        },
+        {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Lịch Sử",
-          "slug": "lich-su"
-        },
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ukraine",
+          "slug": "ukraine"
+        }
+      ]
+    },
+    {
+      "id": "railroad-tigers-2016-1b5c8acf",
+      "source": "phimapi",
+      "slug": "biet-doi-manh-ho",
+      "name": "Biệt Đội Mãnh Hổ",
+      "originName": "Railroad Tigers",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260710/biet-doi-manh-ho-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260710/biet-doi-manh-ho-thumb.webp",
+      "year": 2016,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
         {
           "name": "Chiến Tranh",
           "slug": "chien-tranh"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
         },
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
         }
       ],
       "countries": [
         {
-          "name": "Đức",
-          "slug": "duc"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     }

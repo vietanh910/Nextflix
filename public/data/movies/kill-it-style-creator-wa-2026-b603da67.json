@@ -7,99 +7,15 @@
   "posterUrl": "https://phimimg.com/upload/vod/20260527-1/da7cd233799fe9902368a808b5d78c4b.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20260527-1/84ccf8719dca6861665a4b71ce848501.jpg",
   "year": 2026,
-  "type": "tvshow",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 8",
-  "categories": [
-    {
-      "name": "Chính Kịch",
-      "slug": "chinh-kich"
-    },
-    {
-      "name": "Tâm Lý",
-      "slug": "tam-ly"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Hàn Quốc",
-      "slug": "han-quoc"
-    }
-  ],
-  "description": "Cuộc chiến thời trang sống còn giữa những nhà sáng tạo dẫn đầu xu hướng của Hàn Quốc đã bắt đầu. Phong cách nào sẽ lên ngôi? Bộ cánh nào mới là slay nhất? Hãy tận mắt chiêm ngưỡng những &quot;dân chơi thời thượng&quot; bùng cháy trên sàn diễn.",
-  "quality": "FHD",
-  "lang": "Vietsub",
-  "episodes": [
-    {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260527/CQM9GOJD/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260527/CQM9GOJD/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260527/9CumkHue/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260527/9CumkHue/index.m3u8"
-    },
-    {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260527/Mbr06RhW/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260527/Mbr06RhW/index.m3u8"
-    },
-    {
-      "name": "Tập 04",
-      "slug": "tap-04",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260603/mMGOpgTG/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260603/mMGOpgTG/index.m3u8"
-    },
-    {
-      "name": "Tập 05",
-      "slug": "tap-05",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260610/ucRqKJZg/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260610/ucRqKJZg/index.m3u8"
-    },
-    {
-      "name": "Tập 06",
-      "slug": "tap-06",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260617/C9XzJNO9/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260617/C9XzJNO9/index.m3u8"
-    },
-    {
-      "name": "Tập 07",
-      "slug": "tap-07",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260624/hiKdp73d/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260624/hiKdp73d/index.m3u8"
-    },
-    {
-      "name": "Tập 08",
-      "slug": "tap-08",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260701/P9ned5yl/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260701/P9ned5yl/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "kill-it-slay-toi-ben",
-      "episodeCount": 8,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

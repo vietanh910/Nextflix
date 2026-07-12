@@ -162,31 +162,6 @@
       ]
     },
     {
-      "id": "lure-2026-46bc9ac0",
-      "source": "ophim",
-      "slug": "lure",
-      "name": "Lure",
-      "originName": "Lure",
-      "posterUrl": "https://img.ophim.live/uploads/movies/lure-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/lure-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "salmokji-whispering-wate-2026-85d2c3a9",
       "source": "ophim",
       "slug": "ma-da-han-quoc-ho-nuot-nguoi",
@@ -398,21 +373,79 @@
       ]
     },
     {
-      "id": "deep-water-2026-3fb7643a",
-      "source": "ophim",
-      "slug": "vung-bien-chet-choc",
-      "name": "Vùng Biển Chết Chóc",
-      "originName": "Deep Water",
-      "posterUrl": "https://img.ophim.live/uploads/movies/vung-bien-chet-choc-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/vung-bien-chet-choc-thumb.jpg",
+      "id": "hungry-2026-7d3ad4b3",
+      "source": "phimapi",
+      "slug": "con-doi-khat-tu-than",
+      "name": "Cơn Đói Khát Tử Thần",
+      "originName": "Hungry",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260710/con-doi-khat-tu-than-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260710/con-doi-khat-tu-than-thumb.webp",
       "year": 2026,
       "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Kinh Dị",
           "slug": "kinh-di"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-voices-of-our-mother-2026-45fb2fee",
+      "source": "phimapi",
+      "slug": "tieng-noi-cua-me",
+      "name": "Tiếng Nói của Mẹ",
+      "originName": "The Voices of Our Mother",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260710/tieng-noi-cua-me-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260710/tieng-noi-cua-me-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "deep-water-2026-858dbbd6",
+      "source": "phimapi",
+      "slug": "vung-bien-chet-choc",
+      "name": "Vùng Biển Chết Chóc",
+      "originName": "Deep Water",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260710/vung-bien-chet-choc-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260710/vung-bien-chet-choc-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
@@ -421,127 +454,20 @@
           "slug": "trung-quoc"
         },
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
           "name": "Tây Ban Nha",
           "slug": "tay-ban-nha"
         },
         {
+          "name": "Ukraine",
+          "slug": "ukraine"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
           "name": "Úc",
           "slug": "uc"
-        },
-        {
-          "name": "Ukraina",
-          "slug": "ukraina"
-        }
-      ]
-    },
-    {
-      "id": "mui-fei-muifei-the-mediu-2026-fb7862d1",
-      "source": "phimapi",
-      "slug": "ba-dong-muifei-muoi-phi",
-      "name": "Bà Đồng Muifei (Muội Phi)",
-      "originName": "Mui Fei (Muifei The Medium)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260618-1/1c5c2f1516d809ce698ddac881b72bde.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260618-1/4daf691fdbcabbedc0890a863677c9ad.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 6",
-      "categories": [
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "pee-nak-5-2026-8ad04524",
-      "source": "phimapi",
-      "slug": "ngoi-den-ky-quai-5",
-      "name": "Ngôi Đền Kỳ Quái 5",
-      "originName": "Pee Nak 5",
-      "posterUrl": "https://phimimg.com/upload/vod/20260705-1/fc8b1cc13f62a71a7fda561d43423b03.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260705-1/3004beedc286a49ed16f58278d0da628.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "king-kaew-2026-61fbf2d2",
-      "source": "phimapi",
-      "slug": "quy-du-tu-luyen-nguc",
-      "name": "Quỷ Dữ Từ Luyện Ngục",
-      "originName": "King Kaew",
-      "posterUrl": "https://phimimg.com/upload/vod/20260701-1/24e1fc5d036c26320f14d4851fee6318.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260701-1/ddb253f98f8651ff266be5963ee29dd7.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
         }
       ]
     },
@@ -596,68 +522,43 @@
       ]
     },
     {
-      "id": "i-am-frankelda-2025-b2ede385",
-      "source": "ophim",
+      "id": "i-am-frankelda-2025-c69e6d71",
+      "source": "phimapi",
       "slug": "toi-la-frankelda",
-      "name": "Tôi là Frankelda",
+      "name": "Tôi Là Frankelda",
       "originName": "I Am Frankelda",
-      "posterUrl": "https://img.ophim.live/uploads/movies/toi-la-frankelda-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/toi-la-frankelda-thumb.jpg",
+      "posterUrl": "https://phimimg.com/upload/vod/20260613-1/5572d9793843666e5387e7735f6cb023.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260613-1/2b81df69b9fe50979341959f2c4da7f9.jpg",
       "year": 2025,
-      "type": "anime",
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (1/1)",
+      "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
         },
         {
           "name": "Kinh Dị",
           "slug": "kinh-di"
         },
         {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
         }
       ],
       "countries": [
         {
           "name": "Mexico",
           "slug": "mexico"
-        }
-      ]
-    },
-    {
-      "id": "smile-2-2024-a951bdc2",
-      "source": "phimapi",
-      "slug": "cuoi-2",
-      "name": "Cười 2",
-      "originName": "Smile 2",
-      "posterUrl": "https://phimimg.com/upload/vod/20241109-1/a8d5f6a6b3e04b3e3db511f15ac151f2.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20241109-1/350c66465aa00bd060e1ac247b076021.jpg",
-      "year": 2024,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     },
@@ -695,14 +596,14 @@
       ]
     },
     {
-      "id": "the-sand-2015-649aa81c",
+      "id": "the-strangers-prey-at-ni-2018-ecd67b73",
       "source": "phimapi",
-      "slug": "cat-an-thit-nguoi",
-      "name": "Cát Ăn Thịt Người",
-      "originName": "The Sand",
-      "posterUrl": "https://phimimg.com/upload/vod/20260701-1/aa66df2ed3bf5ae5570889c067cfb925.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260701-1/105bff3f25fb87b2ffed4fbf9ca3a166.jpg",
-      "year": 2015,
+      "slug": "sat-nhan-giau-mat-dem-dam-mau",
+      "name": "Sát Nhân Giấu Mặt: Đêm Đẫm Máu",
+      "originName": "The Strangers: Prey at Night",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260710/sat-nhan-giau-mat-dem-dam-mau-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260710/sat-nhan-giau-mat-dem-dam-mau-thumb.webp",
+      "year": 2018,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
@@ -712,23 +613,15 @@
           "slug": "kinh-di"
         },
         {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
           "name": "Tâm Lý",
           "slug": "tam-ly"
         }
       ],
       "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
@@ -769,6 +662,117 @@
         {
           "name": "Thổ Nhĩ Kỳ",
           "slug": "tho-nhi-ky"
+        }
+      ]
+    },
+    {
+      "id": "kill-list-2011-dab9dc80",
+      "source": "phimapi",
+      "slug": "danh-sach-chet-danh-sach-tu-than",
+      "name": "Danh Sách Chết (Danh Sách Tử Thần)",
+      "originName": "Kill List",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260710/danh-sach-chet-danh-sach-tu-than-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260710/danh-sach-chet-danh-sach-tu-than-thumb.webp",
+      "year": 2011,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Thụy Điển",
+          "slug": "thuy-dien"
+        },
+        {
+          "name": "Úc",
+          "slug": "uc"
+        }
+      ]
+    },
+    {
+      "id": "quantum-of-solace-2008-2ad198fa",
+      "source": "ophim",
+      "slug": "dinh-muc-khuay-khoa",
+      "name": "Định Mức Khuây Khỏa",
+      "originName": "Quantum of Solace",
+      "posterUrl": "https://img.ophim.live/uploads/movies/dinh-muc-khuay-khoa-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/dinh-muc-khuay-khoa-thumb.jpg",
+      "year": 2008,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "casino-royale-2006-db36bd24",
+      "source": "ophim",
+      "slug": "song-bac-hoang-gia",
+      "name": "Sòng Bạc Hoàng Gia",
+      "originName": "Casino Royale",
+      "posterUrl": "https://img.ophim.live/uploads/movies/song-bac-hoang-gia-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/song-bac-hoang-gia-thumb.jpg",
+      "year": 2006,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Đức",
+          "slug": "duc"
         }
       ]
     }

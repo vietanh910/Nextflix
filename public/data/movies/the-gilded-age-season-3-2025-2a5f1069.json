@@ -7,103 +7,15 @@
   "posterUrl": "https://phimimg.com/upload/vod/20260630-1/b40d9aeb7bf30700d38e26ee48d2699e.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20260630-1/e8a6a19b5568da93708b17f0b4dee59b.jpg",
   "year": 2025,
-  "type": "series",
-  "status": "completed",
-  "episodeCurrent": "Hoàn Tất (8/8)",
-  "categories": [
-    {
-      "name": "Chính Kịch",
-      "slug": "chinh-kich"
-    },
-    {
-      "name": "Tình Cảm",
-      "slug": "tinh-cam"
-    },
-    {
-      "name": "Tâm Lý",
-      "slug": "tam-ly"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Âu Mỹ",
-      "slug": "au-my"
-    }
-  ],
-  "description": "Vào năm 1882, khi Thời kỳ Hoàng kim của nước Mỹ đang ở giai đoạn đỉnh cao rực rỡ, Marian Brook — cô con gái mồ côi trẻ tuổi của một vị tướng miền Nam — đã chuyển đến New York để sống cùng các dì của mình, những người luôn tuân thủ các quy tắc truyền thống một cách cứng nhắc. Với sự giúp đỡ của Peggy Scott, một phụ nữ Mỹ gốc Phi đang giả làm hầu gái của cô, Marian bị cuốn vào cuộc sống hào nhoáng của những người hàng xóm giàu có, đồng thời phải đấu tranh để lựa chọn giữa việc tuân theo các chuẩn mực xã hội cũ kỹ hay tự tìm kiếm lối đi riêng cho chính mình.",
-  "quality": "FHD",
-  "lang": "Vietsub",
-  "episodes": [
-    {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/iasRM8FA/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/iasRM8FA/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/mBxTlpI1/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/mBxTlpI1/index.m3u8"
-    },
-    {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/z44pUEN1/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/z44pUEN1/index.m3u8"
-    },
-    {
-      "name": "Tập 04",
-      "slug": "tap-04",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/y0Nh52r4/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/y0Nh52r4/index.m3u8"
-    },
-    {
-      "name": "Tập 05",
-      "slug": "tap-05",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/tROQcH2p/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/tROQcH2p/index.m3u8"
-    },
-    {
-      "name": "Tập 06",
-      "slug": "tap-06",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/aK1Vzylh/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/aK1Vzylh/index.m3u8"
-    },
-    {
-      "name": "Tập 07",
-      "slug": "tap-07",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/jZE4VeCr/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/jZE4VeCr/index.m3u8"
-    },
-    {
-      "name": "Tập 08",
-      "slug": "tap-08",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/GhbFDExR/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/GhbFDExR/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "thoi-dai-vang-son-phan-3",
-      "episodeCount": 8,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

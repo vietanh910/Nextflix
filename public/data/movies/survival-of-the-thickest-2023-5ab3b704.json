@@ -7,103 +7,15 @@
   "posterUrl": "https://phimimg.com/upload/vod/20260703-1/812f691909bd6dfe2e8dab6343b9dfd3.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20260703-1/277ee5fc6c8e85691151efdc188e164f.jpg",
   "year": 2023,
-  "type": "series",
-  "status": "completed",
-  "episodeCurrent": "Hoàn Tất (8/8)",
-  "categories": [
-    {
-      "name": "Hài Hước",
-      "slug": "hai-huoc"
-    },
-    {
-      "name": "Chính Kịch",
-      "slug": "chinh-kich"
-    },
-    {
-      "name": "Tâm Lý",
-      "slug": "tam-ly"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Âu Mỹ",
-      "slug": "au-my"
-    }
-  ],
-  "description": "Sau cuộc chia tay tồi tệ, nhà tạo mẫu đầy đam mê Mavis Beaumont chớp cơ hội để bắt đầu lại cuộc sống và tình yêu trong khi tìm thấy hạnh phúc theo cách riêng.",
-  "quality": "FHD",
-  "lang": "Vietsub",
-  "episodes": [
-    {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240314/hyAAXafQ/index.m3u8",
-      "m3u8Url": "https://s1.phim1280.tv/20240314/hyAAXafQ/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240314/YFBrI652/index.m3u8",
-      "m3u8Url": "https://s1.phim1280.tv/20240314/YFBrI652/index.m3u8"
-    },
-    {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240314/b8YJcZIn/index.m3u8",
-      "m3u8Url": "https://s1.phim1280.tv/20240314/b8YJcZIn/index.m3u8"
-    },
-    {
-      "name": "Tập 04",
-      "slug": "tap-04",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240314/K4VlhzkG/index.m3u8",
-      "m3u8Url": "https://s1.phim1280.tv/20240314/K4VlhzkG/index.m3u8"
-    },
-    {
-      "name": "Tập 05",
-      "slug": "tap-05",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240314/6dxnBuIx/index.m3u8",
-      "m3u8Url": "https://s1.phim1280.tv/20240314/6dxnBuIx/index.m3u8"
-    },
-    {
-      "name": "Tập 06",
-      "slug": "tap-06",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240314/NxshUxs8/index.m3u8",
-      "m3u8Url": "https://s1.phim1280.tv/20240314/NxshUxs8/index.m3u8"
-    },
-    {
-      "name": "Tập 07",
-      "slug": "tap-07",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240314/srnqUNNH/index.m3u8",
-      "m3u8Url": "https://s1.phim1280.tv/20240314/srnqUNNH/index.m3u8"
-    },
-    {
-      "name": "Tập 08",
-      "slug": "tap-08",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240314/1sLcy8Po/index.m3u8",
-      "m3u8Url": "https://s1.phim1280.tv/20240314/1sLcy8Po/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "chuyen-sinh-ton-cua-co-nang-ngoai-co-phan-1",
-      "episodeCount": 8,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

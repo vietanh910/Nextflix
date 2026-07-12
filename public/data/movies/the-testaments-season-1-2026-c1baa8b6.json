@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/nhung-ban-di-chuc-phan-1-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (10/10)",
   "categories": [
     {
       "name": "Chính kịch",
@@ -87,73 +87,41 @@
       "m3u8Url": "https://vip.opstream10.com/20260630/33957_311c033e/index.m3u8"
     },
     {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/aqO4FEbq/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260616/aqO4FEbq/index.m3u8"
+      "name": "8",
+      "slug": "8",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/26bc286a7c996dc103ada0982493576e",
+      "m3u8Url": "https://vip.opstream10.com/20260707/33977_26bc286a/index.m3u8"
     },
     {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/MJiDXCzl/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260616/MJiDXCzl/index.m3u8"
+      "name": "9",
+      "slug": "9",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/a990d7a6b3327afe16cff8e7bfa58114",
+      "m3u8Url": "https://vip.opstream10.com/20260708/33979_a990d7a6/index.m3u8"
     },
     {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260618/JZ9CMC7m/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260618/JZ9CMC7m/index.m3u8"
-    },
-    {
-      "name": "Tập 04",
-      "slug": "tap-04",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260622/gRLrjPSJ/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260622/gRLrjPSJ/index.m3u8"
-    },
-    {
-      "name": "Tập 05",
-      "slug": "tap-05",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260625/paSbeVTO/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260625/paSbeVTO/index.m3u8"
-    },
-    {
-      "name": "Tập 06",
-      "slug": "tap-06",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260630/QCMiCzWD/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260630/QCMiCzWD/index.m3u8"
-    },
-    {
-      "name": "Tập 07",
-      "slug": "tap-07",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260701/eBp61hWQ/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260701/eBp61hWQ/index.m3u8"
+      "name": "10",
+      "slug": "10",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/eaeab49ac116abe88580249769561a21",
+      "m3u8Url": "https://vip.opstream10.com/20260709/33984_eaeab49a/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "nhung-ban-di-chuc-phan-1",
-      "episodeCount": 7,
+      "episodeCount": 10,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "nhung-ban-di-chuc-phan-1",
-      "episodeCount": 7,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

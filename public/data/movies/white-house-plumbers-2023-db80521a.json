@@ -7,75 +7,15 @@
   "posterUrl": "https://phimimg.com/upload/vod/20260630-1/733a04ba3828abf2d0b743ad9844d5cc.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20260630-1/794a7b415600628a0b4a8e7bf0881bf3.jpg",
   "year": 2023,
-  "type": "series",
-  "status": "completed",
-  "episodeCurrent": "Hoàn Tất (5/5)",
-  "categories": [
-    {
-      "name": "Chính Kịch",
-      "slug": "chinh-kich"
-    },
-    {
-      "name": "Tâm Lý",
-      "slug": "tam-ly"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Âu Mỹ",
-      "slug": "au-my"
-    }
-  ],
-  "description": "Câu chuyện có thật về việc những kẻ phá hoại chính trị và cũng là những bộ óc đạo diễn vụ Watergate của chính Tổng thống Nixon, đã vô tình lật đổ chính chiếc ghế Tổng thống mà họ đang dùng mọi cách cực đoan nhất để ra sức bảo vệ.",
-  "quality": "FHD",
-  "lang": "Vietsub",
-  "episodes": [
-    {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/7QHxGOKS/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/7QHxGOKS/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/ZIGWZWDA/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/ZIGWZWDA/index.m3u8"
-    },
-    {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/JxMx7P4Y/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/JxMx7P4Y/index.m3u8"
-    },
-    {
-      "name": "Tập 04",
-      "slug": "tap-04",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/vPRgj7IE/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/vPRgj7IE/index.m3u8"
-    },
-    {
-      "name": "Tập 05",
-      "slug": "tap-05",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/mUM4PMCo/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/mUM4PMCo/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "doi-dac-nhiem-bi-mat-nha-trang",
-      "episodeCount": 5,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

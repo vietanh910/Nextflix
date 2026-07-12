@@ -9,7 +9,30 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Sci-Fi",
+      "slug": "sci-fi"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "countries": [],
+  "description": "The third movie in the new <i>Digimon Adventure</i> series. <br><br>\nAfter seeing Meicoomon's abrupt transformation and killing of Leomon, Agumon and the other Digimon are kept isolated in Koushiro's office in order to prevent them from infection, but signs of infection begin to appear in Patamon.<br><br>\n(Source: Crunchyroll)",
   "episodes": [],
   "sources": [
     {

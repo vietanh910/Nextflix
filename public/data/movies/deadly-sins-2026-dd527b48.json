@@ -7,83 +7,15 @@
   "posterUrl": "https://phimimg.com/upload/vod/20260704-1/e5f7a997372396eaa29613d8ced5c188.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20260704-1/0fcd46078cb6fc555fe71f521fb80f5e.jpg",
   "year": 2026,
-  "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 5",
-  "categories": [
-    {
-      "name": "Hình Sự",
-      "slug": "hinh-su"
-    },
-    {
-      "name": "Bí Ẩn",
-      "slug": "bi-an"
-    },
-    {
-      "name": "Tâm Lý",
-      "slug": "tam-ly"
-    },
-    {
-      "name": "Chính Kịch",
-      "slug": "chinh-kich"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Hồng Kông",
-      "slug": "hong-kong"
-    }
-  ],
-  "description": "Giữa những cám dỗ của cuộc sống, ranh giới giữa khát vọng và lòng tham vô cùng mong manh. Phim gồm 6 câu chuyện chuyển thể từ các vụ án có thật, tái hiện những bi kịch bắt nguồn từ tham vọng, tình yêu, thù hận và những bí ẩn tâm linh. Không chỉ mang đến các vụ phá án kịch tính với nhiều cú ngoặt bất ngờ, bộ phim còn khắc họa những góc khuất trong bản chất con người, nơi chỉ một ý niệm cũng có thể quyết định ranh giới giữa thiện và ác.",
-  "quality": "FHD",
-  "lang": "Lồng Tiếng",
-  "episodes": [
-    {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "#Hà Nội (Lồng Tiếng)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/UsIIKoDg/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260704/UsIIKoDg/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "#Hà Nội (Lồng Tiếng)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/jCGKMn1a/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260704/jCGKMn1a/index.m3u8"
-    },
-    {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "#Hà Nội (Lồng Tiếng)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/hjz5S7Eb/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260704/hjz5S7Eb/index.m3u8"
-    },
-    {
-      "name": "Tập 04",
-      "slug": "tap-04",
-      "serverName": "#Hà Nội (Lồng Tiếng)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/jWrnV76x/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260704/jWrnV76x/index.m3u8"
-    },
-    {
-      "name": "Tập 05",
-      "slug": "tap-05",
-      "serverName": "#Hà Nội (Lồng Tiếng)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/yW88OjM2/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260704/yW88OjM2/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "toi-ac-khong-nen-co",
-      "episodeCount": 5,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

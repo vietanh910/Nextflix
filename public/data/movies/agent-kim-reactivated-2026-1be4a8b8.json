@@ -2,30 +2,30 @@
   "id": "agent-kim-reactivated-2026-1be4a8b8",
   "source": "phimapi",
   "slug": "dac-vu-kim-tai-khoi-dong",
-  "name": "Đặc Vụ Kim Tái Khởi Động",
+  "name": "Đặc Vụ Kim Tái Khởi Động",
   "originName": "Agent Kim Reactivated",
   "posterUrl": "https://phimimg.com/upload/vod/20260627-1/9c11aa80dd2d77cb3130d3f41cf08f5f.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20260627-1/e150d9ace6293867a4cc5df8ed33d03a.jpg",
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 6",
   "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
     {
       "name": "Hành Động",
       "slug": "hanh-dong"
-    },
-    {
-      "name": "Phiêu Lưu",
-      "slug": "phieu-luu"
     },
     {
       "name": "Hình Sự",
       "slug": "hinh-su"
     },
     {
-      "name": "Chính Kịch",
-      "slug": "chinh-kich"
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
     },
     {
       "name": "Tâm Lý",
@@ -38,14 +38,14 @@
       "slug": "han-quoc"
     }
   ],
-  "description": "Một ông bố yêu con từng là lính đặc nhiệm đáng gờm. Quản lý Kim phải đánh thức những kĩ năng đã ngủ quên để cứu con gái trong hành trình báo thù không khoan nhượng.",
+  "description": "<p>Một ông bố yêu con từng là lính đặc nhiệm đáng gờm. Quản lý Kim phải đánh thức những kĩ năng đã ngủ quên để cứu con gái trong hành trình báo thù không khoan nhượng.</p>",
   "quality": "FHD",
   "lang": "Vietsub + Thuyết Minh",
   "episodes": [
     {
       "name": "Tập 01",
       "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
+      "serverName": "Vietsub",
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260626/XDh302cJ/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260626/XDh302cJ/index.m3u8"
@@ -53,7 +53,7 @@
     {
       "name": "Tập 02",
       "slug": "tap-02",
-      "serverName": "#Hà Nội (Vietsub)",
+      "serverName": "Vietsub",
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260627/BhTG32Dy/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260627/BhTG32Dy/index.m3u8"
@@ -61,7 +61,7 @@
     {
       "name": "Tập 03",
       "slug": "tap-03",
-      "serverName": "#Hà Nội (Vietsub)",
+      "serverName": "Vietsub",
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260703/csWWxkWL/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260703/csWWxkWL/index.m3u8"
@@ -69,15 +69,31 @@
     {
       "name": "Tập 04",
       "slug": "tap-04",
-      "serverName": "#Hà Nội (Vietsub)",
+      "serverName": "Vietsub",
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/EnTnmvMI/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260704/EnTnmvMI/index.m3u8"
     },
     {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/TPUySCJa/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/TPUySCJa/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260711/x2Eya2cu/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260711/x2Eya2cu/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
-      "serverName": "#Hà Nội (Thuyết Minh)",
+      "serverName": "Thuyết Minh",
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/XzFs7bkn/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260704/XzFs7bkn/index.m3u8"
@@ -85,7 +101,7 @@
     {
       "name": "Tập 02",
       "slug": "tap-02",
-      "serverName": "#Hà Nội (Thuyết Minh)",
+      "serverName": "Thuyết Minh",
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/2yeA0pgY/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260704/2yeA0pgY/index.m3u8"
@@ -93,10 +109,18 @@
     {
       "name": "Tập 03",
       "slug": "tap-03",
-      "serverName": "#Hà Nội (Thuyết Minh)",
+      "serverName": "Thuyết Minh",
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/X3g2H2YE/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260704/X3g2H2YE/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260706/qzJuQ2mA/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260706/qzJuQ2mA/index.m3u8"
     },
     {
       "name": "1",
@@ -141,7 +165,7 @@
     {
       "source": "phimapi",
       "slug": "dac-vu-kim-tai-khoi-dong",
-      "episodeCount": 7,
+      "episodeCount": 10,
       "priority": 1
     }
   ],

@@ -9,7 +9,22 @@
   "year": 2015,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Sci-Fi",
+      "slug": "sci-fi"
+    },
+    {
+      "name": "Mecha",
+      "slug": "mecha"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "countries": [],
+  "description": "Second season of Soukyuu no Fafner: Exodus.",
   "episodes": [],
   "sources": [
     {

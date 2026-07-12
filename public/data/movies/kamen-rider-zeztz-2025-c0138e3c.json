@@ -9,7 +9,7 @@
   "year": 2025,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 41",
+  "episodeCurrent": "Tập 42",
   "categories": [
     {
       "name": "Hành Động",
@@ -369,14 +369,28 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/bbbd1d359c2c24d983dc1a62a8dff389",
       "m3u8Url": "https://vip.opstream90.com/20260701/35868_bbbd1d35/index.m3u8"
+    },
+    {
+      "name": "42",
+      "slug": "42",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/033c4efe2b8505afc224b23c975b8cba",
+      "m3u8Url": "https://vip.opstream90.com/20260706/36216_033c4efe/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "hiep-si-mat-na-zeztz",
-      "episodeCount": 41,
+      "episodeCount": 42,
       "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "hiep-si-mat-na-zeztz",
+      "episodeCount": 0,
+      "priority": 1
     }
   ],
   "_priority": 0

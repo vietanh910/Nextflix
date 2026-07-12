@@ -1,0 +1,55 @@
+{
+  "id": "the-old-way-2023-760260de",
+  "source": "phimapi",
+  "slug": "duong-xua",
+  "name": "Đường Xưa",
+  "originName": "The Old Way",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260710/duong-xua-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260710/duong-xua-thumb.webp",
+  "year": 2023,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Miền Tây",
+      "slug": "mien-tay"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Briggs - một sát thủ khét tiếng tưởng như đã yên phận bên gia đình sau khi rửa tay gác kiếm, nhưng giờ đây anh và cô con gái nhỏ của mình sẽ phải đối mặt với con trai của một người đàn ông mà anh đã sát hại nhiều năm trước đến để trả thù.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/SlQ2C96D/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/SlQ2C96D/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "duong-xua",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

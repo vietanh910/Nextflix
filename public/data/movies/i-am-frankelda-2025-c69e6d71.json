@@ -1,0 +1,85 @@
+{
+  "id": "i-am-frankelda-2025-c69e6d71",
+  "source": "phimapi",
+  "slug": "toi-la-frankelda",
+  "name": "Tôi Là Frankelda",
+  "originName": "I Am Frankelda",
+  "posterUrl": "https://phimimg.com/upload/vod/20260613-1/5572d9793843666e5387e7735f6cb023.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260613-1/2b81df69b9fe50979341959f2c4da7f9.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Gia Đình",
+      "slug": "gia-dinh"
+    },
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Mexico",
+      "slug": "mexico"
+    }
+  ],
+  "description": "<p>Một nhà văn trẻ tài năng ở Mexico thế kỷ 19 bước vào tiềm thức của chính mình và đối mặt với những nhân vật trong các câu chuyện ma quái do cô sáng tạo ra.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub + Thuyết Minh",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260612/aAvdYg5U/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260612/aAvdYg5U/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/qqgBO4fm/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/qqgBO4fm/index.m3u8"
+    },
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/806c472f05c8e1ec7b4eee6b9d2190b6",
+      "m3u8Url": "https://vip.opstream90.com/20260612/34738_806c472f/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "toi-la-frankelda",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "toi-la-frankelda",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

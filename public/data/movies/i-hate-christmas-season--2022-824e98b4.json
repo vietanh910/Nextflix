@@ -7,87 +7,15 @@
   "posterUrl": "https://phimimg.com/upload/vod/20260704-1/4bbb0b86c7b9afb4f17ce357ac44f0ab.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20260704-1/3f498baf4a7d6d9a51e195b0b0ad31b3.jpg",
   "year": 2022,
-  "type": "series",
-  "status": "completed",
-  "episodeCurrent": "Hoàn Tất (6/6)",
-  "categories": [
-    {
-      "name": "Hài Hước",
-      "slug": "hai-huoc"
-    },
-    {
-      "name": "Chính Kịch",
-      "slug": "chinh-kich"
-    },
-    {
-      "name": "Tâm Lý",
-      "slug": "tam-ly"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Ý",
-      "slug": "y"
-    }
-  ],
-  "description": "Sau khi nói dối gia đình về việc có bạn trai, một y tá độc thân phải tìm cho ra nửa kia bằng mọi giá trước Giáng sinh – tức là còn 24 ngày nữa.",
-  "quality": "FHD",
-  "lang": "Vietsub",
-  "episodes": [
-    {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/m3aHTVVz/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260704/m3aHTVVz/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/yrzf793v/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260704/yrzf793v/index.m3u8"
-    },
-    {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/K0rv8gqH/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260704/K0rv8gqH/index.m3u8"
-    },
-    {
-      "name": "Tập 04",
-      "slug": "tap-04",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/jsQddZMK/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260704/jsQddZMK/index.m3u8"
-    },
-    {
-      "name": "Tập 05",
-      "slug": "tap-05",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/JZ4qell4/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260704/JZ4qell4/index.m3u8"
-    },
-    {
-      "name": "Tập 06",
-      "slug": "tap-06",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/8Oe0fq9j/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260704/8Oe0fq9j/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "toi-ghet-giang-sinh-odio-il-natale-phan-1",
-      "episodeCount": 6,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

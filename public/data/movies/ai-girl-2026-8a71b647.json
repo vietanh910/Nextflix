@@ -37,14 +37,6 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/8a0a18ee792712a3d3aa044dbfc581ee",
       "m3u8Url": "https://vip.opstream90.com/20260701/35941_8a0a18ee/index.m3u8"
-    },
-    {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260701/D4qx0FL8/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260701/D4qx0FL8/index.m3u8"
     }
   ],
   "sources": [
@@ -57,7 +49,7 @@
     {
       "source": "phimapi",
       "slug": "ban-gai-nguoi-may",
-      "episodeCount": 1,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

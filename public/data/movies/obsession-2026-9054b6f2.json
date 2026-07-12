@@ -37,14 +37,6 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/82b05ac4ebef496529bb27f3c6786782",
       "m3u8Url": "https://vip.opstream90.com/20260701/35919_82b05ac4/index.m3u8"
-    },
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260630/wjbHjWYF/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260630/wjbHjWYF/index.m3u8"
     }
   ],
   "sources": [
@@ -57,7 +49,7 @@
     {
       "source": "phimapi",
       "slug": "am-anh-2026",
-      "episodeCount": 1,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/life-larry-and-the-pursuit-of-unhappiness-an-almost-history-of-america-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "unknown",
-  "episodeCurrent": "Trailer",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
   "categories": [
     {
       "name": "Hài Hước",
@@ -27,16 +27,27 @@
   "lang": "Vietsub",
   "episodes": [
     {
-      "name": "",
+      "name": "1",
+      "slug": "1",
       "serverName": "Vietsub #1",
-      "source": "ophim"
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/889823b59e4946c262348782d54afc70",
+      "m3u8Url": "https://vip.opstream90.com/20260705/36174_889823b5/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/3d29fb5278af9da98e9e7c9d3c97b9e2",
+      "m3u8Url": "https://vip.opstream90.com/20260705/36175_3d29fb52/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "life-larry-and-the-pursuit-of-unhappiness-an-almost-history-of-america",
-      "episodeCount": 1,
+      "episodeCount": 2,
       "priority": 0
     }
   ],

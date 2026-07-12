@@ -1,0 +1,89 @@
+{
+  "id": "black-torch-2026-c2dcfe98",
+  "source": "phimapi",
+  "slug": "ngon-duoc-den",
+  "name": "Ngọn Đuốc Đen",
+  "originName": "BLACK TORCH",
+  "posterUrl": "https://phimimg.com/upload/vod/20260705-1/70406bff9bc6c46c77760afa1b842c2f.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260705-1/4d3ebec9ff1cc589f273f5ea080a4e41.jpg",
+  "year": 2026,
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Bí Ẩn",
+      "slug": "bi-an"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Jirô là một cậu bé có khả năng nói chuyện với động vật, được ông nuôi dưỡng và đào tạo thành ninja. Bị xa lánh vì khác biệt, cậu tìm thấy sự an ủi bên những loài động vật và bảo vệ chúng. Một ngày nọ, cậu cứu Ragô, một con mèo đen bị thương, nhưng phát hiện ra rằng nó không phải là mèo bình thường mà là một mononoke, một linh hồn đang bị một tổ chức bí ẩn săn đuổi. Không do dự, Jirô quyết định giúp đỡ nó.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260705/oJnBcr2z/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260705/oJnBcr2z/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260711/PcYwWcrP/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260711/PcYwWcrP/index.m3u8"
+    },
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/1c77d7a11855fdfde420194c050c147b",
+      "m3u8Url": "https://vip.opstream90.com/20260705/36183_1c77d7a1/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "duoc-den",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "ngon-duoc-den",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T06:35:20.429Z",
+  "updatedAt": "2026-07-12T05:51:51.068Z",
   "mode": "full",
   "sources": [
     {
@@ -8,15 +8,15 @@
       "baseUrl": "https://ophim1.com",
       "ok": true,
       "fetchedCount": 480,
-      "lastSyncAt": "2026-07-05T06:35:20.429Z"
+      "lastSyncAt": "2026-07-12T05:51:51.068Z"
     },
     {
       "source": "phimapi",
       "enabled": true,
       "baseUrl": "https://phimapi.com",
       "ok": true,
-      "fetchedCount": 200,
-      "lastSyncAt": "2026-07-05T06:35:20.429Z"
+      "fetchedCount": 480,
+      "lastSyncAt": "2026-07-12T05:51:51.068Z"
     },
     {
       "source": "nguonc",
@@ -25,7 +25,7 @@
       "ok": false,
       "fetchedCount": 0,
       "errorMessage": "HTTP 403",
-      "lastSyncAt": "2026-07-05T06:35:20.429Z"
+      "lastSyncAt": "2026-07-12T05:51:51.068Z"
     },
     {
       "source": "animapper",
@@ -33,7 +33,7 @@
       "baseUrl": "https://api.animapper.net/api/v1",
       "ok": true,
       "fetchedCount": 1000,
-      "lastSyncAt": "2026-07-05T06:35:20.429Z"
+      "lastSyncAt": "2026-07-12T05:51:51.068Z"
     }
   ]
 }

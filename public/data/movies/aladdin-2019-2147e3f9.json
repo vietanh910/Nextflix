@@ -1,0 +1,71 @@
+{
+  "id": "aladdin-2019-2147e3f9",
+  "source": "phimapi",
+  "slug": "aladdin",
+  "name": "Aladdin",
+  "originName": "Aladdin",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260712/aladdin-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260712/aladdin-thumb.webp",
+  "year": 2019,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Gia Đình",
+      "slug": "gia-dinh"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Aladdin là một phiên bản live action đầy màu sắc sống động và không kém phần hồi hộp, được chuyển thể từ bộ phim hoạt hình kinh điển cả hãng phim Disney. Câu chuyện xoay quanh chàng hoàng tử khu ổ chuột Aladdin – một thanh niên trẻ tuổi dũng cảm và nàng công chúa Jasmine mạnh mẽ, đương nhiên phải kể đến thần đèn Genie – người nắm giữ chìa khóa thay đổi tương lại sau này của họ.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub + Thuyết Minh",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260711/2x7T60gI/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260711/2x7T60gI/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260711/JG7Vr6ew/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260711/JG7Vr6ew/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "aladdin",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

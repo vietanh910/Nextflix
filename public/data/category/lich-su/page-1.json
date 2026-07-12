@@ -5,14 +5,14 @@
   "totalPages": 1,
   "items": [
     {
-      "id": "the-patriot-2000-af6e30a0",
+      "id": "raja-shivaji-2026-91242115",
       "source": "phimapi",
-      "slug": "nha-ai-quoc-nguoi-yeu-nuoc",
-      "name": "Nhà Ái Quốc (Người Yêu Nước)",
-      "originName": "The Patriot",
-      "posterUrl": "https://phimimg.com/upload/vod/20260705-1/677da5f251e9b8506a32bea1b912c7dd.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260705-1/7428ea459bd6d8fd2a6264cff7d9a0dc.jpg",
-      "year": 2000,
+      "slug": "raja-shivaji",
+      "name": "Raja Shivaji",
+      "originName": "Raja Shivaji",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260710/raja-shivaji-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260710/raja-shivaji-thumb.webp",
+      "year": 2026,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
@@ -22,30 +22,55 @@
           "slug": "chinh-kich"
         },
         {
-          "name": "Lịch Sử",
-          "slug": "lich-su"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
         },
         {
-          "name": "Chiến Tranh",
-          "slug": "chien-tranh"
+          "name": "Lịch Sử",
+          "slug": "lich-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ấn Độ",
+          "slug": "an-do"
+        }
+      ]
+    },
+    {
+      "id": "bodyguards-and-assassins-2009-265b0657",
+      "source": "phimapi",
+      "slug": "thap-nguyet-vi-thanh",
+      "name": "Thập Nguyệt Vi Thành",
+      "originName": "Bodyguards and Assassins",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260710/thap-nguyet-vi-thanh-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260710/thap-nguyet-vi-thanh-thumb.webp",
+      "year": 2009,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
         },
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
+          "name": "Lịch Sử",
+          "slug": "lich-su"
         }
       ],
       "countries": [
         {
-          "name": "Đức",
-          "slug": "duc"
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
         },
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     }

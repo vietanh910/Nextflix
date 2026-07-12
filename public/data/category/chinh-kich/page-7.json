@@ -2,20 +2,49 @@
   "slug": "chinh-kich",
   "name": "Chính kịch",
   "page": 7,
-  "totalPages": 16,
+  "totalPages": 14,
   "items": [
     {
-      "id": "lost-to-light-2026-b02cd77d",
+      "id": "see-you-at-work-tomorrow-2026-84d99b8a",
       "source": "ophim",
-      "slug": "sieu-sao-hay-sieu-xit",
-      "name": "Siêu Sao Hay Siêu Xịt",
-      "originName": "Lost to Light",
-      "posterUrl": "https://img.ophim.live/uploads/movies/sieu-sao-hay-sieu-xit-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/sieu-sao-hay-sieu-xit-thumb.jpg",
+      "slug": "sep-oi-mai-dung-gap-nhau",
+      "name": "Sếp Ơi Mai Đừng Gặp Nhau",
+      "originName": "See You at Work Tomorrow!",
+      "posterUrl": "https://img.ophim.live/uploads/movies/sep-oi-mai-dung-gap-nhau-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/sep-oi-mai-dung-gap-nhau-thumb.jpg",
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 2",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "shades-2026-110344e4",
+      "source": "ophim",
+      "slug": "shades",
+      "name": "Shades",
+      "originName": "Shades",
+      "posterUrl": "https://img.ophim.live/uploads/movies/shades-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/shades-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Chính kịch",
@@ -167,6 +196,31 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-scammer-games-2026-861f38b3",
+      "source": "ophim",
+      "slug": "tam-tay-lua-dao",
+      "name": "Tám Tay Lừa Đảo",
+      "originName": "The Scammer Games",
+      "posterUrl": "https://img.ophim.live/uploads/movies/tam-tay-lua-dao-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/tam-tay-lua-dao-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 3",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
         }
       ]
     },
@@ -619,56 +673,6 @@
         {
           "name": "Việt Nam",
           "slug": "viet-nam"
-        }
-      ]
-    },
-    {
-      "id": "off-campus-2026-54127050",
-      "source": "ophim",
-      "slug": "thoa-thuan-hoc-duong",
-      "name": "Thỏa Thuận Học Đường",
-      "originName": "Off Campus",
-      "posterUrl": "https://img.ophim.live/uploads/movies/thoa-thuan-hoc-duong-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/thoa-thuan-hoc-duong-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (8/8)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "starveil-moon-2026-29ecb7b3",
-      "source": "ophim",
-      "slug": "thuong-nguyet-tinh-lan",
-      "name": "Thương Nguyệt Tinh Lan",
-      "originName": "Starveil Moon",
-      "posterUrl": "https://img.ophim.live/uploads/movies/thuong-nguyet-tinh-lan-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/thuong-nguyet-tinh-lan-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (23/23)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
         }
       ]
     }

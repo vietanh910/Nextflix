@@ -7,51 +7,15 @@
   "posterUrl": "https://phimimg.com/upload/vod/20260704-1/a4e20cfdb6e90885f40b23b19431e49f.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20260704-1/7cd693990a87cba1907ac0a31ca95001.jpg",
   "year": 2024,
-  "type": "single",
-  "status": "completed",
-  "episodeCurrent": "Full",
-  "categories": [
-    {
-      "name": "Tình Cảm",
-      "slug": "tinh-cam"
-    },
-    {
-      "name": "Chính Kịch",
-      "slug": "chinh-kich"
-    },
-    {
-      "name": "Tâm Lý",
-      "slug": "tam-ly"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Iceland",
-      "slug": "iceland"
-    },
-    {
-      "name": "Anh",
-      "slug": "anh"
-    }
-  ],
-  "description": "Câu chuyện tình yêu vượt thời gian, khi một người đàn ông dành cả cuộc đời tìm kiếm mối tình đầu đã biến mất 50 năm trước. Cuộc hành trình trải dài khắp các lục địa, mang đến cho ông những trải nghiệm lãng mạn và hồi hộp, khi ông đối mặt với sự thật và ý nghĩa của tình yêu đích thực trước khi thời gian của mình cạn kiệt.",
-  "quality": "FHD",
-  "lang": "Vietsub",
-  "episodes": [
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/0ih1YmWx/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260704/0ih1YmWx/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "cham-vao-ky-uc",
-      "episodeCount": 1,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

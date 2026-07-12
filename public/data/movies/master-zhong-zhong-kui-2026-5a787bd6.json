@@ -7,51 +7,15 @@
   "posterUrl": "https://phimimg.com/upload/vod/20260702-1/e4f8e86eaa373210c77d8a1c71db8895.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20260702-1/b98d4d9d44046912207111bd0f287f17.jpg",
   "year": 2026,
-  "type": "anime",
-  "status": "completed",
-  "episodeCurrent": "Full",
-  "categories": [
-    {
-      "name": "Hành Động",
-      "slug": "hanh-dong"
-    },
-    {
-      "name": "Viễn Tưởng",
-      "slug": "vien-tuong"
-    },
-    {
-      "name": "Chính Kịch",
-      "slug": "chinh-kich"
-    },
-    {
-      "name": "Tâm Lý",
-      "slug": "tam-ly"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Trung Quốc",
-      "slug": "trung-quoc"
-    }
-  ],
-  "description": "Thiếu nữ phàm nhân Sơ Cửu vô tình xâm nhập địa phủ và được Chung Quỳ cứu giúp. Cô trở thành đồng hành của Chung Quỳ trong hành trình trừ yêu diệt quỷ, bảo vệ tam giới. Khi điều tra các vụ yêu quái tác oai tác quái, cả hai dần phát hiện một âm mưu khổng lồ đe dọa sự cân bằng giữa nhân gian và địa phủ.",
-  "quality": "FHD",
-  "lang": "Vietsub",
-  "episodes": [
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260702/LeRfhGxz/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260702/LeRfhGxz/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "chung-quy",
-      "episodeCount": 1,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

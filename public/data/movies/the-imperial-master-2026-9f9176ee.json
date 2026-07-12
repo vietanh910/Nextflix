@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 18",
+  "episodeCurrent": "Tập 21",
   "categories": [
     {
       "name": "Chính kịch",
@@ -169,13 +169,37 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/b2e7ce6a6c4a844bfeb89a765e9bb959",
       "m3u8Url": "https://vip.opstream90.com/20260702/35949_b2e7ce6a/index.m3u8"
+    },
+    {
+      "name": "19",
+      "slug": "19",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/361e321b4d49a36bb5d8270c53443806",
+      "m3u8Url": "https://vip.opstream90.com/20260707/36287_361e321b/index.m3u8"
+    },
+    {
+      "name": "20",
+      "slug": "20",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/37a90a1fe7512a804347fa3e572c6b86",
+      "m3u8Url": "https://vip.opstream90.com/20260706/36218_37a90a1f/index.m3u8"
+    },
+    {
+      "name": "21",
+      "slug": "21",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/3548c43c2ed4c969f65ee0d12970fac8",
+      "m3u8Url": "https://vip.opstream90.com/20260707/36285_3548c43c/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "de-su-truong-an",
-      "episodeCount": 18,
+      "episodeCount": 21,
       "priority": 0
     }
   ],

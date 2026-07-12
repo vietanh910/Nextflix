@@ -1,0 +1,67 @@
+{
+  "id": "skiptrace-2016-1cf09894",
+  "source": "phimapi",
+  "slug": "tau-thoat-ngoan-muc",
+  "name": "Tẩu Thoát Ngoạn Mục",
+  "originName": "Skiptrace",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260710/tau-thoat-ngoan-muc-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260710/tau-thoat-ngoan-muc-thumb.webp",
+  "year": 2016,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hồng Kông",
+      "slug": "hong-kong"
+    },
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    },
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Một thám tử từ Hồng Kông hợp tác với một con bạc người Mỹ để chiến đấu chống lại một tên tội phạm khét tiếng người Trung Quốc.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/aJrzbgq3/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/aJrzbgq3/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "tau-thoat-ngoan-muc",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

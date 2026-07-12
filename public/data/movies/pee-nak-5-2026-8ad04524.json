@@ -7,51 +7,15 @@
   "posterUrl": "https://phimimg.com/upload/vod/20260705-1/fc8b1cc13f62a71a7fda561d43423b03.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20260705-1/3004beedc286a49ed16f58278d0da628.jpg",
   "year": 2026,
-  "type": "single",
-  "status": "completed",
-  "episodeCurrent": "Full",
-  "categories": [
-    {
-      "name": "Hài Hước",
-      "slug": "hai-huoc"
-    },
-    {
-      "name": "Kinh Dị",
-      "slug": "kinh-di"
-    },
-    {
-      "name": "Chính Kịch",
-      "slug": "chinh-kich"
-    },
-    {
-      "name": "Tâm Lý",
-      "slug": "tam-ly"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Thái Lan",
-      "slug": "thai-lan"
-    }
-  ],
-  "description": "Thương hiệu Kinh dị - Hài Thái Lan ăn khách nhất đã trở lại. Một năm sau khi đánh bại hồn ma Nak Tinn, nhóm bạn của Balloon và First chưa kịp tận hưởng cuộc sống bình yên thì một linh hồn báo thù bất ngờ quay trở lại và săn đuổi họ. Nhưng lần này mục tiêu của Pee Nak không phải là Balloon hay First mà là chú tiểu Nott và những người thân của cậu. Để phá giải lời nguyền “Kẻ nào được yêu thương thì phải chết”, cả nhóm buộc phải quay lại ngôi đền bí ẩn và đối mặt với thế lực tàn ác hơn bao giờ hết!",
-  "quality": "FHD",
-  "lang": "Vietsub",
-  "episodes": [
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/xdY4jFUS/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260704/xdY4jFUS/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "ngoi-den-ky-quai-5",
-      "episodeCount": 1,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

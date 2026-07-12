@@ -7,47 +7,15 @@
   "posterUrl": "https://phimimg.com/upload/vod/20260701-1/86a67b56cf45cf0373a8d97aae98f131.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20260701-1/4034ef4a38301773c1aeb085f15d7c63.jpg",
   "year": 2009,
-  "type": "single",
-  "status": "completed",
-  "episodeCurrent": "Full",
-  "categories": [
-    {
-      "name": "Kinh Dị",
-      "slug": "kinh-di"
-    },
-    {
-      "name": "Tâm Lý",
-      "slug": "tam-ly"
-    },
-    {
-      "name": "Chính Kịch",
-      "slug": "chinh-kich"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Âu Mỹ",
-      "slug": "au-my"
-    }
-  ],
-  "description": "Sau khi từ chối gia hạn khoản vay để một người phụ nữ giữ lại căn nhà của mình, cuộc sống vốn dĩ đang đầy hứa hẹn của nhân viên tín dụng Christine Brown bỗng chốc đảo lộn và lao dốc một cách đáng sợ. Christine tin chắc rằng mình đã bị một người phụ nữ gốc Do-gip-si nguyền rủa, nhưng bạn trai cô lại tỏ ra hoài nghi. Niềm hy vọng duy nhất của cô lúc này đặt vào một nhà ngoại cảm — người tuyên bố có thể giúp cô hóa giải lời nguyền và ngăn không cho linh hồn cô bị kéo thẳng xuống địa ngục.",
-  "quality": "FHD",
-  "lang": "Vietsub",
-  "episodes": [
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260701/Srxl2CB6/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260701/Srxl2CB6/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "loi-nguyen-ac-quy",
-      "episodeCount": 1,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

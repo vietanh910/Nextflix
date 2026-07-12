@@ -9,19 +9,15 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 1",
+  "episodeCurrent": "Tập 2",
   "categories": [
-    {
-      "name": "Khoa Học",
-      "slug": "khoa-hoc"
-    },
-    {
-      "name": "Viễn Tưởng",
-      "slug": "vien-tuong"
-    },
     {
       "name": "Hành Động",
       "slug": "hanh-dong"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
     },
     {
       "name": "Phiêu Lưu",
@@ -30,6 +26,10 @@
     {
       "name": "Tâm Lý",
       "slug": "tam-ly"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
     }
   ],
   "countries": [
@@ -38,24 +38,32 @@
       "slug": "nhat-ban"
     }
   ],
-  "description": "Luck, một pháp sư hạng S thuộc tổ đội anh hùng, đã quyết định ở lại chặn hậu và tử chiến với Ma Vương để cứu những người đồng đội của mình. Khi anh giành chiến thắng và trở về, mười năm đã trôi qua, và thế giới đã tôn vinh anh như một anh hùng huyền thoại đã hy sinh nơi sa trường. Không thể quay lại cuộc sống trước kia, Luck đành che giấu thân phận và bắt đầu lại từ đầu với cái tên &quot;Lock&quot; — một mạo hiểm giả hạng F, tự tay gầy dựng lại tương lai trong một thế giới vốn đã tiếp diễn mà không có anh.",
+  "description": "<p>Luck, một pháp sư hạng S thuộc tổ đội anh hùng, đã quyết định ở lại chặn hậu và tử chiến với Ma Vương để cứu những người đồng đội của mình. Khi anh giành chiến thắng và trở về, mười năm đã trôi qua, và thế giới đã tôn vinh anh như một anh hùng huyền thoại đã hy sinh nơi sa trường. Không thể quay lại cuộc sống trước kia, Luck đành che giấu thân phận và bắt đầu lại từ đầu với cái tên &quot;Lock&quot; — một mạo hiểm giả hạng F, tự tay gầy dựng lại tương lai trong một thế giới vốn đã tiếp diễn mà không có anh.</p>",
   "quality": "FHD",
   "lang": "Vietsub",
   "episodes": [
     {
       "name": "Tập 01",
       "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
+      "serverName": "Vietsub",
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/BvTbgUVk/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260704/BvTbgUVk/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260711/y9UPp7BP/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260711/y9UPp7BP/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "toi-tro-thanh-huyen-thoai-sau-tran-chien-cuoi-cung-keo-dai-10-nam",
-      "episodeCount": 1,
+      "episodeCount": 2,
       "priority": 1
     }
   ],

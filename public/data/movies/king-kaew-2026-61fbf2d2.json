@@ -7,47 +7,15 @@
   "posterUrl": "https://phimimg.com/upload/vod/20260701-1/24e1fc5d036c26320f14d4851fee6318.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20260701-1/ddb253f98f8651ff266be5963ee29dd7.jpg",
   "year": 2026,
-  "type": "single",
-  "status": "completed",
-  "episodeCurrent": "Full",
-  "categories": [
-    {
-      "name": "Kinh Dị",
-      "slug": "kinh-di"
-    },
-    {
-      "name": "Hình Sự",
-      "slug": "hinh-su"
-    },
-    {
-      "name": "Chính Kịch",
-      "slug": "chinh-kich"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Thái Lan",
-      "slug": "thai-lan"
-    }
-  ],
-  "description": "Kingkaew lấy cảm hứng từ vụ án có thật năm 1978, tại nhà tù Bang Kwang khét tiếng. Một người phụ nữ mắc bệnh tâm thần bị buộc tội bắt cóc và sát hại trẻ em gây chấn động. Dù chứng cứ dồn dập, cô vẫn khẳng định “Tôi vô tội”. Cuối cùng, tòa tuyên án tử hình, Kingkaew chết trong oán hận tột cùng. Sau cái chết, hàng loạt hiện tượng kinh hoàng bắt đầu xảy ra. Oan hồn Kingkaew quay lại, gieo rắc nỗi ám ảnh lên tất cả những người liên quan. Khi nỗi sợ dâng cao, họ buộc phải đối mặt với sự thật đen tối phía sau vụ án… và thứ tà ác vẫn chưa chịu ngủ yên.",
-  "quality": "FHD",
-  "lang": "Vietsub",
-  "episodes": [
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260701/HEKqtKs0/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260701/HEKqtKs0/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "quy-du-tu-luyen-nguc",
-      "episodeCount": 1,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

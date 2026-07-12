@@ -1,0 +1,55 @@
+{
+  "id": "raja-shivaji-2026-91242115",
+  "source": "phimapi",
+  "slug": "raja-shivaji",
+  "name": "Raja Shivaji",
+  "originName": "Raja Shivaji",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260710/raja-shivaji-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260710/raja-shivaji-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Lịch Sử",
+      "slug": "lich-su"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Ấn Độ",
+      "slug": "an-do"
+    }
+  ],
+  "description": "<p>Cuốn sách thuật lại sự trỗi dậy của Shivaji Bhonsale trẻ tuổi, người đã thách thức sức mạnh của các đế chế lâu đời để thành lập vương quốc Maratha và đặt nền móng cho \"Swarajya\" (tự trị) trong một thời kỳ hỗn loạn của lịch sử Ấn Độ.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/BDEzN2hI/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/BDEzN2hI/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "raja-shivaji",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -49,22 +49,6 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/55a2471ff102d6ea6bd23c81aafdfd43",
       "m3u8Url": "https://vip.opstream90.com/20260704/36087_55a2471f/index.m3u8"
-    },
-    {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260627/rJtl4haQ/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260627/rJtl4haQ/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260703/GlJnZKpW/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260703/GlJnZKpW/index.m3u8"
     }
   ],
   "sources": [
@@ -77,7 +61,7 @@
     {
       "source": "phimapi",
       "slug": "dung-xin-anh-jane",
-      "episodeCount": 2,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

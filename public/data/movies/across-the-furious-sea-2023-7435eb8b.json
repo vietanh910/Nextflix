@@ -7,51 +7,15 @@
   "posterUrl": "https://phimimg.com/upload/vod/20260705-1/f7f971c3a7eaaae03cd1994dbca3e994.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20260705-1/9d72ac5260a6332ebcd67bd60d352b6f.jpg",
   "year": 2023,
-  "type": "single",
-  "status": "completed",
-  "episodeCurrent": "Full",
-  "categories": [
-    {
-      "name": "Hình Sự",
-      "slug": "hinh-su"
-    },
-    {
-      "name": "Tâm Lý",
-      "slug": "tam-ly"
-    },
-    {
-      "name": "Chính Kịch",
-      "slug": "chinh-kich"
-    },
-    {
-      "name": "Bí Ẩn",
-      "slug": "bi-an"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Trung Quốc",
-      "slug": "trung-quoc"
-    }
-  ],
-  "description": "Lão Kim, một ngư dân vất vả kiếm sống để nuôi con gái Kim Lệ Na du học tại Nhật Bản, bàng hoàng khi nhận tin con bị sát hại với 17 nhát dao. Nghi phạm chính là bạn trai của cô, Lý Miêu Miêu, đã bỏ trốn về Trung Quốc dưới sự che chở của mẹ mình. Quyết tâm báo thù, Lão Kim lao vào cuộc truy đuổi đầy phẫn nộ, nhưng càng tiến gần sự thật, ông càng phát hiện những bí mật đau lòng về cả gia đình nạn nhân lẫn hung thủ.",
-  "quality": "FHD",
-  "lang": "Vietsub",
-  "episodes": [
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/hKlmIRZY/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260704/hKlmIRZY/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "bang-qua-bien-gian-du",
-      "episodeCount": 1,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

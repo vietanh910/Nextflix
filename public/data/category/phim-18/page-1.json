@@ -5,13 +5,13 @@
   "totalPages": 1,
   "items": [
     {
-      "id": "lakad-2025-eab733b7",
+      "id": "white-river-2025-1bf8d899",
       "source": "phimapi",
-      "slug": "tinh-nong",
-      "name": "Tình Nồng",
-      "originName": "Lakad",
-      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/c737c117ea25a47242797e8e3ce94a86.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/607827a7d59d8b799a3b1deff3465710.jpg",
+      "slug": "dong-song-trang-duc-vong-ben-song-trang",
+      "name": "Dòng Sông Trắng (Dục Vọng Bên Sông Trắng)",
+      "originName": "White River",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260710/dong-song-trang-duc-vong-ben-song-trang-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260710/dong-song-trang-duc-vong-ben-song-trang-thumb.webp",
       "year": 2025,
       "type": "single",
       "status": "completed",
@@ -24,45 +24,16 @@
         {
           "name": "Phim 18+",
           "slug": "phim-18"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Philippines",
-          "slug": "philippines"
-        }
-      ]
-    },
-    {
-      "id": "sex-of-golden-plums-2008-07dc9b81",
-      "source": "phimapi",
-      "slug": "phan-kim-lien-di-ban",
-      "name": "Phan Kim Liên dị bản",
-      "originName": "Sex Of Golden Plums",
-      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/c2154f11d07fd46a6bd79a3f4f802d40.jpg",
-      "thumbUrl": "",
-      "year": 2008,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Phim 18+",
-          "slug": "phim-18"
-        },
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     }

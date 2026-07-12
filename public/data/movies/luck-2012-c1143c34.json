@@ -7,107 +7,15 @@
   "posterUrl": "https://phimimg.com/upload/vod/20260630-1/dff5360193664ae8e5f3c8940cb9a545.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20260630-1/f4d880dceafe937b3a4ea33328641ad5.jpg",
   "year": 2012,
-  "type": "series",
-  "status": "completed",
-  "episodeCurrent": "Hoàn Tất (9/9)",
-  "categories": [
-    {
-      "name": "Chính Kịch",
-      "slug": "chinh-kich"
-    },
-    {
-      "name": "Tâm Lý",
-      "slug": "tam-ly"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Âu Mỹ",
-      "slug": "au-my"
-    }
-  ],
-  "description": "Một bộ phim chính kịch lấy bối cảnh trong thế giới đua ngựa đầy kịch tính, tập trung khai thác cuộc đời của những chủ sở hữu, nài ngựa, huấn luyện viên và những tay cá cược — những con người mà số phận đều gắn chặt vào cùng một đường đua.",
-  "quality": "FHD",
-  "lang": "Vietsub",
-  "episodes": [
-    {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260613/iFzAzjt1/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260613/iFzAzjt1/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260613/zFkwnyb7/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260613/zFkwnyb7/index.m3u8"
-    },
-    {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260613/XRxuDwdX/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260613/XRxuDwdX/index.m3u8"
-    },
-    {
-      "name": "Tập 04",
-      "slug": "tap-04",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260613/c9vYi5Ed/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260613/c9vYi5Ed/index.m3u8"
-    },
-    {
-      "name": "Tập 05",
-      "slug": "tap-05",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260613/ALVRQby8/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260613/ALVRQby8/index.m3u8"
-    },
-    {
-      "name": "Tập 06",
-      "slug": "tap-06",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260613/Hhc6cUd5/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260613/Hhc6cUd5/index.m3u8"
-    },
-    {
-      "name": "Tập 07",
-      "slug": "tap-07",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260613/IXV6qIXt/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260613/IXV6qIXt/index.m3u8"
-    },
-    {
-      "name": "Tập 08",
-      "slug": "tap-08",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260613/ENd1sVIx/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260613/ENd1sVIx/index.m3u8"
-    },
-    {
-      "name": "Tập 09",
-      "slug": "tap-09",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260613/IvpYdISY/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260613/IvpYdISY/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "do-den",
-      "episodeCount": 9,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

@@ -7,103 +7,15 @@
   "posterUrl": "https://phimimg.com/upload/vod/20260630-1/ccd066a0b67d0c0d14854f77d7b1fceb.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20260630-1/29806108974975166003cd05471abe76.jpg",
   "year": 2016,
-  "type": "series",
-  "status": "completed",
-  "episodeCurrent": "Hoàn Tất (8/8)",
-  "categories": [
-    {
-      "name": "Hài Hước",
-      "slug": "hai-huoc"
-    },
-    {
-      "name": "Chính Kịch",
-      "slug": "chinh-kich"
-    },
-    {
-      "name": "Tâm Lý",
-      "slug": "tam-ly"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Âu Mỹ",
-      "slug": "au-my"
-    }
-  ],
-  "description": "Bốn người trưởng thành đang cận kề ngưỡng tuổi 40, cùng sống chung dưới một mái nhà, phải chật vật đấu tranh để vừa gìn giữ các mối quan hệ tình cảm, vừa nuôi dưỡng những ước mơ cá nhân của riêng mình.",
-  "quality": "FHD",
-  "lang": "Vietsub",
-  "episodes": [
-    {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/JDDoM7i7/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/JDDoM7i7/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/V7cXSyKW/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/V7cXSyKW/index.m3u8"
-    },
-    {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/6C69qYQp/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/6C69qYQp/index.m3u8"
-    },
-    {
-      "name": "Tập 04",
-      "slug": "tap-04",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/c5aTdte8/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/c5aTdte8/index.m3u8"
-    },
-    {
-      "name": "Tập 05",
-      "slug": "tap-05",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/cfZJHu4b/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/cfZJHu4b/index.m3u8"
-    },
-    {
-      "name": "Tập 06",
-      "slug": "tap-06",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/fUkDRcWJ/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/fUkDRcWJ/index.m3u8"
-    },
-    {
-      "name": "Tập 07",
-      "slug": "tap-07",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/Ky1HmLsq/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/Ky1HmLsq/index.m3u8"
-    },
-    {
-      "name": "Tập 08",
-      "slug": "tap-08",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/eppO7VEz/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/eppO7VEz/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "ben-nhau-phan-2",
-      "episodeCount": 8,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

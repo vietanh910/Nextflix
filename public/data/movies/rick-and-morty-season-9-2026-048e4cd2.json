@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 7",
   "categories": [
     {
       "name": "Hành Động",
@@ -91,65 +91,25 @@
       "m3u8Url": "https://vip.opstream90.com/20260701/35874_294590f8/index.m3u8"
     },
     {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260604/3cxg2S4j/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260604/3cxg2S4j/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260604/ekFx3mdL/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260604/ekFx3mdL/index.m3u8"
-    },
-    {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260625/VLMjgw0b/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260625/VLMjgw0b/index.m3u8"
-    },
-    {
-      "name": "Tập 04",
-      "slug": "tap-04",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260625/yPVKqFvx/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260625/yPVKqFvx/index.m3u8"
-    },
-    {
-      "name": "Tập 05",
-      "slug": "tap-05",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/actoRuV4/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260704/actoRuV4/index.m3u8"
-    },
-    {
-      "name": "Tập 06",
-      "slug": "tap-06",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/514ZThJN/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260704/514ZThJN/index.m3u8"
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/a1b9f1acde9cefc136cd562ddce56ece",
+      "m3u8Url": "https://vip.opstream90.com/20260706/36264_a1b9f1ac/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "rick-va-morty-phan-9",
-      "episodeCount": 6,
+      "episodeCount": 7,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "rick-va-morty-phan-9",
-      "episodeCount": 6,
+      "episodeCount": 0,
       "priority": 1
     }
   ],
