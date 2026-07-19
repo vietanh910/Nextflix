@@ -9,7 +9,22 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Sci-Fi",
+      "slug": "sci-fi"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "countries": [],
+  "description": "Hoshino Yumemi is a companion robot working at an abandoned planetarium. It’s been thirty years since her last customer, but she continues to wait. When a customer finally appears, she enlists his help to fix the planetarium so she can show him the stars.\n<br>\n<br>\n(Source: Crunchyroll)",
   "episodes": [],
   "sources": [
     {

@@ -7,15 +7,43 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260710/hop-den-chuyen-bay-298-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260710/hop-den-chuyen-bay-298-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Một chuyến bay nội địa tưởng chừng bình thường bỗng biến thành cơn ác mộng trên không khi hàng loạt hiện tượng không thể lý giải liên tiếp xảy ra. Giữa những trục trặc công nghệ kỳ dị, sức mạnh siêu nhiên ngày càng dữ dội và dấu vết của một thế lực ngoài hành tinh, các hành khách phải giành giật sự sống khi ranh giới giữa thực tại và ác mộng dần tan biến.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/FZR4z2re/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/FZR4z2re/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "hop-den-chuyen-bay-298",
-      "episodeCount": 0,
+      "episodeCount": 1,
       "priority": 1
     }
   ],

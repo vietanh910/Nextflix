@@ -7,51 +7,15 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260710/nhiem-vu-cuoi-cung-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260710/nhiem-vu-cuoi-cung-thumb.webp",
   "year": 2023,
-  "type": "single",
-  "status": "completed",
-  "episodeCurrent": "Full",
-  "categories": [
-    {
-      "name": "Chính Kịch",
-      "slug": "chinh-kich"
-    },
-    {
-      "name": "Khoa Học",
-      "slug": "khoa-hoc"
-    },
-    {
-      "name": "Phiêu Lưu",
-      "slug": "phieu-luu"
-    },
-    {
-      "name": "Viễn Tưởng",
-      "slug": "vien-tuong"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Hàn Quốc",
-      "slug": "han-quoc"
-    }
-  ],
-  "description": "<p>Nhiệm Vụ Cuối Cùng lấy mốc thời gian giả định vào năm 2029 khi tàu vũ trụ Woori-ho của Hàn Quốc bắt đầu cuộc hành trình tới Mặt trăng.</p>",
-  "quality": "FHD",
-  "lang": "Vietsub",
-  "episodes": [
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/iiuOg0TN/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/iiuOg0TN/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nhiem-vu-cuoi-cung",
-      "episodeCount": 1,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 14",
+  "episodeCurrent": "Tập 15",
   "categories": [
     {
       "name": "Hành Động",
@@ -155,6 +155,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260711/s8LCRdXa/index.m3u8"
     },
     {
+      "name": "Tập 15",
+      "slug": "tap-15",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/weudKljG/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/weudKljG/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Lồng Tiếng",
@@ -201,6 +209,14 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260711/Yp0BvlDI/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260711/Yp0BvlDI/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/JpmYqDsM/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/JpmYqDsM/index.m3u8"
     },
     {
       "name": "1",
@@ -305,19 +321,35 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/23c7963ec66989c155759d1ed3a6cbea",
       "m3u8Url": "https://vip.opstream90.com/20260705/36170_23c7963e/index.m3u8"
+    },
+    {
+      "name": "14",
+      "slug": "14",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/e12612acc5951b13ed502266385b8108",
+      "m3u8Url": "https://vip.opstream10.com/20260719/34351_e12612ac/index.m3u8"
+    },
+    {
+      "name": "15",
+      "slug": "15",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/0832a7d7b55992260bda1b1c6b2fd924",
+      "m3u8Url": "https://vip.opstream10.com/20260719/34350_0832a7d7/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "song-menh-coi-hoang-tuyen",
-      "episodeCount": 13,
+      "episodeCount": 15,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "song-menh-coi-hoang-tuyen",
-      "episodeCount": 20,
+      "episodeCount": 22,
       "priority": 1
     }
   ],

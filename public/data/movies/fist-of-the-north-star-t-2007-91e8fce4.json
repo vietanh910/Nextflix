@@ -9,7 +9,22 @@
   "year": 2007,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "countries": [],
+  "description": "The third chapter of the pentalogy (3 Movies + 2 OVAs). A retelling of Kenshiro's final battle with Raoh.<br><br>\n(Source: Wikipedia)",
   "episodes": [],
   "sources": [
     {

@@ -7,43 +7,15 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260710/50-lan-hen-dau-tien-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260710/50-lan-hen-dau-tien-thumb.webp",
   "year": 2004,
-  "type": "single",
-  "status": "completed",
-  "episodeCurrent": "Full",
-  "categories": [
-    {
-      "name": "Hài Hước",
-      "slug": "hai-huoc"
-    },
-    {
-      "name": "Tình Cảm",
-      "slug": "tinh-cam"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Âu Mỹ",
-      "slug": "au-my"
-    }
-  ],
-  "description": "<p>Lucy là một cô gái bị mất trí nhớ sau một tai nạn thảm khốc, sau khi ngủ dậy cô lại quên tất cả mọi thứ xảy ra ngày hôm qua. Henny là một bác sĩ thú y làm trong một công viên thủy sinh tại Hawaii, anh đã đem lòng yêu Lucy và tìm mọi cách để cô nhớ lại mọi thứ. Từ đây bắt đầu những tình tiết dở khóc dở cười xảy ra.</p>",
-  "quality": "FHD",
-  "lang": "Vietsub",
-  "episodes": [
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/iFZixpPm/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/iFZixpPm/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "50-lan-hen-dau-tien",
-      "episodeCount": 1,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

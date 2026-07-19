@@ -7,47 +7,15 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260712/can-canh-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260712/can-canh-thumb.webp",
   "year": 1990,
-  "type": "single",
-  "status": "completed",
-  "episodeCurrent": "Full",
-  "categories": [
-    {
-      "name": "Chính Kịch",
-      "slug": "chinh-kich"
-    },
-    {
-      "name": "Hình Sự",
-      "slug": "hinh-su"
-    },
-    {
-      "name": "Tâm Lý",
-      "slug": "tam-ly"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Iran",
-      "slug": "iran"
-    }
-  ],
-  "description": "<p>Tác phẩm lai giữa hư cấu và tài liệu này sử dụng một sự kiện giật gân có thật trong đời thực — vụ bắt giữ một người đàn ông trẻ tuổi với cáo buộc giả mạo danh tính của nhà làm phim nổi tiếng Mohsen Makhmalbaf để lừa đảo. Từ đó, bộ phim mở ra một cuộc điều tra đáng kinh ngạc và đa tầng về điện ảnh, danh tính, sáng tạo nghệ thuật lẫn sự tồn tại của con người, với điểm đặc biệt là các nhân vật có thật trong vụ án đều tự đóng vai chính mình.</p>",
-  "quality": "FHD",
-  "lang": "Vietsub",
-  "episodes": [
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260711/syHzgT8j/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260711/syHzgT8j/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "can-canh",
-      "episodeCount": 1,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

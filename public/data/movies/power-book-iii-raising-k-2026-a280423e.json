@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Hình Sự",
@@ -65,13 +65,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/903e3d25a3da9498a77d4b72432b98e2",
       "m3u8Url": "https://vip.opstream10.com/20260705/33972_903e3d25/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/d53747ccb7ee68461cdce44eca7eca9b",
+      "m3u8Url": "https://vip.opstream10.com/20260712/33988_d53747cc/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "power-book-iii-raising-kanan-phan-5",
-      "episodeCount": 4,
+      "episodeCount": 5,
       "priority": 0
     }
   ],

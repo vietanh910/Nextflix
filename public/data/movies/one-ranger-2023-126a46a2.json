@@ -7,43 +7,15 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260710/kiem-lam-texas-biet-dong-texas-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260710/kiem-lam-texas-biet-dong-texas-thumb.webp",
   "year": 2023,
-  "type": "single",
-  "status": "completed",
-  "episodeCurrent": "Full",
-  "categories": [
-    {
-      "name": "Hành Động",
-      "slug": "hanh-dong"
-    },
-    {
-      "name": "Tâm Lý",
-      "slug": "tam-ly"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Âu Mỹ",
-      "slug": "au-my"
-    }
-  ],
-  "description": "<p>Biệt Động Texas Được tình báo Anh tuyển dụng, Biệt đội Texas phải truy tìm và ngăn chặn một tên khủng bố nguy hiểm tấn công London.</p>",
-  "quality": "FHD",
-  "lang": "Vietsub",
-  "episodes": [
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/wBYUF7c1/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/wBYUF7c1/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "kiem-lam-texas-biet-dong-texas",
-      "episodeCount": 1,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

@@ -1,0 +1,81 @@
+{
+  "id": "peach-and-me-2026-15279d63",
+  "source": "ophim",
+  "slug": "tinh-tao-roi-lookpeach",
+  "name": "Tỉnh Táo Rồi, Lookpeach",
+  "originName": "Peach and Me",
+  "posterUrl": "https://img.ophim.live/uploads/movies/tinh-tao-roi-lookpeach-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/tinh-tao-roi-lookpeach-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thái Lan",
+      "slug": "thai-lan"
+    }
+  ],
+  "description": "<p>After their wedding, Thee and Peach embrace the joys and chaos of married life while finding their own rhythm together.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/d9749cf32d4dfe38ddc695572dd948b9",
+      "m3u8Url": "https://vip.opstream10.com/20260718/34334_d9749cf3/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/76116a8b8f5da981ab90769dcf68a207",
+      "m3u8Url": "https://vip.opstream10.com/20260718/34335_76116a8b/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260711/AAvposmR/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260711/AAvposmR/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/NJKGvP91/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/NJKGvP91/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "tinh-tao-roi-lookpeach",
+      "episodeCount": 2,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "tinh-tao-roi-lookpeach",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

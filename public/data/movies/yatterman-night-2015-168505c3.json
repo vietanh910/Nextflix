@@ -9,7 +9,26 @@
   "year": 2015,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Sci-Fi",
+      "slug": "sci-fi"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "countries": [],
+  "description": "Long ago, a pair of heroes called the Yatterman faced off against the Doronbow Gang, led by the sexy villainess Doronjo. Years later the Yatter Kingdom is protected by the new Yatterman. But the mysterious rulers have forced the Yatter people into labor, and unrest runs rampant in the kingdom. Now, a new Doronjo reforms the Doronbow Gang to rebel against the Yatterman.<br>\n<br>\n(Source: Funimation)",
   "episodes": [],
   "sources": [
     {

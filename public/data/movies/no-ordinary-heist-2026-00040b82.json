@@ -7,51 +7,15 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260710/vu-cuop-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260710/vu-cuop-thumb.webp",
   "year": 2026,
-  "type": "single",
-  "status": "completed",
-  "episodeCurrent": "Full",
-  "categories": [
-    {
-      "name": "Hình Sự",
-      "slug": "hinh-su"
-    },
-    {
-      "name": "Tâm Lý",
-      "slug": "tam-ly"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Anh",
-      "slug": "anh"
-    },
-    {
-      "name": "Ireland",
-      "slug": "ireland"
-    },
-    {
-      "name": "Âu Mỹ",
-      "slug": "au-my"
-    }
-  ],
-  "description": "<p>Lấy cảm hứng từ vụ cướp ngân hàng Northern Bank năm 2004 có thật, hai nhân viên ngân hàng thù địch nhau bị buộc phải thực hiện vụ cướp lớn nhất lịch sử Ireland sau khi bọn tội phạm bắt cóc gia đình họ và đe dọa giết hại.</p>",
-  "quality": "FHD",
-  "lang": "Vietsub",
-  "episodes": [
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260711/lKWaU41L/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260711/lKWaU41L/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "vu-cuop",
-      "episodeCount": 1,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

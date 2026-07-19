@@ -9,7 +9,22 @@
   "year": 2007,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "countries": [],
+  "description": "The film adapts a story from volume 5 of the Kino no Tabi light novel series and tells of another country Kino travels through. ",
   "episodes": [],
   "sources": [
     {

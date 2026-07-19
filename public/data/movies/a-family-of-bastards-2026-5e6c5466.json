@@ -7,47 +7,15 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260710/a-family-of-bastards-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260710/a-family-of-bastards-thumb.webp",
   "year": 2026,
-  "type": "single",
-  "status": "completed",
-  "episodeCurrent": "Full",
-  "categories": [
-    {
-      "name": "Hài Hước",
-      "slug": "hai-huoc"
-    },
-    {
-      "name": "Hình Sự",
-      "slug": "hinh-su"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Pháp",
-      "slug": "phap"
-    },
-    {
-      "name": "Âu Mỹ",
-      "slug": "au-my"
-    }
-  ],
-  "description": "<p>Paris, năm 1997. Sau khi người cha trăng hoa của Mohamed bị bắn chết, anh phát hiện ra hai anh em ruột mà mình chưa từng biết đến, Maurice và Morgane. Cùng nhau, họ phải cứu quán bar tồi tàn của cha mình, Chez Momo, khỏi nợ nần và bọn gangster địa phương với sự giúp đỡ của những khách quen.</p>",
-  "quality": "FHD",
-  "lang": "Vietsub",
-  "episodes": [
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/5eCPRXbb/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/5eCPRXbb/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "a-family-of-bastards",
-      "episodeCount": 1,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

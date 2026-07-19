@@ -9,7 +9,22 @@
   "year": 2007,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Sci-Fi",
+      "slug": "sci-fi"
+    },
+    {
+      "name": "Mecha",
+      "slug": "mecha"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "countries": [],
+  "description": "This Movie is a recap of the original anime's first quarter.",
   "episodes": [],
   "sources": [
     {

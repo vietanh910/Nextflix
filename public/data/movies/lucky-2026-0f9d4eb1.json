@@ -1,0 +1,85 @@
+{
+  "id": "lucky-2026-0f9d4eb1",
+  "source": "ophim",
+  "slug": "cuoc-dua-sinh-tu",
+  "name": "Cuộc Đua Sinh Tử",
+  "originName": "Lucky",
+  "posterUrl": "https://img.ophim.live/uploads/movies/cuoc-dua-sinh-tu-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/cuoc-dua-sinh-tu-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Anh",
+      "slug": "anh"
+    }
+  ],
+  "description": "<p>Khi một phi vụ trị giá hàng triệu đô đổ bể, nữ lừa đảo Lucky buộc phải bỏ trốn. Bị FBI và một ông trùm tội phạm tàn nhẫn truy đuổi, Lucky phải chiến đấu để giữ mạng sống — và tìm lối thoát.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/aef5a7530aaa272bbaec34e49251b25a",
+      "m3u8Url": "https://vip.opstream10.com/20260719/34343_aef5a753/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/f2abae2c6442359b27db5cf70be05da4",
+      "m3u8Url": "https://vip.opstream10.com/20260719/34344_f2abae2c/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/TnLSnMYZ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/TnLSnMYZ/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/BbGWFfOk/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/BbGWFfOk/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "cuoc-dua-sinh-tu",
+      "episodeCount": 2,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "cuoc-dua-sinh-tu",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

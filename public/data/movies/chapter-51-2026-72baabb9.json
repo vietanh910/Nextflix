@@ -7,47 +7,15 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260710/chapter-51-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260710/chapter-51-thumb.webp",
   "year": 2026,
-  "type": "single",
-  "status": "completed",
-  "episodeCurrent": "Full",
-  "categories": [
-    {
-      "name": "Bí Ẩn",
-      "slug": "bi-an"
-    },
-    {
-      "name": "Hài Hước",
-      "slug": "hai-huoc"
-    },
-    {
-      "name": "Hình Sự",
-      "slug": "hinh-su"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Âu Mỹ",
-      "slug": "au-my"
-    }
-  ],
-  "description": "<p>Một kẻ giết người hàng loạt bí ẩn được biết đến với biệt danh Kẻ giết người Hollywood đã biến một dự án sản xuất phim đình đám thành hiện trường tội ác rùng rợn, sát hại ba nữ diễn viên và phủ bóng đen lên dự án đầy rắc rối này. Khi nỗi sợ hãi, những lời đồn đoán và sự hỗn loạn lan rộng phía sau hậu trường, quá trình sản xuất phim mãi mãi gắn liền với một vụ án gây chấn động Hollywood và vẫn chưa được giải quyết. Nhiều năm sau, cựu đặc vụ FBI Thomas Scott mở lại vụ án cũ, xem xét lại các sự kiện xung quanh các vụ giết người và khám phá ra những bí mật không thể nào chôn vùi.</p>",
-  "quality": "FHD",
-  "lang": "Vietsub",
-  "episodes": [
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/nTc0mfGs/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/nTc0mfGs/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "chapter-51",
-      "episodeCount": 1,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 6",
   "categories": [
     {
       "name": "Viễn Tưởng",
@@ -73,13 +73,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/c04ee68bad31e814e67c402f57dbf1d2",
       "m3u8Url": "https://vip.opstream10.com/20260706/33975_c04ee68b/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/9c72beb8516560029a65e588f5302db3",
+      "m3u8Url": "https://vip.opstream10.com/20260713/33989_9c72beb8/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "ma-ca-rong-lestat-de-lioncourt",
-      "episodeCount": 5,
+      "episodeCount": 6,
       "priority": 0
     }
   ],

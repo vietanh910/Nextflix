@@ -38,6 +38,14 @@
       "name": "",
       "serverName": "Vietsub #1",
       "source": "ophim"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/iH6o7Ll4/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/iH6o7Ll4/index.m3u8"
     }
   ],
   "sources": [
@@ -46,6 +54,12 @@
       "slug": "dien-anh-conan-29-thien-than-sa-nga-tren-xa-lo",
       "episodeCount": 1,
       "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "tham-tu-lung-danh-conan-thien-than-sa-nga-tren-xa-lo",
+      "episodeCount": 1,
+      "priority": 1
     }
   ],
   "_priority": 0

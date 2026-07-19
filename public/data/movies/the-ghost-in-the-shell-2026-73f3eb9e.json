@@ -7,15 +7,63 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260711/koukaku-kidoutai-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260711/koukaku-kidoutai-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Hoạt Hình",
+      "slug": "hoat-hinh"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Năm 2029, tại một Nhật Bản ở tương lai gần. Nữ chiến binh cyborg toàn phần Motoko Kusanagi đã hình dung ra một lực lượng đặc nhiệm chuyên tấn công phủ đầu các mối đe dọa mới nổi. Cô và các đồng đội của mình đã được Daisuke Aramaki chiêu mộ để thành lập Đội 9 Cục An ninh Công cộng, còn được biết đến với cái tên \"Biệt đội Vỏ bọc\" (Shell Squad). Một âm mưu quốc tế dần lộ diện, hướng về gã hacker bí ẩn được gọi là \"Kẻ Điều Khiển Rối\" (Puppet Master). Số phận nào đang đón đợi Kusanagi? Mục đích cuối cùng của gã hacker kia là gì? Một kỷ nguyên mới của thể loại hành động cyberpunk chính thức bắt đầu!</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/Pc9Usl2q/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/Pc9Usl2q/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/eoDHdcwA/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/eoDHdcwA/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "koukaku-kidoutai",
-      "episodeCount": 0,
+      "episodeCount": 2,
       "priority": 1
     }
   ],

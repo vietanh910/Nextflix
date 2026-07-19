@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 3",
+  "episodeCurrent": "Tập 4",
   "categories": [
     {
       "name": "Hành Động",
@@ -57,13 +57,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/7f3d33f3605e0faebf737640951c5bc1",
       "m3u8Url": "https://vip.opstream10.com/20260712/33987_7f3d33f3/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/0aa009391d33cae0536040843c3f6735",
+      "m3u8Url": "https://vip.opstream10.com/20260713/33990_0aa00939/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "bong-ma-bao-thu",
-      "episodeCount": 3,
+      "episodeCount": 4,
       "priority": 0
     },
     {

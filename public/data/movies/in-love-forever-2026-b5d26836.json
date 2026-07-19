@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 3",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Chính kịch",
@@ -49,13 +49,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/09b15aeee2bc9c47f03de9e6180d28a5",
       "m3u8Url": "https://vip.opstream90.com/20260704/36100_09b15aee/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/c9571bae638b1e00f6ce64325c44c285",
+      "m3u8Url": "https://vip.opstream10.com/20260718/34310_c9571bae/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/243c74a16947d5d9d7ed8937ac3d2656",
+      "m3u8Url": "https://vip.opstream10.com/20260718/34311_243c74a1/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "ve-nen-giac-mo-ngay-cuoi",
-      "episodeCount": 3,
+      "episodeCount": 5,
       "priority": 0
     }
   ],

@@ -1,0 +1,55 @@
+{
+  "id": "desire-2026-f15c7f66",
+  "source": "phimapi",
+  "slug": "khao-khat-deseo",
+  "name": "Khao Khát / Deseo",
+  "originName": "Desire",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260718/khao-khat-deseo-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260718/khao-khat-deseo-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Bí Ẩn",
+      "slug": "bi-an"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Mexico",
+      "slug": "mexico"
+    }
+  ],
+  "description": "<p>Khi luật sư đã kết hôn nọ bắt đầu ngoại tình với huấn luyện viên bơi của con gái, mối tình nồng cháy dần biến thành một trò chơi rối ren mà rồi ai cũng mất kiểm soát.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260717/zeHcukqv/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260717/zeHcukqv/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "khao-khat-deseo",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

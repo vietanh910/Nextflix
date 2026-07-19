@@ -1,0 +1,73 @@
+{
+  "id": "spooky-in-love-2026-1d5bf7d5",
+  "source": "ophim",
+  "slug": "chuyen-tinh-ma-quai",
+  "name": "Chuyện tình ma quái",
+  "originName": "Spooky in Love",
+  "posterUrl": "https://img.ophim.live/uploads/movies/chuyen-tinh-ma-quai-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/chuyen-tinh-ma-quai-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 1",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "<p>When a ghost-seeing heir and an ace prosecutor learn that a single touch makes them a strangely effective duo, they team up to crack unsolved murders.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/f9825fce3f80c8c387aea3be5e387179",
+      "m3u8Url": "https://vip.opstream10.com/20260718/34329_f9825fce/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/7ixHFZj9/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/7ixHFZj9/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "chuyen-tinh-ma-quai",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "chuyen-tinh-ma-quai",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

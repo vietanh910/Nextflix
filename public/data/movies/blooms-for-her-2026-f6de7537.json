@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 18",
+  "episodeCurrent": "Tập 25",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -181,13 +181,69 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260711/LwcVeC9i/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260711/LwcVeC9i/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260712/I4XShOjB/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260712/I4XShOjB/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260713/xRcQn6GK/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260713/xRcQn6GK/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260714/aaCPF1pY/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260714/aaCPF1pY/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260715/DGCpUZyM/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260715/DGCpUZyM/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260716/qxxoLpAK/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260716/qxxoLpAK/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260717/zOkh7iv1/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260717/zOkh7iv1/index.m3u8"
+    },
+    {
+      "name": "Tập 25",
+      "slug": "tap-25",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/mkXbfITM/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/mkXbfITM/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "xuan-hoa-yen",
-      "episodeCount": 18,
+      "episodeCount": 25,
       "priority": 1
     }
   ],

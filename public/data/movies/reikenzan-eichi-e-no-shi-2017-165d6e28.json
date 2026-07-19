@@ -9,7 +9,18 @@
   "year": 2017,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "countries": [],
+  "description": "The second season of Reikenzan: Hoshikuzu-tachi no Utage.",
   "episodes": [],
   "sources": [
     {

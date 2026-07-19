@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 7",
   "categories": [
     {
       "name": "Hành Động",
@@ -73,13 +73,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/111df71156b0f9bf5df48fb11c3c4647",
       "m3u8Url": "https://vip.opstream90.com/20260702/35950_111df711/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/c45cacd0247d28eb223a75f200d46a57",
+      "m3u8Url": "https://vip.opstream10.com/20260717/34070_c45cacd0/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/1739130c3536fc447709a3828ca184ba",
+      "m3u8Url": "https://vip.opstream10.com/20260717/34071_1739130c/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "tieu-nhan-phan-2",
-      "episodeCount": 5,
+      "episodeCount": 7,
       "priority": 0
     }
   ],

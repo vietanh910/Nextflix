@@ -1,0 +1,51 @@
+{
+  "id": "the-bay-2026-5e7ad49c",
+  "source": "phimapi",
+  "slug": "vinh-ca-map",
+  "name": "Vịnh Cá Mập",
+  "originName": "The Bay",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260718/the-bay-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260718/the-bay-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Đôi bạn thân Emma và Lani, khi đang đến Thái Lan để tham dự một đám cưới kết hợp du lịch, bỗng thấy mình bị mắc kẹt trên một chiếc thuyền tham quan đang chìm dần ngay giữa lòng thánh địa của loài cá mập hổ.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/3a3Js8hx/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/3a3Js8hx/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "vinh-ca-map",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

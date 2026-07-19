@@ -7,59 +7,15 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260710/nao-loan-pho-bronx-vu-huyen-nao-pho-bronx-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260710/nao-loan-pho-bronx-vu-huyen-nao-pho-bronx-thumb.webp",
   "year": 1995,
-  "type": "single",
-  "status": "completed",
-  "episodeCurrent": "Full",
-  "categories": [
-    {
-      "name": "Hài Hước",
-      "slug": "hai-huoc"
-    },
-    {
-      "name": "Hành Động",
-      "slug": "hanh-dong"
-    },
-    {
-      "name": "Hình Sự",
-      "slug": "hinh-su"
-    },
-    {
-      "name": "Tâm Lý",
-      "slug": "tam-ly"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Hồng Kông",
-      "slug": "hong-kong"
-    }
-  ],
-  "description": "<p>Cường từ Hồng Kông đến New York để chuẩn bị cho đám cưới người chú của anh ta và khám phá ra được sự nguy hiểm ở khu Bronx. Trong khi trông nom cửa hàng mà chú của Cường vừa bán cho gã nhà giàu Elaine, anh tìm hiểu ra rằng hắn là một tên buôn lậu kim cương và có một nhóm những gã côn đồ theo sau...</p>",
-  "quality": "FHD",
-  "lang": "Vietsub + Thuyết Minh",
-  "episodes": [
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/0RO5w5n3/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/0RO5w5n3/index.m3u8"
-    },
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "Thuyết Minh",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/AHOzpl5M/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/AHOzpl5M/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nao-loan-pho-bronx-vu-huyen-nao-pho-bronx",
-      "episodeCount": 2,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

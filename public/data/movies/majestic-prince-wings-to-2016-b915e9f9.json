@@ -9,7 +9,22 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Sci-Fi",
+      "slug": "sci-fi"
+    },
+    {
+      "name": "Mecha",
+      "slug": "mecha"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "countries": [],
+  "description": "An all-new \"episode 25\" will be broadcast at the end of a rebroadcast of the original 2013 TV series, which will begin in July. The episode will connect the series to the new Majestic Prince film.\n<br><br>\n(Source: Anime News Network)",
   "episodes": [],
   "sources": [
     {

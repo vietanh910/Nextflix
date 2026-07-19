@@ -6,15 +6,107 @@
   "originName": "Girls und Panzer: Motto Love Love Sakusen Desu! Act 2",
   "posterUrl": "https://phimimg.com/uploads/movies/20260711/12-poster.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 9",
+  "categories": [
+    {
+      "name": "Hoạt Hình",
+      "slug": "hoat-hinh"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Tập trung vào yếu tố hài hước (gag manga) và đời thường, khai thác các mối quan hệ và sở thích cá nhân của các nữ sinh từ nhiều trường khác nhau (như Oarai, Saunders, Pravda, St. Gloriana</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/ICYCIJqi/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/ICYCIJqi/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/3LXvjPjN/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/3LXvjPjN/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/8ug52MZe/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/8ug52MZe/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/JW5Cp3GX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/JW5Cp3GX/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/q4p698qm/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/q4p698qm/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/WvmNmWP3/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/WvmNmWP3/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/tYYb0jwG/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/tYYb0jwG/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260716/nrgNdE8d/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260716/nrgNdE8d/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/0I7FIk89/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/0I7FIk89/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "12",
-      "episodeCount": 0,
+      "episodeCount": 9,
       "priority": 1
     }
   ],

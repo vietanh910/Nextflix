@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 3",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Chính kịch",
@@ -53,19 +53,75 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/502193081905426c7c32d2a78089bb35",
       "m3u8Url": "https://vip.opstream90.com/20260703/36050_50219308/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/7b658e43a7708347c6d7bc39f253b903",
+      "m3u8Url": "https://vip.opstream10.com/20260718/34292_7b658e43/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/c24a32c563290f4347f8225282b56247",
+      "m3u8Url": "https://vip.opstream10.com/20260718/34293_c24a32c5/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260622/qXWCQyCQ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260622/qXWCQyCQ/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260626/r3UOjgOF/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260626/r3UOjgOF/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/DWPK9kEn/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260704/DWPK9kEn/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/jTFiqpZV/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/jTFiqpZV/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260717/q5Zp0X5n/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260717/q5Zp0X5n/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "tham-tu-sugar-phan-2",
-      "episodeCount": 3,
+      "episodeCount": 5,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "tham-tu-sugar-phan-2",
-      "episodeCount": 0,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

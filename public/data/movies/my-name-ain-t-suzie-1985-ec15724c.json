@@ -7,39 +7,15 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260710/my-name-aint-suzie-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260710/my-name-aint-suzie-thumb.webp",
   "year": 1985,
-  "type": "single",
-  "status": "completed",
-  "episodeCurrent": "Full",
-  "categories": [
-    {
-      "name": "Chính Kịch",
-      "slug": "chinh-kich"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Hồng Kông",
-      "slug": "hong-kong"
-    }
-  ],
-  "description": "<p>Khao khát vui chơi, lính Mỹ đổ xô đến các quán bar ở Hồng Kông cuối những năm 1950. Với đội ngũ nhân viên là những cô gái trẻ được tuyển chọn kỹ lưỡng từ vùng nông thôn, quán Lucky Bar là quán bar nổi tiếng nhất trong số đó, và Shui Mei là cô gái thông minh và nhiệt tình nhất trong số những người học việc ở đó. Cô nhanh chóng lọt vào mắt xanh của Jimmy, người mỗi tối đều đi từ bàn này sang bàn khác, khoe ảnh cha mình và hỏi thăm tin tức về ông.</p>",
-  "quality": "FHD",
-  "lang": "Vietsub",
-  "episodes": [
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/Avmlkffx/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/Avmlkffx/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "my-name-aint-suzie",
-      "episodeCount": 1,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

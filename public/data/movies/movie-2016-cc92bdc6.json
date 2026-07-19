@@ -9,7 +9,16 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Slice of Life",
+      "slug": "slice-of-life"
+    }
+  ],
   "episodes": [],
   "sources": [
     {
@@ -85,5 +94,6 @@
       "priority": 3
     }
   ],
-  "_priority": 3
+  "_priority": 3,
+  "description": "Special episode bundled with BD & DVD Vol.7"
 }

@@ -2,7 +2,7 @@
   "slug": "hinh-su",
   "name": "Hình Sự",
   "page": 1,
-  "totalPages": 4,
+  "totalPages": 3,
   "items": [
     {
       "id": "movie-2026-55c4d1ef",
@@ -193,7 +193,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Hành Động",
@@ -336,35 +336,6 @@
       ]
     },
     {
-      "id": "wolf-hunters-2-2026-d6162d8b",
-      "source": "ophim",
-      "slug": "chien-dao-do-lang-2",
-      "name": "Chiến Đao Đồ Lang 2",
-      "originName": "Wolf Hunters 2",
-      "posterUrl": "https://img.ophim.live/uploads/movies/chien-dao-do-lang-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/chien-dao-do-lang-2-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
       "id": "cia-2026-a7dd09e8",
       "source": "ophim",
       "slug": "cia-phan-1",
@@ -435,17 +406,17 @@
       ]
     },
     {
-      "id": "grave-robbery-2026-6c7628ba",
+      "id": "lucky-2026-0f9d4eb1",
       "source": "ophim",
-      "slug": "dao-mo-dai-an",
-      "name": "Đạo Mộ Đại Án",
-      "originName": "Grave Robbery",
-      "posterUrl": "https://img.ophim.live/uploads/movies/dao-mo-dai-an-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/dao-mo-dai-an-thumb.jpg",
+      "slug": "cuoc-dua-sinh-tu",
+      "name": "Cuộc Đua Sinh Tử",
+      "originName": "Lucky",
+      "posterUrl": "https://img.ophim.live/uploads/movies/cuoc-dua-sinh-tu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/cuoc-dua-sinh-tu-thumb.jpg",
       "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 2",
       "categories": [
         {
           "name": "Hình Sự",
@@ -458,8 +429,12 @@
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
         }
       ]
     },
@@ -749,6 +724,39 @@
         {
           "name": "Anh",
           "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "the-prosecutor-s-proposa-2026-04fdb5b1",
+      "source": "ophim",
+      "slug": "loi-de-nghi-cua-cong-to-vien",
+      "name": "Lời Đề Nghị Của Công Tố Viên",
+      "originName": "The Prosecutor's Proposal",
+      "posterUrl": "https://img.ophim.live/uploads/movies/loi-de-nghi-cua-cong-to-vien-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/loi-de-nghi-cua-cong-to-vien-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 8",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     }

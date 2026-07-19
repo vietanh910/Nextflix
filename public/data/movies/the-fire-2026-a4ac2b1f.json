@@ -1,0 +1,77 @@
+{
+  "id": "the-fire-2026-a4ac2b1f",
+  "source": "ophim",
+  "slug": "xich-tinh-ruc-lua",
+  "name": "Xích Tình Rực Lửa",
+  "originName": "The Fire",
+  "posterUrl": "https://img.ophim.live/uploads/movies/xich-tinh-ruc-lua-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/xich-tinh-ruc-lua-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thái Lan",
+      "slug": "thai-lan"
+    }
+  ],
+  "description": "<p>In the South, 'Fai' Atchima Watinwanich reunites with rival 'Kaphrao' Athitaya Thitsama, a spark that could kindle love or reopen old wounds.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/19081333d0f55f0e056d42691466a191",
+      "m3u8Url": "https://vip.opstream10.com/20260718/34336_19081333/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/5f963b42063bb09eaf0529dd0e6d84ce",
+      "m3u8Url": "https://vip.opstream10.com/20260718/34337_5f963b42/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260711/OePl6h62/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260711/OePl6h62/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/JlfUu3TX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/JlfUu3TX/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "xich-tinh-ruc-lua",
+      "episodeCount": 2,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "xich-tinh-ruc-lua",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

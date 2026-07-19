@@ -2,7 +2,7 @@
   "slug": "bi-an",
   "name": "Bí ẩn",
   "page": 1,
-  "totalPages": 2,
+  "totalPages": 3,
   "items": [
     {
       "id": "vought-rising-2027-d5e1e4aa",
@@ -401,6 +401,47 @@
       ]
     },
     {
+      "id": "black-torch-2026-febb6e53",
+      "source": "ophim",
+      "slug": "duoc-den",
+      "name": "Đuốc Đen",
+      "originName": "BLACK TORCH",
+      "posterUrl": "https://img.ophim.live/uploads/movies/duoc-den-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/duoc-den-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 3",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
       "id": "enola-holmes-3-2026-62afd575",
       "source": "ophim",
       "slug": "enola-holmes-3",
@@ -568,7 +609,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hình Sự",
@@ -577,6 +618,80 @@
         {
           "name": "Chính kịch",
           "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "recommendations-from-iwa-2026-0e5938a4",
+      "source": "ophim",
+      "slug": "loi-gioi-thieu-cua-tien-boi-iwamoto",
+      "name": "Lời Giới Thiệu Của Tiền Bối Iwamoto",
+      "originName": "Recommendations from Iwamoto-Senpai",
+      "posterUrl": "https://img.ophim.live/uploads/movies/loi-gioi-thieu-cua-tien-boi-iwamoto-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/loi-gioi-thieu-cua-tien-boi-iwamoto-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 3",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-east-palace-2026-9fa33766",
+      "source": "ophim",
+      "slug": "loi-nguyen-dong-cung",
+      "name": "Lời nguyền Đông Cung",
+      "originName": "The East Palace",
+      "posterUrl": "https://img.ophim.live/uploads/movies/loi-nguyen-dong-cung-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/loi-nguyen-dong-cung-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
         },
         {
           "name": "Bí ẩn",
@@ -674,101 +789,6 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "the-gift-2026-808d190d",
-      "source": "ophim",
-      "slug": "mon-qua-cua-kluay",
-      "name": "Món Quà Của Kluay",
-      "originName": "The Gift",
-      "posterUrl": "https://img.ophim.live/uploads/movies/mon-qua-cua-kluay-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/mon-qua-cua-kluay-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (34/34)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "a-good-girl-s-guide-to-m-2026-3c0d564c",
-      "source": "ophim",
-      "slug": "nhan-chung-cuoi-cung-phan-2",
-      "name": "Nhân chứng cuối cùng (Phần 2)",
-      "originName": "A Good Girl's Guide to Murder (Season 2)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nhan-chung-cuoi-cung-phan-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nhan-chung-cuoi-cung-phan-2-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (6/6)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
-        },
-        {
-          "name": "Đức",
-          "slug": "duc"
-        }
-      ]
-    },
-    {
-      "id": "notes-from-the-last-row-2026-08bc4e68",
-      "source": "ophim",
-      "slug": "nhung-ghi-chu-o-hang-cuoi",
-      "name": "Những ghi chú ở hàng cuối",
-      "originName": "Notes from the Last Row",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nhung-ghi-chu-o-hang-cuoi-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nhung-ghi-chu-o-hang-cuoi-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (6/6)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
         }
       ]
     }

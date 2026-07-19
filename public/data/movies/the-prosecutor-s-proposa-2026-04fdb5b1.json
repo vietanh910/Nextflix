@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Hình Sự",
@@ -65,13 +65,45 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/ba6e45774dae2032588b3dd888c0b80f",
       "m3u8Url": "https://vip.opstream90.com/20260703/36048_ba6e4577/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/6a30bf1cd3a822b858025a0b1f861330",
+      "m3u8Url": "https://vip.opstream10.com/20260717/34072_6a30bf1c/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/8d9f57e55ce61b56407e9b8957e2ca4a",
+      "m3u8Url": "https://vip.opstream10.com/20260717/34073_8d9f57e5/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/f3498e568e0bb45515779d6bd47e20f4",
+      "m3u8Url": "https://vip.opstream10.com/20260717/34074_f3498e56/index.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/092dff5b934f87c1176766e1cddd6327",
+      "m3u8Url": "https://vip.opstream10.com/20260717/34075_092dff5b/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "loi-de-nghi-cua-cong-to-vien",
-      "episodeCount": 4,
+      "episodeCount": 8,
       "priority": 0
     },
     {

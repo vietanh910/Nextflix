@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 3",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Hành Động",
@@ -61,19 +61,75 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/88447d3a2c4e50237d32431a087518dd",
       "m3u8Url": "https://vip.opstream90.com/20260705/36143_88447d3a/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/d8585cb93fef89c4cf932574e6554c9c",
+      "m3u8Url": "https://vip.opstream10.com/20260718/34324_d8585cb9/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/c3e71101f147210be216f85bf76a067a",
+      "m3u8Url": "https://vip.opstream10.com/20260718/34325_c3e71101/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260706/Q8c4cLW0/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260706/Q8c4cLW0/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260706/PgHOFUsP/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260706/PgHOFUsP/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260706/gx3pDNu7/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260706/gx3pDNu7/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/6JqNlfcP/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/6JqNlfcP/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260717/rpSX3ha4/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260717/rpSX3ha4/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "di-nhan-97-phan-2",
-      "episodeCount": 3,
+      "episodeCount": 5,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "di-nhan-97-phan-2",
-      "episodeCount": 0,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

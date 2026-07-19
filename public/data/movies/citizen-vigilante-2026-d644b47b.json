@@ -7,55 +7,15 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260710/cong-dan-tu-xu-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260710/cong-dan-tu-xu-thumb.webp",
   "year": 2026,
-  "type": "single",
-  "status": "completed",
-  "episodeCurrent": "Full",
-  "categories": [
-    {
-      "name": "Hành Động",
-      "slug": "hanh-dong"
-    },
-    {
-      "name": "Hình Sự",
-      "slug": "hinh-su"
-    },
-    {
-      "name": "Tâm Lý",
-      "slug": "tam-ly"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Croatia",
-      "slug": "croatia"
-    },
-    {
-      "name": "Âu Mỹ",
-      "slug": "au-my"
-    },
-    {
-      "name": "Đức",
-      "slug": "duc"
-    }
-  ],
-  "description": "<p>Sanders, một cựu quân nhân Mỹ và hiện là doanh nhân giàu có sinh sống tại châu Âu, dần mất niềm tin vào hệ thống pháp luật khi chứng kiến nhiều tội phạm nguy hiểm, kẻ hiếp dâm và quan chức tham nhũng liên tục thoát khỏi sự trừng phạt. Quyết định không tiếp tục đứng nhìn, anh che giấu thân phận và trở thành một \"công dân báo thù\", tự mình truy lùng và xử lý những kẻ mà pháp luật không thể hoặc không muốn trừng trị.</p>",
-  "quality": "FHD",
-  "lang": "Vietsub",
-  "episodes": [
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/1Y9ktZCr/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/1Y9ktZCr/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "cong-dan-tu-xu",
-      "episodeCount": 1,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

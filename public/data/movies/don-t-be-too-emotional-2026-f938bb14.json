@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 4",
   "categories": [
     {
       "name": "Viễn Tưởng",
@@ -49,13 +49,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/55a2471ff102d6ea6bd23c81aafdfd43",
       "m3u8Url": "https://vip.opstream90.com/20260704/36087_55a2471f/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/be5ebf2a77cde6f3cea317989a3c2de5",
+      "m3u8Url": "https://vip.opstream10.com/20260718/34208_be5ebf2a/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/460d5587441bf82dbf2acd8a7f56ef86",
+      "m3u8Url": "https://vip.opstream10.com/20260718/34209_460d5587/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "dung-xin-anh-jane",
-      "episodeCount": 2,
+      "episodeCount": 4,
       "priority": 0
     },
     {

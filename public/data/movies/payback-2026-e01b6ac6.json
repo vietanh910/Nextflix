@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -99,6 +99,70 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260711/whXVLQ4Q/index.m3u8"
     },
     {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/scX2MA1y/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/scX2MA1y/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Special",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/HhtpI7BG/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/HhtpI7BG/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Special",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/092NUZoB/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/092NUZoB/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Special",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/JWtmWa8w/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/JWtmWa8w/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Special",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/gcgh75LN/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/gcgh75LN/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Special",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/EVOsdtrI/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/EVOsdtrI/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Special",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/JuGXKmKe/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/JuGXKmKe/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Special",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/6NbI0a6R/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/6NbI0a6R/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -145,19 +209,35 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/8416ebd086e39d2492a704f3e32eb198",
       "m3u8Url": "https://vip.opstream90.com/20260705/36169_8416ebd0/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/5a55d6ee22db450394f6f4ff698ce7f9",
+      "m3u8Url": "https://vip.opstream10.com/20260719/34348_5a55d6ee/index.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/a8833cd4d827a1bd3e3a22f2709aa7d9",
+      "m3u8Url": "https://vip.opstream10.com/20260719/34349_a8833cd4/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "payback-bao-thu",
-      "episodeCount": 6,
+      "episodeCount": 8,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "bao-thu-2026",
-      "episodeCount": 7,
+      "episodeCount": 15,
       "priority": 1
     }
   ],

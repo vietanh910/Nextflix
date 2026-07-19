@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 3",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Chính kịch",
@@ -49,13 +49,61 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/297599ea587669a83f7d30846c397b72",
       "m3u8Url": "https://vip.opstream90.com/20260701/35902_297599ea/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/82d81ceb440acae35be11f4e062f7e46",
+      "m3u8Url": "https://vip.opstream10.com/20260717/34064_82d81ceb/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/0e9a9605327d6cb01c3e322a7e421294",
+      "m3u8Url": "https://vip.opstream10.com/20260717/34065_0e9a9605/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/b6ef5d5380d88cee64653c50b098b245",
+      "m3u8Url": "https://vip.opstream10.com/20260717/34066_b6ef5d53/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/9527f862774325cefd158e74c3045c1e",
+      "m3u8Url": "https://vip.opstream10.com/20260717/34067_9527f862/index.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/dd6096012cbf345790335c13d8898490",
+      "m3u8Url": "https://vip.opstream10.com/20260717/34068_dd609601/index.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "9",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/f501052d526ab10cde220acace65b7dc",
+      "m3u8Url": "https://vip.opstream10.com/20260717/34069_f501052d/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "tam-tay-lua-dao",
-      "episodeCount": 3,
+      "episodeCount": 9,
       "priority": 0
     },
     {

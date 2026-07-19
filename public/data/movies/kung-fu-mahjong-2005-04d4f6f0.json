@@ -7,43 +7,15 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260710/cao-thu-mat-chuoc-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260710/cao-thu-mat-chuoc-thumb.webp",
   "year": 2005,
-  "type": "single",
-  "status": "completed",
-  "episodeCurrent": "Full",
-  "categories": [
-    {
-      "name": "Hài Hước",
-      "slug": "hai-huoc"
-    },
-    {
-      "name": "Hành Động",
-      "slug": "hanh-dong"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Hồng Kông",
-      "slug": "hong-kong"
-    }
-  ],
-  "description": "<p>Chi Mo Sai, là một tay cờ bạc chuyên nghiệp, nhưng nói đúng hơn thì ông ta là một con bạc chính hiệu, người mà thua nhiều hơn là thắng. Nhưng thời vận của ông ta bắt đầu thay đổi sau khi ông ta tìm thấy người phục vụ của nhà hàng tên là Ah Wong (Quách Tấn An), người đã trở thành vị cứu tinh của ông ta, vì Ah Wong có trí nhớ tuyệt vời để nhớ lại vị trí của tất cả 144 miếng ngói mạt chược.</p>",
-  "quality": "FHD",
-  "lang": "Vietsub",
-  "episodes": [
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/K0wobQj8/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/K0wobQj8/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "cao-thu-mat-chuoc",
-      "episodeCount": 1,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

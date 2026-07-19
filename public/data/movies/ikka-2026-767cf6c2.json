@@ -7,43 +7,15 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260712/ikka-at-chu-bai-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260712/ikka-at-chu-bai-thumb.webp",
   "year": 2026,
-  "type": "single",
-  "status": "completed",
-  "episodeCurrent": "Full",
-  "categories": [
-    {
-      "name": "Chính Kịch",
-      "slug": "chinh-kich"
-    },
-    {
-      "name": "Tâm Lý",
-      "slug": "tam-ly"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Ấn Độ",
-      "slug": "an-do"
-    }
-  ],
-  "description": "<p>Khi mạng sống của một người yêu thương đang bị đe dọa, vị luật sư lừng danh buộc phải đứng ra bào chữa cho một kẻ mà chính anh nghi ngờ là có tội — một hành trình mà anh phải đấu tranh với lương tâm của mình trong từng bước đi.</p>",
-  "quality": "FHD",
-  "lang": "Vietsub",
-  "episodes": [
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260711/BjhKWvRv/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260711/BjhKWvRv/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "ikka-at-chu-bai",
-      "episodeCount": 1,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

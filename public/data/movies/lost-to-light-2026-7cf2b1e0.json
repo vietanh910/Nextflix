@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -67,6 +67,46 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260711/evEpNUIH/index.m3u8"
     },
     {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/fD9L8Y7z/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/fD9L8Y7z/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Special",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/5kQkUXHT/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/5kQkUXHT/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Special",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/AkNcXqAD/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/AkNcXqAD/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Special",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/2jgNOGNP/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/2jgNOGNP/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Special",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/QUf1Mcfk/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/QUf1Mcfk/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -89,19 +129,35 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/c3a5d96180f4811f93e797bb2bca08ee",
       "m3u8Url": "https://vip.opstream90.com/20260705/36134_c3a5d961/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/6b1c2c6ae8329093b3caeda72fe569a9",
+      "m3u8Url": "https://vip.opstream10.com/20260718/34341_6b1c2c6a/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/54b1d475ba3398d7bfd516304215d53d",
+      "m3u8Url": "https://vip.opstream10.com/20260718/34342_54b1d475/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "sieu-sao-hay-sieu-xit",
-      "episodeCount": 3,
+      "episodeCount": 5,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "sieu-sao-hay-sieu-xit",
-      "episodeCount": 4,
+      "episodeCount": 9,
       "priority": 1
     }
   ],
