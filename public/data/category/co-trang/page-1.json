@@ -14,8 +14,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/bi-kip-nghich-tap-cua-thieu-hiep-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 20",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (26/26)",
       "categories": [
         {
           "name": "Chính kịch",
@@ -123,7 +123,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 20",
+      "episodeCurrent": "Tập 31",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -160,7 +160,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 30",
+      "episodeCurrent": "Tập 39",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -195,17 +195,17 @@
       ]
     },
     {
-      "id": "blooms-for-her-2026-f6de7537",
+      "id": "overdo-2026-5deed7cb",
       "source": "phimapi",
-      "slug": "xuan-hoa-yen",
-      "name": "Xuân Hoa Yến",
-      "originName": "Blooms For Her",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260708/xuan-hoa-yen-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260708/xuan-hoa-yen-thumb.webp",
+      "slug": "giay-phut-ay-vuot-gioi-han",
+      "name": "Giây Phút Ấy Vượt Giới Hạn",
+      "originName": "Overdo",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260719/giay-phut-ay-vuot-gioi-han-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260719/giay-phut-ay-vuot-gioi-han-thumb.webp",
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 25",
+      "episodeCurrent": "Tập 17",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -216,12 +216,45 @@
           "slug": "co-trang"
         },
         {
-          "name": "Phim Ngắn",
-          "slug": "phim-ngan"
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-eternal-fragrance-2026-415766fe",
+      "source": "phimapi",
+      "slug": "thien-huong",
+      "name": "Thiên Hương",
+      "originName": "The Eternal Fragrance",
+      "posterUrl": "https://phimimg.com/upload/vod/20260627-1/cd980cb191f49c3329adb1315e7bed19.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260627-1/4c518d093bccccad5f1c8e30ec40cb94.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (33/33)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
         },
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
         }
       ],
       "countries": [
@@ -329,6 +362,72 @@
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-legend-and-the-hero--2009-df8a384d",
+      "source": "phimapi",
+      "slug": "phong-than-bang-chi-vo-vuong-phat-tru-bang-phong-than-2",
+      "name": "PHONG THẦN BẢNG CHI VÕ VƯƠNG PHẠT TRỤ / Bảng Phong Thần 2",
+      "originName": "The Legend and the Hero 2",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260717/phong-than-bang-chi-vo-vuong-phat-tru-bang-phong-than-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260717/phong-than-bang-chi-vo-vuong-phat-tru-bang-phong-than-2-thumb.webp",
+      "year": 2009,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (26/26)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-legend-and-the-hero-2006-24709926",
+      "source": "phimapi",
+      "slug": "bang-phong-than",
+      "name": "Bảng Phong Thần",
+      "originName": "The Legend and the Hero",
+      "posterUrl": "https://phimimg.com/upload/vod/20240609-1/5141239f181f0f1d9874a8162906108e.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240609-1/13faf174bd7552f6516d0180f1cb27b9.jpg",
+      "year": 2006,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (38/38)",
+      "categories": [
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
         }
       ],
       "countries": [

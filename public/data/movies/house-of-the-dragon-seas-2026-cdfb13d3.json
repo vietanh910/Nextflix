@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 3",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Hành Động",
@@ -65,13 +65,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/89f1b9757bcc70ffabf81ac00678219c",
       "m3u8Url": "https://vip.opstream90.com/20260706/36263_89f1b975/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/5bdce57749b0e471923d707d7a47385a",
+      "m3u8Url": "https://vip.opstream10.com/20260720/34412_5bdce577/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/fcff94e3a5fc07b69e42a97584a5b761",
+      "m3u8Url": "https://vip.opstream10.com/20260720/34413_fcff94e3/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "gia-toc-rong-phan-3",
-      "episodeCount": 3,
+      "episodeCount": 5,
       "priority": 0
     },
     {

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 16",
+  "episodeCurrent": "Tập 17",
   "categories": [
     {
       "name": "Hài Hước",
@@ -167,6 +167,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260718/GFvVh63H/index.m3u8"
     },
     {
+      "name": "Tập 17",
+      "slug": "tap-17",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260725/5Hrt19ml/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260725/5Hrt19ml/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -289,7 +297,7 @@
     {
       "source": "phimapi",
       "slug": "vao-ma-gioi-roi-day-irumakun-phan-4",
-      "episodeCount": 16,
+      "episodeCount": 17,
       "priority": 1
     }
   ],

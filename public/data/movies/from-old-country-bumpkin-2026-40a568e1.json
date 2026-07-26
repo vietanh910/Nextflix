@@ -7,15 +7,75 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260711/ong-chu-o-vung-que-tro-thanh-thanh-kiem-phan-2-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260711/ong-chu-o-vung-que-tro-thanh-thanh-kiem-phan-2-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 3",
+  "categories": [
+    {
+      "name": "Hoạt Hình",
+      "slug": "hoat-hinh"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Beryl Gardenant, một kiếm sĩ trung niên điều hành một võ đường ở vùng hẻo lánh, sống một cuộc sống bình lặng, cho đến khi Allucia, cựu học trò và là Chỉ huy của Hội Hiệp sĩ Hoàng gia, xuất hiện! Cuộc sống của Beryl sắp thay đổi đáng kể! Cuộc sống thành thị. Học trò cũ. Bạn mới và kẻ thù đáng gờm. Quá nhiều thứ. Nhưng sau nhiều năm luyện tập, anh có những kỹ năng điên rồ, và anh được mệnh danh là \"kiếm sĩ vùng hẻo lánh\".</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/E8I1iZs5/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/E8I1iZs5/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260716/6OSQdBod/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260716/6OSQdBod/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260725/yVKqUw5p/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260725/yVKqUw5p/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "ong-chu-o-vung-que-tro-thanh-thanh-kiem-phan-2",
-      "episodeCount": 0,
+      "episodeCount": 3,
       "priority": 1
     }
   ],

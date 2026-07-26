@@ -7,15 +7,135 @@
   "posterUrl": "https://phimimg.com/upload/vod/20260121-1/62f45f94b50ce0aa5407117bfbee31fe.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20260121-1/3228ed594c442139b26f62d67512f287.jpg",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (12/12)",
+  "categories": [
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Seiichirou Kondou vô tình bị cuốn vào một nghi lễ triệu hồi và bị dịch chuyển đến một thế giới song song mang tên Vương quốc Romany. Vốn là một người nghiện công việc, anh ngay lập tức yêu cầu một việc làm và gia nhập Bộ Kế toán Hoàng gia. Sau khi may mắn sống sót khỏi tác dụng phụ chết người của một loại thuốc tăng lực nhờ sự trợ giúp của ma thuật, Seiichirou đã phó thác bản thân cho Aresh — đội trưởng Đội kỵ binh Hoàng gia thứ ba, người vẫn được mệnh danh là &#39;Hoàng tử Băng giá&#39;.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260506/Kb9BqSLH/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260506/Kb9BqSLH/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260506/DzBmh8EH/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260506/DzBmh8EH/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260506/NIIW80Ve/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260506/NIIW80Ve/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260506/VmUX4EBm/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260506/VmUX4EBm/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260506/CyZYUbAk/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260506/CyZYUbAk/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260506/cL2TEa3c/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260506/cL2TEa3c/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260506/hVxzA5iS/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260506/hVxzA5iS/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260506/YIEHAo8l/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260506/YIEHAo8l/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260506/O4rIotQX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260506/O4rIotQX/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260506/d05GODzA/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260506/d05GODzA/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260506/lmJfeAYy/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260506/lmJfeAYy/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260506/eq45eWgf/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260506/eq45eWgf/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "no-le-cong-so-dinh-doat-chuyen-di-gioi-isekai-no-sata-wa-shachiku-shidai",
-      "episodeCount": 0,
+      "episodeCount": 12,
       "priority": 1
     }
   ],

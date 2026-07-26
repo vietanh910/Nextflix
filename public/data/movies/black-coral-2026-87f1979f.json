@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 15",
+  "episodeCurrent": "Tập 20",
   "categories": [
     {
       "name": "Bí Ẩn",
@@ -153,13 +153,53 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260717/UzbLqsGE/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260717/UzbLqsGE/index.m3u8"
+    },
+    {
+      "name": "Tập 16",
+      "slug": "tap-16",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260720/o7bF8oFo/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260720/o7bF8oFo/index.m3u8"
+    },
+    {
+      "name": "Tập 17",
+      "slug": "tap-17",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260721/ZpgaqBwU/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260721/ZpgaqBwU/index.m3u8"
+    },
+    {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260722/goX99CxQ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260722/goX99CxQ/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260723/QpWQWtQq/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260723/QpWQWtQq/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260724/qxEcIksn/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260724/qxEcIksn/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "san-ho-den",
-      "episodeCount": 15,
+      "episodeCount": 20,
       "priority": 1
     }
   ],

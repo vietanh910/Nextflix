@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 15",
+  "episodeCurrent": "Tập 19",
   "categories": [
     {
       "name": "Chính kịch",
@@ -149,13 +149,45 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/9e0aaeef6b914a9091beaaec19cc2e34",
       "m3u8Url": "https://vip.opstream10.com/20260718/34289_9e0aaeef/index.m3u8"
+    },
+    {
+      "name": "16",
+      "slug": "16",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/0823c49a9e65383b45002784b5220bf8",
+      "m3u8Url": "https://vip.opstream10.com/20260720/34424_0823c49a/index.m3u8"
+    },
+    {
+      "name": "17",
+      "slug": "17",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream800.com/share/eb160de1de89d9058fcb0b968dbbbd68",
+      "m3u8Url": "https://vip.opstream800.com/20260723/117_eb160de1/index.m3u8"
+    },
+    {
+      "name": "18",
+      "slug": "18",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream800.com/share/5ef059938ba799aaa845e1c2e8a762bd",
+      "m3u8Url": "https://vip.opstream800.com/20260723/118_5ef05993/index.m3u8"
+    },
+    {
+      "name": "19",
+      "slug": "19",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream800.com/share/4c5bde74a8f110656874902f07378009",
+      "m3u8Url": "https://vip.opstream800.com/20260724/182_4c5bde74/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "san-ho-den",
-      "episodeCount": 15,
+      "episodeCount": 19,
       "priority": 0
     }
   ],

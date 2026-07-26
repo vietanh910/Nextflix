@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 11",
   "categories": [
     {
       "name": "Viễn Tưởng",
@@ -97,13 +97,37 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/5a56d275949eb284b4884f30ed88a045",
       "m3u8Url": "https://vip.opstream90.com/20260701/35943_5a56d275/index.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "9",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream800.com/share/fa7cdfad1a5aaf8370ebeda47a1ff1c3",
+      "m3u8Url": "https://vip.opstream800.com/20260723/164_fa7cdfad/index.m3u8"
+    },
+    {
+      "name": "10",
+      "slug": "10",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream800.com/share/9766527f2b5d3e95d4a733fcfb77bd7e",
+      "m3u8Url": "https://vip.opstream800.com/20260723/165_9766527f/index.m3u8"
+    },
+    {
+      "name": "11",
+      "slug": "11",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream800.com/share/7e7757b1e12abcb736ab9a754ffb617a",
+      "m3u8Url": "https://vip.opstream800.com/20260723/166_7e7757b1/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "ngoanh-dau-lai-lau-nuoc-mat-cho-cau",
-      "episodeCount": 8,
+      "episodeCount": 11,
       "priority": 0
     },
     {

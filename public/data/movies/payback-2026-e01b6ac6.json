@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -105,6 +105,14 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/scX2MA1y/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260718/scX2MA1y/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260725/Oi9hmy3A/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260725/Oi9hmy3A/index.m3u8"
     },
     {
       "name": "Tập 01",
@@ -237,7 +245,7 @@
     {
       "source": "phimapi",
       "slug": "bao-thu-2026",
-      "episodeCount": 15,
+      "episodeCount": 16,
       "priority": 1
     }
   ],

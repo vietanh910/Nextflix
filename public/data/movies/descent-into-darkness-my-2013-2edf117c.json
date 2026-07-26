@@ -7,15 +7,55 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260714/hanh-trinh-vao-bong-toi-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260714/hanh-trinh-vao-bong-toi-thumb.webp",
   "year": 2013,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Pháp",
+      "slug": "phap"
+    }
+  ],
+  "description": "<p>Một nhà báo đến từ một quốc gia Đông Âu đặt chân tới Paris để bắt đầu chuyến hành trình đi qua các thủ đô châu Âu. Dự định của anh là thực hiện một bộ phim tài liệu về \"giấc mơ châu Âu\". Thế nhưng, bị giằng xé giữa sự mê hoặc và những khó khăn trong việc thích nghi, Sorgoï chật vật để hoàn thành dự án của mình, và chuyến viễn chinh ấy dần đẩy anh vào một trạng thái điên loạn tột cùng đầy tàn phá.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260714/gOZgfWGS/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260714/gOZgfWGS/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "hanh-trinh-vao-bong-toi",
-      "episodeCount": 0,
+      "episodeCount": 1,
       "priority": 1
     }
   ],

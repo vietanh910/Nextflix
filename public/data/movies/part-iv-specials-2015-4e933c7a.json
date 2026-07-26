@@ -9,7 +9,22 @@
   "year": 2015,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "countries": [],
+  "description": "Specials included in the Japanese Blu-ray and DVD releases of Lupin III: Part IV. Originally aired in the Italian broadcast.",
   "episodes": [],
   "sources": [
     {

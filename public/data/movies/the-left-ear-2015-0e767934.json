@@ -7,15 +7,47 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260717/tai-trai-2015-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260717/tai-trai-2015-thumb.webp",
   "year": 2015,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "<p>Gần giống với chủ đề của bộ phim \"Gửi tuổi thanh xuân\" của đạo diễn Triệu Vy, \"Left Ear\" một lần nữa kể cho khán giả nghe về quá trình trưởng thành của một nhóm học sinh trung học. Ly Nhi, cô là một nữ sinh lớp 12 xinh đẹp, ngoan ngoãn nhưng tai trái gần như không nghe được, nếu có người nói sát tai trái sẽ không nghe thấy. Cô thầm yêu cậu bạn cùng lớp Hứa Đạc nhưng vì tính cách hướng nội nên cô không bao giờ dám nói ra. Hứa Đạc đem lòng yêu một cô gái làm trong quán bar nổi tiếng tán gái tên Ba La, Ly Nhi tuy không thích Ba La nhưng trong một lần tình cờ, hai người trở thành bạn tốt của nhau, từ đó Ly Nhi biết được ai là người trong mộng thực sự của Ba La là, tình yêu của cô dành cho Hứa Đạt chỉ có vậy. một cuộc trao đổi ...</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260716/jq5yGzSf/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260716/jq5yGzSf/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "tai-trai-2015",
-      "episodeCount": 0,
+      "episodeCount": 1,
       "priority": 1
     }
   ],

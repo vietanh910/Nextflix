@@ -7,15 +7,47 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260713/rekonek-ket-noi-lai-voi-nhau-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260713/rekonek-ket-noi-lai-voi-nhau-thumb.webp",
   "year": 2025,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Gia Đình",
+      "slug": "gia-dinh"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Philippines",
+      "slug": "philippines"
+    }
+  ],
+  "description": "<p>Bộ phim gồm nhiều câu chuyện đan xen, xoay quanh sáu gia đình Philippines khác nhau trong một đêm Giáng sinh định mệnh — thời điểm mạng internet toàn cầu đột ngột bị sập. Sự cố này đã buộc họ phải rời mắt khỏi màn hình để kết nối lại với nhau thông qua những phương thức truyền thống hơn.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260713/gPacBhD4/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260713/gPacBhD4/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "rekonek-ket-noi-lai-voi-nhau",
-      "episodeCount": 0,
+      "episodeCount": 1,
       "priority": 1
     }
   ],

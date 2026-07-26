@@ -7,15 +7,75 @@
   "posterUrl": "https://phimimg.com/upload/vod/20260705-1/043c383c01c00117e193b52790c1d630.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20260705-1/de6a0162ba87730b3a2b19a4df2e6b9f.jpg",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 4",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Kuroe Akaishi chỉ muốn có một cuộc sống trung học bình thường — nhưng điều đó là không thể khi cô mắc phải một căn bệnh hiếm gặp: cứ mỗi khi cảm xúc dâng trào là cô lại biến thành một quái thú kaiju khổng lồ! Mọi chuyện thậm chí còn tồi tệ hơn khi cô lỡ đem lòng thầm thương trộm nhớ Arata Minami, nam sinh nổi tiếng nhất lớp. Giờ đây, mỗi cái đỏ mặt, mỗi nhịp tim loạn nhịp hay một chút rung động cũng có thể kích hoạt quá trình biến hình thành quái vật. Liệu Kuroe có thể sống sót qua tình yêu tuổi học trò trước khi nó phá hủy mọi thứ xung quanh cô?!</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260705/MM6U8k0B/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260705/MM6U8k0B/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/FY7s1LAU/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/FY7s1LAU/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260716/0B04RJt1/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260716/0B04RJt1/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260724/ehpYmqol/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260724/ehpYmqol/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "thieu-nu-quai-vat-caramelise",
-      "episodeCount": 0,
+      "episodeCount": 4,
       "priority": 1
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 25",
+  "episodeCurrent": "Tập 26",
   "categories": [
     {
       "name": "Chính kịch",
@@ -225,13 +225,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/acd8d58c7c352df2d1d729701488f54f",
       "m3u8Url": "https://vip.opstream10.com/20260718/34173_acd8d58c/index.m3u8"
+    },
+    {
+      "name": "26",
+      "slug": "26",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/9822beb9602ea7ea2f9791e1dc2faebc",
+      "m3u8Url": "https://vip.opstream10.com/20260719/34388_9822beb9/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "xuan-hoa-yen",
-      "episodeCount": 25,
+      "episodeCount": 26,
       "priority": 0
     }
   ],

@@ -7,15 +7,115 @@
   "posterUrl": "https://phimimg.com/upload/vod/20260222-1/f3d479ea861c6520b0c4804f6344ad85.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20260222-1/6b8b859c40a1390b2689013b53a19d92.jpg",
   "year": 2023,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (10/10)",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Canada",
+      "slug": "canada"
+    }
+  ],
+  "description": "<p>Sau khi cuộc sống cá nhân và sự nghiệp của bác sĩ phẫu thuật thần kinh Maggie Sullivan rơi vào khủng hoảng, cô quyết định trở về quê nhà tại Sullivan’s Crossing. Tại đó, Maggie buộc phải tìm cách điều hướng thực tại đầy rắc rối của mình, đồng thời đối mặt với quá khứ đau thương mà cô đã cố tình phớt lờ trong nhiều năm.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260222/GJCUvnF7/index.m3u8",
+      "m3u8Url": "https://s6.kkphimplayer6.com/20260222/GJCUvnF7/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260222/Rr2TZW67/index.m3u8",
+      "m3u8Url": "https://s6.kkphimplayer6.com/20260222/Rr2TZW67/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260222/Urvpbfsi/index.m3u8",
+      "m3u8Url": "https://s6.kkphimplayer6.com/20260222/Urvpbfsi/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260222/CpBiTxmO/index.m3u8",
+      "m3u8Url": "https://s6.kkphimplayer6.com/20260222/CpBiTxmO/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260222/GxXmD81O/index.m3u8",
+      "m3u8Url": "https://s6.kkphimplayer6.com/20260222/GxXmD81O/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260222/jOZv9wOR/index.m3u8",
+      "m3u8Url": "https://s6.kkphimplayer6.com/20260222/jOZv9wOR/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260222/QS8v1bdi/index.m3u8",
+      "m3u8Url": "https://s6.kkphimplayer6.com/20260222/QS8v1bdi/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260222/6IKgOMxF/index.m3u8",
+      "m3u8Url": "https://s6.kkphimplayer6.com/20260222/6IKgOMxF/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260222/i6LDZVkZ/index.m3u8",
+      "m3u8Url": "https://s6.kkphimplayer6.com/20260222/i6LDZVkZ/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260222/6uUBJ6Wc/index.m3u8",
+      "m3u8Url": "https://s6.kkphimplayer6.com/20260222/6uUBJ6Wc/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "giao-lo-sullivan-phan-1",
-      "episodeCount": 0,
+      "episodeCount": 10,
       "priority": 1
     }
   ],

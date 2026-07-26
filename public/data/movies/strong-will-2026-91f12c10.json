@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 22",
+  "episodeCurrent": "Tập 27",
   "categories": [
     {
       "name": "Chính kịch",
@@ -203,6 +203,46 @@
       "m3u8Url": "https://vip.opstream10.com/20260718/34326_a0c5216b/index.m3u8"
     },
     {
+      "name": "23",
+      "slug": "23",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/3f948f238590cb0fd1406956ecec3200",
+      "m3u8Url": "https://vip.opstream10.com/20260720/34423_3f948f23/index.m3u8"
+    },
+    {
+      "name": "24",
+      "slug": "24",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream800.com/share/a5e00132373a7031000fd987a3c9f87b",
+      "m3u8Url": "https://vip.opstream800.com/20260723/146_a5e00132/index.m3u8"
+    },
+    {
+      "name": "25",
+      "slug": "25",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream800.com/share/8d5e957f297893487bd98fa830fa6413",
+      "m3u8Url": "https://vip.opstream800.com/20260723/147_8d5e957f/index.m3u8"
+    },
+    {
+      "name": "26",
+      "slug": "26",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream800.com/share/6a9aeddfc689c1d0e3b9ccc3ab651bc5",
+      "m3u8Url": "https://vip.opstream800.com/20260726/282_6a9aeddf/index.m3u8"
+    },
+    {
+      "name": "27",
+      "slug": "27",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream800.com/share/0f49c89d1e7298bb9930789c8ed59d48",
+      "m3u8Url": "https://vip.opstream800.com/20260726/283_0f49c89d/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Vietsub",
@@ -377,19 +417,59 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260717/DELzqoxP/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260717/DELzqoxP/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260721/ytY3tHtI/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260721/ytY3tHtI/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260721/uMrVtK8Y/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260721/uMrVtK8Y/index.m3u8"
+    },
+    {
+      "name": "Tập 25",
+      "slug": "tap-25",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260722/MkLZobh3/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260722/MkLZobh3/index.m3u8"
+    },
+    {
+      "name": "Tập 26",
+      "slug": "tap-26",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260725/psTiFIWU/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260725/psTiFIWU/index.m3u8"
+    },
+    {
+      "name": "Tập 27",
+      "slug": "tap-27",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260724/uStd3FU0/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260724/uStd3FU0/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "y-chi-kim-cuong",
-      "episodeCount": 22,
+      "episodeCount": 27,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "y-chi-kim-cuong",
-      "episodeCount": 22,
+      "episodeCount": 27,
       "priority": 1
     }
   ],

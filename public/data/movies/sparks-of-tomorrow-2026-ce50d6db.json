@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 1",
+  "episodeCurrent": "Tập 3",
   "categories": [
     {
       "name": "Viễn Tưởng",
@@ -41,13 +41,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/7461ec5822f31c1071c09bb5ad293bb4",
       "m3u8Url": "https://vip.opstream90.com/20260706/36273_7461ec58/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/7f65773388773297001c0c7394d8a75f",
+      "m3u8Url": "https://vip.opstream10.com/20260720/34405_7f657733/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/bfe6ea67e77929e5929d249173dff69f",
+      "m3u8Url": "https://vip.opstream10.com/20260720/34406_bfe6ea67/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "tia-sang-cua-ngay-mai",
-      "episodeCount": 1,
+      "episodeCount": 3,
       "priority": 0
     },
     {

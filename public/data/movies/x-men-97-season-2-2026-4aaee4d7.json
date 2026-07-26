@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 6",
   "categories": [
     {
       "name": "Hành Động",
@@ -79,57 +79,25 @@
       "m3u8Url": "https://vip.opstream10.com/20260718/34325_c3e71101/index.m3u8"
     },
     {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260706/Q8c4cLW0/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260706/Q8c4cLW0/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260706/PgHOFUsP/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260706/PgHOFUsP/index.m3u8"
-    },
-    {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260706/gx3pDNu7/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260706/gx3pDNu7/index.m3u8"
-    },
-    {
-      "name": "Tập 04",
-      "slug": "tap-04",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/6JqNlfcP/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/6JqNlfcP/index.m3u8"
-    },
-    {
-      "name": "Tập 05",
-      "slug": "tap-05",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260717/rpSX3ha4/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260717/rpSX3ha4/index.m3u8"
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream800.com/share/2b24d495052a8ce66358eb576b8912c8",
+      "m3u8Url": "https://vip.opstream800.com/20260723/145_2b24d495/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "di-nhan-97-phan-2",
-      "episodeCount": 5,
+      "episodeCount": 6,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "di-nhan-97-phan-2",
-      "episodeCount": 5,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

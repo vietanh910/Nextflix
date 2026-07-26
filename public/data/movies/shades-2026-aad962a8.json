@@ -7,15 +7,87 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260714/ngoan-hien-tham-hiem-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260714/ngoan-hien-tham-hiem-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (6/6)",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thái Lan",
+      "slug": "thai-lan"
+    }
+  ],
+  "description": "<p>Lấy bối cảnh một trường nữ sinh danh tiếng, bộ phim hé lộ những góc khuất đằng sau vẻ ngoài hoàn hảo của học sinh. Giữa sự phân biệt giai cấp, bắt nạt và những mối quan hệ phức tạp, mỗi người đều phải đối mặt với những bí mật và lựa chọn của riêng mình.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260713/naZZWin0/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260713/naZZWin0/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260713/CkijbLiN/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260713/CkijbLiN/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260713/i3j4mm8I/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260713/i3j4mm8I/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260713/rAC8UsNP/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260713/rAC8UsNP/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260713/3QGaQv8K/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260713/3QGaQv8K/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260713/uiuHEyf9/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260713/uiuHEyf9/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "ngoan-hien-tham-hiem-bong-toi-hoc-duong",
-      "episodeCount": 0,
+      "episodeCount": 6,
       "priority": 1
     }
   ],

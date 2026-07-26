@@ -5,6 +5,39 @@
   "totalPages": 14,
   "items": [
     {
+      "id": "desert-warrior-2026-d1075187",
+      "source": "ophim",
+      "slug": "desert-warrior",
+      "name": "Desert Warrior",
+      "originName": "Desert Warrior",
+      "posterUrl": "https://img.ophim.live/uploads/movies/desert-warrior-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/desert-warrior-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Chiến Tranh",
+          "slug": "chien-tranh"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "cape-fear-2026-46a367e8",
       "source": "ophim",
       "slug": "dong-song-toi-ac-2026",
@@ -113,39 +146,6 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "don-t-be-too-emotional-2026-f938bb14",
-      "source": "ophim",
-      "slug": "dung-xin-anh-jane",
-      "name": "Đừng Xin Anh Jane",
-      "originName": "Don't Be Too Emotional",
-      "posterUrl": "https://img.ophim.live/uploads/movies/dung-xin-anh-jane-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/dung-xin-anh-jane-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 4",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
         }
       ]
     },
@@ -380,7 +380,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Hành Động",
@@ -514,31 +514,6 @@
       ]
     },
     {
-      "id": "the-drops-of-god-2026-5590037e",
-      "source": "ophim",
-      "slug": "giot-ruou-than-thanh-anime",
-      "name": "Giọt Rượu Thần Thánh",
-      "originName": "The Drops of God",
-      "posterUrl": "https://img.ophim.live/uploads/movies/giot-ruou-than-thanh-anime-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/giot-ruou-than-thanh-anime-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 15",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
       "id": "girl-rules-2026-073be15b",
       "source": "ophim",
       "slug": "girl-rules",
@@ -639,6 +614,31 @@
         {
           "name": "Canada",
           "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "love-s-shattered-reflect-2026-17dffece",
+      "source": "ophim",
+      "slug": "hinh-phat-vi-yeu-em",
+      "name": "Hình Phạt Vì Yêu Em",
+      "originName": "Love's Shattered Reflections",
+      "posterUrl": "https://img.ophim.live/uploads/movies/hinh-phat-vi-yeu-em-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/hinh-phat-vi-yeu-em-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (19/19)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
         }
       ]
     },

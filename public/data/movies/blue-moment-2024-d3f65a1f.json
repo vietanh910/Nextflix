@@ -9,7 +9,7 @@
   "year": 2024,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -79,6 +79,30 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260718/NidSTs7Z/index.m3u8"
     },
     {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260720/4ndLi0Wl/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260720/4ndLi0Wl/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260723/Ca5WiQ8d/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260723/Ca5WiQ8d/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260724/M1ZkDXCk/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260724/M1ZkDXCk/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -125,13 +149,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/DhmoqJFt/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260718/DhmoqJFt/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260720/S4vsdaPx/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260720/S4vsdaPx/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260723/2kIosfyn/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260723/2kIosfyn/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260724/nXvsJZhU/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260724/nXvsJZhU/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "khoanh-khac-sinh-tu",
-      "episodeCount": 12,
+      "episodeCount": 18,
       "priority": 1
     }
   ],

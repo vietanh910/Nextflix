@@ -7,15 +7,71 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260708/rap-xiec-hoa-huong-duong-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260708/rap-xiec-hoa-huong-duong-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 4",
+  "categories": [
+    {
+      "name": "Hoạt Hình",
+      "slug": "hoat-hinh"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Câu chuyện lấy bối cảnh cuối những năm 1950 và đầu những năm 1960, thời kỳ đỉnh cao của sự bùng nổ kinh tế ở Nhật Bản, khi xiếc là một hình thức giải trí chính. Các đoàn xiếc khác nhau đi khắp Nhật Bản để biểu diễn và cạnh tranh giành cơ hội tham gia lễ hội nổi tiếng thế giới mang tên \"Tuyển tập Xiếc\". Một đoàn xiếc mang tên \"Rạp Xiếc Hoa Hướng Dương\", do người quản lý Maria dẫn dắt, đã đi khắp Nhật Bản để biểu diễn, bất chấp những khó khăn về tài chính. Tuy nhiên, họ gặp một thần đồng xiếc tên là Mizuka Tsurumaki. Đây là câu chuyện về một chương trình xiếc độc đáo của những cô gái trẻ với những ước mơ lớn.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260720/ldl9pLNn/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260720/ldl9pLNn/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260720/gHTOxWSA/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260720/gHTOxWSA/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260720/fnBNExzp/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260720/fnBNExzp/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260725/TWX4uyNB/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260725/TWX4uyNB/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "rap-xiec-hoa-huong-duong",
-      "episodeCount": 0,
+      "episodeCount": 4,
       "priority": 1
     }
   ],

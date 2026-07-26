@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 1",
+  "episodeCurrent": "Tập 4",
   "categories": [
     {
       "name": "Viễn Tưởng",
@@ -37,13 +37,37 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/8a0a18ee792712a3d3aa044dbfc581ee",
       "m3u8Url": "https://vip.opstream90.com/20260701/35941_8a0a18ee/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream800.com/share/a8f15eda80c50adb0e71943adc8015cf",
+      "m3u8Url": "https://vip.opstream800.com/20260723/151_a8f15eda/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream800.com/share/37a749d808e46495a8da1e5352d03cae",
+      "m3u8Url": "https://vip.opstream800.com/20260723/152_37a749d8/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream800.com/share/b3e3e393c77e35a4a3f3cbd1e429b5dc",
+      "m3u8Url": "https://vip.opstream800.com/20260723/153_b3e3e393/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "ai-girl-ban-gai-nguoi-may",
-      "episodeCount": 1,
+      "episodeCount": 4,
       "priority": 0
     },
     {

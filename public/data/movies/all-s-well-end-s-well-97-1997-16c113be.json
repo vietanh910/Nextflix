@@ -7,15 +7,59 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260713/gia-huu-hy-su-2-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260713/gia-huu-hy-su-2-thumb.webp",
   "year": 1997,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hồng Kông",
+      "slug": "hong-kong"
+    }
+  ],
+  "description": "<p>Nhà Có Chuyện Vui 1997 hay Gia Hữu Hỷ Sự 2 là bộ phim hài tiếp nối tiếp câu chuyện của ba anh em ở phần 1, với những tình huống rắc rối của một gia đình tưởng chừng như không thể cứu vãn nỗi thế nhưng khi xem phim này bạn sẽ thấy trải qua bao nhiêu trắc trở, họ đã trưởng thành, họ đã hiểu nhau nhiều hơn, và đã yêu thương đùm bọc lẫn nhau tạo nên gia đình vui vẻ... Phim Gia Hữu Hỷ Sự 2 vẫn nhiều tình tiết hài hước thú vị đan xen vào câu chuyện. Hãy cùng trải qua những khoảng thời gian vui vẻ, tuyệt vời!</p>",
+  "quality": "FHD",
+  "lang": "Vietsub + Lồng Tiếng",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260713/bP8OkWIc/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260713/bP8OkWIc/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260712/UxApkAWC/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260712/UxApkAWC/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "gia-huu-hy-su-2",
-      "episodeCount": 0,
+      "episodeCount": 2,
       "priority": 1
     }
   ],

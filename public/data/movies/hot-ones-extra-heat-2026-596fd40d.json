@@ -7,15 +7,39 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260715/hot-ones-tang-do-cay-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260715/hot-ones-tang-do-cay-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "tvshow",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 1",
+  "categories": [
+    {
+      "name": "Talk",
+      "slug": "talk"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Trong loạt chương trình đặc biệt hoàn toàn mới và độc quyền này, các khách mời là những người nổi tiếng sẽ bị thách thức trả lời những câu hỏi \"hóc búa\" trong khi thưởng thức những chiếc cánh gà còn \"cay nóng\" hơn thế.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260715/kUHYKD0Q/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260715/kUHYKD0Q/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "hot-ones-tang-do-cay",
-      "episodeCount": 0,
+      "episodeCount": 1,
       "priority": 1
     }
   ],

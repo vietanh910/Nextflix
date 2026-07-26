@@ -7,91 +7,15 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260719/trong-cong-viec-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260719/trong-cong-viec-thumb.webp",
   "year": 2021,
-  "type": "series",
-  "status": "completed",
-  "episodeCurrent": "Hoàn Tất (6/6)",
-  "categories": [
-    {
-      "name": "Hành Động",
-      "slug": "hanh-dong"
-    },
-    {
-      "name": "Hình Sự",
-      "slug": "hinh-su"
-    },
-    {
-      "name": "Phiêu Lưu",
-      "slug": "phieu-luu"
-    },
-    {
-      "name": "Tâm Lý",
-      "slug": "tam-ly"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Philippines",
-      "slug": "philippines"
-    }
-  ],
-  "description": "<p>Loạt phim xoay quanh các tổ chức tội phạm chuyên phóng thích tạm thời những tù nhân theo hợp đồng để thực hiện các vụ ám sát chính trị cho giới cầm quyền, điều đặc biệt là các tổ chức tội phạm này lại do chính các chính trị gia điều hành. Bộ phim cũng vạch trần vấn nạn nhức nhối ngoài đời thực liên quan đến tin giả (fake news), cùng cách mà sự thật có thể dễ dàng bị bóp méo, dàn dựng và phát tán tới công chúng trong kỷ nguyên thông tin ngày nay.</p>",
-  "quality": "FHD",
-  "lang": "Vietsub",
-  "episodes": [
-    {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260613/xPUT5i7M/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260613/xPUT5i7M/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260613/yeiofnQl/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260613/yeiofnQl/index.m3u8"
-    },
-    {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260613/VhglLAVq/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260613/VhglLAVq/index.m3u8"
-    },
-    {
-      "name": "Tập 04",
-      "slug": "tap-04",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260613/7010ZCDx/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260613/7010ZCDx/index.m3u8"
-    },
-    {
-      "name": "Tập 05",
-      "slug": "tap-05",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260613/wKFjIATv/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260613/wKFjIATv/index.m3u8"
-    },
-    {
-      "name": "Tập 06",
-      "slug": "tap-06",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260613/PKbhLFK3/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260613/PKbhLFK3/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "trong-cong-viec",
-      "episodeCount": 6,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

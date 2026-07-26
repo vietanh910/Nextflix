@@ -1,0 +1,77 @@
+{
+  "id": "goodbye-lara-2026-dfc552de",
+  "source": "ophim",
+  "slug": "tam-biet-lara",
+  "name": "Tạm Biệt, Lara",
+  "originName": "Goodbye, Lara",
+  "posterUrl": "https://img.ophim.live/uploads/movies/tam-biet-lara-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/tam-biet-lara-thumb.jpg",
+  "year": 2026,
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 3",
+  "categories": [
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Once upon a time, a mermaid princess named Lara fell in love with a human prince. To be with him, she used a witch’s potion to become human—but the magic came at a cost: If she failed to find true love, she would vanish into sea foam forever. Now, 200 years later, Lara awakens in Lake Biwa with one final chance at life and love.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/68b550d21bf148b92cc007171305afb1",
+      "m3u8Url": "https://vip.opstream10.com/20260720/34402_68b550d2/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/6fe3ec8f08093fb71744041532af3382",
+      "m3u8Url": "https://vip.opstream10.com/20260720/34403_6fe3ec8f/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/270567b7af3c88d6b733183b3f7d74de",
+      "m3u8Url": "https://vip.opstream10.com/20260720/34404_270567b7/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "tam-biet-lara",
+      "episodeCount": 3,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "tam-biet-lara",
+      "episodeCount": 0,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

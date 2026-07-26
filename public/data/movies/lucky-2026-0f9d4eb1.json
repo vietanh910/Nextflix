@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 3",
   "categories": [
     {
       "name": "Hình Sự",
@@ -51,33 +51,25 @@
       "m3u8Url": "https://vip.opstream10.com/20260719/34344_f2abae2c/index.m3u8"
     },
     {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/TnLSnMYZ/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/TnLSnMYZ/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/BbGWFfOk/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/BbGWFfOk/index.m3u8"
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream800.com/share/c45147dee729311ef5b5c3003946c48f",
+      "m3u8Url": "https://vip.opstream800.com/20260723/116_c45147de/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "cuoc-dua-sinh-tu",
-      "episodeCount": 2,
+      "episodeCount": 3,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "cuoc-dua-sinh-tu",
-      "episodeCount": 2,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

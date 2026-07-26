@@ -7,15 +7,47 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260717/phi-tri-nhan-sinh-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260717/phi-tri-nhan-sinh-thumb.webp",
   "year": 2019,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "<p>Phi Trì Nhân Sinh xoay quanh tay đua hết thời Trương Trì, anh là tay đua từng hô mưa gọi gió trong giới đua xe, nay chỉ có thể bán cơm chiên ở vỉa hè, Trương Trì quyết chí quay lại đường đua, khiêu chiến với tài năng thế hệ mới khi sự nghiệp của anh đã ở giai đoạn hoàng hôn.  Trương Trì muốn tập hợp dàn cộng sự năm xưa, kêu gọi thần long, tái hiện ngày tháng huy hoàng trước đây, không ngờ hiện thực tàn khốc, gặp đủ trắc trở. Trên con đường quay lại đường đua, Trương Trì phải bắt đầu từ việc thi lấy bằng lái, rốt cuộc sẽ có bao nhiêu khó khăn chờ đợi tay đua hết thời này?</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260716/o3A2c77L/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260716/o3A2c77L/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "phi-tri-nhan-sinh",
-      "episodeCount": 0,
+      "episodeCount": 1,
       "priority": 1
     }
   ],

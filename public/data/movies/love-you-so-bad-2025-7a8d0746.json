@@ -7,15 +7,47 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260717/chon-giua-hai-chang-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260717/chon-giua-hai-chang-thumb.webp",
   "year": 2025,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Philippines",
+      "slug": "philippines"
+    }
+  ],
+  "description": "<p>Savannah, sinh viên năm cuối, lên kế hoạch trả đũa người cũ phản bội bằng cách vờ hẹn hò với người hoàn toàn trái ngược. Nhưng cảm xúc thật khiến kế hoạch của cô trở nên rắc rối.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260716/f8cVijqE/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260716/f8cVijqE/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "chon-giua-hai-chang",
-      "episodeCount": 0,
+      "episodeCount": 1,
       "priority": 1
     }
   ],

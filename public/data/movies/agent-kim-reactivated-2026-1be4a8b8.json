@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260627-1/e150d9ace6293867a4cc5df8ed33d03a.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (10/10)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -107,6 +107,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260718/7mTfh7DV/index.m3u8"
     },
     {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260724/dMYoRbu5/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260724/dMYoRbu5/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260725/zY4iLwhX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260725/zY4iLwhX/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -161,6 +177,22 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260717/47BRqcV1/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260717/47BRqcV1/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260724/4Skq9Qtj/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260724/4Skq9Qtj/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260725/3JGVZxja/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260725/3JGVZxja/index.m3u8"
     },
     {
       "name": "1",
@@ -225,19 +257,35 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/9ea66f48769859364f58fb5458bc89b6",
       "m3u8Url": "https://vip.opstream10.com/20260718/34330_9ea66f48/index.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "9",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream800.com/share/ec8ce6abb3e952a85b8551ba726a1227",
+      "m3u8Url": "https://vip.opstream800.com/20260726/220_ec8ce6ab/index.m3u8"
+    },
+    {
+      "name": "10",
+      "slug": "10",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream800.com/share/060ad92489947d410d897474079c1477",
+      "m3u8Url": "https://vip.opstream800.com/20260726/221_060ad924/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "dac-vu-kim-tai-khoi-dong",
-      "episodeCount": 8,
+      "episodeCount": 10,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "dac-vu-kim-tai-khoi-dong",
-      "episodeCount": 15,
+      "episodeCount": 19,
       "priority": 1
     }
   ],

@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/loi-de-nghi-cua-cong-to-vien-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (10/10)",
   "categories": [
     {
       "name": "Hình Sự",
@@ -97,13 +97,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/092dff5b934f87c1176766e1cddd6327",
       "m3u8Url": "https://vip.opstream10.com/20260717/34075_092dff5b/index.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "9",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream800.com/share/3b8a614226a953a8cd9526fca6fe9ba5",
+      "m3u8Url": "https://vip.opstream800.com/20260724/215_3b8a6142/index.m3u8"
+    },
+    {
+      "name": "10",
+      "slug": "10",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream800.com/share/45fbc6d3e05ebd93369ce542e8f2322d",
+      "m3u8Url": "https://vip.opstream800.com/20260724/216_45fbc6d3/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "loi-de-nghi-cua-cong-to-vien",
-      "episodeCount": 8,
+      "episodeCount": 10,
       "priority": 0
     },
     {

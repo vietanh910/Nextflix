@@ -7,15 +7,143 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260715/giai-ma-phan-3-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260715/giai-ma-phan-3-thumb.webp",
   "year": 2021,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (14/14)",
+  "categories": [
+    {
+      "name": "Tài Liệu",
+      "slug": "tai-lieu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Loạt phim tài liệu này, được thực hiện dưới sự hợp tác với Vox, giải thích về một số xu hướng hiện nay trên thế giới, từ chính trị, khoa học cho đến văn hóa đại chúng.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240114/SydIDeIe/index.m3u8",
+      "m3u8Url": "https://s1.phim1280.tv/20240114/SydIDeIe/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240114/6sR4UQz8/index.m3u8",
+      "m3u8Url": "https://s1.phim1280.tv/20240114/6sR4UQz8/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240114/9B6J3vgi/index.m3u8",
+      "m3u8Url": "https://s1.phim1280.tv/20240114/9B6J3vgi/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240114/S3hUi49G/index.m3u8",
+      "m3u8Url": "https://s1.phim1280.tv/20240114/S3hUi49G/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240114/iMSPu8Gp/index.m3u8",
+      "m3u8Url": "https://s1.phim1280.tv/20240114/iMSPu8Gp/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240114/flTbIJRE/index.m3u8",
+      "m3u8Url": "https://s1.phim1280.tv/20240114/flTbIJRE/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240114/wQcDZvo8/index.m3u8",
+      "m3u8Url": "https://s1.phim1280.tv/20240114/wQcDZvo8/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240114/gWloUGO5/index.m3u8",
+      "m3u8Url": "https://s1.phim1280.tv/20240114/gWloUGO5/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240114/G2U1d4I4/index.m3u8",
+      "m3u8Url": "https://s1.phim1280.tv/20240114/G2U1d4I4/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240114/1QD1b9o2/index.m3u8",
+      "m3u8Url": "https://s1.phim1280.tv/20240114/1QD1b9o2/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240114/7vhtf8M5/index.m3u8",
+      "m3u8Url": "https://s1.phim1280.tv/20240114/7vhtf8M5/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240114/487OKzKe/index.m3u8",
+      "m3u8Url": "https://s1.phim1280.tv/20240114/487OKzKe/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240114/bR0RDPFI/index.m3u8",
+      "m3u8Url": "https://s1.phim1280.tv/20240114/bR0RDPFI/index.m3u8"
+    },
+    {
+      "name": "Tập 14",
+      "slug": "tap-14",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240114/KPzuSApF/index.m3u8",
+      "m3u8Url": "https://s1.phim1280.tv/20240114/KPzuSApF/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "giai-ma-phan-3",
-      "episodeCount": 0,
+      "episodeCount": 14,
       "priority": 1
     }
   ],

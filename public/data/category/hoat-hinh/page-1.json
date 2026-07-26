@@ -5,6 +5,43 @@
   "totalPages": 1,
   "items": [
     {
+      "id": "all-wishes-come-true-2026-8b18693c",
+      "source": "phimapi",
+      "slug": "bat-tien",
+      "name": "Bát Tiên!",
+      "originName": "All Wishes Come True!",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260723/bat-tien-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260723/bat-tien-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "a-good-day-to-ascend-2026-ea311ea6",
       "source": "phimapi",
       "slug": "chon-ngay-phi-thang",
@@ -15,11 +52,15 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
         },
         {
           "name": "Hành Động",
@@ -28,10 +69,6 @@
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
-        },
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
         }
       ],
       "countries": [
@@ -51,7 +88,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -148,25 +185,403 @@
       ]
     },
     {
-      "id": "the-elusive-samurai-seas-2026-7ee5fccc",
+      "id": "recommendations-from-iwa-2026-3ef04420",
       "source": "phimapi",
-      "slug": "thieu-chu-gioi-chay-tron-phan-2",
-      "name": "Thiếu Chủ Giỏi Chạy Trốn (Phần 2)",
-      "originName": "The Elusive Samurai (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260719/thieu-chu-gioi-chay-tron-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260719/thieu-chu-gioi-chay-tron-phan-2-thumb.webp",
+      "slug": "loi-gioi-thieu-cua-tien-boi-iwamoto",
+      "name": "Lời Giới Thiệu Của Tiền Bối Iwamoto",
+      "originName": "Recommendations From Iwamoto-Senpai",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260708/loi-gioi-thieu-cua-tien-boi-iwamoto-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260708/loi-gioi-thieu-cua-tien-boi-iwamoto-thumb.webp",
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 1",
+      "episodeCurrent": "Tập 4",
+      "categories": [
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "from-old-country-bumpkin-2026-40a568e1",
+      "source": "phimapi",
+      "slug": "ong-chu-o-vung-que-tro-thanh-thanh-kiem-phan-2",
+      "name": "Ông Chú Ở Vùng Quê Trở Thành Thánh Kiếm (Phần 2)",
+      "originName": "From Old Country Bumpkin to Master Swordsman (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260711/ong-chu-o-vung-que-tro-thanh-thanh-kiem-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260711/ong-chu-o-vung-que-tro-thanh-thanh-kiem-phan-2-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 3",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "assassination-classroom--2026-f0ea5845",
+      "source": "phimapi",
+      "slug": "phim-dien-anh-lop-hoc-am-sat-gio-cua-chung-ta",
+      "name": "Phim Điện Ảnh - Lớp Học Ám Sát: Giờ Của Chúng Ta",
+      "originName": "Assassination Classroom the Movie: Our Time",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260726/phim-dien-anh-lop-hoc-am-sat-gio-cua-chung-ta-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260726/phim-dien-anh-lop-hoc-am-sat-gio-cua-chung-ta-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "grow-up-show-sunflower-c-2026-68316a19",
+      "source": "phimapi",
+      "slug": "rap-xiec-hoa-huong-duong",
+      "name": "Rạp Xiếc Hoa Hướng Dương",
+      "originName": "GROW UP SHOW -Sunflower Circus-",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260708/rap-xiec-hoa-huong-duong-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260708/rap-xiec-hoa-huong-duong-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 4",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-forsaken-saintess-an-2026-81413f91",
+      "source": "phimapi",
+      "slug": "thanh-nu-bi-ruong-bo-va-chuyen-du-hanh-am-thuc-cua-nang-o-the-gioi-khac",
+      "name": "Thánh Nữ Bị Ruồng Bỏ Và Chuyến Du Hành Ẩm Thực Của Nàng Ở Thế Giới Khác",
+      "originName": "The Forsaken Saintess And Her Foodie Roadtrip In Another World",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260708/thanh-nu-bi-ruong-bo-va-chuyen-du-hanh-am-thuc-cua-nang-o-the-gioi-khac-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260708/thanh-nu-bi-ruong-bo-va-chuyen-du-hanh-am-thuc-cua-nang-o-the-gioi-khac-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 2",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-legend-of-vox-machin-2026-e1a7b605",
+      "source": "phimapi",
+      "slug": "truyen-thuyet-ve-vox-machina-phan-4",
+      "name": "Truyền Thuyết về Vox Machina (Phần 4)",
+      "originName": "The Legend Of Vox Machina (Season 4)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260714/truyen-thuyet-ve-vox-machina-phan-4-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260714/truyen-thuyet-ve-vox-machina-phan-4-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "please-excuse-my-younger-2026-59db57d0",
+      "source": "phimapi",
+      "slug": "xin-hay-thu-loi-cho-cac-em-trai-cua-toi",
+      "name": "Xin Hãy Thứ Lỗi Cho Các Em Trai Của Tôi",
+      "originName": "Please Excuse My Younger Brothers",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260711/xin-hay-thu-loi-cho-cac-em-trai-cua-toi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260711/xin-hay-thu-loi-cho-cac-em-trai-cua-toi-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 4",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "i-m-a-noble-on-the-brink-2025-4a6629f5",
+      "source": "phimapi",
+      "slug": "du-la-quy-toc-sap-pha-san-nhung-vi-ranh-roi-nen-toi-da-thu-luyen-ma-thuat-den-muc-thuong-thua",
+      "name": "Dù Là Quý Tộc Sắp Phá Sản, Nhưng Vì Rảnh Rỗi Nên Tôi Đã Thử Luyện Ma Thuật Đến Mức Thượng Thừa",
+      "originName": "I'm A Noble On The Brink Of Ruin, So I Might As Well Try Mastering Magic",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260715/du-la-quy-toc-sap-pha-san-nhung-vi-ranh-roi-nen-toi-da-thu-luyen-ma-thuat-den-muc-thuong-thua-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260715/du-la-quy-toc-sap-pha-san-nhung-vi-ranh-roi-nen-toi-da-thu-luyen-ma-thuat-den-muc-thuong-thua-thumb.webp",
+      "year": 2025,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
       "categories": [
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
         },
         {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-legend-of-vox-machin-2024-7f188c96",
+      "source": "phimapi",
+      "slug": "truyen-thuyet-ve-vox-machina-phan-3",
+      "name": "Truyền Thuyết về Vox Machina (Phần 3)",
+      "originName": "The Legend Of Vox Machina (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260714/truyen-thuyet-ve-vox-machina-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260714/truyen-thuyet-ve-vox-machina-phan-3-thumb.webp",
+      "year": 2024,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "kaina-of-the-great-snow--2023-30cc3101",
+      "source": "phimapi",
+      "slug": "kaina-cua-bien-tuyet-vi-dai-hien-triet-sao",
+      "name": "Kaina Của Biển Tuyết Vĩ Đại: Hiền Triết Sao",
+      "originName": "Kaina Of The Great Snow Sea: Star Sage",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260715/kaina-cua-bien-tuyet-vi-dai-hien-triet-sao-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260715/kaina-cua-bien-tuyet-vi-dai-hien-triet-sao-thumb.webp",
+      "year": 2023,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "summer-time-rendering-2022-b317472b",
+      "source": "phimapi",
+      "slug": "vinh-biet-mua-he",
+      "name": "Vĩnh Biệt Mùa Hè",
+      "originName": "Summer Time Rendering",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260714/vinh-biet-mua-he-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260714/vinh-biet-mua-he-thumb.webp",
+      "year": 2022,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (25/25)",
+      "categories": [
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Tâm Lý",

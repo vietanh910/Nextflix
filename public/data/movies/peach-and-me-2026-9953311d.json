@@ -1,0 +1,97 @@
+{
+  "id": "peach-and-me-2026-9953311d",
+  "source": "phimapi",
+  "slug": "tinh-tao-roi-lookpeach",
+  "name": "Tỉnh Táo Rồi, Lookpeach",
+  "originName": "Peach And Me",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260712/tinh-tao-roi-lookpeach-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260712/tinh-tao-roi-lookpeach-thumb.webp",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 3",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thái Lan",
+      "slug": "thai-lan"
+    }
+  ],
+  "description": "<p>Sau đám cưới, Thee và Peach cùng nhau đón nhận những niềm vui lẫn sự hỗn loạn của cuộc sống hôn nhân, đồng thời dần tìm ra nhịp điệu sống hòa hợp của riêng hai người.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260711/AAvposmR/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260711/AAvposmR/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/NJKGvP91/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/NJKGvP91/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260725/Ljz5f5HH/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260725/Ljz5f5HH/index.m3u8"
+    },
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/d9749cf32d4dfe38ddc695572dd948b9",
+      "m3u8Url": "https://vip.opstream10.com/20260718/34334_d9749cf3/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/76116a8b8f5da981ab90769dcf68a207",
+      "m3u8Url": "https://vip.opstream10.com/20260718/34335_76116a8b/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "tinh-tao-roi-lookpeach",
+      "episodeCount": 2,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "tinh-tao-roi-lookpeach",
+      "episodeCount": 3,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

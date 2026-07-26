@@ -104,39 +104,6 @@
       ]
     },
     {
-      "id": "cabbage-your-life-2026-1ccc8fdc",
-      "source": "ophim",
-      "slug": "doi-cai-thao",
-      "name": "Đời Cải Thảo",
-      "originName": "Cabbage Your Life",
-      "posterUrl": "https://img.ophim.live/uploads/movies/doi-cai-thao-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/doi-cai-thao-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 11",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
       "id": "the-sheep-detectives-2026-c85ebf83",
       "source": "ophim",
       "slug": "doi-tham-tu-cuu-an-mang-luc-nua-dem",
@@ -273,35 +240,6 @@
       ]
     },
     {
-      "id": "the-lotto-winner-2026-fed4c38a",
-      "source": "ophim",
-      "slug": "nguoi-trung-so",
-      "name": "Người Trúng Số",
-      "originName": "The Lotto Winner",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nguoi-trung-so-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nguoi-trung-so-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Philippines",
-          "slug": "philippines"
-        }
-      ]
-    },
-    {
       "id": "our-happy-days-2026-90db6740",
       "source": "ophim",
       "slug": "nhung-ngay-hanh-phuc-cua-chung-ta",
@@ -405,72 +343,105 @@
       ]
     },
     {
-      "id": "xiao-fang-2026-2ba92c45",
-      "source": "ophim",
-      "slug": "tieu-phuong",
-      "name": "Tiểu Phương",
-      "originName": "Xiao Fang",
-      "posterUrl": "https://img.ophim.live/uploads/movies/tieu-phuong-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/tieu-phuong-thumb.jpg",
+      "id": "cabbage-your-life-2026-8e5df80a",
+      "source": "phimapi",
+      "slug": "doi-cai-thao",
+      "name": "Đời Cải Thảo",
+      "originName": "Cabbage Your Life",
+      "posterUrl": "https://phimimg.com/upload/vod/20260401-1/2ce035e2b1c5494938e002300f9b939f.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260401-1/3da5e28a5385bce1bb889122860fad8d.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "stokes-twins-2026-8af21d3c",
+      "source": "phimapi",
+      "slug": "stokes-twins",
+      "name": "Stokes Twins",
+      "originName": "Stokes Twins",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260726/stokes-twins-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260726/stokes-twins-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
       "categories": [
         {
           "name": "Gia Đình",
           "slug": "gia-dinh"
         },
         {
-          "name": "Chính kịch",
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "xiao-fang-2026-6f429d1b",
+      "source": "phimapi",
+      "slug": "tieu-phuong",
+      "name": "Tiểu Phương",
+      "originName": "Xiao Fang",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260714/tieu-phuong-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260714/tieu-phuong-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 14",
+      "categories": [
+        {
+          "name": "Chính Kịch",
           "slug": "chinh-kich"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "animal-farm-2026-99d693c7",
-      "source": "ophim",
-      "slug": "trai-suc-vat",
-      "name": "Trại Súc Vật",
-      "originName": "Animal Farm",
-      "posterUrl": "https://img.ophim.live/uploads/movies/trai-suc-vat-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/trai-suc-vat-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (1/1)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
         }
       ]
     },
@@ -681,6 +652,39 @@
       ]
     },
     {
+      "id": "rekonek-2025-38aa3563",
+      "source": "phimapi",
+      "slug": "rekonek-ket-noi-lai-voi-nhau",
+      "name": "ReKonek: Kết Nối Lại Với Nhau",
+      "originName": "Rekonek",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260713/rekonek-ket-noi-lai-voi-nhau-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260713/rekonek-ket-noi-lai-voi-nhau-thumb.webp",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Philippines",
+          "slug": "philippines"
+        }
+      ]
+    },
+    {
       "id": "i-live-alone-2020-79d527b4",
       "source": "ophim",
       "slug": "toi-song-mot-minh",
@@ -731,6 +735,39 @@
         {
           "name": "Việt Nam",
           "slug": "viet-nam"
+        }
+      ]
+    },
+    {
+      "id": "stuart-little-2-2002-74ce5b63",
+      "source": "phimapi",
+      "slug": "chu-chuot-sieu-quay-2",
+      "name": "Chú Chuột Siêu Quậy 2",
+      "originName": "Stuart Little 2",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260717/chu-chuot-sieu-quay-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260717/chu-chuot-sieu-quay-2-thumb.webp",
+      "year": 2002,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     }

@@ -7,15 +7,47 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260715/kaina-cua-bien-tuyet-vi-dai-hien-triet-sao-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260715/kaina-cua-bien-tuyet-vi-dai-hien-triet-sao-thumb.webp",
   "year": 2023,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Hoạt Hình",
+      "slug": "hoat-hinh"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Kaina trở lại Thiên Mạc băng giá mà lòng đầy băn khoăn về bước đi tiếp theo. Nhờ liên minh mà anh và Ririha thiết lập, nền hòa bình đã được lập lại tại Atland và Valghia. Thế nhưng, giờ đây nguồn nhu yếu phẩm đang dần cạn kiệt, và người dân cần những lời giải đáp. Kaina, Ririha cùng một nhóm đồng hành nhỏ đã lên đường băng qua vùng tuyết trắng để tìm kiếm cây quỹ đạo khổng lồ. Đây chính là bước đi đầu tiên trong hành trình cứu lấy đồng bào của họ. Hãy cùng Kaina dấn thân vào chuyến viễn chinh giải cứu nhân loại!</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260715/JcQJpJqr/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260715/JcQJpJqr/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "kaina-cua-bien-tuyet-vi-dai-hien-triet-sao",
-      "episodeCount": 0,
+      "episodeCount": 1,
       "priority": 1
     }
   ],

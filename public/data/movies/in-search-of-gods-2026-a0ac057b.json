@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 17",
+  "episodeCurrent": "Tập 20",
   "categories": [
     {
       "name": "Hành Động",
@@ -165,13 +165,37 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/ed6738f60889256f8dc7d9114f6ba525",
       "m3u8Url": "https://vip.opstream90.com/20260701/35787_ed6738f6/index.m3u8"
+    },
+    {
+      "name": "18",
+      "slug": "18",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/c9591e48b02f541835a646cb10794668",
+      "m3u8Url": "https://vip.opstream10.com/20260719/34377_c9591e48/index.m3u8"
+    },
+    {
+      "name": "19",
+      "slug": "19",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/17da20e1e103e19f969d54c67d674c71",
+      "m3u8Url": "https://vip.opstream10.com/20260719/34378_17da20e1/index.m3u8"
+    },
+    {
+      "name": "20",
+      "slug": "20",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/fc07f45e2586f4cae62330a947e68b7a",
+      "m3u8Url": "https://vip.opstream10.com/20260719/34379_fc07f45e/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "suu-than-ky",
-      "episodeCount": 17,
+      "episodeCount": 20,
       "priority": 0
     }
   ],

@@ -7,15 +7,51 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260717/den-khi-ao-phong-kho-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260717/den-khi-ao-phong-kho-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Bí Ẩn",
+      "slug": "bi-an"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Một tai nạn bất ngờ phá tan cuộc sống hạnh phúc tưởng chừng bình yên của hai cặp đôi – đồng thời phơi bày bí mật mà một người đã che giấu suốt nhiều năm.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260716/9WyKXrxJ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260716/9WyKXrxJ/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260724/XER2ZkQE/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260724/XER2ZkQE/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "den-khi-ao-phong-kho",
-      "episodeCount": 0,
+      "episodeCount": 2,
       "priority": 1
     }
   ],

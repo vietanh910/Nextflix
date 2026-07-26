@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/917d4bf200e5254f98ded14e13d883d4.jpg",
   "year": 2026,
   "type": "tvshow",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (6/6)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -75,6 +75,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260718/5CiHF4mN/index.m3u8"
     },
     {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260725/Xufsee8O/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260725/Xufsee8O/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -109,7 +117,7 @@
     {
       "source": "phimapi",
       "slug": "gieo-gi-gat-nay-nong-trai-thang-tien",
-      "episodeCount": 5,
+      "episodeCount": 6,
       "priority": 1
     }
   ],

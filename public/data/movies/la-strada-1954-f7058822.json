@@ -7,15 +7,43 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260714/con-duong-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260714/con-duong-thumb.webp",
   "year": 1954,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Ý",
+      "slug": "y"
+    }
+  ],
+  "description": "<p>Phim rất buồn và gợi rất nhiều suy nghĩ. Zampano không hẳn là người xấu. Hắn tuy thô lỗ cục súc nhưng cũng muốn được chăm sóc yêu thương. Có lẽ hắn cũng muốn bày tỏ lòng yêu thương nhưng không biết cách. Hay có lẽ cả Zampano lẫn Gelsomina đều nghĩ đến tình yêu, muốn được yêu thương, nhưng mỗi người định nghĩa tình yêu khác nhau.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260714/Idl5K95B/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260714/Idl5K95B/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "con-duong",
-      "episodeCount": 0,
+      "episodeCount": 1,
       "priority": 1
     }
   ],

@@ -1,0 +1,113 @@
+{
+  "id": "silo-season-3-2026-36cd5b42",
+  "source": "phimapi",
+  "slug": "ham-silo-phan-3",
+  "name": "Hầm SILO (Phần 3)",
+  "originName": "Silo (Season 3)",
+  "posterUrl": "https://phimimg.com/upload/vod/20260704-1/a87af009b289da38de8dbaed7d279cec.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260704-1/dd78762f7651be4977588e7b8b93fb91.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 4",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Trong thế giới hoang tàn và nhiễm độc ở tương lai, hàng nghìn người sống trong một silo khổng lồ sâu dưới lòng đất. Sau khi một cảnh sát trưởng phá vỡ một quy tắc chủ chốt và dân thường thiệt mạng một cách bí ẩn, kỹ sư Juliette bắt đầu phát hiện ra những bí mật gây sốc và sự thật về silo.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/JL8y3vww/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260704/JL8y3vww/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/BekRNzmn/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/BekRNzmn/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260717/WfFi20Yu/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260717/WfFi20Yu/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260724/q0JkfCMY/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260724/q0JkfCMY/index.m3u8"
+    },
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/a748fee25fe35e147e4ce6b502c6a2e2",
+      "m3u8Url": "https://vip.opstream90.com/20260703/36051_a748fee2/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/7baa3894c1163d4ecd5acc9b4cda2c4a",
+      "m3u8Url": "https://vip.opstream10.com/20260718/34290_7baa3894/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/55d3833ccf0805f16f14edde0562ce32",
+      "m3u8Url": "https://vip.opstream10.com/20260718/34291_55d3833c/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "silo-phan-3",
+      "episodeCount": 3,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "ham-silo-phan-3",
+      "episodeCount": 4,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

@@ -2,25 +2,178 @@
   "slug": "hai-huoc",
   "name": "Hài Hước",
   "page": 5,
-  "totalPages": 5,
+  "totalPages": 6,
   "items": [
     {
-      "id": "the-sex-lives-of-college-2021-38a1ddcb",
+      "id": "pegasus-2-2024-60714a3c",
       "source": "phimapi",
-      "slug": "doi-song-tinh-ai-cua-nu-sinh-vien-phan-1",
-      "name": "Đời Sống Tình Ái Của Nữ Sinh Viên (Phần 1)",
-      "originName": "The Sex Lives Of College Girls (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260719/doi-song-tinh-ai-cua-nu-sinh-vien-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260719/doi-song-tinh-ai-cua-nu-sinh-vien-phan-1-thumb.webp",
-      "year": 2021,
-      "type": "series",
+      "slug": "phi-tri-nhan-sinh-2",
+      "name": "Phi Trì Nhân Sinh 2",
+      "originName": "Pegasus 2",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260717/phi-tri-nhan-sinh-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260717/phi-tri-nhan-sinh-2-thumb.webp",
+      "year": 2024,
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-100-girlfriends-who--2023-74271b19",
+      "source": "ophim",
+      "slug": "100-co-ban-gai-yeu-ban-rat-rat-rat-rat-rat-nhieu-phan-3",
+      "name": "100 cô bạn gái yêu bạn rất rất rất rất rất nhiều (Phần 3)",
+      "originName": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You (Season 3)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/100-co-ban-gai-yeu-ban-rat-rat-rat-rat-rat-nhieu-phan-3-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/100-co-ban-gai-yeu-ban-rat-rat-rat-rat-rat-nhieu-phan-3-thumb.jpg",
+      "year": 2023,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 2",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-amazing-digital-circ-2023-ec1aa098",
+      "source": "ophim",
+      "slug": "rap-xiec-ky-thuat-so-dieu-ky",
+      "name": "Rạp xiếc kỹ thuật số diệu kỳ",
+      "originName": "The Amazing Digital Circus",
+      "posterUrl": "https://img.ophim.live/uploads/movies/rap-xiec-ky-thuat-so-dieu-ky-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/rap-xiec-ky-thuat-so-dieu-ky-thumb.jpg",
+      "year": 2023,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (9/9)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Úc",
+          "slug": "uc"
+        }
+      ]
+    },
+    {
+      "id": "thibaan-the-series-docto-2022-5d5496fa",
+      "source": "phimapi",
+      "slug": "thibaan-loat-phim-bac-si-plawan",
+      "name": "Thibaan Loạt Phim: Bác Sĩ Plawan",
+      "originName": "Thibaan The Series: Doctor Plawan",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260715/thibaan-loat-phim-bac-si-plawan-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260715/thibaan-loat-phim-bac-si-plawan-thumb.webp",
+      "year": 2022,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "new-key-2021-cb4edf8b",
+      "source": "ophim",
+      "slug": "chia-khoa-moi",
+      "name": "Chìa Khóa Mới",
+      "originName": "New Key",
+      "posterUrl": "https://img.ophim.live/uploads/movies/chia-khoa-moi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/chia-khoa-moi-thumb.jpg",
+      "year": 2021,
+      "type": "series",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "patriot-act-with-hasan-m-2020-e837649c",
+      "source": "phimapi",
+      "slug": "dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-6",
+      "name": "Đạo Luật Yêu Nước Với Hasan Minhaj (Phần 6)",
+      "originName": "Patriot Act With Hasan Minhaj (Season 6)",
+      "posterUrl": "https://phimimg.com/upload/vod/20231207-1/fcc89b587082a0a1df362a08b3c1bc21.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20231207-1/1aacb303dce6e6e70b9883c57db9a1a3.jpg",
+      "year": 2020,
+      "type": "tvshow",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
@@ -121,17 +274,322 @@
       ]
     },
     {
-      "id": "sent-2017-e33babb9",
+      "id": "patriot-act-with-hasan-m-2019-35afbcce",
       "source": "phimapi",
-      "slug": "sent",
-      "name": "SeNT",
-      "originName": "SeNT",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260719/sent-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260719/sent-thumb.webp",
-      "year": 2017,
+      "slug": "dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-2",
+      "name": "Đạo Luật Yêu Nước Với Hasan Minhaj (Phần 2)",
+      "originName": "Patriot Act With Hasan Minhaj (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260726/dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260726/dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-2-thumb.webp",
+      "year": 2019,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
+      "episodeCurrent": "Hoàn Tất (6/6)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Talk",
+          "slug": "talk"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "patriot-act-with-hasan-m-2019-efecd747",
+      "source": "phimapi",
+      "slug": "dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-3",
+      "name": "Đạo Luật Yêu Nước Với Hasan Minhaj (Phần 3)",
+      "originName": "Patriot Act With Hasan Minhaj (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260726/dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260726/dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-3-thumb.webp",
+      "year": 2019,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (6/6)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Talk",
+          "slug": "talk"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "patriot-act-with-hasan-m-2019-5d20804a",
+      "source": "phimapi",
+      "slug": "dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-4",
+      "name": "Đạo Luật Yêu Nước Với Hasan Minhaj (Phần 4)",
+      "originName": "Patriot Act With Hasan Minhaj (Season 4)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260726/dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-4-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260726/dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-4-thumb.webp",
+      "year": 2019,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (6/6)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Talk",
+          "slug": "talk"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "patriot-act-with-hasan-m-2019-ba51f47e",
+      "source": "phimapi",
+      "slug": "dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-5",
+      "name": "Đạo Luật Yêu Nước Với Hasan Minhaj (Phần 5)",
+      "originName": "Patriot Act With Hasan Minhaj (Season 5)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260726/dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-5-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260726/dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-5-thumb.webp",
+      "year": 2019,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (7/7)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Talk",
+          "slug": "talk"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-tick-season-2-2019-ada8678c",
+      "source": "phimapi",
+      "slug": "nguoi-hung-bo-xanh-phan-2",
+      "name": "Người Hùng Bọ Xanh (Phần 2)",
+      "originName": "The Tick (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260715/nguoi-hung-bo-xanh-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260715/nguoi-hung-bo-xanh-phan-2-thumb.webp",
+      "year": 2019,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "pegasus-2019-ae7d31f8",
+      "source": "phimapi",
+      "slug": "phi-tri-nhan-sinh",
+      "name": "Phi Trì Nhân Sinh",
+      "originName": "Pegasus",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260717/phi-tri-nhan-sinh-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260717/phi-tri-nhan-sinh-thumb.webp",
+      "year": 2019,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "grand-blue-dreaming-seas-2018-92943f3b",
+      "source": "ophim",
+      "slug": "xanh-tham-phan-3",
+      "name": "Xanh Thẳm (Phần 3)",
+      "originName": "Grand Blue Dreaming (Season 3)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/xanh-tham-phan-3-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/xanh-tham-phan-3-thumb.jpg",
+      "year": 2018,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 3",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "patriot-act-with-hasan-m-2018-3e3124a6",
+      "source": "phimapi",
+      "slug": "dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-1",
+      "name": "Đạo Luật Yêu Nước Với Hasan Minhaj (Phần 1)",
+      "originName": "Patriot Act With Hasan Minhaj (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260726/dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260726/dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-1-thumb.webp",
+      "year": 2018,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (7/7)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Talk",
+          "slug": "talk"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-tick-season-1-2016-4910e329",
+      "source": "phimapi",
+      "slug": "nguoi-hung-bo-xanh-phan-1",
+      "name": "Người Hùng Bọ Xanh (Phần 1)",
+      "originName": "The Tick (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260715/nguoi-hung-bo-xanh-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260715/nguoi-hung-bo-xanh-phan-1-thumb.webp",
+      "year": 2016,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "descent-into-darkness-my-2013-2edf117c",
+      "source": "phimapi",
+      "slug": "hanh-trinh-vao-bong-toi",
+      "name": "Hành Trình Vào Bóng Tối",
+      "originName": "Descent Into Darkness: My European Nightmare / Sorgoï Prakov",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260714/hanh-trinh-vao-bong-toi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260714/hanh-trinh-vao-bong-toi-thumb.webp",
+      "year": 2013,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -142,14 +600,22 @@
           "slug": "hai-huoc"
         },
         {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
           "name": "Tâm Lý",
           "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Singapore",
-          "slug": "singapore"
+          "name": "Pháp",
+          "slug": "phap"
         }
       ]
     },
@@ -281,214 +747,6 @@
       "type": "series",
       "status": "completed",
       "episodeCurrent": "Hoàn tất (22/22)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "ready-steady-charlie-2003-62e16271",
-      "source": "ophim",
-      "slug": "achtung-fertig-charlie",
-      "name": "Achtung, Fertig, Charlie!",
-      "originName": "Ready, Steady, Charlie!",
-      "posterUrl": "https://img.ophim.live/uploads/movies/achtung-fertig-charlie-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/achtung-fertig-charlie-thumb.jpg",
-      "year": 2003,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thụy Sĩ",
-          "slug": "thuy-si"
-        }
-      ]
-    },
-    {
-      "id": "the-king-of-queens-seaso-2003-66b58bc3",
-      "source": "ophim",
-      "slug": "the-king-of-queens-phan-6",
-      "name": "The King of Queens (Phần 6)",
-      "originName": "The King of Queens (Season 6)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-6-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-6-thumb.jpg",
-      "year": 2003,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (24/24)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-king-of-queens-seaso-2002-045f90ff",
-      "source": "ophim",
-      "slug": "the-king-of-queens-phan-5",
-      "name": "The King of Queens (Phần 5)",
-      "originName": "The King of Queens (Season 5)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-5-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-5-thumb.jpg",
-      "year": 2002,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (25/25)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-king-of-queens-seaso-2001-1ec0e62a",
-      "source": "ophim",
-      "slug": "the-king-of-queens-phan-4",
-      "name": "The King of Queens (Phần 4)",
-      "originName": "The King of Queens (Season 4)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-4-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-4-thumb.jpg",
-      "year": 2001,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (25/25)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-king-of-queens-seaso-2000-9664ac8f",
-      "source": "ophim",
-      "slug": "the-king-of-queens-phan-3",
-      "name": "The King of Queens (Phần 3)",
-      "originName": "The King of Queens (Season 3)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-3-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-3-thumb.jpg",
-      "year": 2000,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (25/25)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "one-piece-luffy-1999-ea35662f",
-      "source": "ophim",
-      "slug": "one-piece",
-      "name": "Đảo Hải Tặc",
-      "originName": "One Piece (Luffy)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/one-piece-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/one-piece-thumb.jpg",
-      "year": 1999,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 1168",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "the-king-of-queens-seaso-1999-7a37ad40",
-      "source": "ophim",
-      "slug": "the-king-of-queens-phan-2",
-      "name": "The King of Queens (Phần 2)",
-      "originName": "The King of Queens (Season 2)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-2-thumb.jpg",
-      "year": 1999,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (25/25)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-king-of-queens-seaso-1998-fe7c651c",
-      "source": "ophim",
-      "slug": "the-king-of-queens-phan-1",
-      "name": "The King of Queens (Phần 1)",
-      "originName": "The King of Queens (Season 1)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-1-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-1-thumb.jpg",
-      "year": 1998,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (25/25)",
       "categories": [
         {
           "name": "Hài Hước",

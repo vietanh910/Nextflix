@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 4",
   "categories": [
     {
       "name": "Hành Động",
@@ -53,13 +53,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/f026065498487d98a7f2052d48749913",
       "m3u8Url": "https://vip.opstream90.com/20260705/36185_f0260654/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/ee79d5e1b7c2b698105bc5811e6a3eb5",
+      "m3u8Url": "https://vip.opstream10.com/20260720/34407_ee79d5e1/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/8f8f63800cdf54a776ba9c14b2059ec0",
+      "m3u8Url": "https://vip.opstream10.com/20260720/34408_8f8f6380/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "that-nghiep-chuyen-sinh-phan-3",
-      "episodeCount": 2,
+      "episodeCount": 4,
       "priority": 0
     },
     {

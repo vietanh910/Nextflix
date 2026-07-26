@@ -9,7 +9,7 @@
   "year": 2020,
   "type": "anime",
   "status": "completed",
-  "episodeCurrent": "Tập 183",
+  "episodeCurrent": "Tập 184",
   "categories": [
     {
       "name": "Hành Động",
@@ -1503,6 +1503,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260718/l8AEbgXP/index.m3u8"
     },
     {
+      "name": "Tập 184",
+      "slug": "tap-184",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260725/ZE0H6ACU/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260725/ZE0H6ACU/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -1571,7 +1579,7 @@
     {
       "source": "phimapi",
       "slug": "pham-nhan-tu-tien",
-      "episodeCount": 191,
+      "episodeCount": 192,
       "priority": 1
     }
   ],

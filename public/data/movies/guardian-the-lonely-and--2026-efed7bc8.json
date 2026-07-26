@@ -7,15 +7,63 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260706/ky-niem-10-nam-phim-goblin-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260706/ky-niem-10-nam-phim-goblin-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (4/4)",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "<p>Kỷ niệm 10 năm phát sóng bộ phim Yêu Tinh từng gây sốt toàn châu Á, dàn diễn viên chính gồm Gong Yoo, Kim Go Eun, Lee Dong Wook và Yoo In Na đã hội ngộ trong một chuyến đi đặc biệt trở lại Gangneung. Họ cùng đến những địa điểm quay phim, tái hiện những cảnh quay và câu thoại đã trở thành biểu tượng và chia sẻ những câu chuyện hậu trường.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260706/CDEUttVg/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260706/CDEUttVg/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260706/477IRADx/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260706/477IRADx/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260714/xiO8op40/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260714/xiO8op40/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260714/KnjgG6Z5/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260714/KnjgG6Z5/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "ky-niem-10-nam-phim-goblin",
-      "episodeCount": 0,
+      "episodeCount": 4,
       "priority": 1
     }
   ],

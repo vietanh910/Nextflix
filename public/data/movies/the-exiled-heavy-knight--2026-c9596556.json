@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 3",
+  "episodeCurrent": "Tập 4",
   "categories": [
     {
       "name": "Hành Động",
@@ -67,41 +67,25 @@
       "m3u8Url": "https://vip.opstream10.com/20260718/34309_b05ed73e/index.m3u8"
     },
     {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/7Sbik3F5/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260704/7Sbik3F5/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/3IKxLOQu/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/3IKxLOQu/index.m3u8"
-    },
-    {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260717/f8MR3NyG/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260717/f8MR3NyG/index.m3u8"
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream800.com/share/63dc7ed1010d3c3b8269faf0ba7491d4",
+      "m3u8Url": "https://vip.opstream800.com/20260724/217_63dc7ed1/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "trong-giap-hiep-si-chuyen-sinh-bi-luu-day-tro-nen-vo-dich-nho-kien-thuc-ve-game",
-      "episodeCount": 3,
+      "episodeCount": 4,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "trong-giap-hiep-si-chuyen-sinh-bi-luu-day-tro-nen-vo-dich-nho-kien-thuc-ve-game",
-      "episodeCount": 3,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

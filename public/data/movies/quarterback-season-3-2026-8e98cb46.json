@@ -7,15 +7,87 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260715/quarterback-phan-3-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260715/quarterback-phan-3-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "tvshow",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (7/7)",
+  "categories": [
+    {
+      "name": "Tài Liệu",
+      "slug": "tai-lieu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Theo chân những cơ thể bầm dập, những cú trượt ngã khiến tinh thần suy sụp, những trận thua đau đớn và niềm vui thuần khiết của ba tiền vệ NFL trong suốt một mùa giải.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260715/JoAI54Ub/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260715/JoAI54Ub/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260715/qNVvQFJy/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260715/qNVvQFJy/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260715/hB7ihjfR/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260715/hB7ihjfR/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260715/ouo8ftD1/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260715/ouo8ftD1/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260715/4iMxgBsu/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260715/4iMxgBsu/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260715/qxvSiiKo/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260715/qxvSiiKo/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260715/UMhPi0Fj/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260715/UMhPi0Fj/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "quarterback-phan-3",
-      "episodeCount": 0,
+      "episodeCount": 7,
       "priority": 1
     }
   ],

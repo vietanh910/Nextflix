@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 6",
   "categories": [
     {
       "name": "Chính kịch",
@@ -57,13 +57,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/0623d6fcf18ec961b45184b98f0f6fdb",
       "m3u8Url": "https://vip.opstream10.com/20260717/34063_0623d6fc/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream800.com/share/149e9677a5989fd342ae44213df68868",
+      "m3u8Url": "https://vip.opstream800.com/20260723/170_149e9677/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream800.com/share/9dcb88e0137649590b755372b040afad",
+      "m3u8Url": "https://vip.opstream800.com/20260724/188_9dcb88e0/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "tinh-yeu-va-toi-loi",
-      "episodeCount": 4,
+      "episodeCount": 6,
       "priority": 0
     },
     {

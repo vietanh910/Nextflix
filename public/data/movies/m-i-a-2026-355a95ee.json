@@ -65,6 +65,38 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/0aa009391d33cae0536040843c3f6735",
       "m3u8Url": "https://vip.opstream10.com/20260713/33990_0aa00939/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260712/vDvC6kWO/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260712/vDvC6kWO/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260712/GKb6gvVK/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260712/GKb6gvVK/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260714/zBbNzbL5/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260714/zBbNzbL5/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260714/kTupNfXL/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260714/kTupNfXL/index.m3u8"
     }
   ],
   "sources": [
@@ -77,7 +109,7 @@
     {
       "source": "phimapi",
       "slug": "bong-ma-bao-thu",
-      "episodeCount": 0,
+      "episodeCount": 4,
       "priority": 1
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 20",
+  "episodeCurrent": "Tập 31",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -197,13 +197,101 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/6Oha3g5C/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260718/6Oha3g5C/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260719/cKzrRz8C/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260719/cKzrRz8C/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260719/3aV3GLy8/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260719/3aV3GLy8/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260720/iMBpeO7Y/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260720/iMBpeO7Y/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260720/Ab26B38i/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260720/Ab26B38i/index.m3u8"
+    },
+    {
+      "name": "Tập 25",
+      "slug": "tap-25",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260722/Dp14tMmU/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260722/Dp14tMmU/index.m3u8"
+    },
+    {
+      "name": "Tập 26",
+      "slug": "tap-26",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260722/ZMR5YKEj/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260722/ZMR5YKEj/index.m3u8"
+    },
+    {
+      "name": "Tập 27",
+      "slug": "tap-27",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260723/lNnsUOcY/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260723/lNnsUOcY/index.m3u8"
+    },
+    {
+      "name": "Tập 28",
+      "slug": "tap-28",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260724/Bc7F2awt/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260724/Bc7F2awt/index.m3u8"
+    },
+    {
+      "name": "Tập 29",
+      "slug": "tap-29",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260724/lJTGm5Gg/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260724/lJTGm5Gg/index.m3u8"
+    },
+    {
+      "name": "Tập 30",
+      "slug": "tap-30",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260725/HkXM6Vo7/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260725/HkXM6Vo7/index.m3u8"
+    },
+    {
+      "name": "Tập 31",
+      "slug": "tap-31",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260725/6ZxVtwIN/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260725/6ZxVtwIN/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "bach-hoa-sat",
-      "episodeCount": 20,
+      "episodeCount": 31,
       "priority": 1
     }
   ],

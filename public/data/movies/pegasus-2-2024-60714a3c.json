@@ -7,15 +7,51 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260717/phi-tri-nhan-sinh-2-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260717/phi-tri-nhan-sinh-2-thumb.webp",
   "year": 2024,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "<p>Cựu tay đua vô địch Trương Trì giờ đây sa sút trở thành một huấn luyện viên tại trường dạy lái xe, sống qua ngày bằng cách dựa dẫm vào danh tiếng xưa cũ để mưu sinh. Thế nhưng, một cơ hội từ trên trời rơi xuống khi giám đốc của Nhà máy Ô tô Lão Đầu Tử — một cơ sở đang trên bờ vực phá sản — chủ động đề nghị tài trợ cho Trương Trì thành lập một đội đua để tham gia giải đua Bayinbrook cuối cùng.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260716/MlKNh8Pu/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260716/MlKNh8Pu/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "phi-tri-nhan-sinh-2",
-      "episodeCount": 0,
+      "episodeCount": 1,
       "priority": 1
     }
   ],
