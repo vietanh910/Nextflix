@@ -1,0 +1,54 @@
+{
+  "id": "white-butterfly-2024-a30ec142",
+  "source": "phimapi",
+  "slug": "bach-ho-diep",
+  "name": "Bạch Hồ Điệp",
+  "originName": "White Butterfly",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260801/bach-ho-diep-poster.webp",
+  "year": 2024,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Gia Đình",
+      "slug": "gia-dinh"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Việt Nam",
+      "slug": "viet-nam"
+    }
+  ],
+  "description": "<p>Mang dòng máu lai Việt - Hàn, May trở về Việt Nam sau khi nghe tin mẹ qua đời - người mẹ xa lạ với cô. Cuộc hội ngộ \"âm dương\" này khiến cô dần hiểu cuộc chia ly của bố mẹ còn rất nhiều góc khuất.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260801/8HFSnViL/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260801/8HFSnViL/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "bach-ho-diep",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

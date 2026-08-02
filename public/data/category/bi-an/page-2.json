@@ -2,8 +2,41 @@
   "slug": "bi-an",
   "name": "Bí ẩn",
   "page": 2,
-  "totalPages": 3,
+  "totalPages": 2,
   "items": [
+    {
+      "id": "oasis-2026-4c9e29cf",
+      "source": "ophim",
+      "slug": "oasis-2026",
+      "name": "Oasis",
+      "originName": "Oasis",
+      "posterUrl": "https://img.ophim.live/uploads/movies/oasis-2026-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/oasis-2026-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Tây Ban Nha",
+          "slug": "tay-ban-nha"
+        }
+      ]
+    },
     {
       "id": "iron-lung-2026-c2c479a2",
       "source": "ophim",
@@ -203,6 +236,43 @@
       ]
     },
     {
+      "id": "lucky-2026-1fcb225b",
+      "source": "phimapi",
+      "slug": "cuoc-dua-sinh-tu",
+      "name": "Cuộc Đua Sinh Tử",
+      "originName": "Lucky",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260718/cuoc-dua-sinh-tu-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260718/cuoc-dua-sinh-tu-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 4",
+      "categories": [
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "until-the-t-shirt-dries-2026-c5ce8103",
       "source": "phimapi",
       "slug": "den-khi-ao-phong-kho",
@@ -213,7 +283,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Bí Ẩn",
@@ -275,7 +345,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Bí Ẩn",
@@ -306,43 +376,6 @@
       ]
     },
     {
-      "id": "undertone-2026-83e28eed",
-      "source": "phimapi",
-      "slug": "loi-thi-tham-ma-quai",
-      "name": "Lời Thì Thầm Ma Quái",
-      "originName": "Undertone",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260715/loi-thi-tham-ma-quai-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260715/loi-thi-tham-ma-quai-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Canada",
-          "slug": "canada"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "black-torch-2026-c2dcfe98",
       "source": "phimapi",
       "slug": "ngon-duoc-den",
@@ -353,7 +386,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Bí Ẩn",
@@ -388,39 +421,6 @@
       ]
     },
     {
-      "id": "loved-one-2026-4eef0b27",
-      "source": "phimapi",
-      "slug": "nguoi-than-yeu-nguoi-duoc-yeu-thuong",
-      "name": "Người Thân Yêu (Người Được Yêu Thương)",
-      "originName": "LOVED ONE",
-      "posterUrl": "https://phimimg.com/upload/vod/20260428-1/01c20b2ed4ed5fb66ce13ecd0c8d9d2f.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260428-1/c19577800a099b8ad98470fb33cd1ccb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (11/11)",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
       "id": "the-apartment-job-2026-0a732d84",
       "source": "phimapi",
       "slug": "phi-vu-chung-cu",
@@ -431,7 +431,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Bí Ẩn",
@@ -472,7 +472,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 20",
+      "episodeCurrent": "Tập 22",
       "categories": [
         {
           "name": "Bí Ẩn",
@@ -505,7 +505,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Bí Ẩn",
@@ -528,43 +528,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "deadly-sins-2026-dd527b48",
-      "source": "phimapi",
-      "slug": "toi-ac-khong-nen-co",
-      "name": "Tội Ác Không Nên Có",
-      "originName": "Deadly Sins",
-      "posterUrl": "https://phimimg.com/upload/vod/20260704-1/e5f7a997372396eaa29613d8ced5c188.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260704-1/0fcd46078cb6fc555fe71f521fb80f5e.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 20",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
         }
       ]
     },
@@ -598,43 +561,6 @@
         {
           "name": "Anh",
           "slug": "anh"
-        }
-      ]
-    },
-    {
-      "id": "strange-harvest-2025-3202b508",
-      "source": "phimapi",
-      "slug": "sat-nhan-huyen-bi-o-inland-empire",
-      "name": "Sát Nhân Huyền Bí Ở Inland Empire",
-      "originName": "Strange Harvest",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260714/sat-nhan-huyen-bi-o-inland-empire-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260714/sat-nhan-huyen-bi-o-inland-empire-thumb.webp",
-      "year": 2025,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     },
@@ -713,43 +639,6 @@
         {
           "name": "Úc",
           "slug": "uc"
-        }
-      ]
-    },
-    {
-      "id": "summer-time-rendering-2022-b317472b",
-      "source": "phimapi",
-      "slug": "vinh-biet-mua-he",
-      "name": "Vĩnh Biệt Mùa Hè",
-      "originName": "Summer Time Rendering",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260714/vinh-biet-mua-he-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260714/vinh-biet-mua-he-thumb.webp",
-      "year": 2022,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (25/25)",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
         }
       ]
     },
@@ -855,6 +744,109 @@
         {
           "name": "Bí ẩn",
           "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "detective-conan-2005-98e12589",
+      "source": "ophim",
+      "slug": "tham-tu-lung-danh-conan",
+      "name": "Thám Tử Lừng Danh Conan",
+      "originName": "Detective Conan",
+      "posterUrl": "https://img.ophim.live/uploads/movies/tham-tu-lung-danh-conan-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/tham-tu-lung-danh-conan-thumb.jpg",
+      "year": 2005,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 1203",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "detective-conan-the-time-1997-13c487ef",
+      "source": "phimapi",
+      "slug": "tham-tu-lung-danh-conan-qua-bom-choc-troi",
+      "name": "Thám Tử Lừng Danh Conan: Quả Bom Chọc Trời",
+      "originName": "Detective Conan: The Time Bombed Skyscraper",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260801/tham-tu-lung-danh-conan-qua-bom-choc-troi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260801/tham-tu-lung-danh-conan-qua-bom-choc-troi-thumb.webp",
+      "year": 1997,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "detective-conan-1996-7e203c67",
+      "source": "phimapi",
+      "slug": "tham-tu-lung-danh-conan",
+      "name": "Thám Tử Lừng Danh Conan",
+      "originName": "Detective Conan",
+      "posterUrl": "https://phimimg.com/upload/vod/20240310-1/025424cf62248b9a7b54279ef5416e26.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240310-1/2a39971cc29c2802259b918eb437a45b.jpg",
+      "year": 1996,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 1209",
+      "categories": [
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         }
       ],
       "countries": [

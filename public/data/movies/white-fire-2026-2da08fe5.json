@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 12",
+  "episodeCurrent": "Tập 14",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -133,13 +133,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260724/WATFk48s/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260724/WATFk48s/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260730/iiHhpxeL/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260730/iiHhpxeL/index.m3u8"
+    },
+    {
+      "name": "Tập 14",
+      "slug": "tap-14",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260801/k4AnzUIU/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260801/k4AnzUIU/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "lua-trang-2026",
-      "episodeCount": 12,
+      "episodeCount": 14,
       "priority": 1
     }
   ],

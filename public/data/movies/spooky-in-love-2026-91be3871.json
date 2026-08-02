@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 3",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -40,7 +40,7 @@
   ],
   "description": "<p>Bị ám ảnh bởi khả năng nhìn thấy ma, một nữ thừa kế khách sạn quyết không yêu ai cho đến khi một công tố viên tin rằng lời nguyền của cô có thể giúp anh phá những vụ án khó nhất.</p>",
   "quality": "FHD",
-  "lang": "Vietsub",
+  "lang": "Vietsub + Thuyết Minh",
   "episodes": [
     {
       "name": "Tập 01",
@@ -67,6 +67,54 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260725/oJNdJmiw/index.m3u8"
     },
     {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260726/InBo4Eot/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260726/InBo4Eot/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260801/Wbhf7nlC/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260801/Wbhf7nlC/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260801/5MCpL4oo/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260801/5MCpL4oo/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260801/NObuSqHz/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260801/NObuSqHz/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260801/YnGoiSdx/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260801/YnGoiSdx/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260801/UcyLLETe/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260801/UcyLLETe/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -85,7 +133,7 @@
     {
       "source": "phimapi",
       "slug": "chuyen-tinh-ma-quai",
-      "episodeCount": 3,
+      "episodeCount": 9,
       "priority": 1
     }
   ],

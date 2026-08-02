@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 4",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -53,13 +53,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260717/0xcWDhym/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260717/0xcWDhym/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260801/xZhjfgha/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260801/xZhjfgha/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260801/YRCBnVCc/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260801/YRCBnVCc/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "hoc-vien-cao-vo-dong-dai",
-      "episodeCount": 2,
+      "episodeCount": 4,
       "priority": 1
     }
   ],

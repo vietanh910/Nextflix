@@ -1,0 +1,113 @@
+{
+  "id": "lucky-2026-1fcb225b",
+  "source": "phimapi",
+  "slug": "cuoc-dua-sinh-tu",
+  "name": "Cuộc Đua Sinh Tử",
+  "originName": "Lucky",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260718/cuoc-dua-sinh-tu-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260718/cuoc-dua-sinh-tu-thumb.webp",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 4",
+  "categories": [
+    {
+      "name": "Bí Ẩn",
+      "slug": "bi-an"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Anh",
+      "slug": "anh"
+    },
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Một cựu tội phạm đã hoàn lương buộc phải đối mặt với quá khứ và quay trở lại các hoạt động bất hợp pháp cho một phi vụ cuối cùng, với hy vọng giành được tự do và chấm dứt cuộc sống cũ mãi mãi.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/TnLSnMYZ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/TnLSnMYZ/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/BbGWFfOk/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/BbGWFfOk/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260722/igZC5QFA/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260722/igZC5QFA/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260801/EVCDyfII/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260801/EVCDyfII/index.m3u8"
+    },
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/aef5a7530aaa272bbaec34e49251b25a",
+      "m3u8Url": "https://vip.opstream10.com/20260719/34343_aef5a753/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/f2abae2c6442359b27db5cf70be05da4",
+      "m3u8Url": "https://vip.opstream10.com/20260719/34344_f2abae2c/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream800.com/share/c45147dee729311ef5b5c3003946c48f",
+      "m3u8Url": "https://vip.opstream800.com/20260723/116_c45147de/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "cuoc-dua-sinh-tu",
+      "episodeCount": 3,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "cuoc-dua-sinh-tu",
+      "episodeCount": 4,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

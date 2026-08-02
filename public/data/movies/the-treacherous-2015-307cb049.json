@@ -7,47 +7,15 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260719/vuong-trieu-duc-vong-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260719/vuong-trieu-duc-vong-thumb.webp",
   "year": 2015,
-  "type": "single",
-  "status": "completed",
-  "episodeCurrent": "Full",
-  "categories": [
-    {
-      "name": "Chính Kịch",
-      "slug": "chinh-kich"
-    },
-    {
-      "name": "Hình Sự",
-      "slug": "hinh-su"
-    },
-    {
-      "name": "Lịch Sử",
-      "slug": "lich-su"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Hàn Quốc",
-      "slug": "han-quoc"
-    }
-  ],
-  "description": "<p>The Treacherous là bộ phim dựa theo nhân vật có thật trong lịch sử Hàn là vị vua Yeonsangun (Yên Sơn Quân) nổi tiếng chuyên quyền. Ông lên ngôi năm 18 tuổi và không biết việc mẹ mình bị các đại thần đầu độc chết. Trong thời gian trị vì, ông có 2 cuộc thanh trừng nho sĩ dã man. Ông còn ra lệnh người dân phải tiến cống 1 vạn cô gái trẻ và ngựa để phục vụ nhu cầu giải trí của mình.The Treacherous nói về Yeonsangun, vị vua tàn bạo nhất trong lịch sử Hàn Quốc, từng tàn sát hàng loạt học giả trong 11 năm trị vì. Ông còn tuyển hàng ngàn cô gái vào cung làm tam cung lục viện để thỏa mãn dục vọng.</p>",
-  "quality": "FHD",
-  "lang": "Vietsub",
-  "episodes": [
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/QdtdDQLb/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/QdtdDQLb/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "vuong-trieu-duc-vong",
-      "episodeCount": 1,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

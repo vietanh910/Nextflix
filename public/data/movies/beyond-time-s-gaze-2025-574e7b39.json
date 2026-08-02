@@ -9,7 +9,7 @@
   "year": 2025,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 32",
+  "episodeCurrent": "Tập 33",
   "categories": [
     {
       "name": "Khoa Học",
@@ -289,13 +289,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260725/eGp1DGqw/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260725/eGp1DGqw/index.m3u8"
+    },
+    {
+      "name": "Tập 33",
+      "slug": "tap-33",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260801/Omrb6dTE/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260801/Omrb6dTE/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "quang-am-chi-ngoai",
-      "episodeCount": 32,
+      "episodeCount": 33,
       "priority": 1
     }
   ],

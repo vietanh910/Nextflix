@@ -7,71 +7,15 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260726/wwe-hau-truong-phan-1-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260726/wwe-hau-truong-phan-1-thumb.webp",
   "year": 2025,
-  "type": "series",
-  "status": "completed",
-  "episodeCurrent": "Hoàn Tất (5/5)",
-  "categories": [
-    {
-      "name": "Tài Liệu",
-      "slug": "tai-lieu"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Âu Mỹ",
-      "slug": "au-my"
-    }
-  ],
-  "description": "<p>Từ Monday Night RAW đến WrestleMania, loạt phim này đưa bạn vào hậu trường cùng các Siêu sao và đội ngũ nhân viên của WWE khi họ tạo nên những sự kiện hoành tráng nhất của công ty.</p>",
-  "quality": "FHD",
-  "lang": "Vietsub",
-  "episodes": [
-    {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250801/zWyaYeTb/index.m3u8",
-      "m3u8Url": "https://s6.kkphimplayer6.com/20250801/zWyaYeTb/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250801/rMN4xxlO/index.m3u8",
-      "m3u8Url": "https://s6.kkphimplayer6.com/20250801/rMN4xxlO/index.m3u8"
-    },
-    {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250801/gP7NFOxS/index.m3u8",
-      "m3u8Url": "https://s6.kkphimplayer6.com/20250801/gP7NFOxS/index.m3u8"
-    },
-    {
-      "name": "Tập 04",
-      "slug": "tap-04",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250801/y0rvMazk/index.m3u8",
-      "m3u8Url": "https://s6.kkphimplayer6.com/20250801/y0rvMazk/index.m3u8"
-    },
-    {
-      "name": "Tập 05",
-      "slug": "tap-05",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250801/Ga4GdoyV/index.m3u8",
-      "m3u8Url": "https://s6.kkphimplayer6.com/20250801/Ga4GdoyV/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "wwe-hau-truong-phan-1",
-      "episodeCount": 5,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

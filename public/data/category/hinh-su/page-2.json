@@ -5,39 +5,6 @@
   "totalPages": 3,
   "items": [
     {
-      "id": "elite-force-2026-94249707",
-      "source": "ophim",
-      "slug": "luc-luong-tinh-nhue",
-      "name": "Lực Lượng Tinh Nhuệ",
-      "originName": "Elite Force",
-      "posterUrl": "https://img.ophim.live/uploads/movies/luc-luong-tinh-nhue-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/luc-luong-tinh-nhue-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (6/6)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Pháp",
-          "slug": "phap"
-        }
-      ]
-    },
-    {
       "id": "the-murder-puzzle-2026-c57a0936",
       "source": "ophim",
       "slug": "manh-ghep-bi-an",
@@ -501,8 +468,8 @@
       "thumbUrl": "https://phimimg.com/upload/vod/20260531-1/68b88366c18cc8eb0427da64dcd82cb9.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -533,22 +500,51 @@
       ]
     },
     {
-      "id": "agent-kim-reactivated-2026-1be4a8b8",
+      "id": "wind-born-warriors-2026-4531d7a7",
       "source": "phimapi",
-      "slug": "dac-vu-kim-tai-khoi-dong",
-      "name": "Đặc Vụ Kim Tái Khởi Động",
-      "originName": "Agent Kim Reactivated",
-      "posterUrl": "https://phimimg.com/upload/vod/20260627-1/9c11aa80dd2d77cb3130d3f41cf08f5f.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260627-1/e150d9ace6293867a4cc5df8ed33d03a.jpg",
+      "slug": "chien-binh-trong-gio",
+      "name": "Chiến Binh Trong Gió",
+      "originName": "Wind-Born Warriors",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260725/chien-binh-trong-gio-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260725/chien-binh-trong-gio-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 20",
       "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "portland-street-operatio-2026-e56a4fdc",
+      "source": "phimapi",
+      "slug": "chien-dich-pho-portland",
+      "name": "Chiến Dịch Phố Portland",
+      "originName": "Portland Street Operation",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260723/chien-dich-pho-portland-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260723/chien-dich-pho-portland-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 22",
+      "categories": [
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
@@ -568,8 +564,119 @@
       ],
       "countries": [
         {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        },
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "lucky-2026-1fcb225b",
+      "source": "phimapi",
+      "slug": "cuoc-dua-sinh-tu",
+      "name": "Cuộc Đua Sinh Tử",
+      "originName": "Lucky",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260718/cuoc-dua-sinh-tu-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260718/cuoc-dua-sinh-tu-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 4",
+      "categories": [
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "cape-fear-season-1-2026-834c07c1",
+      "source": "phimapi",
+      "slug": "dong-song-toi-ac-phan-1",
+      "name": "Dòng Sông Tội Ác (Phần 1)",
+      "originName": "Cape Fear (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260607-1/7b3448a362987d1b32f70a6a49126267.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260607-1/4103b9e90b6bcf456aba4e90561eaafa.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "bloody-sands-2026-93f1ce13",
+      "source": "phimapi",
+      "slug": "liet-diem-cuong-sa",
+      "name": "Liệt Diễm Cuồng Sa",
+      "originName": "Bloody Sands",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260801/liet-diem-cuong-sa-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260801/liet-diem-cuong-sa-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -584,7 +691,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 12",
+      "episodeCurrent": "Tập 14",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -621,7 +728,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Bí Ẩn",
@@ -648,43 +755,6 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "deadly-sins-2026-dd527b48",
-      "source": "phimapi",
-      "slug": "toi-ac-khong-nen-co",
-      "name": "Tội Ác Không Nên Có",
-      "originName": "Deadly Sins",
-      "posterUrl": "https://phimimg.com/upload/vod/20260704-1/e5f7a997372396eaa29613d8ced5c188.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260704-1/0fcd46078cb6fc555fe71f521fb80f5e.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 20",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
         }
       ]
     },
@@ -747,68 +817,6 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "the-tigers-2025-da473949",
-      "source": "ophim",
-      "slug": "phi-vu-duoi-day-bien",
-      "name": "Phi Vụ Dưới Đáy Biển",
-      "originName": "The Tigers",
-      "posterUrl": "https://img.ophim.live/uploads/movies/phi-vu-duoi-day-bien-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/phi-vu-duoi-day-bien-thumb.jpg",
-      "year": 2025,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Pháp",
-          "slug": "phap"
-        },
-        {
-          "name": "Tây Ban Nha",
-          "slug": "tay-ban-nha"
-        }
-      ]
-    },
-    {
-      "id": "the-guest-2025-8b08c42f",
-      "source": "ophim",
-      "slug": "vi-khach-phan-1",
-      "name": "Vị Khách (Phần 1)",
-      "originName": "The Guest",
-      "posterUrl": "https://img.ophim.live/uploads/movies/vi-khach-phan-1-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/vi-khach-phan-1-thumb.jpg",
-      "year": 2025,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (4/4)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Anh",
-          "slug": "anh"
         }
       ]
     }

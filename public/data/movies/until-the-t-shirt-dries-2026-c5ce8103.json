@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 3",
   "categories": [
     {
       "name": "Bí Ẩn",
@@ -45,13 +45,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260724/XER2ZkQE/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260724/XER2ZkQE/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260801/2UJRoBgQ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260801/2UJRoBgQ/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "den-khi-ao-phong-kho",
-      "episodeCount": 2,
+      "episodeCount": 3,
       "priority": 1
     }
   ],

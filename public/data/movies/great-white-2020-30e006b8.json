@@ -1,0 +1,55 @@
+{
+  "id": "great-white-2020-30e006b8",
+  "source": "phimapi",
+  "slug": "hung-than-trang",
+  "name": "Hung Thần Trắng",
+  "originName": "Great White",
+  "posterUrl": "https://phimimg.com/upload/vod/20240121-1/380d1e24ded7019bc72703f4cc56c920.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20240121-1/a894fce43f586d27ace69e217e8d5068.jpg",
+  "year": 2020,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Úc",
+      "slug": "uc"
+    }
+  ],
+  "description": "<p>Đấu tranh để giữ cho doanh nghiệp thủy phi cơ nhỏ của họ, Charlie, một nhà sinh vật học biển đã nghỉ hưu và người sống sót cá mập, bạn gái Kaz và người bạn Benny, rất vui mừng khi họ được vận hành bởi những người đi dạo cuồng, Joji và vợ, Michelle. Tuy nhiên, ngay khi Seafplane hạ cánh trên một bãi biển cát của Remote Hell, thảm họa và đội bóng phát hiện mình bị mắc kẹt trong một chiếc xuồng cứu sinh bơm hơi mỏng manh với nguồn cung hạn chế. Bây giờ, phi hành đoàn đáng tiếc trôi dạt vô vọng trong bóng tối, vùng biển sâu của đại dương rộng lớn, và họ không đơn độc: một con cá mập trắng tuyệt vời, lén lút đã nhặt được mùi hương của chúng, và nó sẽ dừng lại ở bất cứ điều gì để nuôi. Họ có thể thoát khỏi hàm mạnh mẽ của động vật ăn thịt đỉnh đại dương cuối cùng?</p>",
+  "quality": "FHD",
+  "lang": "Vietsub + Thuyết Minh",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260731/s2HmKTSY/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260731/s2HmKTSY/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260731/Oxm2LxO6/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260731/Oxm2LxO6/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "hung-than-trang",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

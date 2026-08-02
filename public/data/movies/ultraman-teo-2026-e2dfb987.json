@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Hành Động",
@@ -75,6 +75,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260725/tIwN5SxJ/index.m3u8"
     },
     {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260801/096ELSdK/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260801/096ELSdK/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Lồng Tiếng",
@@ -107,6 +115,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260725/IEJUPRKO/index.m3u8"
     },
     {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260801/FcnNOvUw/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260801/FcnNOvUw/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -125,7 +141,7 @@
     {
       "source": "phimapi",
       "slug": "chien-binh-anh-sang-teo",
-      "episodeCount": 8,
+      "episodeCount": 10,
       "priority": 1
     }
   ],

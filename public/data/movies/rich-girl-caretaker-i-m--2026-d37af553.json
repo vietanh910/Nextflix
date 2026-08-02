@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -67,6 +67,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260725/gvVBsCeE/index.m3u8"
     },
     {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260801/vdSZMRwI/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260801/vdSZMRwI/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -101,7 +109,7 @@
     {
       "source": "phimapi",
       "slug": "bao-mau-bi-mat-cua-tieu-thu",
-      "episodeCount": 4,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

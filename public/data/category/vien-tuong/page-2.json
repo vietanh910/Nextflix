@@ -5,6 +5,39 @@
   "totalPages": 5,
   "items": [
     {
+      "id": "ashes-to-crown-2026-1a33edd4",
+      "source": "ophim",
+      "slug": "kieu-so",
+      "name": "Kiều Sở",
+      "originName": "Ashes to Crown",
+      "posterUrl": "https://img.ophim.live/uploads/movies/kieu-so-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/kieu-so-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (24/24)",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "knot-2026-691eb5af",
       "source": "ophim",
       "slug": "knot-nut-that",
@@ -141,6 +174,47 @@
         {
           "name": "Thái Lan",
           "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "that-time-i-got-reincarn-2026-cd773733",
+      "source": "ophim",
+      "slug": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4",
+      "name": "Lúc Đó Tôi Đã Chuyển Sinh Thành Slime (Phần 4)",
+      "originName": "That Time I Got Reincarnated as a Slime (Season 4)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 13",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -396,35 +470,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "necromancer-king-of-the--2026-94098d70",
-      "source": "ophim",
-      "slug": "phap-su-tu-linh-ta-chinh-la-thien-tai",
-      "name": "Pháp Sư Tử Linh: Ta Chính Là Thiên Tai",
-      "originName": "Necromancer: King of the Scourge",
-      "posterUrl": "https://phim.nguonc.com/public/images/Post/1/phap-su-tu-linh-ta-chinh-la-thien-tai.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/phap-su-tu-linh-ta-chinh-la-thien-tai-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 3",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
         }
       ]
     },
@@ -820,43 +865,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "per-aspera-ad-astra-2026-bad601c7",
-      "source": "ophim",
-      "slug": "tinh-ha-nhap-mong",
-      "name": "Tinh Hà Nhập Mộng",
-      "originName": "Per Aspera Ad Astra",
-      "posterUrl": "https://img.ophim.live/uploads/movies/tinh-ha-nhap-mong-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/tinh-ha-nhap-mong-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
         }
       ]
     }

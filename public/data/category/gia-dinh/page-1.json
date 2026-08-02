@@ -2,7 +2,7 @@
   "slug": "gia-dinh",
   "name": "Gia Đình",
   "page": 1,
-  "totalPages": 1,
+  "totalPages": 2,
   "items": [
     {
       "id": "toy-story-5-2026-aff042da",
@@ -82,6 +82,39 @@
       "type": "series",
       "status": "ongoing",
       "episodeCurrent": "Tập 36",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "cabbage-your-life-2026-1ccc8fdc",
+      "source": "ophim",
+      "slug": "doi-cai-thao",
+      "name": "Đời Cải Thảo",
+      "originName": "Cabbage Your Life",
+      "posterUrl": "https://img.ophim.live/uploads/movies/doi-cai-thao-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/doi-cai-thao-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Hài Hước",
@@ -343,99 +376,25 @@
       ]
     },
     {
-      "id": "cabbage-your-life-2026-8e5df80a",
-      "source": "phimapi",
-      "slug": "doi-cai-thao",
-      "name": "Đời Cải Thảo",
-      "originName": "Cabbage Your Life",
-      "posterUrl": "https://phimimg.com/upload/vod/20260401-1/2ce035e2b1c5494938e002300f9b939f.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260401-1/3da5e28a5385bce1bb889122860fad8d.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "stokes-twins-2026-8af21d3c",
-      "source": "phimapi",
-      "slug": "stokes-twins",
-      "name": "Stokes Twins",
-      "originName": "Stokes Twins",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260726/stokes-twins-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260726/stokes-twins-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
-      "categories": [
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "xiao-fang-2026-6f429d1b",
-      "source": "phimapi",
+      "id": "xiao-fang-2026-2ba92c45",
+      "source": "ophim",
       "slug": "tieu-phuong",
       "name": "Tiểu Phương",
       "originName": "Xiao Fang",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260714/tieu-phuong-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260714/tieu-phuong-thumb.webp",
+      "posterUrl": "https://img.ophim.live/uploads/movies/tieu-phuong-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/tieu-phuong-thumb.jpg",
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 14",
+      "episodeCurrent": "Tập 9",
       "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
         {
           "name": "Gia Đình",
           "slug": "gia-dinh"
         },
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
@@ -652,14 +611,13 @@
       ]
     },
     {
-      "id": "rekonek-2025-38aa3563",
+      "id": "white-butterfly-2024-a30ec142",
       "source": "phimapi",
-      "slug": "rekonek-ket-noi-lai-voi-nhau",
-      "name": "ReKonek: Kết Nối Lại Với Nhau",
-      "originName": "Rekonek",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260713/rekonek-ket-noi-lai-voi-nhau-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260713/rekonek-ket-noi-lai-voi-nhau-thumb.webp",
-      "year": 2025,
+      "slug": "bach-ho-diep",
+      "name": "Bạch Hồ Điệp",
+      "originName": "White Butterfly",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260801/bach-ho-diep-poster.webp",
+      "year": 2024,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
@@ -679,8 +637,41 @@
       ],
       "countries": [
         {
-          "name": "Philippines",
-          "slug": "philippines"
+          "name": "Việt Nam",
+          "slug": "viet-nam"
+        }
+      ]
+    },
+    {
+      "id": "seal-team-2021-96315bbb",
+      "source": "phimapi",
+      "slug": "biet-doi-hai-cau",
+      "name": "Biệt Đội Hải Cẩu",
+      "originName": "Seal Team",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260801/biet-doi-hai-cau-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260801/biet-doi-hai-cau-thumb.webp",
+      "year": 2021,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nam Phi",
+          "slug": "nam-phi"
         }
       ]
     },
@@ -710,6 +701,84 @@
       ]
     },
     {
+      "id": "fearless-2020-1577de49",
+      "source": "phimapi",
+      "slug": "nhiem-vu-trong-tre",
+      "name": "Nhiệm Vụ Trông Trẻ",
+      "originName": "Fearless",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260801/nhiem-vu-trong-tre-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260801/nhiem-vu-trong-tre-thumb.webp",
+      "year": 2020,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "a-beautiful-day-in-the-n-2019-5a301d5a",
+      "source": "phimapi",
+      "slug": "mot-ngay-dep-troi-trong-khu-pho",
+      "name": "Một Ngày Đẹp Trời Trong Khu Phố",
+      "originName": "A Beautiful Day In The Neighborhood",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260801/mot-ngay-dep-troi-trong-khu-pho-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260801/mot-ngay-dep-troi-trong-khu-pho-thumb.webp",
+      "year": 2019,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Lịch Sử",
+          "slug": "lich-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "nhung-co-nang-doc-than-l-2014-493d7d42",
       "source": "ophim",
       "slug": "nhung-co-nang-doc-than-lam-me",
@@ -735,39 +804,6 @@
         {
           "name": "Việt Nam",
           "slug": "viet-nam"
-        }
-      ]
-    },
-    {
-      "id": "stuart-little-2-2002-74ce5b63",
-      "source": "phimapi",
-      "slug": "chu-chuot-sieu-quay-2",
-      "name": "Chú Chuột Siêu Quậy 2",
-      "originName": "Stuart Little 2",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260717/chu-chuot-sieu-quay-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260717/chu-chuot-sieu-quay-2-thumb.webp",
-      "year": 2002,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     }

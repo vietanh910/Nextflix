@@ -1,0 +1,67 @@
+{
+  "id": "fearless-2020-1577de49",
+  "source": "phimapi",
+  "slug": "nhiem-vu-trong-tre",
+  "name": "Nhiệm Vụ Trông Trẻ",
+  "originName": "Fearless",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260801/nhiem-vu-trong-tre-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260801/nhiem-vu-trong-tre-thumb.webp",
+  "year": 2020,
+  "type": "anime",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Gia Đình",
+      "slug": "gia-dinh"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Hoạt Hình",
+      "slug": "hoat-hinh"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Canada",
+      "slug": "canada"
+    }
+  ],
+  "description": "<p>Khi trò chơi điện tử cậu yêu thích thả ba em bé siêu năng lực từ vũ trụ xuống sân sau nhà, game thủ tuổi teen buộc phải thăng cấp lên vai trò trông trẻ toàn thời gian.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub + Lồng Tiếng",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260801/OEYiFb6w/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260801/OEYiFb6w/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260801/IY2xiOOc/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260801/IY2xiOOc/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "nhiem-vu-trong-tre",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

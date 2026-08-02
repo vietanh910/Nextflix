@@ -1,118 +1,98 @@
 {
-  "updatedAt": "2026-07-26T05:54:27.101Z",
-  "totalMovies": 1804,
+  "updatedAt": "2026-08-02T05:50:18.966Z",
+  "totalMovies": 1815,
   "bySource": {
-    "ophim": 437,
-    "phimapi": 404,
+    "ophim": 443,
+    "phimapi": 409,
     "animapper": 963
   },
   "byType": {
-    "series": 334,
-    "tvshow": 19,
-    "single": 115,
-    "anime": 1086,
-    "unknown": 250
+    "series": 314,
+    "anime": 1080,
+    "tvshow": 8,
+    "single": 130,
+    "unknown": 283
   },
   "byStatus": {
-    "unknown": 1258,
-    "ongoing": 177,
-    "completed": 369
+    "unknown": 1291,
+    "ongoing": 183,
+    "completed": 341
   },
   "byCategory": [
     {
       "slug": "khac",
       "name": "Khac",
-      "count": 1088
+      "count": 1148
     },
     {
       "slug": "chinh-kich",
       "name": "Chính kịch",
-      "count": 331
+      "count": 334
     },
     {
       "slug": "hai-huoc",
       "name": "Hài Hước",
-      "count": 134
-    },
-    {
-      "slug": "vien-tuong",
-      "name": "Viễn Tưởng",
-      "count": 120
-    },
-    {
-      "slug": "hanh-dong",
-      "name": "Hành Động",
-      "count": 117
+      "count": 123
     },
     {
       "slug": "tam-ly",
       "name": "Tâm Lý",
-      "count": 111
+      "count": 110
+    },
+    {
+      "slug": "vien-tuong",
+      "name": "Viễn Tưởng",
+      "count": 109
+    },
+    {
+      "slug": "hanh-dong",
+      "name": "Hành Động",
+      "count": 106
     },
     {
       "slug": "phieu-luu",
       "name": "Phiêu Lưu",
-      "count": 109
+      "count": 103
     },
     {
       "slug": "khoa-hoc",
       "name": "Khoa Học",
-      "count": 109
+      "count": 101
     },
     {
       "slug": "comedy",
       "name": "Comedy",
-      "count": 66
+      "count": 57
     },
     {
       "slug": "hinh-su",
       "name": "Hình Sự",
-      "count": 57
+      "count": 55
     },
     {
       "slug": "bi-an",
       "name": "Bí ẩn",
-      "count": 52
-    },
-    {
-      "slug": "action",
-      "name": "Action",
-      "count": 41
+      "count": 48
     },
     {
       "slug": "tinh-cam",
       "name": "Tình Cảm",
-      "count": 36
+      "count": 40
     },
     {
-      "slug": "drama",
-      "name": "Drama",
-      "count": 29
+      "slug": "action",
+      "name": "Action",
+      "count": 36
     },
     {
       "slug": "kinh-di",
       "name": "Kinh Dị",
-      "count": 28
-    },
-    {
-      "slug": "fantasy",
-      "name": "Fantasy",
-      "count": 27
-    },
-    {
-      "slug": "romance",
-      "name": "Romance",
-      "count": 27
-    },
-    {
-      "slug": "supernatural",
-      "name": "Supernatural",
       "count": 26
     },
     {
-      "slug": "adventure",
-      "name": "Adventure",
-      "count": 26
+      "slug": "gia-dinh",
+      "name": "Gia Đình",
+      "count": 25
     },
     {
       "slug": "slice-of-life",
@@ -120,69 +100,74 @@
       "count": 25
     },
     {
-      "slug": "tai-lieu",
-      "name": "Tài Liệu",
-      "count": 23
+      "slug": "fantasy",
+      "name": "Fantasy",
+      "count": 24
     },
     {
-      "slug": "gia-dinh",
-      "name": "Gia Đình",
-      "count": 23
+      "slug": "drama",
+      "name": "Drama",
+      "count": 22
     },
     {
-      "slug": "sci-fi",
-      "name": "Sci-Fi",
-      "count": 23
+      "slug": "supernatural",
+      "name": "Supernatural",
+      "count": 17
     },
     {
       "slug": "hoat-hinh",
       "name": "Hoạt Hình",
-      "count": 17
+      "count": 16
     },
     {
-      "slug": "ecchi",
-      "name": "Ecchi",
-      "count": 15
+      "slug": "romance",
+      "name": "Romance",
+      "count": 16
+    },
+    {
+      "slug": "sci-fi",
+      "name": "Sci-Fi",
+      "count": 16
+    },
+    {
+      "slug": "tai-lieu",
+      "name": "Tài Liệu",
+      "count": 14
+    },
+    {
+      "slug": "adventure",
+      "name": "Adventure",
+      "count": 14
     },
     {
       "slug": "co-trang",
       "name": "Cổ Trang",
-      "count": 14
+      "count": 12
+    },
+    {
+      "slug": "ecchi",
+      "name": "Ecchi",
+      "count": 12
     },
     {
       "slug": "music",
       "name": "Music",
-      "count": 13
+      "count": 11
     },
     {
       "slug": "vo-thuat",
       "name": "Võ Thuật",
-      "count": 10
+      "count": 9
+    },
+    {
+      "slug": "sports",
+      "name": "Sports",
+      "count": 8
     },
     {
       "slug": "mystery",
       "name": "Mystery",
-      "count": 10
-    },
-    {
-      "slug": "psychological",
-      "name": "Psychological",
-      "count": 9
-    },
-    {
-      "slug": "mecha",
-      "name": "Mecha",
-      "count": 8
-    },
-    {
-      "slug": "talk",
-      "name": "Talk",
       "count": 6
-    },
-    {
-      "slug": "horror",
-      "name": "Horror",
-      "count": 5
     },
     {
       "slug": "short-drama",
@@ -190,8 +175,13 @@
       "count": 4
     },
     {
-      "slug": "sports",
-      "name": "Sports",
+      "slug": "mahou-shoujo",
+      "name": "Mahou Shoujo",
+      "count": 4
+    },
+    {
+      "slug": "mecha",
+      "name": "Mecha",
       "count": 4
     },
     {
@@ -200,9 +190,9 @@
       "count": 3
     },
     {
-      "slug": "mahou-shoujo",
-      "name": "Mahou Shoujo",
-      "count": 3
+      "slug": "am-nhac",
+      "name": "Âm Nhạc",
+      "count": 2
     },
     {
       "slug": "lich-su",
@@ -210,38 +200,13 @@
       "count": 2
     },
     {
-      "slug": "tre-em",
-      "name": "Trẻ Em",
-      "count": 2
-    },
-    {
-      "slug": "mien-tay",
-      "name": "Miền Tây",
-      "count": 2
-    },
-    {
-      "slug": "thriller",
-      "name": "Thriller",
-      "count": 2
-    },
-    {
-      "slug": "am-nhac",
-      "name": "Âm Nhạc",
+      "slug": "psychological",
+      "name": "Psychological",
       "count": 1
     },
     {
-      "slug": "phim-ngan",
-      "name": "Phim Ngắn",
-      "count": 1
-    },
-    {
-      "slug": "than-thoai",
-      "name": "Thần Thoại",
-      "count": 1
-    },
-    {
-      "slug": "tv-shows",
-      "name": "TV Shows",
+      "slug": "horror",
+      "name": "Horror",
       "count": 1
     }
   ]

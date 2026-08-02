@@ -2,7 +2,7 @@
   "slug": "bi-an",
   "name": "Bí ẩn",
   "page": 1,
-  "totalPages": 3,
+  "totalPages": 2,
   "items": [
     {
       "id": "vought-rising-2027-d5e1e4aa",
@@ -599,6 +599,35 @@
       ]
     },
     {
+      "id": "loved-one-2026-04f2297a",
+      "source": "ophim",
+      "slug": "loved-one",
+      "name": "LOVED ONE",
+      "originName": "LOVED ONE",
+      "posterUrl": "https://img.ophim.live/uploads/movies/loved-one-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/loved-one-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 8",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
       "id": "colors-of-evil-black-2026-5251a6f9",
       "source": "ophim",
       "slug": "mau-ta-ac-den",
@@ -727,39 +756,6 @@
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Tây Ban Nha",
-          "slug": "tay-ban-nha"
-        }
-      ]
-    },
-    {
-      "id": "oasis-2026-4c9e29cf",
-      "source": "ophim",
-      "slug": "oasis-2026",
-      "name": "Oasis",
-      "originName": "Oasis",
-      "posterUrl": "https://img.ophim.live/uploads/movies/oasis-2026-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/oasis-2026-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (8/8)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
         {
           "name": "Chính kịch",
           "slug": "chinh-kich"

@@ -5,39 +5,64 @@
   "totalPages": 3,
   "items": [
     {
-      "id": "strange-harvest-2025-3202b508",
-      "source": "phimapi",
-      "slug": "sat-nhan-huyen-bi-o-inland-empire",
-      "name": "Sát Nhân Huyền Bí Ở Inland Empire",
-      "originName": "Strange Harvest",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260714/sat-nhan-huyen-bi-o-inland-empire-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260714/sat-nhan-huyen-bi-o-inland-empire-thumb.webp",
+      "id": "the-tigers-2025-da473949",
+      "source": "ophim",
+      "slug": "phi-vu-duoi-day-bien",
+      "name": "Phi Vụ Dưới Đáy Biển",
+      "originName": "The Tigers",
+      "posterUrl": "https://img.ophim.live/uploads/movies/phi-vu-duoi-day-bien-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/phi-vu-duoi-day-bien-thumb.jpg",
       "year": 2025,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
         },
+        {
+          "name": "Tây Ban Nha",
+          "slug": "tay-ban-nha"
+        }
+      ]
+    },
+    {
+      "id": "the-guest-2025-8b08c42f",
+      "source": "ophim",
+      "slug": "vi-khach-phan-1",
+      "name": "Vị Khách (Phần 1)",
+      "originName": "The Guest",
+      "posterUrl": "https://img.ophim.live/uploads/movies/vi-khach-phan-1-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/vi-khach-phan-1-thumb.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (4/4)",
+      "categories": [
         {
           "name": "Hình Sự",
           "slug": "hinh-su"
         },
         {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
         }
       ]
     },
@@ -79,6 +104,43 @@
       ]
     },
     {
+      "id": "eat-the-night-2024-fa84e52b",
+      "source": "phimapi",
+      "slug": "tro-choi-nguy-hiem-2024",
+      "name": "Trò Chơi Nguy Hiểm",
+      "originName": "Eat The Night",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260801/tro-choi-nguy-hiem-2024-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260801/tro-choi-nguy-hiem-2024-thumb.webp",
+      "year": 2024,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        }
+      ]
+    },
+    {
       "id": "007-spectre-2015-353a6cd1",
       "source": "ophim",
       "slug": "diep-vien-007-bong-ma",
@@ -116,80 +178,6 @@
       ]
     },
     {
-      "id": "the-treacherous-2015-307cb049",
-      "source": "phimapi",
-      "slug": "vuong-trieu-duc-vong",
-      "name": "Vương Triều Dục Vọng",
-      "originName": "The Treacherous",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260719/vuong-trieu-duc-vong-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260719/vuong-trieu-duc-vong-thumb.webp",
-      "year": 2015,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Lịch Sử",
-          "slug": "lich-su"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "descent-into-darkness-my-2013-2edf117c",
-      "source": "phimapi",
-      "slug": "hanh-trinh-vao-bong-toi",
-      "name": "Hành Trình Vào Bóng Tối",
-      "originName": "Descent Into Darkness: My European Nightmare / Sorgoï Prakov",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260714/hanh-trinh-vao-bong-toi-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260714/hanh-trinh-vao-bong-toi-thumb.webp",
-      "year": 2013,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Pháp",
-          "slug": "phap"
-        }
-      ]
-    },
-    {
       "id": "vigilante-force-2003-5734d388",
       "source": "ophim",
       "slug": "tri-dung-song-hung",
@@ -219,14 +207,14 @@
       ]
     },
     {
-      "id": "detective-conan-captured-2000-e93bc883",
+      "id": "detective-conan-the-time-1997-13c487ef",
       "source": "phimapi",
-      "slug": "tham-tu-lung-danh-conan-4-thu-pham-trong-doi-mat",
-      "name": "Thám Tử Lừng Danh Conan 4: Thủ Phạm Trong Đôi Mắt",
-      "originName": "Detective Conan: Captured in Her Eyes",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260719/tham-tu-lung-danh-conan-4-thu-pham-trong-doi-mat-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260719/tham-tu-lung-danh-conan-4-thu-pham-trong-doi-mat-thumb.webp",
-      "year": 2000,
+      "slug": "tham-tu-lung-danh-conan-qua-bom-choc-troi",
+      "name": "Thám Tử Lừng Danh Conan: Quả Bom Chọc Trời",
+      "originName": "Detective Conan: The Time Bombed Skyscraper",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260801/tham-tu-lung-danh-conan-qua-bom-choc-troi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260801/tham-tu-lung-danh-conan-qua-bom-choc-troi-thumb.webp",
+      "year": 1997,
       "type": "anime",
       "status": "completed",
       "episodeCurrent": "Full",
@@ -234,10 +222,6 @@
         {
           "name": "Bí Ẩn",
           "slug": "bi-an"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
         },
         {
           "name": "Hình Sự",
@@ -256,84 +240,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "fight-back-to-school-2-1992-784fbee8",
-      "source": "phimapi",
-      "slug": "truong-hoc-uy-long-ii",
-      "name": "Trường Học Uy Long II",
-      "originName": "Fight Back to School 2",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260713/truong-hoc-uy-long-ii-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260713/truong-hoc-uy-long-ii-thumb.webp",
-      "year": 1992,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
-        }
-      ]
-    },
-    {
-      "id": "fight-back-to-school-1991-77a64b1c",
-      "source": "phimapi",
-      "slug": "truong-hoc-uy-long-i",
-      "name": "Trường Học Uy Long I",
-      "originName": "Fight Back To School",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260713/truong-hoc-uy-long-i-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260713/truong-hoc-uy-long-i-thumb.webp",
-      "year": 1991,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
         }
       ]
     }

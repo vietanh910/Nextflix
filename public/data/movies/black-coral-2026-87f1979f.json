@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 20",
+  "episodeCurrent": "Tập 22",
   "categories": [
     {
       "name": "Bí Ẩn",
@@ -193,13 +193,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260724/qxEcIksn/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260724/qxEcIksn/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260727/tJelDQ3w/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260727/tJelDQ3w/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260801/4IigcauC/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260801/4IigcauC/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "san-ho-den",
-      "episodeCount": 20,
+      "episodeCount": 22,
       "priority": 1
     }
   ],

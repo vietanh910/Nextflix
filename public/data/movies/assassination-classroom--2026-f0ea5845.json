@@ -7,55 +7,15 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260726/phim-dien-anh-lop-hoc-am-sat-gio-cua-chung-ta-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260726/phim-dien-anh-lop-hoc-am-sat-gio-cua-chung-ta-thumb.webp",
   "year": 2026,
-  "type": "anime",
-  "status": "completed",
-  "episodeCurrent": "Full",
-  "categories": [
-    {
-      "name": "Hài Hước",
-      "slug": "hai-huoc"
-    },
-    {
-      "name": "Hành Động",
-      "slug": "hanh-dong"
-    },
-    {
-      "name": "Khoa Học",
-      "slug": "khoa-hoc"
-    },
-    {
-      "name": "Viễn Tưởng",
-      "slug": "vien-tuong"
-    },
-    {
-      "name": "Hoạt Hình",
-      "slug": "hoat-hinh"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Nhật Bản",
-      "slug": "nhat-ban"
-    }
-  ],
-  "description": "<p>Phim điện ảnh phiên bản hoàn toàn mới của “Lớp Học Ám Sát” nhân dịp kỷ niệm 10 năm ra mắt! Một sinh vật mang vận tốc Mach 20 đe dọa hủy diệt Trái Đất nhưng lại trở thành một thầy giáo? Một lớp học bị coi là \"phế thải\" bỗng chốc trở thành hy vọng cuối cùng của nhân loại? Những câu chuyện mới toanh chưa từng được kể trên màn ảnh sẽ mang đến cho fan hâm mộ những thước phim bùng nổ cùng ký ức rực rỡ nhất về thầy Koro và tập thể lớp 3-E. Bạn đã sẵn sàng cho buổi tốt nghiệp đặc biệt này chưa?</p>",
-  "quality": "FHD",
-  "lang": "Vietsub",
-  "episodes": [
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260725/QzJezx90/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260725/QzJezx90/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "phim-dien-anh-lop-hoc-am-sat-gio-cua-chung-ta",
-      "episodeCount": 1,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

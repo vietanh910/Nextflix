@@ -274,43 +274,6 @@
       ]
     },
     {
-      "id": "portland-street-operatio-2026-df5ffe48",
-      "source": "ophim",
-      "slug": "chien-dich-pho-portland",
-      "name": "Chiến Dịch Phố Portland",
-      "originName": "Portland Street Operation",
-      "posterUrl": "https://img.ophim.live/uploads/movies/chien-dich-pho-portland-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/chien-dich-pho-portland-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 14",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        },
-        {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
-        }
-      ]
-    },
-    {
       "id": "cia-2026-a7dd09e8",
       "source": "ophim",
       "slug": "cia-phan-1",
@@ -381,21 +344,29 @@
       ]
     },
     {
-      "id": "lucky-2026-0f9d4eb1",
+      "id": "agent-kim-reactivated-2026-72ad79cb",
       "source": "ophim",
-      "slug": "cuoc-dua-sinh-tu",
-      "name": "Cuộc Đua Sinh Tử",
-      "originName": "Lucky",
-      "posterUrl": "https://img.ophim.live/uploads/movies/cuoc-dua-sinh-tu-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/cuoc-dua-sinh-tu-thumb.jpg",
+      "slug": "dac-vu-kim-tai-khoi-dong",
+      "name": "Đặc Vụ Kim Tái Khởi Động",
+      "originName": "Agent Kim Reactivated",
+      "posterUrl": "https://img.ophim.live/uploads/movies/dac-vu-kim-tai-khoi-dong-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/dac-vu-kim-tai-khoi-dong-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (10/10)",
       "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
         {
           "name": "Hình Sự",
           "slug": "hinh-su"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
         },
         {
           "name": "Chính kịch",
@@ -404,12 +375,8 @@
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Anh",
-          "slug": "anh"
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
@@ -757,6 +724,39 @@
         {
           "name": "Thái Lan",
           "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "elite-force-2026-94249707",
+      "source": "ophim",
+      "slug": "luc-luong-tinh-nhue",
+      "name": "Lực Lượng Tinh Nhuệ",
+      "originName": "Elite Force",
+      "posterUrl": "https://img.ophim.live/uploads/movies/luc-luong-tinh-nhue-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/luc-luong-tinh-nhue-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (6/6)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
         }
       ]
     }

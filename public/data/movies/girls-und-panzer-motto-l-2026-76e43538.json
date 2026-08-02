@@ -8,7 +8,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 10",
+  "episodeCurrent": "Tập 11",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -108,13 +108,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260725/3H0WJOrY/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260725/3H0WJOrY/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260801/MCuJI8Ev/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260801/MCuJI8Ev/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "12",
-      "episodeCount": 10,
+      "episodeCount": 11,
       "priority": 1
     }
   ],

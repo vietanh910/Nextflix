@@ -7,15 +7,83 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260707/co-dau-cua-quy-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260707/co-dau-cua-quy-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 5",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hoạt Hình",
+      "slug": "hoat-hinh"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Trong một thế giới nơi con người và các ayakashi — những sinh vật siêu nhiên — cùng nhau chung sống, việc được chọn làm cô dâu của một ayakashi là niềm vinh dự tối cao. Yuzu, một nữ sinh bình thường, luôn bị ngó lơ suốt cả cuộc đời và hoàn toàn bị lu mờ trước cái bóng của người chị gái Karin — một cô dâu đã được chọn. Ngay vào lúc Yuzu tưởng như đã chịu đựng đủ, cô lại bất ngờ lọt vào mắt xanh của Reiya, một thủ lĩnh quỷ (ogre) điển trai đến từ một gia tộc quyền lực, người đã tuyên bố Yuzu chính là định mệnh của đời mình.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260707/egTesavs/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260707/egTesavs/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260711/7SScbeVX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260711/7SScbeVX/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260726/BJ7NXHyh/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260726/BJ7NXHyh/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260726/4fCBOr6D/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260726/4fCBOr6D/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260801/fPT2a234/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260801/fPT2a234/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "co-dau-cua-quy",
-      "episodeCount": 0,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

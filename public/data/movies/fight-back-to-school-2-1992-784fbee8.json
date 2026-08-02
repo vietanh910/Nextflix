@@ -7,59 +7,15 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260713/truong-hoc-uy-long-ii-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260713/truong-hoc-uy-long-ii-thumb.webp",
   "year": 1992,
-  "type": "single",
-  "status": "completed",
-  "episodeCurrent": "Full",
-  "categories": [
-    {
-      "name": "Hài Hước",
-      "slug": "hai-huoc"
-    },
-    {
-      "name": "Hành Động",
-      "slug": "hanh-dong"
-    },
-    {
-      "name": "Hình Sự",
-      "slug": "hinh-su"
-    },
-    {
-      "name": "Tâm Lý",
-      "slug": "tam-ly"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Hồng Kông",
-      "slug": "hong-kong"
-    }
-  ],
-  "description": "<p>Trong phim Trường Học Uy Long 2 (1992), Châu Tinh Trì vẫn trở lại trong vai cảnh sát chìm Chow Sing-Sing, anh vừa bị giáng chức xuống làm cảnh sát tuần tra giao thông vì đã dám trêu chọc cấp trên của mình. Mặc dù không được cấp trên chỉ định làm nhiệm vụ nào nhưng anh vẫn quyết định xâm nhập vào một trường trung học để điều tra và ngăn chặn một vụ khủng bố đang chuẩn bị tiến hành. Chỉ có một vấn đề là Bộ Cảnh Sát không muốn anh tham gia vào vụ việc này nhưng bấy nhiêu đó cũng không thể làm khó được anh chàng cảnh sát tài hoa đẹp trai này.</p>",
-  "quality": "FHD",
-  "lang": "Vietsub + Lồng Tiếng",
-  "episodes": [
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260712/P2hY6wGD/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260712/P2hY6wGD/index.m3u8"
-    },
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "Lồng Tiếng",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260712/BSmHB7Td/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260712/BSmHB7Td/index.m3u8"
-    }
-  ],
+  "status": "unknown",
+  "categories": [],
+  "countries": [],
+  "episodes": [],
   "sources": [
     {
       "source": "phimapi",
       "slug": "truong-hoc-uy-long-ii",
-      "episodeCount": 2,
+      "episodeCount": 0,
       "priority": 1
     }
   ],

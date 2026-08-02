@@ -5,6 +5,31 @@
   "totalPages": 14,
   "items": [
     {
+      "id": "the-imperial-master-2026-9f9176ee",
+      "source": "ophim",
+      "slug": "de-su-truong-an",
+      "name": "Đế Sư Trường An",
+      "originName": "The Imperial Master",
+      "posterUrl": "https://img.ophim.live/uploads/movies/de-su-truong-an-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/de-su-truong-an-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 21",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "desert-warrior-2026-d1075187",
       "source": "ophim",
       "slug": "desert-warrior",
@@ -34,6 +59,39 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "cabbage-your-life-2026-1ccc8fdc",
+      "source": "ophim",
+      "slug": "doi-cai-thao",
+      "name": "Đời Cải Thảo",
+      "originName": "Cabbage Your Life",
+      "posterUrl": "https://img.ophim.live/uploads/movies/doi-cai-thao-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/doi-cai-thao-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 11",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
@@ -639,60 +697,6 @@
         {
           "name": "Thái Lan",
           "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "wicked-temptation-2026-cd2a910e",
-      "source": "ophim",
-      "slug": "ho-giau-van",
-      "name": "Hổ Giấu Vằn",
-      "originName": "Wicked Temptation",
-      "posterUrl": "https://img.ophim.live/uploads/movies/ho-giau-van-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/ho-giau-van-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (24/24)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "criminal-record-season-2-2026-e464fed6",
-      "source": "ophim",
-      "slug": "ho-so-toi-pham-phan-2",
-      "name": "Hồ Sơ Tội Phạm (Phần 2)",
-      "originName": "Criminal Record (Season 2)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/ho-so-toi-pham-phan-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/ho-so-toi-pham-phan-2-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (8/8)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
         }
       ]
     }
