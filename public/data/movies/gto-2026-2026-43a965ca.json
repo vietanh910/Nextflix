@@ -7,15 +7,63 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260721/thay-giao-vi-dai-onizuka-ban-2026-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260721/thay-giao-vi-dai-onizuka-ban-2026-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 3",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Thầy giáo lập dị Eikichi Onizuka đảm nhận vai trò mới tại Học viện Seishin danh giá, nơi ông phải chật vật tìm cách kết nối với những học sinh suốt ngày dán mắt vào màn hình điện thoại.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260721/fjm9VJ8G/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260721/fjm9VJ8G/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/PGDTXYgI/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/PGDTXYgI/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260803/HM9jkqWd/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260803/HM9jkqWd/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "thay-giao-vi-dai-onizuka-ban-2026",
-      "episodeCount": 0,
+      "episodeCount": 3,
       "priority": 1
     }
   ],

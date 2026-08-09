@@ -7,15 +7,99 @@
   "posterUrl": "https://phimimg.com/upload/vod/20251216-1/a412d2a057377b18d35e9a166250b9d3.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20251216-1/846d3c0bf7b72be2c3afceea4dd07933.jpg",
   "year": 2022,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (7/7)",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p><span style=\"text-wrap-mode: wrap;\">Khi cuộc phỏng vấn gần kết thúc, Louis suy ngẫm về cuộc sống mà anh có thể đã có nếu chọn con đường khác, đồng thời nhớ lại sự trả thù mà anh đã làm với hội ma cà rồng.</span></p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251216/pii8ig8K/index.m3u8",
+      "m3u8Url": "https://s6.kkphimplayer6.com/20251216/pii8ig8K/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251216/oMBx6H3C/index.m3u8",
+      "m3u8Url": "https://s6.kkphimplayer6.com/20251216/oMBx6H3C/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251216/4vsraS3F/index.m3u8",
+      "m3u8Url": "https://s6.kkphimplayer6.com/20251216/4vsraS3F/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251216/BqpWXfaE/index.m3u8",
+      "m3u8Url": "https://s6.kkphimplayer6.com/20251216/BqpWXfaE/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251216/JrAVRlVB/index.m3u8",
+      "m3u8Url": "https://s6.kkphimplayer6.com/20251216/JrAVRlVB/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251216/9E802Q0g/index.m3u8",
+      "m3u8Url": "https://s6.kkphimplayer6.com/20251216/9E802Q0g/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251216/1tXueozJ/index.m3u8",
+      "m3u8Url": "https://s6.kkphimplayer6.com/20251216/1tXueozJ/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "phong-van-ma-ca-rong-phan-1",
-      "episodeCount": 0,
+      "episodeCount": 7,
       "priority": 1
     }
   ],

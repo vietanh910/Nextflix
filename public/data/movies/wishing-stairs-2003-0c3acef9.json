@@ -7,15 +7,47 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260727/cau-thang-nguyen-uoc-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260727/cau-thang-nguyen-uoc-thumb.webp",
   "year": 2003,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "<p>Cầu thang dẫn lên ký túc xá của một trường trung học nữ sinh thường chỉ có 28 bậc, nhưng thỉnh thoảng bậc thứ 29 kỳ quái lại xuất hiện. Bất kỳ điều ước nào bạn thực hiện khi đứng trên bậc thang này đều sẽ trở thành sự thật, cho dù nó có phải diễn ra theo cái cách kinh hoàng và tàn khốc nhất đi chăng nữa.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260727/xfTQPjSK/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260727/xfTQPjSK/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "cau-thang-nguyen-uoc-dieu-uoc-tra-gia-bang-mang-song",
-      "episodeCount": 0,
+      "episodeCount": 1,
       "priority": 1
     }
   ],

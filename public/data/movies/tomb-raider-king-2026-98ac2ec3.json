@@ -7,15 +7,91 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260709/dao-quat-vuong-vua-trom-mo-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260709/dao-quat-vuong-vua-trom-mo-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 5",
+  "categories": [
+    {
+      "name": "Hoạt Hình",
+      "slug": "hoat-hinh"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    },
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Một ngày nọ, những lăng mộ bí ẩn đồng loạt xuất hiện trên khắp thế giới, mang theo những cổ vật ban cho chủ sở hữu những năng lực siêu nhiên phi thường. Seo Joo-heon là một nhà thám hiểm, chuyên gia khai quật và cũng là một tay trộm mộ khét tiếng.Sau khi bị chính chủ nhân của mình phản bội, Joo-heon tưởng chừng đã phải bỏ mạng dưới sức mạnh của một cổ vật mới đầy quyền năng. Thế nhưng, định mệnh đã cho anh cơ hội thứ hai: anh đột ngột tỉnh dậy ở thời điểm 15 năm trước, khi mà những lăng mộ và cổ vật còn chưa hề xuất hiện.Được thôi thúc bởi ngọn lửa trả thù, Joo-heon sẽ tận dụng những kiến thức từ tương lai như thế nào để chinh phục mọi lăng mộ và trở thành Đạo Quật Vương?</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260709/fAE4Byjl/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260709/fAE4Byjl/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260715/qbx2e8eb/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260715/qbx2e8eb/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260723/oRmT5dOH/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260723/oRmT5dOH/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/0rBzPJ95/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/0rBzPJ95/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260806/OnNzeoTY/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260806/OnNzeoTY/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "dao-quat-vuong-vua-trom-mo",
-      "episodeCount": 0,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

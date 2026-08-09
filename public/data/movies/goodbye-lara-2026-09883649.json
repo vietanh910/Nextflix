@@ -1,0 +1,121 @@
+{
+  "id": "goodbye-lara-2026-09883649",
+  "source": "phimapi",
+  "slug": "tam-biet-lara",
+  "name": "Tạm Biệt, Lara",
+  "originName": "Goodbye, Lara",
+  "posterUrl": "https://phimimg.com/upload/vod/20260706-1/921417e1ad5a13789142b510a53cf56e.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260706-1/a58d4995de5cca37d9a5505d0f7ca237.jpg",
+  "year": 2026,
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 5",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Ngày xửa ngày xưa, một nàng tiên cá tên Lara đã đem lòng yêu một hoàng tử loài người. Để được ở bên anh, nàng đã dùng lọ thuốc của phù thủy để biến thành người — nhưng ma thuật luôn đi kèm với cái giá phải trả: Nếu không thể tìm thấy tình yêu đích thực, nàng sẽ tan biến thành bọt biển mãi mãi. Giờ đây, 200 năm sau, Lara bất ngờ tỉnh giấc tại Hồ Biwa với một cơ hội cuối cùng để giành lấy sự sống và tình yêu.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260706/GpAjRwtG/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260706/GpAjRwtG/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260712/xqzv11Aw/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260712/xqzv11Aw/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260719/48i5uc6l/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260719/48i5uc6l/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260726/6wD1pqPM/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260726/6wD1pqPM/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260802/MUFCI2sp/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260802/MUFCI2sp/index.m3u8"
+    },
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/68b550d21bf148b92cc007171305afb1",
+      "m3u8Url": "https://vip.opstream10.com/20260720/34402_68b550d2/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/6fe3ec8f08093fb71744041532af3382",
+      "m3u8Url": "https://vip.opstream10.com/20260720/34403_6fe3ec8f/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/270567b7af3c88d6b733183b3f7d74de",
+      "m3u8Url": "https://vip.opstream10.com/20260720/34404_270567b7/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "tam-biet-lara",
+      "episodeCount": 3,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "tam-biet-lara",
+      "episodeCount": 5,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

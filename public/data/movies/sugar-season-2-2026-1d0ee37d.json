@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260622-1/b0209bc80e3103ffce7d5fcba5b024de.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (8/8)",
   "categories": [
     {
       "name": "Bí Ẩn",
@@ -95,6 +95,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260801/UCQJmyQf/index.m3u8"
     },
     {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260808/BZjQqcQb/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260808/BZjQqcQb/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -145,7 +153,7 @@
     {
       "source": "phimapi",
       "slug": "tham-tu-sugar-phan-2",
-      "episodeCount": 7,
+      "episodeCount": 8,
       "priority": 1
     }
   ],

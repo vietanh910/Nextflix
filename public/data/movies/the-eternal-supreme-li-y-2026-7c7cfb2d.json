@@ -7,15 +7,95 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260726/van-co-chi-ton-ly-van-tieu-truyen-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260726/van-co-chi-ton-ly-van-tieu-truyen-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 7",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hoạt Hình",
+      "slug": "hoat-hinh"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "<p>Lý Vân Tiêu Truyện kể về hành trình đầy huyền thoại của Lý Vân Tiêu, người không chỉ thay đổi vận mệnh của nước Thiên Thủy mà còn tiếp tục theo đuổi khát vọng bước vào Thần cảnh còn dang dở từ kiếp trước. Ít ai biết rằng, ẩn sau thân phận thiếu niên ấy chính là Cổ Phi Dương, Phá Quân Võ Đế lừng danh, một trong ba cường giả mạnh nhất đại lục Thiên Võ. Dù đã đứng trên đỉnh cao võ đạo, Cổ Phi Dương vẫn mãi bị giam cầm ở cảnh giới Cửu Thiên Võ Đế bởi quy tắc của thiên địa. Không cam tâm dừng bước, hắn chấp nhận đánh đổi tất cả để chuyển thế, bắt đầu lại con đường tu luyện trong thân phận mới mang tên Lý Vân Tiêu. Thời điểm tái sinh cũng là lúc nước Thiên Thủy rơi vào cảnh nội ưu ngoại hoạn, chiến loạn liên miên. Với trí tuệ và kinh nghiệm tích lũy từ kiếp trước, Lý Vân Tiêu từng bước hóa giải những âm mưu, đánh lui cường địch, bảo vệ gia tộc và xoay chuyển vận mệnh của cả đất nước. Đồng thời, cậu cũng không ngừng hoàn thiện thực lực, tiếp tục con đường mà Cổ Phi Dương năm xưa chưa thể đi hết, từng bước hướng đến Thần cảnh, đỉnh cao mà cả đời hắn luôn khao khát chinh phục.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260726/XpGtKscB/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260726/XpGtKscB/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260726/0gj4NjtX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260726/0gj4NjtX/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260726/7jEmnfZO/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260726/7jEmnfZO/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260726/wyFI5Hr6/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260726/wyFI5Hr6/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/Iw0Hzsx5/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/Iw0Hzsx5/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260804/PXz99qtz/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260804/PXz99qtz/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260804/k9mzO2bl/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260804/k9mzO2bl/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "van-co-chi-ton-ly-van-tieu-truyen",
-      "episodeCount": 0,
+      "episodeCount": 7,
       "priority": 1
     }
   ],

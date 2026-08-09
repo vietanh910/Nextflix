@@ -7,15 +7,59 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260726/venom-doi-mat-tu-thu-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260726/venom-doi-mat-tu-thu-thumb.webp",
   "year": 2021,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Sau khi tìm thấy cơ thể vật chủ trong tay phóng viên điều tra Eddie Brock, người ngoài hành tinh symbiote phải đối mặt với kẻ thù mới, Carnage, bản ngã thay thế của kẻ giết người hàng loạt Cletus Kasady.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub + Thuyết Minh",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260726/8hFLEXV4/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260726/8hFLEXV4/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260726/5e1h0Czz/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260726/5e1h0Czz/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "venom-doi-mat-tu-thu",
-      "episodeCount": 0,
+      "episodeCount": 2,
       "priority": 1
     }
   ],

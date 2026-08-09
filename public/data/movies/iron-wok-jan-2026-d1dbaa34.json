@@ -7,15 +7,83 @@
   "posterUrl": "https://phimimg.com/upload/vod/20260706-1/13d679c94a90467a85b46f88da920fef.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20260706-1/b2bd6336d4e6266a9d3ac3b01c2f7cc6.jpg",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 5",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Câu chuyện theo chân Jan, một bậc thầy đầu bếp món Hoa với phong cách đầy quái dị và ngông cuồng, người sẵn sàng làm bất cứ điều gì để nghiền nát các đối thủ của mình. Đây là một hành trình đầy kịch tính và nghẹt thở, nơi dàn nhân vật bất chấp mọi quy chuẩn đạo đức thông thường, xem nấu ăn như một thứ ma thuật và sáng tạo ra đủ loại món ăn hoang dại nhất. Jan thẳng tiến về phía trước để đối đầu với trận chiến ẩm thực Trung Hoa đỉnh cao, sẵn sàng thách thức cả thế giới!</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260705/cAizKZ7r/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260705/cAizKZ7r/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260712/T8pAKSrc/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260712/T8pAKSrc/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260720/NXuK2IB5/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260720/NXuK2IB5/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260726/RRUtB57p/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260726/RRUtB57p/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260802/IaeWySJD/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260802/IaeWySJD/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "dau-bep-sieu-dang",
-      "episodeCount": 0,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

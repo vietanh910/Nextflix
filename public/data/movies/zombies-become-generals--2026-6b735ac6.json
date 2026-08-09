@@ -7,15 +7,55 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260728/tham-tuong-cuong-thi-2-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260728/tham-tuong-cuong-thi-2-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "<p>Cuối đời nhà Thanh, ký giả Đại Tuyết vạch trần vụ việc yêu đạo lợi dụng cương thi để buôn bán thiếu nữ. Kẻ chủ mưu phía sau là Thất công chúa hậu duệ nhà Minh, đã mượn việc buôn bán thiếu nữ để kiếm kinh phí phục quốc, đồng thời biến tham tướng Cáp Bố thành cương thi. Sau khi bị bại lộ, Thất công chúa thả ma cà rồng William ra tấn công, còn Cáp Bố khôi phục lại ý thức xông ra nghênh chiến. Vào thời khắc nguy hiểm, sư huynh Thạch Cảm Đương kịp thời xuất hiện, mọi người hợp lực tiêu diệt Thất công chúa và William.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub + Thuyết Minh",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260727/Uf1PmTgs/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260727/Uf1PmTgs/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260727/lCmJNgdE/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260727/lCmJNgdE/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "tham-tuong-cuong-thi-2",
-      "episodeCount": 0,
+      "episodeCount": 2,
       "priority": 1
     }
   ],

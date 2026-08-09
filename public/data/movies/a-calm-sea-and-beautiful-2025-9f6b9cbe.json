@@ -7,15 +7,199 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260718/ngay-dep-troi-ta-thanh-doi-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260718/ngay-dep-troi-ta-thanh-doi-thumb.webp",
   "year": 2025,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (10/10)",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Lấy bối cảnh Nhật Bản trước Thế chiến II, phim kể về Natsumi và Takimasa, hai người xa lạ bước vào một cuộc hôn nhân sắp đặt. Từ những bỡ ngỡ và sự xa cách ban đầu, cả hai dần học cách thấu hiểu, sẻ chia và vun đắp tình cảm qua cuộc sống thường nhật. Giữa lúc chiến tranh cận kề, tình yêu của họ phải đối mặt với nhiều thử thách, nhưng cũng ngày càng trở nên bền chặt.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub + Thuyết Minh",
+  "episodes": [
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260717/BYbTYEnM/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260717/BYbTYEnM/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260717/HD6R9vvV/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260717/HD6R9vvV/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260717/BncWNZTH/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260717/BncWNZTH/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/gkCYmfBT/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/gkCYmfBT/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260723/qsXxnI9f/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260723/qsXxnI9f/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260723/gKmCJDmO/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260723/gKmCJDmO/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260724/8tUtTTYr/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260724/8tUtTTYr/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260727/18urwiTL/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260727/18urwiTL/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/uDZrJGFi/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/uDZrJGFi/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/JaWpKZXY/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/JaWpKZXY/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260717/WGt6m7fT/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260717/WGt6m7fT/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260717/Ep9lQhhG/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260717/Ep9lQhhG/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260717/qweSpgnT/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260717/qweSpgnT/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/I2VVbMCr/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/I2VVbMCr/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260723/kEBb24tn/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260723/kEBb24tn/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260723/4hNDY2uf/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260723/4hNDY2uf/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260724/M7YCbJwT/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260724/M7YCbJwT/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260727/iWRjkJPS/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260727/iWRjkJPS/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/sqZduzvN/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/sqZduzvN/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/xsz2EKoa/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/xsz2EKoa/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "ngay-dep-troi-ta-thanh-doi",
-      "episodeCount": 0,
+      "episodeCount": 20,
       "priority": 1
     }
   ],

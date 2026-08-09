@@ -7,15 +7,71 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260726/tho-san-giac-thu-omegahorn-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260726/tho-san-giac-thu-omegahorn-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Thời cổ đại, các Giác thú khổng lồ từng thống trị thế giới trước khi bị phong ấn vào các Egorgear và biến mất. Đến thời hiện đại, một nhóm người gọi là Thợ săn bắt đầu sử dụng Máy Khởi Giác để giải phóng sức mạnh của chúng. Tình cờ tìm thấy một Máy Khởi Giác kỳ lạ tên Omegahorn cùng một Egorgear cổ xưa, Shout đã đánh thức con thú khổng lồ có sừng mang tên Viêm Giác. Nhận ra tố chất của một vị vua trong cậu, Viêm Giác mời Shout làm Đội Trưởng Omegahorn, kề vai sát cánh chiến đấu cùng mình và trở thành Thợ Săn Giác Thú Omegahorn.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub + Lồng Tiếng",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260726/7yy3om9X/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260726/7yy3om9X/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260803/jC7vR3S4/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260803/jC7vR3S4/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260726/7XIjapD4/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260726/7XIjapD4/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260803/wOiTb5i0/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260803/wOiTb5i0/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "tho-san-giac-thu-omegahorn",
-      "episodeCount": 0,
+      "episodeCount": 4,
       "priority": 1
     }
   ],

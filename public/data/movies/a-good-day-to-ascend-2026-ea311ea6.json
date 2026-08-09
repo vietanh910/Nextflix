@@ -7,15 +7,91 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260718/chon-ngay-phi-thang-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260718/chon-ngay-phi-thang-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 6",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hoạt Hình",
+      "slug": "hoat-hinh"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "<p>Dưới thời loạn lạc, yêu quái nổi lên khắp nơi, gian thần thao túng triều chính. Đúng lúc đó, U giới thâm nhập, thế lực của người và quỷ cùng tàn phá nhân gian. Hứa Ứng là một người bắt rắn, anh không chịu nổi cảnh thần cỏ bán mạng cho U giới, ức hiếp dân lành nên đã phản kháng và phạm tội giết thần, đồng thời anh cũng ra tay đánh chết quan lại triều đình bất lực. Kết quả, Hứa Ứng bị thế lực hai giới truy sát, bắt đầu cuộc đời lưu vong…</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/9JxTRLBl/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/9JxTRLBl/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/2oF7kLao/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/2oF7kLao/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260718/TYTmvIog/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260718/TYTmvIog/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260725/Hdw2mPWu/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260725/Hdw2mPWu/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260802/XgzOLYsB/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260802/XgzOLYsB/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260808/tOO4B6gi/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260808/tOO4B6gi/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "chon-ngay-phi-thang",
-      "episodeCount": 0,
+      "episodeCount": 6,
       "priority": 1
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 6",
   "categories": [
     {
       "name": "Hành Động",
@@ -83,6 +83,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260801/PELX44vB/index.m3u8"
     },
     {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260808/651Ij6pS/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260808/651Ij6pS/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -117,7 +125,7 @@
     {
       "source": "phimapi",
       "slug": "thieu-nu-phep-thuat-nanoha-exceeds",
-      "episodeCount": 5,
+      "episodeCount": 6,
       "priority": 1
     }
   ],

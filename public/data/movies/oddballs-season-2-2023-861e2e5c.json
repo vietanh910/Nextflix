@@ -7,15 +7,103 @@
   "posterUrl": "https://phimimg.com/upload/vod/20240308-1/6acf2587e436f8e9f5c4c5d36c06a364.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20240308-1/42475d683ec66c5b7db2e28d462bb280.jpg",
   "year": 2023,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (8/8)",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Canada",
+      "slug": "canada"
+    }
+  ],
+  "description": "<p>James cùng những người bạn Max và Echo quay trở lại để tìm thêm những lời nói tục tĩu, những ý tưởng không mấy sáng sủa và những trò tai quái ở trường học, mang thảm họa trở lại Dirt, Arizona.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240315/5FfBZAGd/index.m3u8",
+      "m3u8Url": "https://s1.phim1280.tv/20240315/5FfBZAGd/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240315/guCadeap/index.m3u8",
+      "m3u8Url": "https://s1.phim1280.tv/20240315/guCadeap/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240315/1jEY3uke/index.m3u8",
+      "m3u8Url": "https://s1.phim1280.tv/20240315/1jEY3uke/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240314/hOtGx4eR/index.m3u8",
+      "m3u8Url": "https://s1.phim1280.tv/20240314/hOtGx4eR/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240315/a4pCDvQS/index.m3u8",
+      "m3u8Url": "https://s1.phim1280.tv/20240315/a4pCDvQS/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240315/Y0LNWROi/index.m3u8",
+      "m3u8Url": "https://s1.phim1280.tv/20240315/Y0LNWROi/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240315/XHudpNgW/index.m3u8",
+      "m3u8Url": "https://s1.phim1280.tv/20240315/XHudpNgW/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240315/VJ6RNhVX/index.m3u8",
+      "m3u8Url": "https://s1.phim1280.tv/20240315/VJ6RNhVX/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nhung-cuoc-phieu-luu-ky-quac-cua-james-va-max-phan-2",
-      "episodeCount": 0,
+      "episodeCount": 8,
       "priority": 1
     }
   ],

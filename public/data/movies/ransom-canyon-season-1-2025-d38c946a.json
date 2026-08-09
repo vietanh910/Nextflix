@@ -7,15 +7,115 @@
   "posterUrl": "https://phimimg.com/upload/vod/20250418-1/883ea684e8042416a74fea15eb724e9f.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20250418-1/c7f269493b70a52b0d7b22697a79f760.jpg",
   "year": 2025,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (10/10)",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Miền Tây",
+      "slug": "mien-tay"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Đam mê sục sôi tại một thị trấn nhỏ ở Texas, khi ba triều đại chăn nuôi đấu đá nhau vì đất đai, di sản và những người họ trân quý.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250418/NFVbdvR0/index.m3u8",
+      "m3u8Url": "https://s5.phim1280.tv/20250418/NFVbdvR0/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250418/z8pdlteX/index.m3u8",
+      "m3u8Url": "https://s5.phim1280.tv/20250418/z8pdlteX/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250418/wy99XOVG/index.m3u8",
+      "m3u8Url": "https://s5.phim1280.tv/20250418/wy99XOVG/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250418/zFuCEvo0/index.m3u8",
+      "m3u8Url": "https://s5.phim1280.tv/20250418/zFuCEvo0/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250418/7rbgjIyi/index.m3u8",
+      "m3u8Url": "https://s5.phim1280.tv/20250418/7rbgjIyi/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250418/zXg06AkM/index.m3u8",
+      "m3u8Url": "https://s5.phim1280.tv/20250418/zXg06AkM/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250418/65V1kAWM/index.m3u8",
+      "m3u8Url": "https://s5.phim1280.tv/20250418/65V1kAWM/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250418/gSZZK53Q/index.m3u8",
+      "m3u8Url": "https://s5.phim1280.tv/20250418/gSZZK53Q/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250418/c9P2GiIq/index.m3u8",
+      "m3u8Url": "https://s5.phim1280.tv/20250418/c9P2GiIq/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250418/jdjYz50t/index.m3u8",
+      "m3u8Url": "https://s5.phim1280.tv/20250418/jdjYz50t/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "ransom-canyon-phan-1",
-      "episodeCount": 0,
+      "episodeCount": 10,
       "priority": 1
     }
   ],

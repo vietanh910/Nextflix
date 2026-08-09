@@ -7,15 +7,91 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260708/huong-dan-tra-thu-cua-mot-quy-ba-tuc-gian-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260708/huong-dan-tra-thu-cua-mot-quy-ba-tuc-gian-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 5",
+  "categories": [
+    {
+      "name": "Hoạt Hình",
+      "slug": "hoat-hinh"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Sau khi bị thái tử công khai phản bội và tống vào ngục tối, tiểu thư quý tộc Elizabeth đã trốn thoát khỏi vương quốc cùng với Thần chú Bảy cuốn Sách ma thuật (Seven Grimoires) huyền thoại. Nhờ sự giúp đỡ của một tử tước đến từ quốc gia láng giềng, cô bắt đầu gầy dựng lại cuộc đời mới, đồng thời âm thầm vạch ra một kế hoạch trả thù tàn nhẫn hướng về phía vương quốc đã từng ruồng bỏ mình.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260707/KT00DyRL/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260707/KT00DyRL/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260713/3wRpNJPl/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260713/3wRpNJPl/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260720/jHOoAXek/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260720/jHOoAXek/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260727/bvay7yZV/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260727/bvay7yZV/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260803/No2lJbG6/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260803/No2lJbG6/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "huong-dan-tra-thu-cua-mot-quy-ba-tuc-gian",
-      "episodeCount": 0,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

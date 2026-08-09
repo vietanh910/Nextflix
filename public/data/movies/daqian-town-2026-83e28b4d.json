@@ -7,15 +7,75 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260726/dai-thien-tieu-tran-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260726/dai-thien-tieu-tran-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 5",
+  "categories": [
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "<p>Thị Trấn Đại Thiên là một bộ phim hoạt hình ngắn ăn theo (derivative animated short) được phát triển dựa trên ba tác phẩm nổi tiếng của tác giả Thiên Tàm Thổ Đậu gồm: Đại Chúa Tể, Nguyên Tôn và Vạn Tướng Chi Vương.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260726/0e7jxXdl/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260726/0e7jxXdl/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260726/40elurLs/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260726/40elurLs/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260802/Ov7Q1ncE/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260802/Ov7Q1ncE/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260808/Sk279GUl/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260808/Sk279GUl/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260808/dGuFIGAE/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260808/dGuFIGAE/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "dai-thien-tieu-tran",
-      "episodeCount": 0,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

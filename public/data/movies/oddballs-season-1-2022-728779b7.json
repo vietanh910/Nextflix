@@ -7,15 +7,127 @@
   "posterUrl": "https://phimimg.com/upload/vod/20240517-1/c4d8ecc20985207908205ddb49389c32.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20240517-1/765987592e83e77c951171b84f0a5e07.jpg",
   "year": 2022,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (12/12)",
+  "categories": [
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Cậu bé hình bong bóng James thắc mắc đủ mọi chuyện và mọi thứ khiến cậu khó chịu. Kết quả ra sao? Một cuộc sống tuyệt vời ngập tràn cuộc phiêu lưu kỳ lạ cùng hai người bạn thân.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240520/oYUxtHFw/index.m3u8",
+      "m3u8Url": "https://s3.phim1280.tv/20240520/oYUxtHFw/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240520/CeccSvSj/index.m3u8",
+      "m3u8Url": "https://s3.phim1280.tv/20240520/CeccSvSj/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240520/sI5rs5cV/index.m3u8",
+      "m3u8Url": "https://s3.phim1280.tv/20240520/sI5rs5cV/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240520/4FCFyZak/index.m3u8",
+      "m3u8Url": "https://s3.phim1280.tv/20240520/4FCFyZak/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240520/vr5FnsKd/index.m3u8",
+      "m3u8Url": "https://s3.phim1280.tv/20240520/vr5FnsKd/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240520/EQQ9yoRB/index.m3u8",
+      "m3u8Url": "https://s3.phim1280.tv/20240520/EQQ9yoRB/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240520/by2biscn/index.m3u8",
+      "m3u8Url": "https://s3.phim1280.tv/20240520/by2biscn/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240520/sPhpa2ie/index.m3u8",
+      "m3u8Url": "https://s3.phim1280.tv/20240520/sPhpa2ie/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240520/A9Np19FB/index.m3u8",
+      "m3u8Url": "https://s3.phim1280.tv/20240520/A9Np19FB/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240520/cJc8iIHA/index.m3u8",
+      "m3u8Url": "https://s3.phim1280.tv/20240520/cJc8iIHA/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240520/E578ewiS/index.m3u8",
+      "m3u8Url": "https://s3.phim1280.tv/20240520/E578ewiS/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240520/c6IIKjZi/index.m3u8",
+      "m3u8Url": "https://s3.phim1280.tv/20240520/c6IIKjZi/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nhung-cuoc-phieu-luu-ky-quac-cua-james-va-max-phan-1",
-      "episodeCount": 0,
+      "episodeCount": 12,
       "priority": 1
     }
   ],

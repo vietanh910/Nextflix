@@ -4,8 +4,8 @@
   "slug": "supergirl",
   "name": "Supergirl",
   "originName": "Supergirl",
-  "posterUrl": "https://img.ophim.live/uploads/movies/supergirl-poster.jpg",
-  "thumbUrl": "https://img.ophim.live/uploads/movies/supergirl-thumb.jpg",
+  "posterUrl": "supergirl-poster.jpg",
+  "thumbUrl": "supergirl-thumb.jpg",
   "year": 2026,
   "type": "single",
   "status": "unknown",
@@ -42,6 +42,14 @@
       "name": "",
       "serverName": "Vietsub #1",
       "source": "ophim"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260727/9O9ceAI7/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260727/9O9ceAI7/index.m3u8"
     }
   ],
   "sources": [
@@ -54,7 +62,7 @@
     {
       "source": "phimapi",
       "slug": "nu-sieu-nhan-2026",
-      "episodeCount": 0,
+      "episodeCount": 1,
       "priority": 1
     }
   ],

@@ -7,15 +7,99 @@
   "posterUrl": "https://phimimg.com/upload/vod/20260624-1/7522d87508d184b3d5ecf8e292b5b41a.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20260624-1/7ff159a01fa1e15897bb6280436b6ce8.jpg",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 7",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Melody có thể là vị nữ anh hùng và thánh nữ mang thiên mệnh giải cứu thế giới khỏi sự trỗi dậy của ma vương — thế nhưng ước muốn duy nhất của cô lại là trở thành một hầu gái hoàn hảo! Sau khi chuyển sinh vào một trò chơi điện tử cốt truyện, Melody đã rẽ hướng khỏi lộ trình định sẵn, thẳng thừng từ chối lời kêu gọi dấn thân vào cuộc chiến, thay vào đó cô lại dùng chính sức mạnh thần thánh của mình để... dọn dẹp nhà cửa. Quyết định này khiến thế giới mới của cô ngày càng trở nên hỗn loạn, còn cốt truyện gốc thì sao? Hoàn toàn đảo lộn và không cách nào lường trước được.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260624/njWfp70C/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260624/njWfp70C/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260704/G2CtIQiB/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260704/G2CtIQiB/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260708/F2UU7ZnD/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260708/F2UU7ZnD/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260715/1Dg8cvZ7/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260715/1Dg8cvZ7/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260723/aHeN1wIY/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260723/aHeN1wIY/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/2bJLre1t/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/2bJLre1t/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260805/it9KNtNu/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260805/it9KNtNu/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nu-anh-hung-thanh-nu-khong-toi-chi-la-mot-hau-gai-dam-dang-va-tu-hao-ve-dieu-do",
-      "episodeCount": 0,
+      "episodeCount": 7,
       "priority": 1
     }
   ],

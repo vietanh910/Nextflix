@@ -7,15 +7,75 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260709/manga-sat-lenh-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260709/manga-sat-lenh-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 5",
+  "categories": [
+    {
+      "name": "Bí Ẩn",
+      "slug": "bi-an"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thái Lan",
+      "slug": "thai-lan"
+    }
+  ],
+  "description": "<p>Kay, một họa sĩ manga nổi tiếng, bất ngờ bị cuốn vào cuộc điều tra một vụ án giết người hàng loạt khi các nạn nhân, phương thức gây án và hiện trường đều giống đến rợn người với những tình tiết trong tác phẩm anh từng sáng tác. Điều này khiến Phát, thanh tra phụ trách vụ án, đưa Kay vào tầm theo dõi sát sao. Buộc phải hợp tác trong quá trình điều tra, Kay và Phát cùng nhau lần theo từng manh mối để tìm ra sự thật và danh tính kẻ sát nhân. Khi cuộc điều tra dần hé mở những bí ẩn, sự nghi ngờ ban đầu cũng từng bước nhường chỗ cho niềm tin, kéo hai người xích lại gần nhau hơn theo cách mà cả hai đều không ngờ tới. Thế nhưng, càng đào sâu, những bí mật bị chôn vùi trong quá khứ càng lần lượt được phơi bày. Khi mỗi sự thật mới đều thử thách mối quan hệ giữa họ, Kay và Phát phải quyết định liệu họ có thể cùng nhau đối mặt với hiểm nguy hay sẽ trở thành những mục tiêu tiếp theo của kẻ sát nhân.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260709/yOh1u5xh/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260709/yOh1u5xh/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260717/NV8VYRL0/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260717/NV8VYRL0/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260722/EL6X4cRw/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260722/EL6X4cRw/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260730/qsBMuhsM/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260730/qsBMuhsM/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260806/is0RP2It/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260806/is0RP2It/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "manga-sat-lenh",
-      "episodeCount": 0,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

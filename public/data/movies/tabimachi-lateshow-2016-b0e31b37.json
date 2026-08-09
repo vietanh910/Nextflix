@@ -9,7 +9,18 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Slice of Life",
+      "slug": "slice-of-life"
+    }
+  ],
+  "countries": [],
+  "description": "Four episodes with the theme of “goodbyes and journeys.\"",
   "episodes": [],
   "sources": [
     {

@@ -9,7 +9,7 @@
   "year": 2021,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 536",
+  "episodeCurrent": "Tập 538",
   "categories": [
     {
       "name": "Cổ Trang",
@@ -4281,13 +4281,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260731/xJkbWJWW/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260731/xJkbWJWW/index.m3u8"
+    },
+    {
+      "name": "Tập 537",
+      "slug": "tap-537",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260803/tM2mPZei/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260803/tM2mPZei/index.m3u8"
+    },
+    {
+      "name": "Tập 538",
+      "slug": "tap-538",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260807/cgzUPnX0/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260807/cgzUPnX0/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nghich-thien-chi-ton",
-      "episodeCount": 531,
+      "episodeCount": 533,
       "priority": 1
     }
   ],

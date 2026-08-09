@@ -7,15 +7,79 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260723/azur-lane-bisoku-zenshin-ni-phan-2-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260723/azur-lane-bisoku-zenshin-ni-phan-2-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 4",
+  "categories": [
+    {
+      "name": "Hoạt Hình",
+      "slug": "hoat-hinh"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Đây là một thế giới có phần kỳ lạ, nơi các \"hạm娘\" (thiếu nữ tàu chiến) sinh sống. Một cuộc sống học đường vô cùng nhộn nhịp và vui vẻ dành cho các cô gái đến từ nhiều phe phái khác nhau bắt đầu tại căn cứ hải quân Azur Lane. Sống hết mình với tuổi trẻ, các cô gái liên tục vướng vào những tình huống dở khóc dở cười — chậm rãi nhưng chắc chắn!</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260722/blFsAVYh/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260722/blFsAVYh/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260722/wbPyD8bT/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260722/wbPyD8bT/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260722/nEx3lWrL/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260722/nEx3lWrL/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/7LwlZeNq/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/7LwlZeNq/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "azur-lane-bisoku-zenshin-ni-phan-2",
-      "episodeCount": 0,
+      "episodeCount": 4,
       "priority": 1
     }
   ],

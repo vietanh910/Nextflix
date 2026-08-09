@@ -7,15 +7,91 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260707/cuoc-gianh-ngai-vang-len-lut-cua-hoang-tu-nhat-nheo-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260707/cuoc-gianh-ngai-vang-len-lut-cua-hoang-tu-nhat-nheo-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 5",
+  "categories": [
+    {
+      "name": "Hoạt Hình",
+      "slug": "hoat-hinh"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Đối với toàn đế quốc, Thần vương Arnold chỉ là một trò hề lớn, một vị hoàng tử hoàn toàn bất tài và bị lu mờ trước người anh em song sinh tài năng hơn là Leonard. Thế nhưng ở trong bóng tối, Arnold lại chính là Silver — một trong năm mạo hiểm giả hệ ma pháp hạng SS duy nhất trên toàn đại lục. Khi cuộc chiến vương quyền đẫm máu ngày càng trở nên khốc liệt sau cái chết của Thái tử, Arnold đã âm thầm giật dây từ trong màn đêm để đưa người anh em song sinh của mình lên ngôi hoàng đế nhằm phục vụ cho kế hoạch riêng của bản thân.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260707/ts2lLNF4/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260707/ts2lLNF4/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260713/mE9kafsc/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260713/mE9kafsc/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260720/nkiOJAuc/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260720/nkiOJAuc/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260727/PTJAa8xS/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260727/PTJAa8xS/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260803/lKEXuObd/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260803/lKEXuObd/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "cuoc-gianh-ngai-vang-len-lut-cua-hoang-tu-nhat-nheo",
-      "episodeCount": 0,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

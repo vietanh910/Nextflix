@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260721/chuyen-vui-cua-y-nhien-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 25",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (30/30)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -231,6 +231,46 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260801/VYu48JzH/index.m3u8"
     },
     {
+      "name": "Tập 26",
+      "slug": "tap-26",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260802/Vwm5GOJM/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260802/Vwm5GOJM/index.m3u8"
+    },
+    {
+      "name": "Tập 27",
+      "slug": "tap-27",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260804/TNGyEhWM/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260804/TNGyEhWM/index.m3u8"
+    },
+    {
+      "name": "Tập 28",
+      "slug": "tap-28",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260804/7PUaxSSC/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260804/7PUaxSSC/index.m3u8"
+    },
+    {
+      "name": "Tập 29",
+      "slug": "tap-29",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260806/w4k363H8/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260806/w4k363H8/index.m3u8"
+    },
+    {
+      "name": "Tập 30",
+      "slug": "tap-30",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260806/17r4mmsv/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260806/17r4mmsv/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -353,7 +393,7 @@
     {
       "source": "phimapi",
       "slug": "chuyen-vui-cua-y-nhien",
-      "episodeCount": 25,
+      "episodeCount": 30,
       "priority": 1
     }
   ],

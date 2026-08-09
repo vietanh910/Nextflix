@@ -7,15 +7,163 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260724/hoang-phi-hong-vu-co-ta-linh-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260724/hoang-phi-hong-vu-co-ta-linh-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (16/16)",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Indonesia",
+      "slug": "indonesia"
+    }
+  ],
+  "description": "<p>Vào cuối thời nhà Thanh đầu thời Dân quốc, võ sư nổi tiếng Phật Sơn - Hoàng Phi Hồng - vì gặp ác mộng báo trước nữ nhà báo Mạc Thập Tam gặp nguy hiểm, đã cùng các đệ tử đến thôn Cổ Vân tìm người. Trong thôn, Ngô Công Giáo (giáo phái rết) dùng tà thuật ép buộc dân làng tế lễ trẻ em. Khi Mạc Thập Tam điều tra sự thật thì bị bắt giữ và trúng Phệ Hồn Cổ. Hoàng Phi Hồng xông vào tế đàn cứu người, nhưng vì không nỡ làm tổn thương dân làng bị mê hoặc nên bản thân cũng bị trúng độc cổ, may mắn nhờ Quỷ Cước Thất đang nằm vùng trong Ngô Công Giáo ngầm trợ giúp. Mọi người hợp lực phá giải độc cổ trong nguồn nước, cứu chữa dân làng, Quỷ Cước Thất sau khi bình phục đã bái Hoàng Phi Hồng làm sư phụ. Sau khi tên pháp sư tự sát, các manh mối chỉ hướng về Đông Anh Hội Quán ở Quảng Châu. Hoàng Phi Hồng đột nhập hội quán cứu các trẻ em bị bắt cóc, giao chiến với kẻ đứng đầu là Hattori Ichiro và biết được kẻ chủ mưu đằng sau là ma cà rồng phương Tây Micro. Micro phát tán dịch bệnh gây hỗn loạn khắp Quảng Châu và dùng tính mạng của Mạc Thập Tam để uy hiếp. Trong tình thế tuyệt vọng, Hoàng Phi Hồng đã dung hợp các thế võ chân, ngộ ra tuyệt kỹ Phật Sơn Vô Ảnh Cước và đánh bại Micro. Độc cổ được giải hoàn toàn, bách tính khôi phục lại thần trí, Quảng Châu trở lại bình yên và Bảo Chi Lâm tiếp tục nhộn nhịp như xưa.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260707/fiCjFerC/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260707/fiCjFerC/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260707/n1Znchrq/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260707/n1Znchrq/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260707/Vc5asEvh/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260707/Vc5asEvh/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260707/j2qs3Z36/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260707/j2qs3Z36/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260707/T52B5kmt/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260707/T52B5kmt/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260707/onUikEUw/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260707/onUikEUw/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260707/6xJIkDWL/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260707/6xJIkDWL/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260707/JA59GCQj/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260707/JA59GCQj/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260707/NiYDuBF6/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260707/NiYDuBF6/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260707/XoLe0iN5/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260707/XoLe0iN5/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260707/HzUJNVbc/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260707/HzUJNVbc/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260707/Q7LfDKu7/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260707/Q7LfDKu7/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260707/Qc31RvJh/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260707/Qc31RvJh/index.m3u8"
+    },
+    {
+      "name": "Tập 14",
+      "slug": "tap-14",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260707/gCFCqv9E/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260707/gCFCqv9E/index.m3u8"
+    },
+    {
+      "name": "Tập 15",
+      "slug": "tap-15",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260707/nxkclWlo/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260707/nxkclWlo/index.m3u8"
+    },
+    {
+      "name": "Tập 16",
+      "slug": "tap-16",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260707/hiZk20Ds/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260707/hiZk20Ds/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "hoang-phi-hong-vu-co-ta-linh",
-      "episodeCount": 0,
+      "episodeCount": 16,
       "priority": 1
     }
   ],

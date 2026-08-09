@@ -7,15 +7,79 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260708/oi-troi-toi-da-sai-lam-ve-co-ay-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260708/oi-troi-toi-da-sai-lam-ve-co-ay-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 5",
+  "categories": [
+    {
+      "name": "Hoạt Hình",
+      "slug": "hoat-hinh"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Bảy năm sau lời hứa thời thơ ấu rằng sẽ mãi là bạn thân, Hayato đã tái ngộ với Haruki — cô bạn thuở nhỏ từng rất ngổ ngáo của mình — tại một trường cấp ba ở thành phố. Thế nhưng giờ đây, Haruki đã lột xác thành một thiếu nữ trong mơ của mọi chàng trai! Dù ngoại hình của Haruki có thay đổi, nhưng khi ở bên Hayato, cô vẫn là người bạn chí cốt năm nào. Bất chấp những năm tháng xa cách, lời hứa và tình cảm của họ vẫn vẹn nguyên, để rồi dần sâu đậm hơn thành một thứ cảm xúc mạnh mẽ.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260707/47MuFx3t/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260707/47MuFx3t/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260713/NxDvMBpB/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260713/NxDvMBpB/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260720/zh0vaiDq/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260720/zh0vaiDq/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260727/0FoLPNJa/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260727/0FoLPNJa/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260803/laZzqBnY/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260803/laZzqBnY/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "oi-troi-toi-da-sai-lam-ve-co-ay",
-      "episodeCount": 0,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

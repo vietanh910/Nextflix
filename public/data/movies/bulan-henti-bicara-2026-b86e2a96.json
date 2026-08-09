@@ -7,15 +7,91 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260731/thang-cam-lang-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260731/thang-cam-lang-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 7",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Malaysia",
+      "slug": "malaysia"
+    }
+  ],
+  "description": "<p>Sinh ra trong một gia đình nghèo khó, Zulfa buộc phải hy sinh mối tình đầu khắc cốt ghi tâm với Afghan để nghe theo sự sắp đặt của cha, kết hôn với Jamali — một người đàn ông giàu có và đạo mạo. Tuy nhiên, cuộc hôn nhân này lại là khởi đầu cho chuỗi bi kịch khi cô bị chồng ngược đãi và phải sống chung nhà với người vợ đầu độc đoán của hắn là Faziah. Sống trong sự nhẫn nhịn và chịu đựng, Zulfa chỉ biết gửi gắm tâm sự cùng ánh trăng, cho đến khi sự trở lại của Afghan làm bùng nổ những sóng gió mới.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260730/h8k1CTjb/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260730/h8k1CTjb/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260730/z3DQwE53/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260730/z3DQwE53/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260730/A7qA1KU2/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260730/A7qA1KU2/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260806/sBaXLIZM/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260806/sBaXLIZM/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260806/5aIsonkB/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260806/5aIsonkB/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260806/sMyVjjL8/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260806/sMyVjjL8/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260808/bUcf048D/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260808/bUcf048D/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "thang-cam-lang",
-      "episodeCount": 0,
+      "episodeCount": 7,
       "priority": 1
     }
   ],

@@ -10,8 +10,8 @@
       "slug": "ap-luc",
       "name": "Áp Lực",
       "originName": "Pressure",
-      "posterUrl": "https://img.ophim.live/uploads/movies/ap-luc-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/ap-luc-thumb.jpg",
+      "posterUrl": "ap-luc-poster.jpg",
+      "thumbUrl": "ap-luc-thumb.jpg",
       "year": 2026,
       "type": "single",
       "status": "completed",
@@ -39,8 +39,8 @@
       "slug": "desert-warrior",
       "name": "Desert Warrior",
       "originName": "Desert Warrior",
-      "posterUrl": "https://img.ophim.live/uploads/movies/desert-warrior-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/desert-warrior-thumb.jpg",
+      "posterUrl": "desert-warrior-poster.jpg",
+      "thumbUrl": "desert-warrior-thumb.jpg",
       "year": 2026,
       "type": "single",
       "status": "unknown",
@@ -67,13 +67,50 @@
       ]
     },
     {
+      "id": "anti-japanese-hero-qi-ji-2015-3a6986d3",
+      "source": "phimapi",
+      "slug": "anh-hung-thich-ke-quang",
+      "name": "Anh Hùng Thích Kế Quang",
+      "originName": "Anti Japanese Hero Qi Ji Guang",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260805/anh-hung-thich-ke-quang-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260805/anh-hung-thich-ke-quang-thumb.webp",
+      "year": 2015,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (33/33)",
+      "categories": [
+        {
+          "name": "Chiến Tranh",
+          "slug": "chien-tranh"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "1941-1979-a0eb8bb9",
       "source": "ophim",
       "slug": "1941",
       "name": "1941",
       "originName": "1941",
-      "posterUrl": "https://img.ophim.live/uploads/movies/1941-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/1941-thumb.jpg",
+      "posterUrl": "1941-poster.jpg",
+      "thumbUrl": "1941-thumb.jpg",
       "year": 1979,
       "type": "single",
       "status": "completed",
@@ -89,6 +126,51 @@
         }
       ],
       "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-guns-of-navarone-1961-d05f543c",
+      "source": "phimapi",
+      "slug": "dai-phao-thanh-navarone",
+      "name": "Đại Pháo Thành Navarone",
+      "originName": "The Guns Of Navarone",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260805/dai-phao-thanh-navarone-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260805/dai-phao-thanh-navarone-thumb.webp",
+      "year": 1961,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chiến Tranh",
+          "slug": "chien-tranh"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
         {
           "name": "Âu Mỹ",
           "slug": "au-my"

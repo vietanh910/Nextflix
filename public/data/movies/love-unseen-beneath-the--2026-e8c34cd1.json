@@ -7,15 +7,79 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260708/tinh-yeu-vo-hinh-noi-man-dem-trong-vat-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260708/tinh-yeu-vo-hinh-noi-man-dem-trong-vat-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 5",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hoạt Hình",
+      "slug": "hoat-hinh"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Kakeru Sorano, một nam sinh năm nhất đại học trầm tính và luôn né tránh mọi người, tình cờ gặp gỡ Koharu Fuyutsuki, một cô gái khiếm thị luôn đối mặt với thế giới bằng sự lạc quan, rạng rỡ thầm lặng. Khi cô nói: “Em ước một ngày nào đó có thể ngắm nhìn pháo hoa,” một điều gì đó trong lòng Kakeru đã thay đổi. Khi họ dần xích lại gần nhau hơn qua những khoảnh khắc nhỏ bé và sự cô đơn đồng điệu, anh bắt đầu tìm mọi cách để biến ước nguyện của cô thành hiện thực.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260707/078Aht0U/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260707/078Aht0U/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260713/Ikw3CGDx/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260713/Ikw3CGDx/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260720/58sE9tfF/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260720/58sE9tfF/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260727/yx0vxQuq/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260727/yx0vxQuq/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260803/9erfuXh5/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260803/9erfuXh5/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "tinh-yeu-vo-hinh-noi-man-dem-trong-vat",
-      "episodeCount": 0,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

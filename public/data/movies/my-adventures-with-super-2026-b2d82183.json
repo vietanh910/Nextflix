@@ -7,15 +7,87 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260723/nhung-cuoc-phieu-luu-cung-superman-phan-3-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260723/nhung-cuoc-phieu-luu-cung-superman-phan-3-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 5",
+  "categories": [
+    {
+      "name": "Hoạt Hình",
+      "slug": "hoat-hinh"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Những thanh niên ở độ tuổi đôi mươi gồm Clark Kent, cô nàng Lois Lane thông minh đầy nhiệt huyết, cùng người bạn thân nhất của họ là Jimmy Olsen bắt đầu khám phá bản thân và tất cả những điều họ có thể cùng nhau đạt được với tư cách là một đội nhà báo điều tra tại tòa soạn Daily Planet.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260722/lux9mSEL/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260722/lux9mSEL/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260722/HKpjnPbo/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260722/HKpjnPbo/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260722/swPRyfVv/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260722/swPRyfVv/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260722/QznWbJGC/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260722/QznWbJGC/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260727/U4BrhdvO/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260727/U4BrhdvO/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nhung-cuoc-phieu-luu-cung-superman-phan-3",
-      "episodeCount": 0,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

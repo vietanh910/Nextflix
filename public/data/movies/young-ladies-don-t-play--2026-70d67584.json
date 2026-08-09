@@ -7,15 +7,83 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260708/tieu-thu-khong-choi-game-doi-khang-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260708/tieu-thu-khong-choi-game-doi-khang-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 5",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hoạt Hình",
+      "slug": "hoat-hinh"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Mitsuki Aya bước vào Học viện Nữ sinh danh giá Kuromi với một mục tiêu duy nhất: trở thành một quý cô thanh lịch giống như “Hoa Ly Trắng” hoàn hảo của trường — Yorue Mio. Thế nhưng, hình tượng của Mio trong lòng Aya bỗng chốc tan vỡ khi cô vô tình bắt gặp nàng tiểu thư này đang... cày game đối kháng?! Hóa ra, Mio thanh tao thực chất lại là một game thủ hạng nặng — và cô ấy muốn thách đấu một trận tử hùng với Aya! Trận chiến (cùng tình bạn của họ) chính thức bắt đầu từ đây.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260707/kpAUwSaO/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260707/kpAUwSaO/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260715/q5bQp2q4/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260715/q5bQp2q4/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260721/saWgUGpQ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260721/saWgUGpQ/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/s60LsLH9/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/s60LsLH9/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260804/CGVgxIW4/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260804/CGVgxIW4/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "tieu-thu-khong-choi-game-doi-khang",
-      "episodeCount": 0,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

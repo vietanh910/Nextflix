@@ -7,15 +7,215 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260716/hoc-duong-ty-do-ty-phu-day-hoc-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260716/hoc-duong-ty-do-ty-phu-day-hoc-thumb.webp",
   "year": 2024,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (11/11)",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Rei Kagami (Ryosuke Yamada) là một tỷ phú và là CEO của tập đoàn hàng đầu Kagami Group. Anh là một nhà phát minh cực kỳ thông minh, đã tạo ra nhiều sản phẩm mang tính cách mạng và hiện đang nghiên cứu về AI có độ chính xác cao. Khi còn nhỏ, anh là một đứa trẻ tò mò và tốt bụng. Khi trưởng thành, sự tò mò ấy vẫn còn, nhưng anh dần trở nên ích kỷ và tự cho mình là trung tâm. Vì một số lý do nhất định, anh bắt đầu giảng dạy tại một trường học, đồng thời che giấu thân phận là tỷ phú và CEO của Kagami Group. Khả năng làm giáo viên của anh khá kém so với thành tích xuất sắc trong vai trò CEO. Anh cũng không thể hiểu được cuộc sống bình thường của các giáo viên và học sinh xung quanh mình.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub + Thuyết Minh",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260715/9vOLL5aW/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260715/9vOLL5aW/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260715/43IZfrQA/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260715/43IZfrQA/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260716/ggPkAkfX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260716/ggPkAkfX/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260716/HclUguUb/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260716/HclUguUb/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260721/gYhea2vd/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260721/gYhea2vd/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260721/xcNYMbgP/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260721/xcNYMbgP/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260727/h3QBmG3a/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260727/h3QBmG3a/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260727/p6lxyLRw/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260727/p6lxyLRw/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260727/IInBr1sc/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260727/IInBr1sc/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260727/VbPssJv9/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260727/VbPssJv9/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260727/6uxE9FFX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260727/6uxE9FFX/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260715/X9gBSekX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260715/X9gBSekX/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260715/6PhgeLcu/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260715/6PhgeLcu/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260716/bSAJ4pZX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260716/bSAJ4pZX/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260716/9TUuqlQg/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260716/9TUuqlQg/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260721/b7VW9MWd/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260721/b7VW9MWd/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260721/5ae5ShJw/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260721/5ae5ShJw/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260727/2LOfjBH9/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260727/2LOfjBH9/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260727/K6C309Z2/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260727/K6C309Z2/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260727/DfnhclTc/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260727/DfnhclTc/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260727/a0LKXEVs/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260727/a0LKXEVs/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260727/bI4gKZZL/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260727/bI4gKZZL/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "hoc-duong-ty-do-ty-phu-day-hoc",
-      "episodeCount": 0,
+      "episodeCount": 22,
       "priority": 1
     }
   ],

@@ -7,15 +7,99 @@
   "posterUrl": "https://phimimg.com/upload/vod/20260704-1/9983df3cc4dc24d7c3e450aa10f13f62.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20260704-1/29a589ed48f54ae69bc0e4f64aa5e4c7.jpg",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 8",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Bất ngờ được tập hợp lại với nhau, một nhóm thiếu nữ giờ đây chuẩn bị ra mắt với tư cách là ban nhạc ảo mang tên Mugendai Mewtype. Họ sở hữu cả tài năng lẫn cá tính riêng biệt, nhưng lại hoàn toàn không có chút khái niệm nào về việc phải biểu diễn như một thể thống nhất. Liệu họ có thể sống sót, chứ chưa nói đến việc vươn lên đỉnh cao trong thế giới âm nhạc đầy khắc nghiệt này?</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260703/zzRT80vI/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260703/zzRT80vI/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260703/7Fgzk9XM/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260703/7Fgzk9XM/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260703/dybWvSTa/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260703/dybWvSTa/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/fw4qucYz/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/fw4qucYz/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260716/TM7ep5sa/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260716/TM7ep5sa/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260723/gJyM4gUO/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260723/gJyM4gUO/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260730/Ib6rqKLo/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260730/Ib6rqKLo/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260807/T7inMX8T/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260807/T7inMX8T/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "bang-dream-yumemita",
-      "episodeCount": 0,
+      "episodeCount": 8,
       "priority": 1
     }
   ],

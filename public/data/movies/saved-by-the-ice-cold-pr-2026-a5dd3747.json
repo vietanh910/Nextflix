@@ -7,15 +7,79 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260708/duoc-cuu-song-nho-vong-tay-lanh-gia-cua-hoang-tu-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260708/duoc-cuu-song-nho-vong-tay-lanh-gia-cua-hoang-tu-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 5",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hoạt Hình",
+      "slug": "hoat-hinh"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Là con riêng của một bá tước và người hầu gái, Katrina sinh ra trong hoàn cảnh vô cùng khốn khổ. Sau khi mẹ qua đời, sự đối xử tàn nhẫn từ người mẹ kế bà bá tước và cô chị cùng cha khác mẹ lại càng trở nên tồi tệ hơn. Một ngày nọ, cô chị nhận được vương lệnh bắt buộc phải chuyển đến vùng ngoại ô phía Bắc vì hành vi khiếm nhã tại một bữa tiệc gần đây, nhằm học lại lễ nghi dưới sự giám sát của vị hoàng tử cư ngụ tại đó — người luôn bị đồn đại là một kẻ tàn bạo. Không muốn con gái cưng phải chịu hình phạt này, bà bá tước đã quyết định đưa Katrina đi thay thế. Katrina đặt chân đến phương Bắc trong sự sợ hãi tột cùng. Thế nhưng, trái ngược hoàn toàn với những lời đồn thổi, vị hoàng tử \"nhẫn tâm và máu lạnh\" ấy lại ân cần hơn cô tưởng rất nhiều. Liệu cô gái có tâm hồn thuần khiết như Katrina có thể tìm thấy tình yêu đích thực tại vùng quê mùa đông lạnh giá này?</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260707/07qIEtGJ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260707/07qIEtGJ/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260715/zIXvAykJ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260715/zIXvAykJ/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260721/rdsnNV7f/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260721/rdsnNV7f/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/9Vfiw7gt/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/9Vfiw7gt/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260804/P5c6eAow/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260804/P5c6eAow/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "duoc-cuu-song-nho-vong-tay-lanh-gia-cua-hoang-tu",
-      "episodeCount": 0,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

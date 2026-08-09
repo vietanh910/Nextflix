@@ -4,12 +4,12 @@
   "slug": "phap-su-tu-linh-ta-chinh-la-thien-tai",
   "name": "Pháp Sư Tử Linh: Ta Chính Là Thiên Tai",
   "originName": "Necromancer: King of the Scourge",
-  "posterUrl": "https://phim.nguonc.com/public/images/Post/1/phap-su-tu-linh-ta-chinh-la-thien-tai.jpg",
-  "thumbUrl": "https://phim.nguonc.com/public/images/Post/1/phap-su-tu-linh-ta-chinh-la-thien-tai-1.jpg",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260807/phap-su-tu-linh-ta-chinh-la-thien-tai-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260807/phap-su-tu-linh-ta-chinh-la-thien-tai-thumb.webp",
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 7",
   "categories": [
     {
       "name": "Hài Hước",
@@ -71,6 +71,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260731/zGbYpee5/index.m3u8"
     },
     {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260807/KJap49b5/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260807/KJap49b5/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260807/fVAi9WhA/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260807/fVAi9WhA/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -105,7 +121,7 @@
     {
       "source": "phimapi",
       "slug": "phap-su-tu-linh-ta-chinh-la-thien-tai",
-      "episodeCount": 5,
+      "episodeCount": 7,
       "priority": 1
     }
   ],

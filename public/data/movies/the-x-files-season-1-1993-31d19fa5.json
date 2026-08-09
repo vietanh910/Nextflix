@@ -7,15 +7,239 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-1-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-1-thumb.webp",
   "year": 1993,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (10/10)",
+  "categories": [
+    {
+      "name": "Bí Ẩn",
+      "slug": "bi-an"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Trong bộ phim, đặc vụ FBI Fox Mulder (David Duchovny) do muốn tìm lại người em gái mất tích của mình, đã dấn thân vào điều tra tại \"X-files\" với niềm tin rằng em gái của anh đã bị bắt cóc bởi người ngoài Trái Đất. Mulder rất tin tưởng vào sự tồn tại của người ngoài Trái Đất trong khi người tham gia điều tra cùng Fox Mulder là đặc vụ Dana Scully (Gillian Anderson). Ban đầu, Scully không tin vào những điều mà Fox Mulder nói, nhưng với những bằng chứng cụ thể cùng với những vụ án thực tế cô và Mulder trải qua, dần dần Scully đã tin vào những hiện tượng kỳ bí.\r\n\r\nTuy nhiên, tới cuối phim thì nhân vật Fox Mulder xuất hiện ít hơn và có thêm sự xuất hiện của một nhân vật chính khác là đặc vụ John Doggett (Robert Patrick). Tới phiên mình, John Doggett lại nghi ngờ tính xác thực của các vụ án trong X-files và lúc này, chính đặc vụ Scully là người đã khiến cho John Doggett dần dần tin vào X-files</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/h8n20gpU/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/h8n20gpU/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/SiIT5wqY/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/SiIT5wqY/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/dUUd0WiA/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/dUUd0WiA/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/X6fBD7wC/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/X6fBD7wC/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/owWnoxFt/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/owWnoxFt/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/G6BlmSPP/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/G6BlmSPP/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/JHUxbNhk/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/JHUxbNhk/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/f9fTTmti/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/f9fTTmti/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/DNjJzlhc/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/DNjJzlhc/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/4wIfGznB/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/4wIfGznB/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/W2Yj4va3/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/W2Yj4va3/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/eXIAlp00/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/eXIAlp00/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/OmB7xCxj/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/OmB7xCxj/index.m3u8"
+    },
+    {
+      "name": "Tập 14",
+      "slug": "tap-14",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/douHPEQK/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/douHPEQK/index.m3u8"
+    },
+    {
+      "name": "Tập 15",
+      "slug": "tap-15",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/zpswFt0s/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/zpswFt0s/index.m3u8"
+    },
+    {
+      "name": "Tập 16",
+      "slug": "tap-16",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/uSSEq34N/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/uSSEq34N/index.m3u8"
+    },
+    {
+      "name": "Tập 17",
+      "slug": "tap-17",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/Lb1oaqr9/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/Lb1oaqr9/index.m3u8"
+    },
+    {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/VYv1w5w1/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/VYv1w5w1/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/nmLgHJDI/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/nmLgHJDI/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/3a2Sp7ul/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/3a2Sp7ul/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/16X8B6J6/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/16X8B6J6/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/SWX1YKuj/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/SWX1YKuj/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/yn2YxNDb/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/yn2YxNDb/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/QQF4gIpm/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/QQF4gIpm/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "ho-so-tuyet-mat-phan-1",
-      "episodeCount": 0,
+      "episodeCount": 24,
       "priority": 1
     }
   ],

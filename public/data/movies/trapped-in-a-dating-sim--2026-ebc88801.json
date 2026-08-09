@@ -7,15 +7,87 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260708/the-gioi-otome-game-that-khac-nghiet-voi-nhan-vat-quan-chung-phan-2-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260708/the-gioi-otome-game-that-khac-nghiet-voi-nhan-vat-quan-chung-phan-2-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 5",
+  "categories": [
+    {
+      "name": "Hoạt Hình",
+      "slug": "hoat-hinh"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Leon, người từng làm công nhân ở Nhật Bản, được chuyển sinh vào thế giới \"Otome\", và tuyệt vọng khi nhận ra quy luật của thế giới này- là nơi mà phụ nữ mới là những người nắm quyền. Đàn ông dường như chỉ là vật nuôi, phục vụ như những hòn đá tảng cho phụ nữ ở nơi đây.Ngoại lệ duy nhất là những mục tiêu trong trò chơi, một nhóm ikemen được dẫn đầu bởi thái tử điện hạ. Và trong tình huống quái dị này, Leon sở hữu một vũ khí bí mật. Đó chính là kí ức từ kiếp trước, khi mà đứa em gái trơ tráo bắt anh ta hoàn thành trò chơi này. Và Leon - Một người chỉ muốn sống một cách yên bình nơi chốn đồng quê, phải sử dụng những kiến thức ấy để chống lại phụ nữ và đám ikemen. Và đây là câu chuyện đầy bất ngờ trong việc đánh bại nữ chính độc ác ở thế giới Otome...</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260709/Pv0YzGIr/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260709/Pv0YzGIr/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260715/RxL5C5eC/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260715/RxL5C5eC/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260723/defVhBc6/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260723/defVhBc6/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/HMmp3dXH/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/HMmp3dXH/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260806/D9sHhaBN/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260806/D9sHhaBN/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "the-gioi-otome-game-that-khac-nghiet-voi-nhan-vat-quan-chung-phan-2",
-      "episodeCount": 0,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

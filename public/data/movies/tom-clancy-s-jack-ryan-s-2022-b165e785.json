@@ -7,15 +7,103 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260730/sieu-diep-vien-phan-3-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260730/sieu-diep-vien-phan-3-thumb.webp",
   "year": 2022,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (8/8)",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Phim Siêu Điệp Viên với sự xuất hiện của “kho báu quốc gia” John Krasinski. Lần này, anh sẽ vào vai một chuyên viên phân tích CIA bị tình thế đưa đẩy phải trở thành một đặc vụ nằm vùng. Mặc dù nhân vật này trước đây từng được rất nhiều nam diễn viên nổi tiếng khác như Alec Baldwin, Harrison Ford, Ben Affleck và Chris Pine thủ vai trên màn ảnh rộng, nhưng Krasinski sẽ là người đầu tiên đảm nhận nhân vật này trên màn ảnh nhỏ.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20231002/XtlPZdbs/index.m3u8",
+      "m3u8Url": "https://s2.phim1280.tv/20231002/XtlPZdbs/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20231002/e4E3iQOT/index.m3u8",
+      "m3u8Url": "https://s2.phim1280.tv/20231002/e4E3iQOT/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20231002/QDjIWlQo/index.m3u8",
+      "m3u8Url": "https://s2.phim1280.tv/20231002/QDjIWlQo/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20231002/ZvYRg9fZ/index.m3u8",
+      "m3u8Url": "https://s2.phim1280.tv/20231002/ZvYRg9fZ/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20231002/xkAdNXEX/index.m3u8",
+      "m3u8Url": "https://s2.phim1280.tv/20231002/xkAdNXEX/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20231002/DxVe0GEt/index.m3u8",
+      "m3u8Url": "https://s2.phim1280.tv/20231002/DxVe0GEt/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20231002/TYBnO17D/index.m3u8",
+      "m3u8Url": "https://s2.phim1280.tv/20231002/TYBnO17D/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20231002/f8HLWm2k/index.m3u8",
+      "m3u8Url": "https://s2.phim1280.tv/20231002/f8HLWm2k/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "sieu-diep-vien-phan-3",
-      "episodeCount": 0,
+      "episodeCount": 8,
       "priority": 1
     }
   ],

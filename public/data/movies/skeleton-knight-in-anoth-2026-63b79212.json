@@ -7,15 +7,91 @@
   "posterUrl": "https://phimimg.com/upload/vod/20260705-1/0bfec379d64859044e30d3840776d173.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20260705-1/561c22e37143930082aa6b208bdc9ad9.jpg",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 5",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Một ngày nọ, một game thủ chơi game cho đến khi anh ta ngủ thiếp đi… và khi anh ta tỉnh dậy, anh ta thấy mình đang ở trong thế giới games – và nhập vào một bộ xương! Được trang bị vũ khí và áo giáp mạnh mẽ như avatar &nbsp;của mình nhưng bị mắc kẹt với ngoại hình bộ xương đáng sợ, Arc phải tìm một chỗ đứng cho mình trong vùng đất mới lạ này. Tất cả hy vọng của anh ta về một cuộc sống yên tĩnh bị tiêu tan khi anh ta vượt qua con đường với một chiến binh yêu tinh xinh đẹp, đưa anh ta vào một cuộc hành trình đầy máu và nước mắt.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260705/apjr681a/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260705/apjr681a/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260713/25XYeK7H/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260713/25XYeK7H/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260720/qbUedzGf/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260720/qbUedzGf/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260727/GKguK84C/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260727/GKguK84C/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260803/w30B6ul3/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260803/w30B6ul3/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "hiep-si-xuong-tren-duong-du-hanh-den-the-gioi-khac-phan-2",
-      "episodeCount": 0,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

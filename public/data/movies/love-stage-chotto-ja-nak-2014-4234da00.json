@@ -9,7 +9,18 @@
   "year": 2014,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "countries": [],
+  "description": "Bundled with volume five of manga.",
   "episodes": [],
   "sources": [
     {

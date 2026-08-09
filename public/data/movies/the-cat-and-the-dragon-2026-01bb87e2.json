@@ -7,15 +7,87 @@
   "posterUrl": "https://phimimg.com/upload/vod/20260628-1/42ef1fa70615d6076afd6d4c72ccef28.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20260628-1/72b2dbd4ea6b8259b07dd9abe2618d0a.jpg",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 6",
+  "categories": [
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p><span class=\"\">Mồ côi ngay từ khi mới nở,</span><span class=\"\"> chú rồng cô độc mang tên &quot;Bác Đôi Cánh&quot; được một gia đình mèo biết sử dụng ma thuật nhận nuôi và nuôi nấng như con ruột.</span><span class=\"\"> Khi lớn lên,</span><span class=\"\"> Bác Đôi Cánh trở thành người bảo vệ cho đàn mèo,</span><span class=\"\"> quyết tâm giữ cho chúng được an toàn trước loài người.</span><span class=\"\"> Thế nhưng,</span><span class=\"\"> khi chứng kiến những chú mèo dùng phép thuật của mình để kết nối với con người,</span><span class=\"\"> Bác Đôi Cánh cũng dần mở lòng và có thiện cảm hơn với họ trong câu chuyện đầy cảm xúc và xúc động này.</span></p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260627/CjOm1HuI/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260627/CjOm1HuI/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260705/UyTLmjdx/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260705/UyTLmjdx/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260711/te6XR8Jm/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260711/te6XR8Jm/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260719/485qW5s5/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260719/485qW5s5/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260725/2C0N6Fbl/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260725/2C0N6Fbl/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260802/munoBeeq/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260802/munoBeeq/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "con-meo-va-con-rong",
-      "episodeCount": 0,
+      "episodeCount": 6,
       "priority": 1
     }
   ],

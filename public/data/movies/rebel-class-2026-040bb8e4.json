@@ -7,15 +7,59 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260726/lop-12a4-noi-loan-12-ipa-4-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260726/lop-12a4-noi-loan-12-ipa-4-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 3",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Indonesia",
+      "slug": "indonesia"
+    }
+  ],
+  "description": "<p>Sau cái chết đột ngột của người chị em sinh đôi Hana, Hanin vô tình tìm thấy cuốn nhật ký của Hana — nơi đong đầy những ước mơ cuối cùng cùng những bí mật che giấu về cuộc sống của cô tại Trường Trung học Sirius. Quyết tâm thực hiện những nguyện vọng còn dở dang đó, Hanin đã cải trang thành Hana và bước chân vào Trường Sirius. Thế nhưng, quyết định này đã kéo cô vào thế giới hỗn loạn của lớp 12 IPA 4 và vướng vào mối tình tam giác phức tạp với Joan và Jarvis — hai anh chàng điển trai đầy cuốn hút nhưng cũng mang trong mình những ẩn số riêng.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260726/RoR9TGlj/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260726/RoR9TGlj/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260726/d5udVojA/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260726/d5udVojA/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260802/4nDtvMzg/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260802/4nDtvMzg/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "lop-12a4-noi-loan-12-ipa-4",
-      "episodeCount": 0,
+      "episodeCount": 3,
       "priority": 1
     }
   ],

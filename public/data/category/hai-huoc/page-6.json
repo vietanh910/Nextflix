@@ -2,24 +2,435 @@
   "slug": "hai-huoc",
   "name": "Hài Hước",
   "page": 6,
-  "totalPages": 6,
+  "totalPages": 9,
   "items": [
     {
-      "id": "the-king-of-queens-seaso-1998-fe7c651c",
+      "id": "the-fire-2026-4c8d370e",
+      "source": "phimapi",
+      "slug": "xich-tinh-ruc-lua",
+      "name": "Xích Tình Rực Lửa",
+      "originName": "The Fire",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260712/xich-tinh-ruc-lua-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260712/xich-tinh-ruc-lua-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 5",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "please-excuse-my-younger-2026-59db57d0",
+      "source": "phimapi",
+      "slug": "xin-hay-thu-loi-cho-cac-em-trai-cua-toi",
+      "name": "Xin Hãy Thứ Lỗi Cho Các Em Trai Của Tôi",
+      "originName": "Please Excuse My Younger Brothers",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260711/xin-hay-thu-loi-cho-cac-em-trai-cua-toi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260711/xin-hay-thu-loi-cho-cac-em-trai-cua-toi-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 6",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "my-family-2025-dfe50c62",
       "source": "ophim",
-      "slug": "the-king-of-queens-phan-1",
-      "name": "The King of Queens (Phần 1)",
-      "originName": "The King of Queens (Season 1)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-1-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-1-thumb.jpg",
-      "year": 1998,
+      "slug": "cau-chuyen-cua-gia-dinh-toi",
+      "name": "Câu chuyện của gia đình tôi",
+      "originName": "My Family",
+      "posterUrl": "cau-chuyen-cua-gia-dinh-toi-poster.jpg",
+      "thumbUrl": "cau-chuyen-cua-gia-dinh-toi-thumb.jpg",
+      "year": 2025,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (25/25)",
+      "episodeCurrent": "Hoàn tất (6/6)",
       "categories": [
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ý",
+          "slug": "y"
+        }
+      ]
+    },
+    {
+      "id": "chickenhare-and-the-secr-2025-998b218e",
+      "source": "ophim",
+      "slug": "chickenhare-and-the-secret-of-the-groundhog",
+      "name": "Chickenhare and the Secret of the Groundhog",
+      "originName": "Chickenhare and the Secret of the Groundhog",
+      "posterUrl": "chickenhare-and-the-secret-of-the-groundhog-poster.jpg",
+      "thumbUrl": "chickenhare-and-the-secret-of-the-groundhog-thumb.jpg",
+      "year": 2025,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (1/1)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Bỉ",
+          "slug": "bi"
+        }
+      ]
+    },
+    {
+      "id": "fourever-you-season-2-2025-1c684aec",
+      "source": "ophim",
+      "slug": "fourever-you-phan-2",
+      "name": "Fourever You (Phần 2)",
+      "originName": "Fourever You (Season 2)",
+      "posterUrl": "fourever-you-phan-2-poster.jpg",
+      "thumbUrl": "fourever-you-phan-2-thumb.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (24/24)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "papa-zola-the-movie-2025-124a8a36",
+      "source": "ophim",
+      "slug": "papa-zola-the-movie",
+      "name": "Papa Zola: The Movie",
+      "originName": "Papa Zola: The Movie",
+      "posterUrl": "papa-zola-the-movie-poster.jpg",
+      "thumbUrl": "papa-zola-the-movie-thumb.jpg",
+      "year": 2025,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (1/1)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Malaysia",
+          "slug": "malaysia"
+        }
+      ]
+    },
+    {
+      "id": "dr-stone-season-4-2025-701dc79b",
+      "source": "ophim",
+      "slug": "tien-si-da-hoi-sinh-the-gioi-phan-4",
+      "name": "Tiến Sĩ Đá: Hồi Sinh Thế Giới (Phần 4)",
+      "originName": "Dr. STONE (Season 4)",
+      "posterUrl": "tien-si-da-hoi-sinh-the-gioi-phan-4-poster.jpg",
+      "thumbUrl": "tien-si-da-hoi-sinh-the-gioi-phan-4-thumb.jpg",
+      "year": 2025,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (37/37)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-legend-of-rosy-cloud-2025-c1150fb2",
+      "source": "ophim",
+      "slug": "van-tu-hanh",
+      "name": "Vân Tú Hành",
+      "originName": "The Legend of Rosy Clouds",
+      "posterUrl": "van-tu-hanh-poster.jpg",
+      "thumbUrl": "van-tu-hanh-thumb.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 30",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "golden-sixtones-2025-5b299315",
+      "source": "phimapi",
+      "slug": "6-vien-da-vang",
+      "name": "6 Viên Đá Vàng",
+      "originName": "Golden SixTONES",
+      "posterUrl": "https://phimimg.com/upload/vod/20250620-1/cc6691d4af0f6898d1189acba5d09f5b.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250620-1/6cb392134f2e9564841005719746e088.jpg",
+      "year": 2025,
+      "type": "tvshow",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 52",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "kamen-rider-zeztz-2025-c2ebc58d",
+      "source": "phimapi",
+      "slug": "hiep-si-mat-na-zeztz",
+      "name": "Hiệp Sĩ Mặt Nạ ZEZTZ",
+      "originName": "Kamen Rider ZEZTZ",
+      "posterUrl": "https://phimimg.com/upload/vod/20250909-1/f24410500ec5132d041c94af7243ade3.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250909-1/9687569eb69eb6084238e0c46149fbc0.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 46",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "a-calm-sea-and-beautiful-2025-9f6b9cbe",
+      "source": "phimapi",
+      "slug": "ngay-dep-troi-ta-thanh-doi",
+      "name": "Ngày Đẹp Trời Ta Thành Đôi",
+      "originName": "A Calm Sea And Beautiful Days With You",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260718/ngay-dep-troi-ta-thanh-doi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260718/ngay-dep-troi-ta-thanh-doi-thumb.webp",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "zootopia-2-2025-2d7d3100",
+      "source": "phimapi",
+      "slug": "phi-vu-dong-troi-2",
+      "name": "Phi Vụ Động Trời 2",
+      "originName": "Zootopia 2",
+      "posterUrl": "https://phimimg.com/upload/vod/20251223-1/6bc1d549b86e490274d93bab66a3654d.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251223-1/7154384c306c73664e46942f2477e574.jpg",
+      "year": 2025,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
@@ -30,22 +441,261 @@
       ]
     },
     {
-      "id": "detective-conan-1996-7e203c67",
-      "source": "phimapi",
-      "slug": "tham-tu-lung-danh-conan",
-      "name": "Thám Tử Lừng Danh Conan",
-      "originName": "Detective Conan",
-      "posterUrl": "https://phimimg.com/upload/vod/20240310-1/025424cf62248b9a7b54279ef5416e26.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20240310-1/2a39971cc29c2802259b918eb437a45b.jpg",
-      "year": 1996,
-      "type": "anime",
+      "id": "chef-my-fridge-season-2-2024-80209b5c",
+      "source": "ophim",
+      "slug": "cham-soc-tu-lanh-cua-toi-nhe-phan-2",
+      "name": "Chăm Sóc Tủ Lạnh Của Tôi Nhé (Phần 2)",
+      "originName": "Chef & My Fridge (Season 2)",
+      "posterUrl": "cham-soc-tu-lanh-cua-toi-nhe-phan-2-poster.jpg",
+      "thumbUrl": "cham-soc-tu-lanh-cua-toi-nhe-phan-2-thumb.jpg",
+      "year": 2024,
+      "type": "tvshow",
       "status": "ongoing",
-      "episodeCurrent": "Tập 1209",
+      "episodeCurrent": "Tập 70",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "doctor-x-the-movie-final-2024-24e1580e",
+      "source": "phimapi",
+      "slug": "bac-si-x-phim-dien-anh",
+      "name": "Bác Sĩ X: Phim Điện Ảnh",
+      "originName": "Doctor X: The Movie Final",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260806/bac-si-x-phim-dien-anh-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260806/bac-si-x-phim-dien-anh-thumb.webp",
+      "year": 2024,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Bí Ẩn",
           "slug": "bi-an"
         },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "dog-on-trial-2024-856e617a",
+      "source": "phimapi",
+      "slug": "bi-cao-mot-chu-cho-le-proces-du-chien",
+      "name": "Bị Cáo: Một Chú Chó / Le Procès du Chien",
+      "originName": "Dog On Trial",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260801/bi-cao-mot-chu-cho-le-proces-du-chien-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260801/bi-cao-mot-chu-cho-le-proces-du-chien-thumb.webp",
+      "year": 2024,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Thụy Sĩ",
+          "slug": "thuy-si"
+        }
+      ]
+    },
+    {
+      "id": "billion-x-school-2024-7fdb1219",
+      "source": "phimapi",
+      "slug": "hoc-duong-ty-do-ty-phu-day-hoc",
+      "name": "Học Đường Tỷ Đô / Tỷ Phú Dạy Học",
+      "originName": "Billion x School",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260716/hoc-duong-ty-do-ty-phu-day-hoc-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260716/hoc-duong-ty-do-ty-phu-day-hoc-thumb.webp",
+      "year": 2024,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (11/11)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "that-time-i-got-reincarn-2024-10c07825",
+      "source": "phimapi",
+      "slug": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-3",
+      "name": "Lúc Đó Tôi Đã Chuyển Sinh Thành Slime (Phần 3)",
+      "originName": "That Time I Got Reincarnated As A Slime (Season 3)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260407-1/ec7833a257525b65022cd5974127986b.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260407-1/b26ea43fb6208022d400219f51ff098c.jpg",
+      "year": 2024,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "bread-barbershop-season--2024-046a4144",
+      "source": "phimapi",
+      "slug": "nha-tao-mau-toc-sieu-dang-phan-4",
+      "name": "Nhà Tạo Mẫu Tóc Siêu Đẳng (Phần 4)",
+      "originName": "Bread Barbershop (Season 4)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260805/nha-tao-mau-toc-sieu-dang-phan-4-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260805/nha-tao-mau-toc-sieu-dang-phan-4-thumb.webp",
+      "year": 2024,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (23/23)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "queen-of-tears-2024-b7fe8a83",
+      "source": "phimapi",
+      "slug": "nu-hoang-nuoc-mat",
+      "name": "Nữ Hoàng Nước Mắt",
+      "originName": "Queen Of Tears",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260723/nu-hoang-nuoc-mat-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260723/nu-hoang-nuoc-mat-thumb.webp",
+      "year": 2024,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (16/16)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-100-girlfriends-who--2023-74271b19",
+      "source": "ophim",
+      "slug": "100-co-ban-gai-yeu-ban-rat-rat-rat-rat-rat-nhieu-phan-3",
+      "name": "100 cô bạn gái yêu bạn rất rất rất rất rất nhiều (Phần 3)",
+      "originName": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You (Season 3)",
+      "posterUrl": "100-co-ban-gai-yeu-ban-rat-rat-rat-rat-rat-nhieu-phan-3-poster.jpg",
+      "thumbUrl": "100-co-ban-gai-yeu-ban-rat-rat-rat-rat-rat-nhieu-phan-3-thumb.jpg",
+      "year": 2023,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 2",
+      "categories": [
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
@@ -59,31 +709,142 @@
       ]
     },
     {
-      "id": "1941-1979-a0eb8bb9",
+      "id": "the-amazing-digital-circ-2023-ec1aa098",
       "source": "ophim",
-      "slug": "1941",
-      "name": "1941",
-      "originName": "1941",
-      "posterUrl": "https://img.ophim.live/uploads/movies/1941-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/1941-thumb.jpg",
-      "year": 1979,
-      "type": "single",
+      "slug": "rap-xiec-ky-thuat-so-dieu-ky",
+      "name": "Rạp xiếc kỹ thuật số diệu kỳ",
+      "originName": "The Amazing Digital Circus",
+      "posterUrl": "rap-xiec-ky-thuat-so-dieu-ky-poster.jpg",
+      "thumbUrl": "rap-xiec-ky-thuat-so-dieu-ky-thumb.jpg",
+      "year": 2023,
+      "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn tất (9/9)",
       "categories": [
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
         },
         {
-          "name": "Chiến Tranh",
-          "slug": "chien-tranh"
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Úc",
+          "slug": "uc"
+        }
+      ]
+    },
+    {
+      "id": "usokon-our-fake-marriage-2023-a3362c54",
+      "source": "phimapi",
+      "slug": "cuoi-gia-yeu-that",
+      "name": "Cưới Giả Yêu Thật",
+      "originName": "Usokon / Our Fake Marriage",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260802/cuoi-gia-yeu-that-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260802/cuoi-gia-yeu-that-thumb.webp",
+      "year": 2023,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 7",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "oddballs-season-2-2023-861e2e5c",
+      "source": "phimapi",
+      "slug": "nhung-cuoc-phieu-luu-ky-quac-cua-james-va-max-phan-2",
+      "name": "Những Cuộc Phiêu Lưu Kỳ Quặc Của James Và Max (Phần 2)",
+      "originName": "Oddballs (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20240308-1/6acf2587e436f8e9f5c4c5d36c06a364.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240308-1/42475d683ec66c5b7db2e28d462bb280.jpg",
+      "year": 2023,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "my-senior-brother-is-too-2023-38bed200",
+      "source": "phimapi",
+      "slug": "su-huynh-a-su-huynh",
+      "name": "Sư Huynh À Sư Huynh",
+      "originName": "My Senior Brother is Too Steady",
+      "posterUrl": "https://phimimg.com/upload/vod/20250117-1/a9e32b44820101a9ba2c887344f7334c.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250117-1/d2d7ee02b72e59bea282b367e36b0094.jpg",
+      "year": 2023,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 153",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     }

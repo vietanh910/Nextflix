@@ -7,15 +7,47 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260731/the-punisher-phat-sung-cuoi-cung-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260731/the-punisher-phat-sung-cuoi-cung-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Frank Castle (The Punisher) cố gắng từ bỏ cuộc đời đẫm máu để tìm ý nghĩa mới sau nhiều năm chỉ biết báo thù. Tuy nhiên, sự trỗi dậy của một đế chế tội phạm mới cùng quá khứ không ngừng ám ảnh đã kéo anh trở lại con đường bạo lực.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260730/UvIxTGLs/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260730/UvIxTGLs/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "the-punisher-phat-sung-cuoi-cung",
-      "episodeCount": 0,
+      "episodeCount": 1,
       "priority": 1
     }
   ],

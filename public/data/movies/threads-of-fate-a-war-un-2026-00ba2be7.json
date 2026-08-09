@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -85,13 +85,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260801/A9XjAgHp/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260801/A9XjAgHp/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260805/fdhSvTWG/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260805/fdhSvTWG/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260808/X3m45M0k/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260808/X3m45M0k/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "son-hai-kinh-thiet-lap-lai-trat-tu",
-      "episodeCount": 6,
+      "episodeCount": 8,
       "priority": 1
     }
   ],

@@ -7,15 +7,71 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260726/bleach-huyet-chien-ngan-nam-kiep-nan-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260726/bleach-huyet-chien-ngan-nam-kiep-nan-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 3",
+  "categories": [
+    {
+      "name": "Hoạt Hình",
+      "slug": "hoat-hinh"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Cuộc đại chiến giữa các Thần Chết và đế chế Quincy bước vào giai đoạn khốc liệt nhất khi những trận chiến sinh tử liên tiếp nổ ra. Ichigo Kurosaki cùng các đồng đội phải đối mặt với những kẻ thù sở hữu sức mạnh vượt ngoài tưởng tượng để bảo vệ cả hai thế giới. Trong khi đó, những bí mật về quá khứ, số phận và nguồn gốc sức mạnh dần được hé lộ, làm thay đổi cục diện cuộc chiến. Mỗi quyết định đều phải trả giá bằng sự hy sinh, đẩy các chiến binh đến giới hạn của bản thân.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260726/Zw8ITF9s/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260726/Zw8ITF9s/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260802/kS0o0c9T/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260802/kS0o0c9T/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260808/EI4tkult/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260808/EI4tkult/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "bleach-huyet-chien-ngan-nam-kiep-nan",
-      "episodeCount": 0,
+      "episodeCount": 3,
       "priority": 1
     }
   ],

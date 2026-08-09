@@ -7,15 +7,95 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-10-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan7-thumb.webp",
   "year": 2016,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (6/6)",
+  "categories": [
+    {
+      "name": "Bí Ẩn",
+      "slug": "bi-an"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Trong bộ phim, đặc vụ FBI Fox Mulder (David Duchovny) do muốn tìm lại người em gái mất tích của mình, đã dấn thân vào điều tra tại \"X-files\" với niềm tin rằng em gái của anh đã bị bắt cóc bởi người ngoài Trái Đất. Mulder rất tin tưởng vào sự tồn tại của người ngoài Trái Đất trong khi người tham gia điều tra cùng Fox Mulder là đặc vụ Dana Scully (Gillian Anderson). Ban đầu, Scully không tin vào những điều mà Fox Mulder nói, nhưng với những bằng chứng cụ thể cùng với những vụ án thực tế cô và Mulder trải qua, dần dần Scully đã tin vào những hiện tượng kỳ bí.\r\n\r\nTuy nhiên, tới cuối phim thì nhân vật Fox Mulder xuất hiện ít hơn và có thêm sự xuất hiện của một nhân vật chính khác là đặc vụ John Doggett (Robert Patrick). Tới phiên mình, John Doggett lại nghi ngờ tính xác thực của các vụ án trong X-files và lúc này, chính đặc vụ Scully là người đã khiến cho John Doggett dần dần tin vào X-files</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/VscP5l0Y/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/VscP5l0Y/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/dBK6EDtK/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/dBK6EDtK/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/YvzSvJTv/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/YvzSvJTv/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/W7eBNrUV/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/W7eBNrUV/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/BPWEbCRe/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/BPWEbCRe/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/CpEIYMuD/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/CpEIYMuD/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "ho-so-tuyet-mat-phan-10",
-      "episodeCount": 0,
+      "episodeCount": 6,
       "priority": 1
     }
   ],

@@ -7,15 +7,51 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260727/chu-cho-fluke-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260727/chu-cho-fluke-thumb.webp",
   "year": 1995,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Gia Đình",
+      "slug": "gia-dinh"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Thomas Johnson — một người đàn ông cuồng công việc — qua đời trong một tai nạn giao thông và tái sinh thành một chú chó. Nhớ lại một vài ký ức từ kiếp trước, chú quay trở về bên người vợ và con trai để bảo vệ họ khỏi người đàn ông mà chú cho rằng đã gây ra tai nạn của mình. Thế nhưng, theo thời gian, khi toàn bộ ký ức dần khôi phục, Thomas mới bàng hoàng nhận ra rằng bản thân trước đây chưa từng là một người chồng, người cha tốt.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260727/GkpMRrlJ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260727/GkpMRrlJ/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "chu-cho-fluke",
-      "episodeCount": 0,
+      "episodeCount": 1,
       "priority": 1
     }
   ],

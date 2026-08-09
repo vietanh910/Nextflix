@@ -2,29 +2,54 @@
   "slug": "hai-huoc",
   "name": "Hài Hước",
   "page": 7,
-  "totalPages": 7,
+  "totalPages": 9,
   "items": [
     {
-      "id": "one-piece-1999-09306878",
+      "id": "bread-barbershop-season--2022-660c4399",
       "source": "phimapi",
-      "slug": "dao-hai-tac",
-      "name": "Đảo Hải Tặc",
-      "originName": "One Piece",
-      "posterUrl": "https://phimimg.com/upload/vod/20240310-1/31e6c244a0673838a46732d3b4f0b190.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20240310-1/d61250d0c1670917fd783a1b48cbb29c.jpg",
-      "year": 1999,
+      "slug": "nha-tao-mau-toc-sieu-dang-phan-3",
+      "name": "Nhà Tạo Mẫu Tóc Siêu Đẳng (Phần 3)",
+      "originName": "Bread Barbershop (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260805/nha-tao-mau-toc-sieu-dang-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260805/nha-tao-mau-toc-sieu-dang-phan-3-thumb.webp",
+      "year": 2022,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 1165",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (27/27)",
       "categories": [
         {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
+          "name": "Trẻ Em",
+          "slug": "tre-em"
         },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "new-key-2021-cb4edf8b",
+      "source": "ophim",
+      "slug": "chia-khoa-moi",
+      "name": "Chìa Khóa Mới",
+      "originName": "New Key",
+      "posterUrl": "chia-khoa-moi-poster.jpg",
+      "thumbUrl": "chia-khoa-moi-thumb.jpg",
+      "year": 2021,
+      "type": "series",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
@@ -38,21 +63,193 @@
       ]
     },
     {
-      "id": "the-king-of-queens-seaso-1998-fe7c651c",
-      "source": "ophim",
-      "slug": "the-king-of-queens-phan-1",
-      "name": "The King of Queens (Phần 1)",
-      "originName": "The King of Queens (Season 1)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-1-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-1-thumb.jpg",
-      "year": 1998,
+      "id": "crying-and-laughing-scho-2021-c985447f",
+      "source": "phimapi",
+      "slug": "de-tieu-thu-huong",
+      "name": "Đề Tiếu Thư Hương",
+      "originName": "Crying And Laughing Scholar",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260802/de-tieu-thu-huong-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260802/de-tieu-thu-huong-thumb.webp",
+      "year": 2021,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (25/25)",
+      "episodeCurrent": "Hoàn Tất (42/42)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "that-time-i-got-reincarn-2021-55902d00",
+      "source": "phimapi",
+      "slug": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-2",
+      "name": "Lúc Đó Tôi Đã Chuyển Sinh Thành Slime (Phần 2)",
+      "originName": "That Time I Got Reincarnated As A Slime (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260407-1/6d82cfad654a8e4cf68840e13752c182.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260407-1/5d40ae203ee15de5ee84e8a643dce552.jpg",
+      "year": 2021,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
       "categories": [
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-worst-person-in-the--2021-c0138098",
+      "source": "phimapi",
+      "slug": "nguoi-te-nhat-the-gian",
+      "name": "Người Tệ Nhất Thế Gian",
+      "originName": "The Worst Person In The World",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260801/nguoi-te-nhat-the-gian-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260801/nguoi-te-nhat-the-gian-thumb.webp",
+      "year": 2021,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Na Uy",
+          "slug": "na-uy"
+        },
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Thụy Điển",
+          "slug": "thuy-dien"
+        },
+        {
+          "name": "Đan Mạch",
+          "slug": "dan-mach"
+        }
+      ]
+    },
+    {
+      "id": "the-good-boss-2021-4401ff1f",
+      "source": "phimapi",
+      "slug": "sep-vang-sep-bac-el-buen-patron",
+      "name": "Sếp Vàng Sếp Bạc/ El buen patrón",
+      "originName": "The Good Boss",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260801/sep-vang-sep-bac-el-buen-patron-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260801/sep-vang-sep-bac-el-buen-patron-thumb.webp",
+      "year": 2021,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Tây Ban Nha",
+          "slug": "tay-ban-nha"
+        }
+      ]
+    },
+    {
+      "id": "save-yourselves-2020-f9dd8410",
+      "source": "phimapi",
+      "slug": "cuu-tinh-bat-dac-di-2020",
+      "name": "Cứu Tinh Bất Đắc Dĩ",
+      "originName": "Save Yourselves!",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260801/cuu-tinh-bat-dac-di-2020-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260801/cuu-tinh-bat-dac-di-2020-thumb.webp",
+      "year": 2020,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
         }
       ],
       "countries": [
@@ -63,58 +260,21 @@
       ]
     },
     {
-      "id": "detective-conan-1996-7e203c67",
+      "id": "patriot-act-with-hasan-m-2020-e837649c",
       "source": "phimapi",
-      "slug": "tham-tu-lung-danh-conan",
-      "name": "Thám Tử Lừng Danh Conan",
-      "originName": "Detective Conan",
-      "posterUrl": "https://phimimg.com/upload/vod/20240310-1/025424cf62248b9a7b54279ef5416e26.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20240310-1/2a39971cc29c2802259b918eb437a45b.jpg",
-      "year": 1996,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 1203",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "ice-cream-man-1995-23101682",
-      "source": "phimapi",
-      "slug": "nguoi-ban-kem",
-      "name": "Người Bán Kem",
-      "originName": "Ice Cream Man",
-      "posterUrl": "https://phimimg.com/upload/vod/20260610-1/d17814fcb40adb9acb566432a668aa03.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260610-1/ad712538346a0403506ca70f517d7b9c.jpg",
-      "year": 1995,
-      "type": "single",
+      "slug": "dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-6",
+      "name": "Đạo Luật Yêu Nước Với Hasan Minhaj (Phần 6)",
+      "originName": "Patriot Act With Hasan Minhaj (Season 6)",
+      "posterUrl": "https://phimimg.com/upload/vod/20231207-1/fcc89b587082a0a1df362a08b3c1bc21.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20231207-1/1aacb303dce6e6e70b9883c57db9a1a3.jpg",
+      "year": 2020,
+      "type": "tvshow",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn Tất (8/8)",
       "categories": [
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
         },
         {
           "name": "Tâm Lý",
@@ -129,25 +289,520 @@
       ]
     },
     {
-      "id": "postcards-from-the-edge-1990-db2c7982",
-      "source": "ophim",
-      "slug": "buu-thiep-tu-bo-vuc",
-      "name": "Bưu thiếp từ bờ vực",
-      "originName": "Postcards from the Edge",
-      "posterUrl": "https://img.ophim.live/uploads/movies/buu-thiep-tu-bo-vuc-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/buu-thiep-tu-bo-vuc-thumb.jpg",
-      "year": 1990,
-      "type": "single",
+      "id": "bread-barbershop-season--2020-48a9c367",
+      "source": "phimapi",
+      "slug": "nha-tao-mau-toc-sieu-dang-phan-2",
+      "name": "Nhà Tạo Mẫu Tóc Siêu Đẳng (Phần 2)",
+      "originName": "Bread Barbershop (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260805/nha-tao-mau-toc-sieu-dang-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260805/nha-tao-mau-toc-sieu-dang-phan-2-thumb.webp",
+      "year": 2020,
+      "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn Tất (26/26)",
       "categories": [
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
         },
         {
-          "name": "Chính kịch",
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "a-will-eternal-2020-07a0a7c6",
+      "source": "phimapi",
+      "slug": "nhat-niem-vinh-hang",
+      "name": "Nhất Niệm Vĩnh Hằng",
+      "originName": "A Will Eternal",
+      "posterUrl": "https://phimimg.com/upload/vod/20240820-1/56ef483389cd47b258bad4e3c18bdc07.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240820-1/9a7edcb43abcae56b909720e1fcb2ebe.jpg",
+      "year": 2020,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 169",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "fearless-2020-1577de49",
+      "source": "phimapi",
+      "slug": "nhiem-vu-trong-tre",
+      "name": "Nhiệm Vụ Trông Trẻ",
+      "originName": "Fearless",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260801/nhiem-vu-trong-tre-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260801/nhiem-vu-trong-tre-thumb.webp",
+      "year": 2020,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "2-days-and-1-night-seaso-2019-ff1bb547",
+      "source": "ophim",
+      "slug": "2-ngay-1-dem-phan-4",
+      "name": "2 Ngày 1 Đêm (Phần 4)",
+      "originName": "2 Days and 1 Night (Season 4)",
+      "posterUrl": "2-ngay-1-dem-phan-4-poster.jpg",
+      "thumbUrl": "2-ngay-1-dem-phan-4-thumb.jpg",
+      "year": 2019,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 327",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "how-do-you-play-2019-efa45785",
+      "source": "ophim",
+      "slug": "ban-choi-the-nao",
+      "name": "Bạn Chơi Thế Nào?",
+      "originName": "How Do You Play?",
+      "posterUrl": "ban-choi-the-nao-poster.jpg",
+      "thumbUrl": "ban-choi-the-nao-thumb.jpg",
+      "year": 2019,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 331",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "patriot-act-with-hasan-m-2019-35afbcce",
+      "source": "phimapi",
+      "slug": "dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-2",
+      "name": "Đạo Luật Yêu Nước Với Hasan Minhaj (Phần 2)",
+      "originName": "Patriot Act With Hasan Minhaj (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260726/dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260726/dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-2-thumb.webp",
+      "year": 2019,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (6/6)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Talk",
+          "slug": "talk"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "patriot-act-with-hasan-m-2019-efecd747",
+      "source": "phimapi",
+      "slug": "dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-3",
+      "name": "Đạo Luật Yêu Nước Với Hasan Minhaj (Phần 3)",
+      "originName": "Patriot Act With Hasan Minhaj (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260726/dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260726/dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-3-thumb.webp",
+      "year": 2019,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (6/6)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Talk",
+          "slug": "talk"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "patriot-act-with-hasan-m-2019-5d20804a",
+      "source": "phimapi",
+      "slug": "dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-4",
+      "name": "Đạo Luật Yêu Nước Với Hasan Minhaj (Phần 4)",
+      "originName": "Patriot Act With Hasan Minhaj (Season 4)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260726/dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-4-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260726/dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-4-thumb.webp",
+      "year": 2019,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (6/6)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Talk",
+          "slug": "talk"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "patriot-act-with-hasan-m-2019-ba51f47e",
+      "source": "phimapi",
+      "slug": "dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-5",
+      "name": "Đạo Luật Yêu Nước Với Hasan Minhaj (Phần 5)",
+      "originName": "Patriot Act With Hasan Minhaj (Season 5)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260726/dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-5-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260726/dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-5-thumb.webp",
+      "year": 2019,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (7/7)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Talk",
+          "slug": "talk"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "ode-to-joy-2019-9c406a39",
+      "source": "phimapi",
+      "slug": "he-vui-la-xiu",
+      "name": "Hễ Vui Là Xỉu",
+      "originName": "Ode To Joy",
+      "posterUrl": "https://phimimg.com/upload/vod/20250616-1/e8ce03e9b61da687fb0e9252179285f4.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250616-1/ff3a473f9182c88eb10203148695b8bc.jpg",
+      "year": 2019,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
           "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "bread-barbershop-season--2019-e8667024",
+      "source": "phimapi",
+      "slug": "nha-tao-mau-toc-sieu-dang-phan-1",
+      "name": "Nhà Tạo Mẫu Tóc Siêu Đẳng (Phần 1)",
+      "originName": "Bread Barbershop (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260805/nha-tao-mau-toc-sieu-dang-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260805/nha-tao-mau-toc-sieu-dang-phan-1-thumb.webp",
+      "year": 2019,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (39/39)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "love-better-than-immorta-2019-de3c57be",
+      "source": "phimapi",
+      "slug": "xuan-hoa-thu-nguyet",
+      "name": "Xuân Hoa Thu Nguyệt",
+      "originName": "Love Better Than Immortality",
+      "posterUrl": "https://phimimg.com/upload/vod/20250608-1/b318dc0a4802284e0c453e10e89ca8b0.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250608-1/3ed575c506fa029ad234a5e53abd50da.jpg",
+      "year": 2019,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (40/40)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "grand-blue-dreaming-seas-2018-92943f3b",
+      "source": "ophim",
+      "slug": "xanh-tham-phan-3",
+      "name": "Xanh Thẳm (Phần 3)",
+      "originName": "Grand Blue Dreaming (Season 3)",
+      "posterUrl": "xanh-tham-phan-3-poster.jpg",
+      "thumbUrl": "xanh-tham-phan-3-thumb.jpg",
+      "year": 2018,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 3",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "sugar-baby-the-new-roman-2018-7d5312ea",
+      "source": "phimapi",
+      "slug": "be-duong",
+      "name": "Bé Đường",
+      "originName": "Sugar Baby / The New Romantic",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260801/be-duong-sugar-baby-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260801/be-duong-sugar-baby-thumb.webp",
+      "year": 2018,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "ladies-in-black-2018-c724ad38",
+      "source": "phimapi",
+      "slug": "cac-quy-co-mac-do-den",
+      "name": "Các Quý Cô Mặc Đồ Đen",
+      "originName": "Ladies In Black",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260801/cac-quy-co-mac-do-den-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260801/cac-quy-co-mac-do-den-thumb.webp",
+      "year": 2018,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Úc",
+          "slug": "uc"
+        }
+      ]
+    },
+    {
+      "id": "patriot-act-with-hasan-m-2018-3e3124a6",
+      "source": "phimapi",
+      "slug": "dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-1",
+      "name": "Đạo Luật Yêu Nước Với Hasan Minhaj (Phần 1)",
+      "originName": "Patriot Act With Hasan Minhaj (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260726/dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260726/dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-1-thumb.webp",
+      "year": 2018,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (7/7)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Talk",
+          "slug": "talk"
         }
       ],
       "countries": [

@@ -7,15 +7,79 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260708/xanh-tham-phan-3-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260708/xanh-tham-phan-3-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 5",
+  "categories": [
+    {
+      "name": "Hoạt Hình",
+      "slug": "hoat-hinh"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Iori Kitahara mong muốn có một tuổi thanh xuân tươi mới của mình trên bán đảo Izu khi anh chuẩn bị bắt đầu cuộc sống đại học ở đó, ở trong một căn phòng phía trên cửa hàng lặn \"Grand Blue\" của chú mình. Tuy nhiên, anh nhanh chóng bị sốc khi gặp Câu lạc bộ Lặn địa phương, một nhóm toàn thanh niên trai tráng dành nhiều thời gian để uống rượu, tiệc tùng và khỏa thân hơn là tập trung chuyên môn. Bất chấp những nỗ lực của mình để tránh xa nhóm, Iori nhanh chóng bị cuốn vào những trò hề của họ, trong khi chị em họ của anh cố gắng cho anh thấy những điều kỳ diệu khi lặn xuống biển và đại dương.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260720/YXnefBgn/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260720/YXnefBgn/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260715/zqFGAwtX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260715/zqFGAwtX/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260721/diBE9w2Q/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260721/diBE9w2Q/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/wT8bYJiC/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/wT8bYJiC/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260804/69fK9L1g/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260804/69fK9L1g/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "xanh-tham-phan-3",
-      "episodeCount": 0,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

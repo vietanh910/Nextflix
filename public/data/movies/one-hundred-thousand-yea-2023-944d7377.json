@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 364",
+  "episodeCurrent": "Tập 366",
   "categories": [
     {
       "name": "Hành Động",
@@ -2951,6 +2951,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260801/dwcStW3k/index.m3u8"
     },
     {
+      "name": "Tập 365",
+      "slug": "tap-365",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260804/enwrb1sf/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260804/enwrb1sf/index.m3u8"
+    },
+    {
+      "name": "Tập 366",
+      "slug": "tap-366",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260808/TZU3a30n/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260808/TZU3a30n/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -5801,7 +5817,7 @@
     {
       "source": "phimapi",
       "slug": "luyen-khi-muoi-van-nam",
-      "episodeCount": 364,
+      "episodeCount": 366,
       "priority": 1
     }
   ],

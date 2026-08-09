@@ -7,15 +7,55 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260728/chien-dao-do-lang-2-chien-dao-diet-soi-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260728/chien-dao-do-lang-2-chien-dao-diet-soi-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "<p>Phía Tây núi Đại Lượng có địa hình núi cao, rừng rậm và giáp biên giới, trở thành con đường cho các phần tử phạm pháp hoạt động. Tên gián điệp nước ngoài Ngang Sơn Giới Đức bị bắt sau khi trốn chạy, đồng bọn đã cướp xe cứu hắn, âm mưu vượt núi trốn ra nước ngoài. Trong lúc tuần tra, lực lượng cảnh sát lâm nghiệp gồm Lưu Chiêu, Lão Triệu và Vương Lỗi phát hiện nhóm của Giới Đức. Lão Triệu hy sinh, Lưu Chiêu bị bắt và nhận ra thân phận của Giới Đức. Vương Lỗi xả thân cứu Lưu Chiêu nhưng cũng hy sinh. Sau đó, giữa rừng nguyên sinh, Lưu Chiếu phải đơn độc đối mặt với toàn bộ bọn tội phạm.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub + Thuyết Minh",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260727/oUTERd96/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260727/oUTERd96/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260727/c2D00BOw/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260727/c2D00BOw/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "chien-dao-do-lang-2-chien-dao-diet-soi",
-      "episodeCount": 0,
+      "episodeCount": 2,
       "priority": 1
     }
   ],

@@ -7,15 +7,79 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260710/thunder-3-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260710/thunder-3-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 5",
+  "categories": [
+    {
+      "name": "Hoạt Hình",
+      "slug": "hoat-hinh"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Là những học sinh cấp hai bình thường đến mức không có gì nổi bật, Pyontaro, Hiroshi và Tsubame bỗng chốc bước chân vào một cuộc phiêu lưu phi thường khi cô em gái nhỏ của Pyontaro đột nhiên mất tích.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/e9us8Vwk/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/e9us8Vwk/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260716/51azPTVm/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260716/51azPTVm/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260723/HreFveJG/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260723/HreFveJG/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260730/1zOk1UEJ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260730/1zOk1UEJ/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260807/Qv1kwHQw/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260807/Qv1kwHQw/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "thunder-3",
-      "episodeCount": 0,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

@@ -7,15 +7,79 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260707/100-co-ban-gai-yeu-ban-rat-rat-rat-rat-rat-nhieu-phan-3-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260707/100-co-ban-gai-yeu-ban-rat-rat-rat-rat-rat-nhieu-phan-3-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 5",
+  "categories": [
+    {
+      "name": "Hoạt Hình",
+      "slug": "hoat-hinh"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Rentaro Aijo đã trải qua 100 lần thất tình hồi còn học sơ trung. Khi vừa lên cao trung, cậu đã đến một đền thờ và ước rằng \"tôi muốn có người yêu\". Thần tình yêu xuất hiện và phán rằng \"tại cao trung, con sẽ gặp được 100 người định mệnh của mình\". Tuy nhiên, theo vị thần, những người gặp một nửa định mệnh của mình phải yêu nhau và cảm thấy hạnh phúc, bằng không họ sẽ chết. Gặp gỡ liên tiếp những con người định mệnh của mình, Rentaro sẽ làm thế nào đây? Điều gì sẽ đến với 100 cô bạn gái của cậu?</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260726/tZsH1MRJ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260726/tZsH1MRJ/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260726/AxqcoDuh/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260726/AxqcoDuh/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260726/sMT4Pwh7/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260726/sMT4Pwh7/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260726/X23uprmI/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260726/X23uprmI/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260802/TNds8K5H/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260802/TNds8K5H/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "100-co-ban-gai-yeu-ban-rat-rat-rat-rat-rat-nhieu-phan-3",
-      "episodeCount": 0,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

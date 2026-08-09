@@ -4,8 +4,8 @@
   "slug": "72-gio",
   "name": "72 GIỜ",
   "originName": "72 HOURS",
-  "posterUrl": "https://img.ophim.live/uploads/movies/72-gio-poster.jpg",
-  "thumbUrl": "https://img.ophim.live/uploads/movies/72-gio-thumb.jpg",
+  "posterUrl": "72-gio-poster.jpg",
+  "thumbUrl": "72-gio-thumb.jpg",
   "year": 2026,
   "type": "single",
   "status": "completed",
@@ -33,6 +33,14 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream800.com/share/e96ed478dab8595a7dbda4cbcbee168f",
       "m3u8Url": "https://vip.opstream800.com/20260726/218_e96ed478/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260724/AQD91Jcu/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260724/AQD91Jcu/index.m3u8"
     }
   ],
   "sources": [
@@ -45,7 +53,7 @@
     {
       "source": "phimapi",
       "slug": "72-gio",
-      "episodeCount": 0,
+      "episodeCount": 1,
       "priority": 1
     }
   ],

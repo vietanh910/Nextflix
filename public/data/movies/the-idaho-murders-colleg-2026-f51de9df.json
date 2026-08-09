@@ -7,15 +7,63 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260730/an-mang-o-dai-hoc-idaho-ac-mong-sinh-vien-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260730/an-mang-o-dai-hoc-idaho-ac-mong-sinh-vien-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (3/3)",
+  "categories": [
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Tài Liệu",
+      "slug": "tai-lieu"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Ngày 13 tháng 11 năm 2022. Một cuộc gọi khẩn cấp 911 đầy kinh hoàng đã lật mở vụ giết bốn người, gây chấn động cả một thị trấn nhỏ yên bình ở Idaho.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/zV84wWLx/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/zV84wWLx/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/b2XbzsDE/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/b2XbzsDE/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/OdCLnVVo/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/OdCLnVVo/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "an-mang-o-dai-hoc-idaho-ac-mong-sinh-vien",
-      "episodeCount": 0,
+      "episodeCount": 3,
       "priority": 1
     }
   ],

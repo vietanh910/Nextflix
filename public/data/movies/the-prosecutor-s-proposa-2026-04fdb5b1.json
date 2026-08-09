@@ -4,8 +4,8 @@
   "slug": "loi-de-nghi-cua-cong-to-vien",
   "name": "Lời Đề Nghị Của Công Tố Viên",
   "originName": "The Prosecutor's Proposal",
-  "posterUrl": "https://img.ophim.live/uploads/movies/loi-de-nghi-cua-cong-to-vien-poster.jpg",
-  "thumbUrl": "https://img.ophim.live/uploads/movies/loi-de-nghi-cua-cong-to-vien-thumb.jpg",
+  "posterUrl": "loi-de-nghi-cua-cong-to-vien-poster.jpg",
+  "thumbUrl": "loi-de-nghi-cua-cong-to-vien-thumb.jpg",
   "year": 2026,
   "type": "series",
   "status": "completed",
@@ -113,6 +113,86 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream800.com/share/45fbc6d3e05ebd93369ce542e8f2322d",
       "m3u8Url": "https://vip.opstream800.com/20260724/216_45fbc6d3/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260627/UXYH2KDD/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260627/UXYH2KDD/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260627/MzSrROGp/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260627/MzSrROGp/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260703/XHNwcwwV/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260703/XHNwcwwV/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260703/d0Ndw1XR/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260703/d0Ndw1XR/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/XYQS2hEj/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/XYQS2hEj/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260710/fwQ2uZb4/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260710/fwQ2uZb4/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260716/qndSRwUG/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260716/qndSRwUG/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260716/t176w1Ve/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260716/t176w1Ve/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260723/XYgk4L1W/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260723/XYgk4L1W/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260723/qBrezybR/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260723/qBrezybR/index.m3u8"
     }
   ],
   "sources": [
@@ -125,7 +205,7 @@
     {
       "source": "phimapi",
       "slug": "loi-de-nghi-cua-cong-to-vien",
-      "episodeCount": 0,
+      "episodeCount": 10,
       "priority": 1
     }
   ],

@@ -7,15 +7,79 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260709/su-nghien-ngap-hoan-hao-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260709/su-nghien-ngap-hoan-hao-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 5",
+  "categories": [
+    {
+      "name": "Hoạt Hình",
+      "slug": "hoat-hinh"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Akihito, một nam sinh đại học lăng nhăng và cuồng ngoại hình, cực kỳ ghét Sae — kẻ sở hữu gương mặt cực phẩm cùng thái độ ngạo mạn. Khi nhận ra cô gái mà mình đang tăm tia trong buổi xem mắt nhóm lại chủ động tiếp cận Sae, sự ức chế của Akihito đã chạm đỉnh. Đúng lúc đó, Akihito vô tình bắt gặp Sae đang cãi vã với một người đàn ông trước cửa khách sạn, từ đó phát hiện ra bí mật động trời: Sae thực chất là người đồng tính và đóng vai \"dưới\" (bottom). Sae thú nhận những rắc rối của bản thân khi không thể tìm được cảm giác hòa hợp trong chuyện chăn gối, một khía cạnh hoàn toàn tương phản với vẻ ngoài hoàn hảo thường ngày của anh. Bị kích động bởi lời khiêu khích, Akihito đã dùng vũ lực đè Sae xuống, thế nhưng chính Sae lúc này cũng không thể kìm nén bản thân thêm được nữa...?!</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260709/wyCVSZ6x/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260709/wyCVSZ6x/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260715/bYYJxCtZ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260715/bYYJxCtZ/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260722/xsUH2mKS/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260722/xsUH2mKS/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/ZJfFFWko/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/ZJfFFWko/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260805/ruro3LAz/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260805/ruro3LAz/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "su-nghien-ngap-hoan-hao",
-      "episodeCount": 0,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

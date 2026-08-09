@@ -7,15 +7,55 @@
   "posterUrl": "https://phimimg.com/upload/vod/20250521-1/5f2086e79b8e7a0c6cd84393a4951170.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20250521-1/d3a4ca0b84240945009390deb31cb977.jpg",
   "year": 2017,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Gia Đình",
+      "slug": "gia-dinh"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Để tránh cái nóng oi bức của mùa hè, Nobita và những người bạn đã tìm đến một tảng băng trôi lớn và tự xây cho mình một công viên bằng băng từ những bảo bối của Doraemon. Trong lúc ấy, nhóm bạn vô tình tìm được chiếc nhẫn lạ bị chôn vùi trong băng đá. Qua nhiều nỗ lực tìm hiểu, những người bạn nhỏ đã khám phá ra rằng xuất xứ của chiếc nhẫn này là từ vùng Nam Cực ở quá khứ 100,000 năm về trước. Với khát khao mạnh mẽ nhằm tìm kiếm chủ nhân của nó, Doraemon và những người bạn quyết định thực hiện một chuyến hành trình đến Nam Cực. Ở đó, họ đã phát hiện ra dấu tích của một thành phố khổng lồ chìm trong băng.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub + Lồng Tiếng",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250521/Cw4oVCrf/index.m3u8",
+      "m3u8Url": "https://s4.phim1280.tv/20250521/Cw4oVCrf/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260730/3RZfZ7ZO/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260730/3RZfZ7ZO/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "doraemon-nobita-va-chuyen-tham-hiem-nam-cuc-kachi-kochi",
-      "episodeCount": 0,
+      "episodeCount": 2,
       "priority": 1
     }
   ],

@@ -1,0 +1,66 @@
+{
+  "id": "soulm8te-2026-6401bbf8",
+  "source": "ophim",
+  "slug": "soulm8te",
+  "name": "Soulm8te",
+  "originName": "Soulm8te",
+  "posterUrl": "soulm8te-poster.webp",
+  "thumbUrl": "soulm8te-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Gây Cấn",
+      "slug": "gay-can"
+    },
+    {
+      "name": "Khoa Học Viễn Tưởng",
+      "slug": "khoa-hoc-vien-tuong"
+    },
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Mỹ",
+      "slug": "my"
+    }
+  ],
+  "description": "<p>Sau khi một tập đoàn công nghệ tàn nhẫn thâu tóm công ty của mình, một kỹ sư đang chìm trong nỗi đau mất người thân được giao nhiệm vụ thử nghiệm mẫu robot hỗ trợ/bạn đồng hành AI mới. Nhưng khi anh cố gắng lập trình lại để biến cô thành một tri kỷ có tri giác thực sự, cô bắt đầu phát triển những nhu cầu cá nhân độc hại — khơi mào cho một chuỗi những hành vi hỗn loạn, tàn sát được tính toán chuẩn xác.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "",
+      "serverName": "",
+      "source": "ophim"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260803/LZjGcCKR/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260803/LZjGcCKR/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "soulm8te",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "ban-doi-nhan-tao",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

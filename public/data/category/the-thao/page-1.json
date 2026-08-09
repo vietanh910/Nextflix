@@ -5,18 +5,51 @@
   "totalPages": 1,
   "items": [
     {
-      "id": "emi-martinez-the-kid-who-2026-b04a6eaf",
-      "source": "ophim",
-      "slug": "emi-martinez-cau-be-ngung-thoi-gian",
-      "name": "Emi Martínez: Cậu bé ngừng thời gian",
-      "originName": "Emi Martínez: The Kid Who Stops Time",
-      "posterUrl": "https://img.ophim.live/uploads/movies/emi-martinez-cau-be-ngung-thoi-gian-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/emi-martinez-cau-be-ngung-thoi-gian-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
+      "id": "physical-100-season-2-2024-5eb5276b",
+      "source": "phimapi",
+      "slug": "the-chat-100-phan-2",
+      "name": "Thể Chất: 100 (Phần 2)",
+      "originName": "Physical: 100 (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260808/the-chat-100-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260808/the-chat-100-phan-2-thumb.webp",
+      "year": 2024,
+      "type": "tvshow",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn Tất (9/9)",
       "categories": [
+        {
+          "name": "Thể Thao",
+          "slug": "the-thao"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "physical-100-season-1-2023-366770a7",
+      "source": "phimapi",
+      "slug": "the-chat-100-phan-1",
+      "name": "Thể Chất: 100 (Phần 1)",
+      "originName": "Physical: 100 (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260808/the-chat-100-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240309-1/f9414ac6f3583ace65f3fca8068cafaf.jpg",
+      "year": 2023,
+      "type": "tvshow",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (9/9)",
+      "categories": [
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
         {
           "name": "Thể Thao",
           "slug": "the-thao"
@@ -24,8 +57,8 @@
       ],
       "countries": [
         {
-          "name": "Ý",
-          "slug": "y"
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     }

@@ -7,15 +7,43 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260724/niem-tin-vo-thuc-los-creyentes-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260724/niem-tin-vo-thuc-los-creyentes-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Tây Ban Nha",
+      "slug": "tay-ban-nha"
+    }
+  ],
+  "description": "<p>Sau cái chết đột ngột của mẹ, Ruth trở về quê nhà và đoàn tụ với cha mình. Tuy nhiên, những hành vi kỳ quặc của ông khiến cô bắt đầu nghi ngờ về những gì thực sự đã xảy ra.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260724/h7fRouoc/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260724/h7fRouoc/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "niem-tin-vo-thuc",
-      "episodeCount": 0,
+      "episodeCount": 1,
       "priority": 1
     }
   ],

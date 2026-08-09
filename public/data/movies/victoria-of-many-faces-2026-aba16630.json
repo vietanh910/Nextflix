@@ -7,15 +7,95 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260708/victoria-da-dien-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260708/victoria-da-dien-thumb.webp",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 5",
+  "categories": [
+    {
+      "name": "Hoạt Hình",
+      "slug": "hoat-hinh"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Sau khi bị chính tổ chức của mình phản bội, Chloe đã từ bỏ cuộc đời gián điệp để bỏ trốn và làm lại từ đầu dưới danh tính mới là Victoria tại Vương quốc Ashberry. Victoria chỉ khao khát một cuộc sống dân thường giản dị, nhưng người dân địa phương lại kéo cô vào những kế hoạch khác, khiến cô gắn kết định mệnh với một cô bé bị bỏ rơi và một chàng hiệp sĩ. Khi bộ ba dần thiết lập một sợi dây tình cảm khăng khít cũng là lúc quá khứ của Victoria đuổi kịp cô, và những kỹ năng gián điệp đỉnh cao mà cô từng hoàn thiện trước đây bỗng trở thành công cụ đắc lực để cô bảo vệ cuộc sống mới của mình.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260707/exdQO7v5/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260707/exdQO7v5/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260715/oPel4j5l/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260715/oPel4j5l/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260721/pv2fOsjO/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260721/pv2fOsjO/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260729/dYasYiW2/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260729/dYasYiW2/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260804/w6XoytyN/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260804/w6XoytyN/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "victoria-da-dien",
-      "episodeCount": 0,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

@@ -7,15 +7,87 @@
   "posterUrl": "https://phimimg.com/upload/vod/20260703-1/fa2d431e68ed9e55d3d455b57253d1d7.jpg",
   "thumbUrl": "https://phimimg.com/upload/vod/20260703-1/70c74fd95e4902512ea412da15873c26.jpg",
   "year": 2026,
-  "status": "unknown",
-  "categories": [],
-  "countries": [],
-  "episodes": [],
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 6",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Sau khi liều lĩnh tiến vào một khu rừng núi hiểm trở và bị cấm, hai anh em Hinata và Kaoru đã chạm trán với một vị xà thần vô cùng đáng sợ, nhưng rồi họ lại bất ngờ trở thành những người bạn thân thiết của nhau! Bất chấp vẻ ngoài ban đầu có phần ghê rợn, vị thần tự xưng là &quot;thần xui xẻo&quot; này thực chất lại rất vụng về, cô đơn và dễ trò chuyện một cách ngạc nhiên.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260702/utrkMIQQ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260702/utrkMIQQ/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260716/gyNvZLMV/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260716/gyNvZLMV/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260716/2SD6mY8l/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260716/2SD6mY8l/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260723/12t4spL9/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260723/12t4spL9/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260730/zyxoLkU3/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260730/zyxoLkU3/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260807/jTq3wlOV/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260807/jTq3wlOV/index.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "cuoc-song-o-thoi-lenh-hoa-cua-ngai-dara",
-      "episodeCount": 0,
+      "episodeCount": 6,
       "priority": 1
     }
   ],
