@@ -2,8 +2,33 @@
   "slug": "hai-huoc",
   "name": "Hài Hước",
   "page": 3,
-  "totalPages": 9,
+  "totalPages": 10,
   "items": [
+    {
+      "id": "i-want-to-end-this-love--2026-bc28992b",
+      "source": "ophim",
+      "slug": "toi-muon-cham-dut-tro-choi-tinh-yeu-nay",
+      "name": "Tôi muốn chấm dứt trò chơi tình yêu này",
+      "originName": "I Want to End This Love Game",
+      "posterUrl": "toi-muon-cham-dut-tro-choi-tinh-yeu-nay-poster.jpg",
+      "thumbUrl": "toi-muon-cham-dut-tro-choi-tinh-yeu-nay-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
     {
       "id": "fulfill-2026-de2f99b2",
       "source": "ophim",
@@ -127,7 +152,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -150,6 +175,39 @@
       ]
     },
     {
+      "id": "1670-season-3-2026-ab1a194b",
+      "source": "phimapi",
+      "slug": "1670-phan-3",
+      "name": "1670 (Phần 3)",
+      "originName": "1670 (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260809/1670-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260809/1670-phan-3-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ba Lan",
+          "slug": "ba-lan"
+        }
+      ]
+    },
+    {
       "id": "your-third-2026-d513cecb",
       "source": "phimapi",
       "slug": "anh-sam-cua-em",
@@ -160,7 +218,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -197,7 +255,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -238,7 +296,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -271,7 +329,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hài Hước",
@@ -323,39 +381,121 @@
       ]
     },
     {
-      "id": "all-wishes-come-true-2026-8b18693c",
+      "id": "the-wonderfools-2026-3375cf70",
       "source": "phimapi",
-      "slug": "bat-tien",
-      "name": "Bát Tiên!",
-      "originName": "All Wishes Come True!",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260723/bat-tien-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260723/bat-tien-thumb.webp",
+      "slug": "biet-doi-sieu-kho",
+      "name": "Biệt Đội Siêu Khờ",
+      "originName": "The WONDERfools",
+      "posterUrl": "https://phimimg.com/upload/vod/20260515-1/ea04332b4572392a919e1c6587b9f2f3.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260515-1/085e2fde72531db8a9cadea7a1c95c65.jpg",
       "year": 2026,
-      "type": "anime",
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn Tất (8/8)",
       "categories": [
         {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
         },
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
         },
         {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "dr-seuss-s-red-fish-blue-2026-80bc7891",
+      "source": "phimapi",
+      "slug": "ca-do-ca-xanh-phan-2",
+      "name": "Cá Đỏ Cá Xanh (Phần 2)",
+      "originName": "Dr. Seuss's Red Fish Blue Fish (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260104-1/d4ff8603d3d11b0eacaaaf750de3b4de.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260104-1/c8885062f21b4d353f0b57e59539d8d5.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (5/5)",
+      "categories": [
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "my-best-friend-his-girlf-2026-226ca375",
+      "source": "phimapi",
+      "slug": "cau-ban-than-cua-toi-co-ban-gai",
+      "name": "Cậu Bạn Thân Của Tôi Có Bạn Gái",
+      "originName": "My Best Friend, His Girlfriend and Me / Mein bester Freund, seine Freundin und ich",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260815/cau-ban-than-cua-toi-co-ban-gai-mein-bester-freund-seine-freundin-und-ich-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260815/cau-ban-than-cua-toi-co-ban-gai-mein-bester-freund-seine-freundin-und-ich-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Đức",
+          "slug": "duc"
         }
       ]
     },
@@ -370,7 +510,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -403,7 +543,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -444,7 +584,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hài Hước",
@@ -481,7 +621,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -526,7 +666,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -549,6 +689,39 @@
       ]
     },
     {
+      "id": "the-father-s-wedding-ord-2026-7a3191c4",
+      "source": "phimapi",
+      "slug": "cuoi-vo-cho-cha",
+      "name": "Cưới Vợ Cho Cha",
+      "originName": "The Father's Wedding Orders! / Father Of The Groom",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260712/cuoi-vo-cho-cha-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260811/cuoi-vo-cho-cha-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Việt Nam",
+          "slug": "viet-nam"
+        }
+      ]
+    },
+    {
       "id": "bungo-stray-dogs-wan-sea-2026-be526839",
       "source": "phimapi",
       "slug": "dac-nhiem-tham-tu-wan-phan-2",
@@ -559,7 +732,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -592,7 +765,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 51",
+      "episodeCurrent": "Tập 53",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -641,7 +814,7 @@
       "year": 2026,
       "type": "tvshow",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -664,187 +837,6 @@
         {
           "name": "Thái Lan",
           "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "iron-wok-jan-2026-d1dbaa34",
-      "source": "phimapi",
-      "slug": "dau-bep-sieu-dang",
-      "name": "Đầu Bếp Siêu Đẳng",
-      "originName": "Iron Wok Jan!",
-      "posterUrl": "https://phimimg.com/upload/vod/20260706-1/13d679c94a90467a85b46f88da920fef.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260706-1/b2bd6336d4e6266a9d3ac3b01c2f7cc6.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 5",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "let-s-go-kaikigumi-2026-3b58b021",
-      "source": "phimapi",
-      "slug": "di-thoi-kaikigumi",
-      "name": "Đi Thôi Kaikigumi",
-      "originName": "Let's Go KAIKIGUMI",
-      "posterUrl": "https://phimimg.com/upload/vod/20260706-1/680ae24ed59e33a7ab55234175942dc8.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260706-1/571204c973f76dd9377a357420b15752.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 5",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "soul-severing-sword-2026-4429734a",
-      "source": "phimapi",
-      "slug": "doan-hon-kiem",
-      "name": "Đoạn Hồn Kiếm",
-      "originName": "Soul-Severing Sword",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260728/doan-hon-kiem-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260728/doan-hon-kiem-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "kung-fu-soccer-2026-552b317e",
-      "source": "phimapi",
-      "slug": "doi-bong-nu-tuc",
-      "name": "Đội Bóng Nữ Túc",
-      "originName": "Kung Fu Soccer",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260723/doi-bong-nu-tuc-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260723/doi-bong-nu-tuc-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
-        },
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "love-in-sync-2026-cb060e48",
-      "source": "phimapi",
-      "slug": "dong-dieu-yeu-thuong",
-      "name": "Đồng Điệu Yêu Thương",
-      "originName": "Love In Sync",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260708/dong-dieu-yeu-thuong-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260708/dong-dieu-yeu-thuong-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
         }
       ]
     }

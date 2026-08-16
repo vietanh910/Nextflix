@@ -2,8 +2,37 @@
   "slug": "hinh-su",
   "name": "Hình Sự",
   "page": 2,
-  "totalPages": 5,
+  "totalPages": 4,
   "items": [
+    {
+      "id": "the-murder-puzzle-2026-c57a0936",
+      "source": "ophim",
+      "slug": "manh-ghep-bi-an",
+      "name": "Mảnh Ghép Bí Ẩn",
+      "originName": "The Murder Puzzle",
+      "posterUrl": "manh-ghep-bi-an-poster.jpg",
+      "thumbUrl": "manh-ghep-bi-an-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 24",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
     {
       "id": "colors-of-evil-black-2026-5251a6f9",
       "source": "ophim",
@@ -430,39 +459,6 @@
       ]
     },
     {
-      "id": "the-idaho-murders-colleg-2026-f51de9df",
-      "source": "phimapi",
-      "slug": "an-mang-o-dai-hoc-idaho-ac-mong-sinh-vien",
-      "name": "Án Mạng Ở Đại Học Idaho: Ác Mộng Sinh Viên",
-      "originName": "The Idaho Murders: College Nightmare",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260730/an-mang-o-dai-hoc-idaho-ac-mong-sinh-vien-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/an-mang-o-dai-hoc-idaho-ac-mong-sinh-vien-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (3/3)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tài Liệu",
-          "slug": "tai-lieu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "payback-2026-e01b6ac6",
       "source": "phimapi",
       "slug": "bao-thu-2026",
@@ -546,8 +542,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20260725/chien-binh-trong-gio-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 32",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (36/36)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -621,7 +617,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Bí Ẩn",
@@ -648,47 +644,6 @@
       ]
     },
     {
-      "id": "agent-kim-reactivated-2026-1be4a8b8",
-      "source": "phimapi",
-      "slug": "dac-vu-kim-tai-khoi-dong",
-      "name": "Đặc Vụ Kim Tái Khởi Động",
-      "originName": "Agent Kim Reactivated",
-      "posterUrl": "https://phimimg.com/upload/vod/20260627-1/9c11aa80dd2d77cb3130d3f41cf08f5f.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260627-1/e150d9ace6293867a4cc5df8ed33d03a.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
       "id": "gate24-the-border-2026-71c9cb60",
       "source": "phimapi",
       "slug": "dai-khong-cang-gate24",
@@ -699,7 +654,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 1",
+      "episodeCurrent": "Tập 2",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -755,18 +710,51 @@
       ]
     },
     {
-      "id": "the-debt-collector-2026-934cb460",
+      "id": "furious-season-1-2026-40bb358f",
       "source": "phimapi",
-      "slug": "ke-thu-no",
-      "name": "Kẻ Thu Nợ",
-      "originName": "The Debt Collector",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260723/ke-thu-no-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260723/ke-thu-no-thumb.webp",
+      "slug": "lan-ranh-cuong-no-phan-1",
+      "name": "Lằn Ranh Cuồng Nộ (Phần 1)",
+      "originName": "Furious (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260808/lan-ranh-cuong-no-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260808/lan-ranh-cuong-no-phan-1-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 5",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "bloody-sands-2026-93f1ce13",
+      "source": "phimapi",
+      "slug": "liet-diem-cuong-sa",
+      "name": "Liệt Diễm Cuồng Sa",
+      "originName": "Bloody Sands",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260801/liet-diem-cuong-sa-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260801/liet-diem-cuong-sa-thumb.webp",
       "year": 2026,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
@@ -782,23 +770,23 @@
       ],
       "countries": [
         {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
     {
-      "id": "furious-season-1-2026-40bb358f",
+      "id": "white-fire-2026-2da08fe5",
       "source": "phimapi",
-      "slug": "lan-ranh-cuong-no-phan-1",
-      "name": "Lằn Ranh Cuồng Nộ (Phần 1)",
-      "originName": "Furious (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260808/lan-ranh-cuong-no-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260808/lan-ranh-cuong-no-phan-1-thumb.webp",
+      "slug": "lua-trang-2026",
+      "name": "Lửa Trắng",
+      "originName": "White Fire",
+      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/3e4a5707b7b1cd0e9e4fcee32e630cf1.jpg",
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 18",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -807,12 +795,20 @@
         {
           "name": "Hình Sự",
           "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Việt Nam",
+          "slug": "viet-nam"
         }
       ]
     }

@@ -9,7 +9,7 @@
   "year": 2020,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 235",
+  "episodeCurrent": "Tập 236",
   "categories": [
     {
       "name": "Hành Động",
@@ -1917,13 +1917,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260803/S7RpTw8e/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260803/S7RpTw8e/index.m3u8"
+    },
+    {
+      "name": "Tập 236",
+      "slug": "tap-236",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260810/fnKRKLfe/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260810/fnKRKLfe/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "thon-phe-tinh-khong",
-      "episodeCount": 235,
+      "episodeCount": 236,
       "priority": 1
     }
   ],

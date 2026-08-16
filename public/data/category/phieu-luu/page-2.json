@@ -644,7 +644,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 12",
+      "episodeCurrent": "Tập 16",
       "categories": [
         {
           "name": "Hành Động",
@@ -675,39 +675,47 @@
       ]
     },
     {
-      "id": "all-wishes-come-true-2026-8b18693c",
+      "id": "the-wonderfools-2026-3375cf70",
       "source": "phimapi",
-      "slug": "bat-tien",
-      "name": "Bát Tiên!",
-      "originName": "All Wishes Come True!",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260723/bat-tien-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260723/bat-tien-thumb.webp",
+      "slug": "biet-doi-sieu-kho",
+      "name": "Biệt Đội Siêu Khờ",
+      "originName": "The WONDERfools",
+      "posterUrl": "https://phimimg.com/upload/vod/20260515-1/ea04332b4572392a919e1c6587b9f2f3.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260515-1/085e2fde72531db8a9cadea7a1c95c65.jpg",
       "year": 2026,
-      "type": "anime",
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn Tất (8/8)",
       "categories": [
         {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
         },
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
         },
         {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
@@ -763,7 +771,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -798,6 +806,43 @@
       ]
     },
     {
+      "id": "the-journey-with-the-wis-2026-ffb6edaa",
+      "source": "phimapi",
+      "slug": "cam-ly-nhan-gian-nhu-nguyen-di-thuong",
+      "name": "Cẩm Lý Nhân Gian: Như Nguyện Dĩ Thường",
+      "originName": "The Journey With The Wish Fish",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260815/cam-ly-nhan-gian-nhu-nguyen-di-thuong-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260815/cam-ly-nhan-gian-nhu-nguyen-di-thuong-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "ultraman-teo-2026-e2dfb987",
       "source": "phimapi",
       "slug": "chien-binh-anh-sang-teo",
@@ -808,7 +853,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hành Động",
@@ -873,43 +918,6 @@
           "name": "Hồng Kông",
           "slug": "hong-kong"
         },
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "a-good-day-to-ascend-2026-ea311ea6",
-      "source": "phimapi",
-      "slug": "chon-ngay-phi-thang",
-      "name": "Chọn Ngày Phi Thăng",
-      "originName": "A Good Day To Ascend",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260718/chon-ngay-phi-thang-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260718/chon-ngay-phi-thang-thumb.webp",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 6",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"

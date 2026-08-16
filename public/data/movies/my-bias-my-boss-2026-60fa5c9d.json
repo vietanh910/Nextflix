@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 4",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -45,13 +45,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260806/sYt8BtOA/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260806/sYt8BtOA/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260811/Nwqmtdgq/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260811/Nwqmtdgq/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260811/dsBwwr1m/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260811/dsBwwr1m/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "sep-chinh-la-than-tuong-bias-toi-sep-cua-toi",
-      "episodeCount": 2,
+      "episodeCount": 4,
       "priority": 1
     }
   ],

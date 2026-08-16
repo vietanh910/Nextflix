@@ -89,70 +89,6 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream800.com/share/57aeee35c98205091e18d1140e9f38cf",
       "m3u8Url": "https://vip.opstream800.com/20260726/229_57aeee35/index.m3u8"
-    },
-    {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260724/PguL58EB/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260724/PguL58EB/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260724/ZqdRX6dJ/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260724/ZqdRX6dJ/index.m3u8"
-    },
-    {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260724/ii5WV8SQ/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260724/ii5WV8SQ/index.m3u8"
-    },
-    {
-      "name": "Tập 04",
-      "slug": "tap-04",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260724/AVs255G3/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260724/AVs255G3/index.m3u8"
-    },
-    {
-      "name": "Tập 05",
-      "slug": "tap-05",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260724/yRpzOmqq/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260724/yRpzOmqq/index.m3u8"
-    },
-    {
-      "name": "Tập 06",
-      "slug": "tap-06",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260724/e32nGOO9/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260724/e32nGOO9/index.m3u8"
-    },
-    {
-      "name": "Tập 07",
-      "slug": "tap-07",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260724/9DDvzy89/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260724/9DDvzy89/index.m3u8"
-    },
-    {
-      "name": "Tập 08",
-      "slug": "tap-08",
-      "serverName": "Vietsub",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260724/SIcB1afJ/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260724/SIcB1afJ/index.m3u8"
     }
   ],
   "sources": [
@@ -161,12 +97,6 @@
       "slug": "musafir-cafe",
       "episodeCount": 8,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "musafir-cafe",
-      "episodeCount": 8,
-      "priority": 1
     }
   ],
   "_priority": 0

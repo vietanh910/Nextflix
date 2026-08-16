@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 17",
+  "episodeCurrent": "Tập 18",
   "categories": [
     {
       "name": "Hài Hước",
@@ -183,6 +183,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260807/0bfMnFIA/index.m3u8"
     },
     {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260814/vgyJ4voO/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260814/vgyJ4voO/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Lồng Tiếng",
@@ -237,6 +245,22 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260808/BHukh12f/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260808/BHukh12f/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260814/nVy5fnk8/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260814/nVy5fnk8/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260814/a1W7UMvF/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260814/a1W7UMvF/index.m3u8"
     },
     {
       "name": "1",
@@ -353,7 +377,7 @@
     {
       "source": "phimapi",
       "slug": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4",
-      "episodeCount": 24,
+      "episodeCount": 27,
       "priority": 1
     }
   ],

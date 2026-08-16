@@ -9,7 +9,7 @@
   "year": 2025,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 46",
+  "episodeCurrent": "Tập 47",
   "categories": [
     {
       "name": "Hài Hước",
@@ -423,6 +423,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260803/zrfVyaS1/index.m3u8"
     },
     {
+      "name": "Tập 47",
+      "slug": "tap-47",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260810/NtzCMesj/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260810/NtzCMesj/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Lồng Tiếng",
@@ -791,6 +799,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260803/Oaf8cLmo/index.m3u8"
     },
     {
+      "name": "Tập 47",
+      "slug": "tap-47",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260810/Q2YD6kgw/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260810/Q2YD6kgw/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -1137,7 +1153,7 @@
     {
       "source": "phimapi",
       "slug": "hiep-si-mat-na-zeztz",
-      "episodeCount": 93,
+      "episodeCount": 95,
       "priority": 1
     }
   ],

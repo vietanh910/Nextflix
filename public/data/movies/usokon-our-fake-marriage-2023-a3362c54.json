@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260802/cuoi-gia-yeu-that-thumb.webp",
   "year": 2023,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (12/12)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -95,6 +95,46 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260807/KsfgDAbR/index.m3u8"
     },
     {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260811/XLkGKyuI/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260811/XLkGKyuI/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260811/GZq7odOR/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260811/GZq7odOR/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260811/zJYFJliZ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260811/zJYFJliZ/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260813/s9sHFXqw/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260813/s9sHFXqw/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260813/L0dJEobN/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260813/L0dJEobN/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -149,13 +189,53 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260807/P4frDJsr/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260807/P4frDJsr/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260811/ecs4kSzQ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260811/ecs4kSzQ/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260811/5Z4Vz1ln/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260811/5Z4Vz1ln/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260811/mBmuZVrR/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260811/mBmuZVrR/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260813/P3OZlY0U/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260813/P3OZlY0U/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260813/niDmncWk/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260813/niDmncWk/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "cuoi-gia-yeu-that",
-      "episodeCount": 14,
+      "episodeCount": 24,
       "priority": 1
     }
   ],

@@ -15,7 +15,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -81,7 +81,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 165",
+      "episodeCurrent": "Tập 166",
       "categories": [
         {
           "name": "Hành Động",
@@ -114,7 +114,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 174",
+      "episodeCurrent": "Tập 175",
       "categories": [
         {
           "name": "Cổ Trang",
@@ -240,6 +240,43 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "dragon-ball-super-2015-28b31bf8",
+      "source": "phimapi",
+      "slug": "bay-vien-ngoc-rong-sieu-cap",
+      "name": "Bảy Viên Ngọc Rồng Siêu Cấp",
+      "originName": "Dragon Ball Super",
+      "posterUrl": "https://phimimg.com/upload/vod/20240718-1/6bba5797d9c0e92a2984f07933dc151b.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240718-1/2bd97759054aa140b1968d57f1bdfa37.jpg",
+      "year": 2015,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (131/131)",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Võ Thuật",
+          "slug": "vo-thuat"
+        },
+        {
+          "name": "Thần Thoại",
+          "slug": "than-thoai"
+        },
+        {
+          "name": "Kinh Điển",
+          "slug": "kinh-dien"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },

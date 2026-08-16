@@ -9,7 +9,7 @@
   "year": 2025,
   "type": "tvshow",
   "status": "ongoing",
-  "episodeCurrent": "Tập 52",
+  "episodeCurrent": "Tập 55",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -447,15 +447,39 @@
       "slug": "tap-52",
       "serverName": "Vietsub",
       "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260724/2D7EqUR1/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260724/2D7EqUR1/index.m3u8"
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260809/6728QqgD/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260809/6728QqgD/index.m3u8"
+    },
+    {
+      "name": "Tập 53",
+      "slug": "tap-53",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260809/3tTjYxNb/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260809/3tTjYxNb/index.m3u8"
+    },
+    {
+      "name": "Tập 54",
+      "slug": "tap-54",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260809/qaV7lsWO/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260809/qaV7lsWO/index.m3u8"
+    },
+    {
+      "name": "Tập 55",
+      "slug": "tap-55",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260809/sxlxgAJ3/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260809/sxlxgAJ3/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "6-vien-da-vang",
-      "episodeCount": 52,
+      "episodeCount": 55,
       "priority": 1
     }
   ],

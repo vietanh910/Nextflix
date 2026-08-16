@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -91,6 +91,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260804/rGAEVosv/index.m3u8"
     },
     {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260812/Gll6H98b/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260812/Gll6H98b/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260812/lEiGxmOH/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260812/lEiGxmOH/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -125,7 +141,7 @@
     {
       "source": "phimapi",
       "slug": "van-co-than-de",
-      "episodeCount": 7,
+      "episodeCount": 9,
       "priority": 1
     }
   ],

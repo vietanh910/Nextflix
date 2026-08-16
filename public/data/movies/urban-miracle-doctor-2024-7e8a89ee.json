@@ -9,7 +9,7 @@
   "year": 2024,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 201",
+  "episodeCurrent": "Tập 203",
   "categories": [
     {
       "name": "Hành Động",
@@ -1641,13 +1641,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260807/dfmllXC8/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260807/dfmllXC8/index.m3u8"
+    },
+    {
+      "name": "Tập 202",
+      "slug": "tap-202",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260809/UpCOVWLL/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260809/UpCOVWLL/index.m3u8"
+    },
+    {
+      "name": "Tập 203",
+      "slug": "tap-203",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260812/PXZ7Qkgy/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260812/PXZ7Qkgy/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "than-y-co-dai-o-do-thi-do-thi-co-tien-y",
-      "episodeCount": 201,
+      "episodeCount": 203,
       "priority": 1
     }
   ],

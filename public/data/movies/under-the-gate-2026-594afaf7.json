@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 7",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -81,13 +81,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260805/p9ivUkUA/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260805/p9ivUkUA/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260810/U1kEl26l/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260810/U1kEl26l/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260811/TKqzlL4n/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260811/TKqzlL4n/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "gioi-mon-chi-ha",
-      "episodeCount": 5,
+      "episodeCount": 7,
       "priority": 1
     }
   ],

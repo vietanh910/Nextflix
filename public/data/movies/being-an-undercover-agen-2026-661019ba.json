@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 21",
+  "episodeCurrent": "Tập 23",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -197,13 +197,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260808/2lTOjQzn/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260808/2lTOjQzn/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260809/NidpV9Lx/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260809/NidpV9Lx/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260810/BxFTGXZt/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260810/BxFTGXZt/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "chuyen-toi-lam-noi-gian",
-      "episodeCount": 21,
+      "episodeCount": 23,
       "priority": 1
     }
   ],

@@ -38,25 +38,29 @@
       ]
     },
     {
-      "id": "i-swear-2025-ba7b0b1a",
+      "id": "young-washington-2026-e80a6f5b",
       "source": "phimapi",
-      "slug": "con-cuu-den",
-      "name": "Con Cừu Đen",
-      "originName": "I Swear",
-      "posterUrl": "https://phimimg.com/upload/vod/20251129-1/753cc2cae8dd0d25f2fcda75cfcea414.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251129-1/f4b782d7e7105df50682f16554fb978e.jpg",
-      "year": 2025,
+      "slug": "thoi-tre-cua-washington",
+      "name": "Thời Trẻ Của Washington",
+      "originName": "Young Washington",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260815/thoi-tre-cua-washington-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260815/thoi-tre-cua-washington-thumb.webp",
+      "year": 2026,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
           "name": "Lịch Sử",
           "slug": "lich-su"
+        },
+        {
+          "name": "Chiến Tranh",
+          "slug": "chien-tranh"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Tâm Lý",
@@ -65,86 +69,16 @@
       ],
       "countries": [
         {
-          "name": "Anh",
-          "slug": "anh"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         },
         {
           "name": "Ireland",
           "slug": "ireland"
-        }
-      ]
-    },
-    {
-      "id": "the-monster-in-the-abyss-2024-48221207",
-      "source": "phimapi",
-      "slug": "quai-thu-vuc-sau",
-      "name": "Quái Thú Vực Sâu",
-      "originName": "The Monster In The Abyss",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260727/quai-thu-vuc-sau-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260727/quai-thu-vuc-sau-thumb.webp",
-      "year": 2024,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
         },
         {
-          "name": "Lịch Sử",
-          "slug": "lich-su"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "chernobyl-abyss-2021-084c1fc1",
-      "source": "phimapi",
-      "slug": "tham-hoa-chernobyl",
-      "name": "Thảm Họa Chernobyl",
-      "originName": "Chernobyl: Abyss",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260726/tham-hoa-chernobyl-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260726/tham-hoa-chernobyl-thumb.webp",
-      "year": 2021,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Lịch Sử",
-          "slug": "lich-su"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nga",
-          "slug": "nga"
+          "name": "Canada",
+          "slug": "canada"
         }
       ]
     },
@@ -223,6 +157,39 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-king-and-the-clown-2005-5a1c93df",
+      "source": "phimapi",
+      "slug": "nha-vua-va-chang-he-nha-vua-va-chu-he",
+      "name": "Nhà Vua Và Chàng Hề (Nhà vua và Chú hề)",
+      "originName": "The King And The Clown",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260809/nha-vua-va-chang-he-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260809/nha-vua-va-chang-he-thumb.webp",
+      "year": 2005,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Lịch Sử",
+          "slug": "lich-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     }

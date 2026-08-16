@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 6",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -67,6 +67,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260730/1zOk1UEJ/index.m3u8"
     },
     {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260813/1QY9U8mz/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260813/1QY9U8mz/index.m3u8"
+    },
+    {
       "name": "Tập 05",
       "slug": "tap-05",
       "serverName": "Vietsub",
@@ -79,7 +87,7 @@
     {
       "source": "phimapi",
       "slug": "thunder-3",
-      "episodeCount": 5,
+      "episodeCount": 6,
       "priority": 1
     }
   ],

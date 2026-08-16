@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 174",
+  "episodeCurrent": "Tập 175",
   "categories": [
     {
       "name": "Cổ Trang",
@@ -1429,13 +1429,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260804/7cQohrKx/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260804/7cQohrKx/index.m3u8"
+    },
+    {
+      "name": "Tập 175",
+      "slug": "tap-175",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260811/Xt5IHEuh/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260811/Xt5IHEuh/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "gia-thien",
-      "episodeCount": 174,
+      "episodeCount": 175,
       "priority": 1
     }
   ],

@@ -1,0 +1,55 @@
+{
+  "id": "wieners-2008-f5c1bb34",
+  "source": "phimapi",
+  "slug": "xuc-xich-duong-dai",
+  "name": "Xúc Xích Đường Dài",
+  "originName": "Wieners",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260815/xuc-xich-duong-dai-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260815/xuc-xich-duong-dai-thumb.webp",
+  "year": 2008,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Sau khi bị một tiến sĩ dẫn chương trình trò chuyện làm bẽ mặt, 3 anh chàng lông bông lên đường thực hiện chuyến đi xuyên quốc gia trên chiếc xe xúc xích tự chế nhằm dằn mặt ông ta.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260814/CuaIfCQr/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260814/CuaIfCQr/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "xuc-xich-duong-dai",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

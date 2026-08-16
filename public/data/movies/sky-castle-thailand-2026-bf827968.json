@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 4",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -51,6 +51,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260804/yO9ddz8t/index.m3u8"
     },
     {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260810/4koF5eFS/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260810/4koF5eFS/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260811/vbTHl1Pd/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260811/vbTHl1Pd/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -65,13 +81,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260804/3mWV0car/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260804/3mWV0car/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260810/QJolVxRe/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260810/QJolVxRe/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260811/w0xkjgG7/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260811/w0xkjgG7/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "lau-dai-tham-vong-ban-thai",
-      "episodeCount": 4,
+      "episodeCount": 8,
       "priority": 1
     }
   ],

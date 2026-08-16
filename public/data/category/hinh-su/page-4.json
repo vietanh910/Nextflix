@@ -2,40 +2,81 @@
   "slug": "hinh-su",
   "name": "Hình Sự",
   "page": 4,
-  "totalPages": 5,
+  "totalPages": 4,
   "items": [
     {
-      "id": "the-x-files-season-11-2018-0ec45794",
+      "id": "avalanche-2021-b6b7c2bb",
       "source": "phimapi",
-      "slug": "ho-so-tuyet-mat-phan-11",
-      "name": "Hồ Sơ Tuyệt Mật (Phần 11)",
-      "originName": "The X-Files (Season 11)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-11-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan8-thumb.webp",
-      "year": 2018,
+      "slug": "biet-doi-cong-ly-avalanche",
+      "name": "Biệt Đội Công Lý Avalanche",
+      "originName": "Avalanche",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260808/biet-doi-cong-ly-avalanche-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260808/biet-doi-cong-ly-avalanche-thumb.webp",
+      "year": 2021,
       "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 3",
       "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
         {
           "name": "Bí Ẩn",
           "slug": "bi-an"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "War & Politics",
+          "slug": "war-politics"
         },
         {
           "name": "Hình Sự",
           "slug": "hinh-su"
         },
         {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "godfather-of-harlem-seas-2021-4a1bac1a",
+      "source": "phimapi",
+      "slug": "bo-gia-vung-harlem-phan-2",
+      "name": "Bố Già Vùng Harlem (Phần 2)",
+      "originName": "Godfather Of Harlem (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20250308-1/1d3be99f7e6eccfe182a3f2574bdb47c.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250308-1/35ab619ae8cd329b634cf9646097cac0.jpg",
+      "year": 2021,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
         },
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
         }
       ],
       "countries": [
@@ -46,33 +87,70 @@
       ]
     },
     {
-      "id": "marvel-s-luke-cage-seaso-2018-ba26db30",
+      "id": "and-tomorrow-the-entire--2021-c1c96411",
       "source": "phimapi",
-      "slug": "marvels-luke-cage-phan-2",
-      "name": "Marvel's Luke Cage (Phần 2)",
-      "originName": "Marvel's Luke Cage (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260730/marvels-luke-cage-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/marvels-luke-cage-phan-2-thumb.webp",
-      "year": 2018,
+      "slug": "va-ngay-mai-ca-the-gioi",
+      "name": "Và Ngày Mai, Cả Thế Giới",
+      "originName": "And Tomorrow The Entire World / Und morgen die ganze Welt",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260815/va-ngay-mai-ca-the-gioi-und-morgen-die-ganze-welt-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260815/va-ngay-mai-ca-the-gioi-und-morgen-die-ganze-welt-thumb.webp",
+      "year": 2021,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Đức",
+          "slug": "duc"
+        }
+      ]
+    },
+    {
+      "id": "godfather-of-harlem-seas-2019-8a3a9955",
+      "source": "phimapi",
+      "slug": "bo-gia-vung-harlem-phan-1",
+      "name": "Bố Già Vùng Harlem (Phần 1)",
+      "originName": "Godfather Of Harlem (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20250308-1/889a1f5ff47531da2bca20c1a2fdfb42.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250308-1/10fd97dfa2fcf0367b8e6719428ed44d.jpg",
+      "year": 2019,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
+      "episodeCurrent": "Hoàn Tất (10/10)",
       "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
           "name": "Hình Sự",
           "slug": "hinh-su"
         },
         {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
         },
         {
           "name": "Tâm Lý",
@@ -194,78 +272,33 @@
       ]
     },
     {
-      "id": "the-x-files-season-10-2016-1f8f4c7d",
+      "id": "don-t-breathe-2016-3a36d342",
       "source": "phimapi",
-      "slug": "ho-so-tuyet-mat-phan-10",
-      "name": "Hồ Sơ Tuyệt Mật (Phần 10)",
-      "originName": "The X-Files (Season 10)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-10-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan7-thumb.webp",
+      "slug": "sat-nhan-trong-bong-toi",
+      "name": "Sát Nhân Trong Bóng Tối",
+      "originName": "Don't Breathe",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260809/sat-nhan-trong-bong-toi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260809/sat-nhan-trong-bong-toi-thumb.webp",
       "year": 2016,
-      "type": "series",
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (6/6)",
+      "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
         },
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
         },
         {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "marvel-s-luke-cage-seaso-2016-05c5b18b",
-      "source": "phimapi",
-      "slug": "marvels-luke-cage-phan-1",
-      "name": "Marvel's Luke Cage (Phần 1)",
-      "originName": "Marvel's Luke Cage (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260730/marvels-luke-cage-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/marvels-luke-cage-phan-1-thumb.webp",
-      "year": 2016,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
-      "categories": [
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
         }
       ],
       "countries": [
@@ -491,211 +524,6 @@
       ]
     },
     {
-      "id": "the-x-files-season-9-2001-84e0774f",
-      "source": "phimapi",
-      "slug": "ho-so-tuyet-mat-phan-9",
-      "name": "Hồ Sơ Tuyệt Mật (Phần 9)",
-      "originName": "The X-Files (Season 9)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-9-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-9-thumb.webp",
-      "year": 2001,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (20/20)",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-x-files-season-8-2000-48e0df39",
-      "source": "phimapi",
-      "slug": "ho-so-tuyet-mat-phan-8",
-      "name": "Hồ Sơ Tuyệt Mật (Phần 8)",
-      "originName": "The X-Files (Season 8)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-8-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-8-thumb.webp",
-      "year": 2000,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (21/21)",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-x-files-season-7-1999-2882e0a6",
-      "source": "phimapi",
-      "slug": "ho-so-tuyet-mat-phan-7",
-      "name": "Hồ Sơ Tuyệt Mật (Phần 7)",
-      "originName": "The X-Files (Season 7)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-7-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-7-thumb.webp",
-      "year": 1999,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (22/22)",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-x-files-season-6-1998-8eb7ea16",
-      "source": "phimapi",
-      "slug": "ho-so-tuyet-mat-phan-6",
-      "name": "Hồ Sơ Tuyệt Mật (Phần 6)",
-      "originName": "The X-Files (Season 6)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-6-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-6-thumb.webp",
-      "year": 1998,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (22/22)",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-x-files-season-5-1997-c41fceec",
-      "source": "phimapi",
-      "slug": "ho-so-tuyet-mat-phan-5",
-      "name": "Hồ Sơ Tuyệt Mật (Phần 5)",
-      "originName": "The X-Files (Season 5)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-5-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-5-thumb.webp",
-      "year": 1997,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (20/20)",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "detective-conan-the-time-1997-13c487ef",
       "source": "phimapi",
       "slug": "tham-tu-lung-danh-conan-qua-bom-choc-troi",
@@ -733,160 +561,29 @@
       ]
     },
     {
-      "id": "the-x-files-season-4-1996-7d78dd32",
+      "id": "higher-learning-1995-c83a77b5",
       "source": "phimapi",
-      "slug": "ho-so-tuyet-mat-phan-4",
-      "name": "Hồ Sơ Tuyệt Mật (Phần 4)",
-      "originName": "The X-Files (Season 4)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-4-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-4-thumb.webp",
-      "year": 1996,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (24/24)",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-x-files-season-3-1995-edd9a99f",
-      "source": "phimapi",
-      "slug": "ho-so-tuyet-mat-phan-3",
-      "name": "Hồ Sơ Tuyệt Mật (Phần 3)",
-      "originName": "The X-Files (Season 3)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-3-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-3-thumb.webp",
+      "slug": "sinh-ton-o-dai-hoc",
+      "name": "Sinh Tồn Ở Đại Học",
+      "originName": "Higher Learning",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260815/sinh-ton-o-dai-hoc-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260815/sinh-ton-o-dai-hoc-thumb.webp",
       "year": 1995,
-      "type": "series",
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (24/24)",
+      "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Hình Sự",
           "slug": "hinh-su"
         },
         {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-x-files-season-2-1994-63d44be9",
-      "source": "phimapi",
-      "slug": "ho-so-tuyet-mat-phan-2",
-      "name": "Hồ Sơ Tuyệt Mật (Phần 2)",
-      "originName": "The X-Files (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-2-thumb.webp",
-      "year": 1994,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (25/25)",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-x-files-season-1-1993-31d19fa5",
-      "source": "phimapi",
-      "slug": "ho-so-tuyet-mat-phan-1",
-      "name": "Hồ Sơ Tuyệt Mật (Phần 1)",
-      "originName": "The X-Files (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-1-thumb.webp",
-      "year": 1993,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
         }
       ],
       "countries": [

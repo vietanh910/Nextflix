@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 3",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -51,6 +51,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260803/jC7vR3S4/index.m3u8"
     },
     {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260809/POnVHX3d/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260809/POnVHX3d/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Lồng Tiếng",
@@ -65,13 +73,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260803/wOiTb5i0/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260803/wOiTb5i0/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260809/aNZAwB12/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260809/aNZAwB12/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "tho-san-giac-thu-omegahorn",
-      "episodeCount": 4,
+      "episodeCount": 6,
       "priority": 1
     }
   ],

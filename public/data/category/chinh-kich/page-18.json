@@ -2,103 +2,8 @@
   "slug": "chinh-kich",
   "name": "Chính kịch",
   "page": 18,
-  "totalPages": 22,
+  "totalPages": 23,
   "items": [
-    {
-      "id": "is-it-destiny-karma-or-d-2023-faa1bad0",
-      "source": "phimapi",
-      "slug": "phai-chang-la-dinh-menh-2023",
-      "name": "Phải Chăng Là Định Mệnh",
-      "originName": "Is It Destiny / Karma or Destiny",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260808/phai-chang-la-dinh-menh-2023-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260808/phai-chang-la-dinh-menh-2023-thumb.webp",
-      "year": 2023,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "scarlet-silence-2023-c80f081f",
-      "source": "phimapi",
-      "slug": "sac-tinh",
-      "name": "Sắc Tình",
-      "originName": "Scarlet Silence",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260808/sac-tinh-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260808/sac-tinh-thumb.webp",
-      "year": 2023,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "tom-clancy-s-jack-ryan-s-2023-c1b291a3",
-      "source": "phimapi",
-      "slug": "sieu-diep-vien-phan-4",
-      "name": "Siêu Điệp Viên (Phần 4)",
-      "originName": "Tom Clancy's Jack Ryan (Season 4)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260730/sieu-diep-vien-phan-4-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/sieu-diep-vien-phan-4-thumb.webp",
-      "year": 2023,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (6/6)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
     {
       "id": "the-demon-hunter-2023-0274ab09",
       "source": "phimapi",
@@ -110,7 +15,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 88",
+      "episodeCurrent": "Tập 90",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -151,7 +56,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 152",
+      "episodeCurrent": "Tập 153",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -314,39 +219,6 @@
       ]
     },
     {
-      "id": "rookie-cops-2022-21f3571d",
-      "source": "phimapi",
-      "slug": "canh-sat-tan-binh",
-      "name": "Cảnh Sát Tân Binh",
-      "originName": "Rookie Cops",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260723/canh-sat-tan-binh-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260723/canh-sat-tan-binh-thumb.webp",
-      "year": 2022,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (16/16)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
       "id": "traditional-love-2022-6a75cc33",
       "source": "phimapi",
       "slug": "chuan-muc-lam-dau",
@@ -380,33 +252,66 @@
       ]
     },
     {
-      "id": "interview-with-the-vampi-2022-360f65dc",
+      "id": "wild-bloom-2022-bf819d08",
       "source": "phimapi",
-      "slug": "phong-van-ma-ca-rong-phan-1",
-      "name": "Phỏng Vấn Ma Cà Rồng (Phần 1)",
-      "originName": "Interview With The Vampire (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251216-1/a412d2a057377b18d35e9a166250b9d3.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251216-1/846d3c0bf7b72be2c3afceea4dd07933.jpg",
+      "slug": "gio-thoi-ban-ha-da-man-sinh-truong",
+      "name": "Gió Thổi Bán Hạ / Dã Man Sinh Trưởng",
+      "originName": "Wild Bloom",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260811/gio-thoi-ban-ha-da-man-sinh-truong-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260811/gio-thoi-ban-ha-da-man-sinh-truong-thumb.webp",
       "year": 2022,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (7/7)",
+      "episodeCurrent": "Hoàn Tất (36/36)",
       "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "a-brush-with-christmas-2022-97bcf9b8",
+      "source": "phimapi",
+      "slug": "net-ve-giang-sinh",
+      "name": "Nét Vẽ Giáng Sinh",
+      "originName": "A Brush With Christmas",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260815/net-ve-giang-sinh-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260815/net-ve-giang-sinh-thumb.webp",
+      "year": 2022,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "TV Shows",
+          "slug": "tv-shows"
         },
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
         }
       ],
       "countries": [
@@ -417,25 +322,29 @@
       ]
     },
     {
-      "id": "tom-clancy-s-jack-ryan-s-2022-b165e785",
+      "id": "floating-on-the-edge-unc-2022-ce7e20b2",
       "source": "phimapi",
-      "slug": "sieu-diep-vien-phan-3",
-      "name": "Siêu Điệp Viên (Phần 3)",
-      "originName": "Tom Clancy's Jack Ryan (Season 3)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260730/sieu-diep-vien-phan-3-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/sieu-diep-vien-phan-3-thumb.webp",
+      "slug": "phu-do-duyen",
+      "name": "Phù Đồ Duyên",
+      "originName": "Floating On The Edge / Unchained Love",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260809/phu-do-duyen-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260809/phu-do-duyen-thumb.webp",
       "year": 2022,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
+      "episodeCurrent": "Hoàn Tất (36/36)",
       "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         },
         {
           "name": "Phiêu Lưu",
@@ -444,8 +353,8 @@
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -526,7 +435,7 @@
       "year": 2021,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 1",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -565,6 +474,39 @@
       ]
     },
     {
+      "id": "godfather-of-harlem-seas-2021-4a1bac1a",
+      "source": "phimapi",
+      "slug": "bo-gia-vung-harlem-phan-2",
+      "name": "Bố Già Vùng Harlem (Phần 2)",
+      "originName": "Godfather Of Harlem (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20250308-1/1d3be99f7e6eccfe182a3f2574bdb47c.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250308-1/35ab619ae8cd329b634cf9646097cac0.jpg",
+      "year": 2021,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "crying-and-laughing-scho-2021-c985447f",
       "source": "phimapi",
       "slug": "de-tieu-thu-huong",
@@ -598,6 +540,80 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "hawkeye-2021-82110ebc",
+      "source": "phimapi",
+      "slug": "hawkeye-than-tien-mat-dieu-hau",
+      "name": "Hawkeye: Thần Tiễn (Mắt Diều Hâu)",
+      "originName": "Hawkeye",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260810/hawkeye-than-tien-mat-dieu-hau-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260810/hawkeye-than-tien-mat-dieu-hau-thumb.webp",
+      "year": 2021,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (6/6)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "ted-lasso-season-2-2021-dffb4456",
+      "source": "phimapi",
+      "slug": "huan-luyen-vien-ted-lasso-phan-2",
+      "name": "Huấn Luyện Viên Ted Lasso (Phần 2)",
+      "originName": "Ted Lasso (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20250812-1/cc59117f5b62d1e6d1d314de4c1ed021.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250812-1/a10aed7cd93a0d1529e262e93c4039b7.jpg",
+      "year": 2021,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -750,35 +766,43 @@
       ]
     },
     {
-      "id": "chernobyl-abyss-2021-084c1fc1",
+      "id": "and-tomorrow-the-entire--2021-c1c96411",
       "source": "phimapi",
-      "slug": "tham-hoa-chernobyl",
-      "name": "Thảm Họa Chernobyl",
-      "originName": "Chernobyl: Abyss",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260726/tham-hoa-chernobyl-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260726/tham-hoa-chernobyl-thumb.webp",
+      "slug": "va-ngay-mai-ca-the-gioi",
+      "name": "Và Ngày Mai, Cả Thế Giới",
+      "originName": "And Tomorrow The Entire World / Und morgen die ganze Welt",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260815/va-ngay-mai-ca-the-gioi-und-morgen-die-ganze-welt-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260815/va-ngay-mai-ca-the-gioi-und-morgen-die-ganze-welt-thumb.webp",
       "year": 2021,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
         },
         {
-          "name": "Lịch Sử",
-          "slug": "lich-su"
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Nga",
-          "slug": "nga"
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Đức",
+          "slug": "duc"
         }
       ]
     },
@@ -793,7 +817,7 @@
       "year": 2021,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 469",
+      "episodeCurrent": "Tập 474",
       "categories": [
         {
           "name": "Chính Kịch",

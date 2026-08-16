@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 9",
+  "episodeCurrent": "Tập 11",
   "categories": [
     {
       "name": "Bí Ẩn",
@@ -115,6 +115,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260808/4BBBLJzG/index.m3u8"
     },
     {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260809/rqjXGcXm/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260809/rqjXGcXm/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260815/ufWyi7oG/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260815/ufWyi7oG/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -157,7 +173,7 @@
     {
       "source": "phimapi",
       "slug": "phi-vu-chung-cu",
-      "episodeCount": 9,
+      "episodeCount": 11,
       "priority": 1
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 6",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -77,13 +77,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260801/anCsa9Ub/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260801/anCsa9Ub/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260813/Jzmq5Y6f/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260813/Jzmq5Y6f/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260813/FaEQ6LBA/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260813/FaEQ6LBA/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "ong-chu-o-vung-que-tro-thanh-thanh-kiem-phan-2",
-      "episodeCount": 4,
+      "episodeCount": 6,
       "priority": 1
     }
   ],

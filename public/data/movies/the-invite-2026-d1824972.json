@@ -1,0 +1,55 @@
+{
+  "id": "the-invite-2026-d1824972",
+  "source": "phimapi",
+  "slug": "loi-moi",
+  "name": "Lời Mời",
+  "originName": "The Invite",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260813/loi-moi-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260813/loi-moi-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Cuộc hôn nhân của Joe và Angela đang đứng bên bờ vực tan vỡ. Khi họ mời cặp hàng xóm bí ẩn sống ở tầng trên đến dùng bữa tối, mọi chuyện trong đêm đó đã diễn biến theo những hướng hoàn toàn bất ngờ. Liệu họ đã khơi dậy lại ngọn lửa tình yêu, hay vô tình châm ngòi cho một ngọn lửa thiêu rụi tất cả?</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260812/ayzp3avh/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260812/ayzp3avh/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "loi-moi",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

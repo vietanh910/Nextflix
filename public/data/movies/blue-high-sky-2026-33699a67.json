@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 21",
+  "episodeCurrent": "Tập 26",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -197,13 +197,53 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260807/K0Y8dgE9/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260807/K0Y8dgE9/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260810/zowrsWIs/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260810/zowrsWIs/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260811/8ySEQTdT/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260811/8ySEQTdT/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260812/8ni2zssd/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260812/8ni2zssd/index.m3u8"
+    },
+    {
+      "name": "Tập 25",
+      "slug": "tap-25",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260813/MkPPmz1q/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260813/MkPPmz1q/index.m3u8"
+    },
+    {
+      "name": "Tập 26",
+      "slug": "tap-26",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260814/9TgSfV2T/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260814/9TgSfV2T/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "troi-cao-nguyen-xanh",
-      "episodeCount": 21,
+      "episodeCount": 26,
       "priority": 1
     }
   ],

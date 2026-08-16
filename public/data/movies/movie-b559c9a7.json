@@ -8,7 +8,13 @@
   "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21593-qs18WuZ834xV.jpg",
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "countries": [],
   "episodes": [],
   "sources": [
     {
@@ -24,5 +30,6 @@
       "priority": 3
     }
   ],
-  "_priority": 3
+  "_priority": 3,
+  "description": "Anime adaptation of mobile MMO \"Avabel Online\"."
 }

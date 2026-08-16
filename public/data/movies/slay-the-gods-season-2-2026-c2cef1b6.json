@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260627-1/4c213d3213bfbfff8254a2bace26b730.jpg",
   "year": 2026,
   "type": "anime",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 9",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (15/15)",
   "categories": [
     {
       "name": "Khoa Học",
@@ -107,6 +107,54 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260806/s1c1YPKd/index.m3u8"
     },
     {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260813/A3dk22Jn/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260813/A3dk22Jn/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260813/RQPe8OLY/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260813/RQPe8OLY/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260813/yXMOPq00/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260813/yXMOPq00/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260813/8q6oCp4X/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260813/8q6oCp4X/index.m3u8"
+    },
+    {
+      "name": "Tập 14",
+      "slug": "tap-14",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260813/5MaCfU9v/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260813/5MaCfU9v/index.m3u8"
+    },
+    {
+      "name": "Tập 15",
+      "slug": "tap-15",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260813/t3XEYmzu/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260813/t3XEYmzu/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -173,7 +221,7 @@
     {
       "source": "phimapi",
       "slug": "tram-than-pham-tran-than-vuc-phan-2",
-      "episodeCount": 9,
+      "episodeCount": 15,
       "priority": 1
     }
   ],

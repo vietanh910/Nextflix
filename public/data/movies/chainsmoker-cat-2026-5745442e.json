@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 7",
   "categories": [
     {
       "name": "Hài Hước",
@@ -87,6 +87,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260807/ZFmf0IZW/index.m3u8"
     },
     {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260813/aBPsSuaH/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260813/aBPsSuaH/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -129,7 +137,7 @@
     {
       "source": "phimapi",
       "slug": "co-meo-nghien-thuoc-la",
-      "episodeCount": 6,
+      "episodeCount": 7,
       "priority": 1
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2025,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 40",
+  "episodeCurrent": "Tập 42",
   "categories": [
     {
       "name": "Hành Động",
@@ -361,13 +361,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260727/Blp3955A/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260727/Blp3955A/index.m3u8"
+    },
+    {
+      "name": "Tập 41",
+      "slug": "tap-41",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260810/YZ6datkD/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260810/YZ6datkD/index.m3u8"
+    },
+    {
+      "name": "Tập 42",
+      "slug": "tap-42",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260810/J8Hku2f9/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260810/J8Hku2f9/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "digimon-beatbreak",
-      "episodeCount": 40,
+      "episodeCount": 42,
       "priority": 1
     }
   ],

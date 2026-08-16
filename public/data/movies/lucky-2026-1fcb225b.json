@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 6",
   "categories": [
     {
       "name": "Bí Ẩn",
@@ -79,6 +79,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260807/Nj0x2HrE/index.m3u8"
     },
     {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260812/uQvGDZzD/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260812/uQvGDZzD/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -113,7 +121,7 @@
     {
       "source": "phimapi",
       "slug": "cuoc-dua-sinh-tu",
-      "episodeCount": 5,
+      "episodeCount": 6,
       "priority": 1
     }
   ],

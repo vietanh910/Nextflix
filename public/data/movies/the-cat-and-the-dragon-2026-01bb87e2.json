@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 7",
   "categories": [
     {
       "name": "Khoa Học",
@@ -30,7 +30,7 @@
       "slug": "nhat-ban"
     }
   ],
-  "description": "<p><span class=\"\">Mồ côi ngay từ khi mới nở,</span><span class=\"\"> chú rồng cô độc mang tên &quot;Bác Đôi Cánh&quot; được một gia đình mèo biết sử dụng ma thuật nhận nuôi và nuôi nấng như con ruột.</span><span class=\"\"> Khi lớn lên,</span><span class=\"\"> Bác Đôi Cánh trở thành người bảo vệ cho đàn mèo,</span><span class=\"\"> quyết tâm giữ cho chúng được an toàn trước loài người.</span><span class=\"\"> Thế nhưng,</span><span class=\"\"> khi chứng kiến những chú mèo dùng phép thuật của mình để kết nối với con người,</span><span class=\"\"> Bác Đôi Cánh cũng dần mở lòng và có thiện cảm hơn với họ trong câu chuyện đầy cảm xúc và xúc động này.</span></p>",
+  "description": "<p>Mồ côi ngay từ khi mới nở, chú rồng cô độc mang tên &quot;Bác Đôi Cánh&quot; được một gia đình mèo biết sử dụng ma thuật nhận nuôi và nuôi nấng như con ruột. Khi lớn lên, Bác Đôi Cánh trở thành người bảo vệ cho đàn mèo, quyết tâm giữ cho chúng được an toàn trước loài người. Thế nhưng, khi chứng kiến những chú mèo dùng phép thuật của mình để kết nối với con người, Bác Đôi Cánh cũng dần mở lòng và có thiện cảm hơn với họ trong câu chuyện đầy cảm xúc và xúc động này.</p>",
   "quality": "FHD",
   "lang": "Vietsub",
   "episodes": [
@@ -81,13 +81,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260802/munoBeeq/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260802/munoBeeq/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260809/i9jNSWHd/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260809/i9jNSWHd/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "con-meo-va-con-rong",
-      "episodeCount": 6,
+      "episodeCount": 7,
       "priority": 1
     }
   ],

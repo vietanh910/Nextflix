@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "tvshow",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 7",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -65,13 +65,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260807/TOWhpXAd/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260807/TOWhpXAd/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260811/ONO6Rc1R/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260811/ONO6Rc1R/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260811/hnWTwP3u/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260811/hnWTwP3u/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260811/2XVHVHIJ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260811/2XVHVHIJ/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "tinh-yeu-noi-loan-phan-2",
-      "episodeCount": 4,
+      "episodeCount": 7,
       "priority": 1
     }
   ],

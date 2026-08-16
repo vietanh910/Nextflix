@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260725/chien-binh-trong-gio-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 32",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (36/36)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -291,6 +291,38 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260807/0Xplbml2/index.m3u8"
     },
     {
+      "name": "Tập 33",
+      "slug": "tap-33",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260809/IV5WQjMg/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260809/IV5WQjMg/index.m3u8"
+    },
+    {
+      "name": "Tập 34",
+      "slug": "tap-34",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260809/YSh2Gc0W/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260809/YSh2Gc0W/index.m3u8"
+    },
+    {
+      "name": "Tập 35",
+      "slug": "tap-35",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260809/hJIk3p99/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260809/hJIk3p99/index.m3u8"
+    },
+    {
+      "name": "Tập 36",
+      "slug": "tap-36",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260810/nadvTm4B/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260810/nadvTm4B/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -365,7 +397,7 @@
     {
       "source": "phimapi",
       "slug": "chien-binh-trong-gio",
-      "episodeCount": 32,
+      "episodeCount": 36,
       "priority": 1
     }
   ],

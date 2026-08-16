@@ -2,8 +2,82 @@
   "slug": "vien-tuong",
   "name": "Viễn Tưởng",
   "page": 8,
-  "totalPages": 9,
+  "totalPages": 8,
   "items": [
+    {
+      "id": "save-yourselves-2020-f9dd8410",
+      "source": "phimapi",
+      "slug": "cuu-tinh-bat-dac-di-2020",
+      "name": "Cứu Tinh Bất Đắc Dĩ",
+      "originName": "Save Yourselves!",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260801/cuu-tinh-bat-dac-di-2020-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260801/cuu-tinh-bat-dac-di-2020-thumb.webp",
+      "year": 2020,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "fantasy-island-2020-430097de",
+      "source": "phimapi",
+      "slug": "dao-kinh-hoang-2020",
+      "name": "Đảo Kinh Hoàng",
+      "originName": "Fantasy Island",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260808/dao-kinh-hoang-2020-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260808/dao-kinh-hoang-2020-thumb.webp",
+      "year": 2020,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
     {
       "id": "a-will-eternal-2020-07a0a7c6",
       "source": "phimapi",
@@ -15,7 +89,7 @@
       "year": 2020,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 169",
+      "episodeCurrent": "Tập 171",
       "categories": [
         {
           "name": "Hài Hước",
@@ -85,7 +159,7 @@
       "year": 2020,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 235",
+      "episodeCurrent": "Tập 236",
       "categories": [
         {
           "name": "Hành Động",
@@ -112,43 +186,35 @@
       ]
     },
     {
-      "id": "the-x-files-season-11-2018-0ec45794",
+      "id": "weathering-with-you-2019-d584188f",
       "source": "phimapi",
-      "slug": "ho-so-tuyet-mat-phan-11",
-      "name": "Hồ Sơ Tuyệt Mật (Phần 11)",
-      "originName": "The X-Files (Season 11)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-11-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan8-thumb.webp",
-      "year": 2018,
-      "type": "series",
+      "slug": "dua-con-cua-thoi-tiet",
+      "name": "Đứa Con Của Thời Tiết",
+      "originName": "Weathering with You",
+      "posterUrl": "https://phimimg.com/upload/vod/20250526-1/00b744219355b28bd08540de7433e696.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250526-1/6340a02d0d46cde962184319cd56723b.jpg",
+      "year": 2019,
+      "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
+      "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -198,84 +264,6 @@
       ]
     },
     {
-      "id": "the-originals-season-5-2018-2d777304",
-      "source": "phimapi",
-      "slug": "ma-ca-rong-nguyen-thuy-phan-5",
-      "name": "Ma Cà Rồng Nguyên Thủy (Phần 5)",
-      "originName": "The Originals (Season 5)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251102-1/4466f4213389c3c57449fe24a96f57e8.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251102-1/0ded990c80c31b01e3ea1b2a4dc6f7bc.jpg",
-      "year": 2018,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "venom-2018-16887e2e",
-      "source": "phimapi",
-      "slug": "venom",
-      "name": "Venom",
-      "originName": "Venom",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260730/venom-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/venom-thumb.webp",
-      "year": 2018,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "saga-of-tanya-the-evil-s-2017-7c29c9d2",
       "source": "ophim",
       "slug": "tanya-chien-ky-phan-2",
@@ -305,80 +293,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "doraemon-nobita-s-great--2017-807e5995",
-      "source": "phimapi",
-      "slug": "doraemon-nobita-va-chuyen-tham-hiem-nam-cuc-kachi-kochi",
-      "name": "Doraemon: Nobita và Chuyến Thám Hiểm Nam Cực Kachi Kochi",
-      "originName": "Doraemon: Nobita's Great Adventure in the Antarctic Kachi Kochi",
-      "posterUrl": "https://phimimg.com/upload/vod/20250521-1/5f2086e79b8e7a0c6cd84393a4951170.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250521-1/d3a4ca0b84240945009390deb31cb977.jpg",
-      "year": 2017,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "the-originals-season-4-2017-8c87016d",
-      "source": "phimapi",
-      "slug": "ma-ca-rong-nguyen-thuy-phan-4",
-      "name": "Ma Cà Rồng Nguyên Thủy (Phần 4)",
-      "originName": "The Originals (Season 4)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251102-1/f4e79a4a8de7a029e1af152f839eb271.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251102-1/b92264aed1d1a9fb4bd2c657d1ee1fc3.jpg",
-      "year": 2017,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     },
@@ -477,43 +391,39 @@
       ]
     },
     {
-      "id": "the-x-files-season-10-2016-1f8f4c7d",
+      "id": "dragon-ball-super-2015-28b31bf8",
       "source": "phimapi",
-      "slug": "ho-so-tuyet-mat-phan-10",
-      "name": "Hồ Sơ Tuyệt Mật (Phần 10)",
-      "originName": "The X-Files (Season 10)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-10-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan7-thumb.webp",
-      "year": 2016,
-      "type": "series",
+      "slug": "bay-vien-ngoc-rong-sieu-cap",
+      "name": "Bảy Viên Ngọc Rồng Siêu Cấp",
+      "originName": "Dragon Ball Super",
+      "posterUrl": "https://phimimg.com/upload/vod/20240718-1/6bba5797d9c0e92a2984f07933dc151b.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240718-1/2bd97759054aa140b1968d57f1bdfa37.jpg",
+      "year": 2015,
+      "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (6/6)",
+      "episodeCurrent": "Hoàn Tất (131/131)",
       "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
         {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
+        },
+        {
+          "name": "Võ Thuật",
+          "slug": "vo-thuat"
+        },
+        {
+          "name": "Thần Thoại",
+          "slug": "than-thoai"
+        },
+        {
+          "name": "Kinh Điển",
+          "slug": "kinh-dien"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -555,223 +465,67 @@
       ]
     },
     {
-      "id": "the-originals-season-3-2015-e9451f9d",
+      "id": "dragon-ball-z-kai-the-fi-2009-b4e285bf",
       "source": "phimapi",
-      "slug": "ma-ca-rong-nguyen-thuy-phan-3",
-      "name": "Ma Cà Rồng Nguyên Thủy (Phần 3)",
-      "originName": "The Originals (Season 3)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251102-1/2ae285d6f92a68b2f34a16e20fbfa420.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251102-1/6a19caff5643c7ae62553275317eb0db.jpg",
-      "year": 2015,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (22/22)",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "rick-and-morty-season-2-2015-853b325a",
-      "source": "phimapi",
-      "slug": "rick-va-morty-phan-2",
-      "name": "Rick Và Morty (Phần 2)",
-      "originName": "Rick And Morty (Season 2)",
-      "posterUrl": "https://phimimg.com/upload/vod/20250612-1/f805d8d4c082dbd24f5755d051356adf.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250612-1/d0c80c4f3f3e624dac9612800b4aed0b.jpg",
-      "year": 2015,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "doraemon-new-nobita-s-gr-2014-ea66a7a3",
-      "source": "phimapi",
-      "slug": "doraemon-nobita-tham-hiem-vung-dat-moi-peko-va-5-nha-tham-hiem",
-      "name": "Doraemon: Nobita Thám Hiểm Vùng Đất Mới – Peko và 5 Nhà Thám Hiểm",
-      "originName": "Doraemon: New Nobita's Great Demon - Peko and the Exploration Party of Five",
-      "posterUrl": "https://phimimg.com/upload/vod/20250521-1/30dcd868d7e50763178bfbf9c9018141.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250521-1/365e9c2d4e292008b4091e5465749217.jpg",
-      "year": 2014,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "the-originals-season-2-2014-83404b21",
-      "source": "phimapi",
-      "slug": "ma-ca-rong-nguyen-thuy-phan-2",
-      "name": "Ma Cà Rồng Nguyên Thủy (Phần 2)",
-      "originName": "The Originals (Season 2)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251102-1/1b10a3edd3d06f3afede40e55887c606.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251102-1/9d002f47dd903dde06259dbac1345ec4.jpg",
-      "year": 2014,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (22/22)",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-originals-season-1-2013-bacbc243",
-      "source": "phimapi",
-      "slug": "ma-ca-rong-nguyen-thuy-phan-1",
-      "name": "Ma Cà Rồng Nguyên Thủy (Phần 1)",
-      "originName": "The Originals (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251102-1/b1fd59fb4c6384ff924d2012ff250e75.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251102-1/1297b833c990b03fec3ea52d3400d890.jpg",
-      "year": 2013,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (22/22)",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "dragon-ball-z-kai-2009-7235bb79",
-      "source": "phimapi",
-      "slug": "bay-vien-ngoc-rong-z-kai",
-      "name": "Bảy Viên Ngọc Rồng Z Kai",
-      "originName": "Dragon Ball Z Kai",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260726/bay-vien-ngoc-rong-z-kai-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260726/bay-vien-ngoc-rong-z-kai-thumb.webp",
+      "slug": "bay-vien-ngoc-rong-z-kai-chuong-cuoi",
+      "name": "Bảy Viên Ngọc Rồng Z Kai Chương Cuối",
+      "originName": "Dragon Ball Z Kai: The Final Chapters",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260810/bay-vien-ngoc-rong-z-kai-chuong-cuoi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260810/bay-vien-ngoc-rong-z-kai-chuong-cuoi-thumb.webp",
       "year": 2009,
       "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (167/167)",
+      "episodeCurrent": "Hoàn Tất (69/69)",
       "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "yu-gi-oh-gx-2004-00c6661c",
+      "source": "phimapi",
+      "slug": "yu-gi-oh-gx",
+      "name": "Yu-Gi-Oh! GX",
+      "originName": "Yu-Gi-Oh! GX",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260814/yu-gi-oh-gx-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260814/yu-gi-oh-gx-thumb.webp",
+      "year": 2004,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (180/180)",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
@@ -781,186 +535,26 @@
           "slug": "hanh-dong"
         },
         {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
         },
         {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
         },
         {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
         }
       ],
       "countries": [
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "detective-conan-the-phan-2002-09d60080",
-      "source": "phimapi",
-      "slug": "tham-tu-lung-danh-conan-bong-ma-duong-baker",
-      "name": "Thám Tử Lừng Danh Conan: Bóng Ma Đường Baker",
-      "originName": "Detective Conan: The Phantom of Baker Street",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260729/tham-tu-lung-danh-conan-bong-ma-duong-baker-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260729/tham-tu-lung-danh-conan-bong-ma-duong-baker-thumb.webp",
-      "year": 2002,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "the-x-files-season-9-2001-84e0774f",
-      "source": "phimapi",
-      "slug": "ho-so-tuyet-mat-phan-9",
-      "name": "Hồ Sơ Tuyệt Mật (Phần 9)",
-      "originName": "The X-Files (Season 9)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-9-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-9-thumb.webp",
-      "year": 2001,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (20/20)",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-x-files-season-8-2000-48e0df39",
-      "source": "phimapi",
-      "slug": "ho-so-tuyet-mat-phan-8",
-      "name": "Hồ Sơ Tuyệt Mật (Phần 8)",
-      "originName": "The X-Files (Season 8)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-8-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-8-thumb.webp",
-      "year": 2000,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (21/21)",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-x-files-season-7-1999-2882e0a6",
-      "source": "phimapi",
-      "slug": "ho-so-tuyet-mat-phan-7",
-      "name": "Hồ Sơ Tuyệt Mật (Phần 7)",
-      "originName": "The X-Files (Season 7)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-7-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/ho-so-tuyet-mat-phan-7-thumb.webp",
-      "year": 1999,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (22/22)",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     }

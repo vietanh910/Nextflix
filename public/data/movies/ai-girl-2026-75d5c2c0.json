@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260702-1/88140f84f7bde451cb436d2693f74efb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (7/7)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -87,6 +87,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260805/8tbsOuR4/index.m3u8"
     },
     {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260812/FU9TmmDp/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260812/FU9TmmDp/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -129,7 +137,7 @@
     {
       "source": "phimapi",
       "slug": "ban-gai-nguoi-may",
-      "episodeCount": 6,
+      "episodeCount": 7,
       "priority": 1
     }
   ],

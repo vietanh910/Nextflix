@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Hành Động",
@@ -99,6 +99,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260805/tjG5zX4P/index.m3u8"
     },
     {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260812/eOWWDnej/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260812/eOWWDnej/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -149,7 +157,7 @@
     {
       "source": "phimapi",
       "slug": "ke-mang-cap-999-tu-lang-que-dan-lang-cap-999",
-      "episodeCount": 7,
+      "episodeCount": 8,
       "priority": 1
     }
   ],

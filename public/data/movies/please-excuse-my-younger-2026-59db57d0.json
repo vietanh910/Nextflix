@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 7",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -83,6 +83,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260808/DL9Xme7O/index.m3u8"
     },
     {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260814/gfTTTqRx/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260814/gfTTTqRx/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -117,7 +125,7 @@
     {
       "source": "phimapi",
       "slug": "xin-hay-thu-loi-cho-cac-em-trai-cua-toi",
-      "episodeCount": 6,
+      "episodeCount": 7,
       "priority": 1
     }
   ],

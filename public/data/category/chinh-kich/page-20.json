@@ -2,17 +2,58 @@
   "slug": "chinh-kich",
   "name": "Chính kịch",
   "page": 20,
-  "totalPages": 22,
+  "totalPages": 23,
   "items": [
     {
-      "id": "seduced-2016-15571229",
+      "id": "strong-woman-do-bong-soo-2017-6a46279a",
       "source": "phimapi",
-      "slug": "cam-do-chet-nguoi-2016",
-      "name": "Cám Dỗ Chết Người",
-      "originName": "Seduced",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260725/cam-do-chet-nguoi-2016-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260725/cam-do-chet-nguoi-2016-thumb.webp",
-      "year": 2016,
+      "slug": "co-nang-manh-me-do-bong-soon",
+      "name": "Cô Nàng Mạnh Mẽ Do Bong Soon",
+      "originName": "Strong Woman Do Bong-Soon",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260810/co-nang-manh-me-do-bong-soon-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260810/co-nang-manh-me-do-bong-soon-thumb.webp",
+      "year": 2017,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (16/16)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "novitiate-2017-8162f065",
+      "source": "phimapi",
+      "slug": "nu-tu-noi-loan",
+      "name": "Nữ Tu Nổi Loạn",
+      "originName": "Novitiate",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260801/nu-tu-noi-loan-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260801/nu-tu-noi-loan-thumb.webp",
+      "year": 2017,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
@@ -24,10 +65,6 @@
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        },
-        {
-          "name": "TV Shows",
-          "slug": "tv-shows"
         }
       ],
       "countries": [
@@ -38,29 +75,33 @@
       ]
     },
     {
-      "id": "marvel-s-luke-cage-seaso-2016-05c5b18b",
+      "id": "akashic-records-of-basta-2017-660e7cfe",
       "source": "phimapi",
-      "slug": "marvels-luke-cage-phan-1",
-      "name": "Marvel's Luke Cage (Phần 1)",
-      "originName": "Marvel's Luke Cage (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260730/marvels-luke-cage-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/marvels-luke-cage-phan-1-thumb.webp",
-      "year": 2016,
-      "type": "series",
+      "slug": "ong-thay-vi-dieu",
+      "name": "Ông Thầy Vi Diệu",
+      "originName": "Akashic Records Of Bastard Magic Instructor",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260802/ong-thay-vi-dieu-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260802/ong-thay-vi-dieu-thumb.webp",
+      "year": 2017,
+      "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
+      "episodeCurrent": "Hoàn Tất (12/12)",
       "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
           "name": "Hành Động",
           "slug": "hanh-dong"
         },
         {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
         },
         {
           "name": "Phiêu Lưu",
@@ -69,6 +110,142 @@
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "chicago-p-d-season-5-2017-f9fb2cf0",
+      "source": "phimapi",
+      "slug": "so-canh-sat-chicago-phan-5",
+      "name": "Sở Cảnh Sát Chicago (Phần 5)",
+      "originName": "Chicago P.D. (Season 5)",
+      "posterUrl": "https://phimimg.com/upload/vod/20240608-1/e4b4b8099dcabd264bb9279be1efdec9.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240608-1/7145ca28873d44284ac0ca622c37ecc3.jpg",
+      "year": 2017,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (22/22)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "fight-for-my-way-2017-96675b92",
+      "source": "phimapi",
+      "slug": "thanh-xuan-vat-va-chay-mai-uoc-mo",
+      "name": "Thanh Xuân Vật Vã (Cháy Mãi Ước Mơ)",
+      "originName": "Fight For My Way",
+      "posterUrl": "https://phimimg.com/upload/vod/20240901-1/59a719ee519a786240f34e31d6bc008e.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240901-1/1b2ff2d6a3af3d0136972af495f12611.jpg",
+      "year": 2017,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (16/16)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "fleabag-season-1-2016-e0e1f884",
+      "source": "phimapi",
+      "slug": "fleabag-phan-1",
+      "name": "Fleabag (Phần 1)",
+      "originName": "Fleabag (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260811/fleabag-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260811/fleabag-phan-1-thumb.webp",
+      "year": 2016,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (6/6)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "don-t-breathe-2016-3a36d342",
+      "source": "phimapi",
+      "slug": "sat-nhan-trong-bong-toi",
+      "name": "Sát Nhân Trong Bóng Tối",
+      "originName": "Don't Breathe",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260809/sat-nhan-trong-bong-toi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260809/sat-nhan-trong-bong-toi-thumb.webp",
+      "year": 2016,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
@@ -108,25 +285,25 @@
       ]
     },
     {
-      "id": "the-kid-from-the-big-app-2016-5d562eeb",
+      "id": "10-000-miles-2016-a3db93bb",
       "source": "phimapi",
-      "slug": "toi-den-tu-new-york",
-      "name": "Tôi Đến Từ New York",
-      "originName": "The Kid From The Big Apple",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260721/toi-den-tu-new-york-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260721/toi-den-tu-new-york-thumb.webp",
+      "slug": "van-dam-hen-uoc",
+      "name": "Vạn Dặm Hẹn Ước",
+      "originName": "10,000 Miles",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260813/van-dam-hen-uoc-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260813/van-dam-hen-uoc-thumb.webp",
       "year": 2016,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
         },
         {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Tâm Lý",
@@ -135,16 +312,53 @@
       ],
       "countries": [
         {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
           "name": "Hồng Kông",
           "slug": "hong-kong"
         },
         {
-          "name": "Malaysia",
-          "slug": "malaysia"
+          "name": "Đài Loan",
+          "slug": "dai-loan"
+        }
+      ]
+    },
+    {
+      "id": "guardian-the-lonely-and--2016-26a248ae",
+      "source": "phimapi",
+      "slug": "yeu-tinh-goblin",
+      "name": "Yêu Tinh (Goblin)",
+      "originName": "(Guardian: The Lonely and Great God)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260811/yeu-tinh-goblin-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260811/yeu-tinh-goblin-thumb.webp",
+      "year": 2016,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (16/16)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
-          "name": "Singapore",
-          "slug": "singapore"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
@@ -165,39 +379,6 @@
           "name": "Chiến Tranh",
           "slug": "chien-tranh"
         },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "ban-shu-legend-2015-1b9fb286",
-      "source": "phimapi",
-      "slug": "ban-thuc-truyen-ky",
-      "name": "Ban Thục Truyền Kỳ",
-      "originName": "Ban Shu Legend",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260730/ban-thuc-truyen-ky-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/ban-thuc-truyen-ky-thumb.webp",
-      "year": 2015,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (42/42)",
-      "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
@@ -285,76 +466,6 @@
       ]
     },
     {
-      "id": "the-originals-season-3-2015-e9451f9d",
-      "source": "phimapi",
-      "slug": "ma-ca-rong-nguyen-thuy-phan-3",
-      "name": "Ma Cà Rồng Nguyên Thủy (Phần 3)",
-      "originName": "The Originals (Season 3)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251102-1/2ae285d6f92a68b2f34a16e20fbfa420.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251102-1/6a19caff5643c7ae62553275317eb0db.jpg",
-      "year": 2015,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (22/22)",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "i-have-a-lover-2015-2b81235c",
-      "source": "phimapi",
-      "slug": "nguoi-tinh-cua-toi",
-      "name": "Người Tình Của Tôi",
-      "originName": "I Have A Lover",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260727/nguoi-tinh-cua-toi-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260727/nguoi-tinh-cua-toi-thumb.webp",
-      "year": 2015,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (50/50)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
       "id": "the-lady-in-the-van-2015-4d40a1a7",
       "source": "phimapi",
       "slug": "quy-ba-mary-shepherd-cu-ba-tren-xe-thung",
@@ -417,76 +528,39 @@
       ]
     },
     {
-      "id": "love-yunge-from-the-dese-2015-9cca334a",
+      "id": "pinocchio-2014-f442f4d5",
       "source": "phimapi",
-      "slug": "van-trung-ca",
-      "name": "Vân Trung Ca",
-      "originName": "Love Yunge From The Desert",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260730/van-trung-ca-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/van-trung-ca-thumb.webp",
-      "year": 2015,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (45/45)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "the-wife-s-secret-2014-eee676a9",
-      "source": "phimapi",
-      "slug": "bi-mat-cua-nguoi-vo-2014",
-      "name": "Bí Mật Của Người Vợ",
-      "originName": "The Wife's Secret",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260730/bi-mat-cua-nguoi-vo-2014-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/bi-mat-cua-nguoi-vo-2014-thumb.webp",
+      "slug": "cap-doi-trai-nguoc",
+      "name": "Cặp Đôi Trái Ngược",
+      "originName": "Pinocchio",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260809/cap-doi-trai-nguoc-poster-2.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260809/cap-doi-trai-nguoc-thumb.webp",
       "year": 2014,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (54/54)",
+      "episodeCurrent": "Hoàn Tất (20/20)",
       "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
         },
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
         }
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
@@ -553,47 +627,6 @@
         {
           "name": "Anh",
           "slug": "anh"
-        }
-      ]
-    },
-    {
-      "id": "the-originals-season-2-2014-83404b21",
-      "source": "phimapi",
-      "slug": "ma-ca-rong-nguyen-thuy-phan-2",
-      "name": "Ma Cà Rồng Nguyên Thủy (Phần 2)",
-      "originName": "The Originals (Season 2)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251102-1/1b10a3edd3d06f3afede40e55887c606.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251102-1/9d002f47dd903dde06259dbac1345ec4.jpg",
-      "year": 2014,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (22/22)",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     },
@@ -792,39 +825,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "empire-state-2013-a29a49fa",
-      "source": "ophim",
-      "slug": "empire-state",
-      "name": "Empire State",
-      "originName": "Empire State",
-      "posterUrl": "empire-state-poster.jpg",
-      "thumbUrl": "empire-state-thumb.jpg",
-      "year": 2013,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Anh",
-          "slug": "anh"
         }
       ]
     }

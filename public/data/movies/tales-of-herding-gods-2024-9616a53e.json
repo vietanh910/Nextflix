@@ -9,7 +9,7 @@
   "year": 2024,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 94",
+  "episodeCurrent": "Tập 95",
   "categories": [
     {
       "name": "Phiêu Lưu",
@@ -783,6 +783,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260802/tPHMWXTd/index.m3u8"
     },
     {
+      "name": "Tập 95",
+      "slug": "tap-95",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260809/pAbjGCi1/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260809/pAbjGCi1/index.m3u8"
+    },
+    {
       "name": "Tập 1",
       "slug": "tap-1",
       "serverName": "Thuyết Minh",
@@ -1515,7 +1523,7 @@
     {
       "source": "phimapi",
       "slug": "muc-than-ky",
-      "episodeCount": 185,
+      "episodeCount": 186,
       "priority": 1
     }
   ],

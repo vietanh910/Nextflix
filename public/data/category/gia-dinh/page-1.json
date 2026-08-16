@@ -240,39 +240,6 @@
       ]
     },
     {
-      "id": "minions-monsters-2026-e0b1b9bd",
-      "source": "ophim",
-      "slug": "minions-and-quai-vat",
-      "name": "Minions & Quái Vật",
-      "originName": "Minions & Monsters",
-      "posterUrl": "minions-and-quai-vat-poster.jpg",
-      "thumbUrl": "minions-and-quai-vat-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "our-happy-days-2026-90db6740",
       "source": "ophim",
       "slug": "nhung-ngay-hanh-phuc-cua-chung-ta",
@@ -376,6 +343,68 @@
       ]
     },
     {
+      "id": "xiao-fang-2026-2ba92c45",
+      "source": "ophim",
+      "slug": "tieu-phuong",
+      "name": "Tiểu Phương",
+      "originName": "Xiao Fang",
+      "posterUrl": "tieu-phuong-poster.jpg",
+      "thumbUrl": "tieu-phuong-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 9",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-father-s-wedding-ord-2026-7a3191c4",
+      "source": "phimapi",
+      "slug": "cuoi-vo-cho-cha",
+      "name": "Cưới Vợ Cho Cha",
+      "originName": "The Father's Wedding Orders! / Father Of The Groom",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260712/cuoi-vo-cho-cha-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260811/cuoi-vo-cho-cha-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Việt Nam",
+          "slug": "viet-nam"
+        }
+      ]
+    },
+    {
       "id": "bid-coin-chef-2026-e669ce30",
       "source": "phimapi",
       "slug": "dau-bep-dau-gia",
@@ -386,7 +415,7 @@
       "year": 2026,
       "type": "tvshow",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -487,15 +516,56 @@
       ]
     },
     {
-      "id": "the-breadwinner-2026-66c64a80",
+      "id": "minions-monsters-2026-6645b0b0",
       "source": "phimapi",
-      "slug": "khi-bo-that-thu",
-      "name": "Khi Bố Thất Thủ",
-      "originName": "The Breadwinner",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260730/khi-bo-that-thu-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/khi-bo-that-thu-thumb.webp",
+      "slug": "minions-quai-vat",
+      "name": "Minions & Quái Vật",
+      "originName": "Minions & Monsters",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260811/minions-quai-vat-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260811/minions-quai-vat-thumb.webp",
       "year": 2026,
-      "type": "single",
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-super-mario-galaxy-m-2026-406ecb14",
+      "source": "phimapi",
+      "slug": "phim-super-mario-thien-ha",
+      "name": "Phim Super Mario Thiên Hà",
+      "originName": "The Super Mario Galaxy Movie",
+      "posterUrl": "https://phimimg.com/upload/vod/20260508-1/6bf821d68045c5310a192c5244992ac0.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260508-1/b9482988285cb67c118bc092404d804a.jpg",
+      "year": 2026,
+      "type": "anime",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
@@ -508,14 +578,55 @@
           "slug": "hai-huoc"
         },
         {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "this-that-and-everything-2026-ae45a3ad",
+      "source": "phimapi",
+      "slug": "rac-roi-nay-kia-ganito-ganyan-ganoon",
+      "name": "Rắc Rối Này Kia / Ganito, Ganyan, Ganoon",
+      "originName": "This, That, and Everything in Between",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260814/rac-roi-nay-kia-ganito-ganyan-ganoon-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260814/rac-roi-nay-kia-ganito-ganyan-ganoon-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
           "name": "Tâm Lý",
           "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Philippines",
+          "slug": "philippines"
         }
       ]
     },
@@ -553,50 +664,17 @@
       ]
     },
     {
-      "id": "stokes-twins-2026-8af21d3c",
+      "id": "my-brilliant-career-2026-e5f985f7",
       "source": "phimapi",
-      "slug": "stokes-twins",
-      "name": "Stokes Twins",
-      "originName": "Stokes Twins",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260726/stokes-twins-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260726/stokes-twins-thumb.webp",
+      "slug": "su-nghiep-ruc-ro-cua-toi",
+      "name": "Sự Nghiệp Rực Rỡ Của Tôi",
+      "originName": "My Brilliant Career",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260813/su-nghiep-ruc-ro-cua-toi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260813/su-nghiep-ruc-ro-cua-toi-thumb.webp",
       "year": 2026,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
-      "categories": [
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "xiao-fang-2026-6f429d1b",
-      "source": "phimapi",
-      "slug": "tieu-phuong",
-      "name": "Tiểu Phương",
-      "originName": "Xiao Fang",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260714/tieu-phuong-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260714/tieu-phuong-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (18/18)",
+      "episodeCurrent": "Hoàn Tất (6/6)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -613,8 +691,8 @@
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Úc",
+          "slug": "uc"
         }
       ]
     },
@@ -759,68 +837,6 @@
         {
           "name": "Malaysia",
           "slug": "malaysia"
-        }
-      ]
-    },
-    {
-      "id": "bound-by-fate-2025-e3eec953",
-      "source": "ophim",
-      "slug": "ranh-gioi-dinh-menh",
-      "name": "Ranh Giới Định Mệnh",
-      "originName": "Bound by Fate",
-      "posterUrl": "ranh-gioi-dinh-menh-poster.jpg",
-      "thumbUrl": "ranh-gioi-dinh-menh-thumb.jpg",
-      "year": 2025,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 50",
-      "categories": [
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thổ Nhĩ Kỳ",
-          "slug": "tho-nhi-ky"
-        }
-      ]
-    },
-    {
-      "id": "i-am-frankelda-2025-b2ede385",
-      "source": "ophim",
-      "slug": "toi-la-frankelda",
-      "name": "Tôi là Frankelda",
-      "originName": "I Am Frankelda",
-      "posterUrl": "toi-la-frankelda-poster.jpg",
-      "thumbUrl": "toi-la-frankelda-thumb.jpg",
-      "year": 2025,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (1/1)",
-      "categories": [
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Mexico",
-          "slug": "mexico"
         }
       ]
     }

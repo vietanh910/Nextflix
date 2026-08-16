@@ -5,25 +5,29 @@
   "totalPages": 16,
   "items": [
     {
-      "id": "the-good-boss-2021-4401ff1f",
+      "id": "and-tomorrow-the-entire--2021-c1c96411",
       "source": "phimapi",
-      "slug": "sep-vang-sep-bac-el-buen-patron",
-      "name": "Sếp Vàng Sếp Bạc/ El buen patrón",
-      "originName": "The Good Boss",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260801/sep-vang-sep-bac-el-buen-patron-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260801/sep-vang-sep-bac-el-buen-patron-thumb.webp",
+      "slug": "va-ngay-mai-ca-the-gioi",
+      "name": "Và Ngày Mai, Cả Thế Giới",
+      "originName": "And Tomorrow The Entire World / Und morgen die ganze Welt",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260815/va-ngay-mai-ca-the-gioi-und-morgen-die-ganze-welt-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260815/va-ngay-mai-ca-the-gioi-und-morgen-die-ganze-welt-thumb.webp",
       "year": 2021,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
         },
         {
           "name": "Tâm Lý",
@@ -32,8 +36,57 @@
       ],
       "countries": [
         {
-          "name": "Tây Ban Nha",
-          "slug": "tay-ban-nha"
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Đức",
+          "slug": "duc"
+        }
+      ]
+    },
+    {
+      "id": "miraculous-tales-of-lady-2021-b475e758",
+      "source": "phimapi",
+      "slug": "vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-4",
+      "name": "Viên Ngọc Thần Chuyện Về Bọ Rùa Và Mèo Mun (Phần 4)",
+      "originName": "Miraculous Tales Of Ladybug & Cat Noir (Season 4)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-4-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-4-thumb.webp",
+      "year": 2021,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
@@ -112,18 +165,22 @@
       ]
     },
     {
-      "id": "patriot-act-with-hasan-m-2020-e837649c",
+      "id": "ted-lasso-season-1-2020-b39de453",
       "source": "phimapi",
-      "slug": "dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-6",
-      "name": "Đạo Luật Yêu Nước Với Hasan Minhaj (Phần 6)",
-      "originName": "Patriot Act With Hasan Minhaj (Season 6)",
-      "posterUrl": "https://phimimg.com/upload/vod/20231207-1/fcc89b587082a0a1df362a08b3c1bc21.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20231207-1/1aacb303dce6e6e70b9883c57db9a1a3.jpg",
+      "slug": "huan-luyen-vien-ted-lasso-phan-1",
+      "name": "Huấn Luyện Viên Ted Lasso (Phần 1)",
+      "originName": "Ted Lasso (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20250812-1/2c58a16a46085121a25b7431bd4d9355.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250812-1/5854021f914f00224905b22fa616e097.jpg",
       "year": 2020,
-      "type": "tvshow",
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
+      "episodeCurrent": "Hoàn Tất (10/10)",
       "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
@@ -137,6 +194,47 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "tragic-jungle-2020-2d84ddb3",
+      "source": "phimapi",
+      "slug": "khu-rung-bi-tham",
+      "name": "Khu Rừng Bi Thảm",
+      "originName": "Tragic Jungle",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260815/khu-rung-bi-tham-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260815/khu-rung-bi-tham-thumb.webp",
+      "year": 2020,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Colombia",
+          "slug": "colombia"
+        },
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Mexico",
+          "slug": "mexico"
         }
       ]
     },
@@ -215,6 +313,43 @@
       ]
     },
     {
+      "id": "godfather-of-harlem-seas-2019-8a3a9955",
+      "source": "phimapi",
+      "slug": "bo-gia-vung-harlem-phan-1",
+      "name": "Bố Già Vùng Harlem (Phần 1)",
+      "originName": "Godfather Of Harlem (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20250308-1/889a1f5ff47531da2bca20c1a2fdfb42.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250308-1/10fd97dfa2fcf0367b8e6719428ed44d.jpg",
+      "year": 2019,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "crocodile-and-the-plover-2019-bc7f82e7",
       "source": "phimapi",
       "slug": "ca-sau-va-chim-tam",
@@ -281,13 +416,13 @@
       ]
     },
     {
-      "id": "patriot-act-with-hasan-m-2019-35afbcce",
+      "id": "fleabag-season-2-2019-0e4a7c3d",
       "source": "phimapi",
-      "slug": "dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-2",
-      "name": "Đạo Luật Yêu Nước Với Hasan Minhaj (Phần 2)",
-      "originName": "Patriot Act With Hasan Minhaj (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260726/dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260726/dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-2-thumb.webp",
+      "slug": "fleabag-phan-2",
+      "name": "Fleabag (Phần 2)",
+      "originName": "Fleabag (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260811/fleabag-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260811/fleabag-phan-2-thumb.webp",
       "year": 2019,
       "type": "series",
       "status": "completed",
@@ -298,51 +433,18 @@
           "slug": "hai-huoc"
         },
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Talk",
-          "slug": "talk"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "patriot-act-with-hasan-m-2019-5d20804a",
-      "source": "phimapi",
-      "slug": "dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-4",
-      "name": "Đạo Luật Yêu Nước Với Hasan Minhaj (Phần 4)",
-      "originName": "Patriot Act With Hasan Minhaj (Season 4)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260726/dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-4-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260726/dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-4-thumb.webp",
-      "year": 2019,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (6/6)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        },
-        {
-          "name": "Talk",
-          "slug": "talk"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Anh",
+          "slug": "anh"
         }
       ]
     },
@@ -380,6 +482,39 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "parasite-2019-7a40bc33",
+      "source": "phimapi",
+      "slug": "ky-sinh-trung",
+      "name": "Ký Sinh Trùng",
+      "originName": "Parasite",
+      "posterUrl": "https://phimimg.com/upload/vod/20250223-1/43b06a10df87b9f14097b5f5212510a8.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250223-1/197144573d8adb78f386f0ab58682903.jpg",
+      "year": 2019,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
@@ -528,13 +663,13 @@
       ]
     },
     {
-      "id": "tom-clancy-s-jack-ryan-s-2019-192c91bd",
+      "id": "glow-up-britain-s-next-m-2019-854bc5f4",
       "source": "phimapi",
-      "slug": "sieu-diep-vien-phan-2",
-      "name": "Siêu Điệp Viên (Phần 2)",
-      "originName": "Tom Clancy's Jack Ryan (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260730/sieu-diep-vien-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/sieu-diep-vien-phan-2-thumb.webp",
+      "slug": "phu-thuy-trang-diem-phan-1",
+      "name": "Phù Thủy Trang Điểm (Phần 1)",
+      "originName": "Glow Up: Britain's Next Make-Up Star (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260814/phu-thuy-trang-diem-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260814/phu-thuy-trang-diem-phan-1-thumb.webp",
       "year": 2019,
       "type": "series",
       "status": "completed",
@@ -545,22 +680,14 @@
           "slug": "chinh-kich"
         },
         {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
           "name": "Tâm Lý",
           "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Anh",
+          "slug": "anh"
         }
       ]
     },
@@ -598,25 +725,21 @@
       ]
     },
     {
-      "id": "love-better-than-immorta-2019-de3c57be",
+      "id": "waiting-for-you-in-the-f-2019-c8fdb046",
       "source": "phimapi",
-      "slug": "xuan-hoa-thu-nguyet",
-      "name": "Xuân Hoa Thu Nguyệt",
-      "originName": "Love Better Than Immortality",
-      "posterUrl": "https://phimimg.com/upload/vod/20250608-1/b318dc0a4802284e0c453e10e89ca8b0.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250608-1/3ed575c506fa029ad234a5e53abd50da.jpg",
+      "slug": "toi-doi-cau-o-tuong-lai",
+      "name": "Tôi Đợi Cậu Ở Tương Lai",
+      "originName": "Waiting For You In The Future",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260811/toi-doi-cau-o-tuong-lai-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260811/toi-doi-cau-o-tuong-lai-thumb.webp",
       "year": 2019,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (40/40)",
+      "episodeCurrent": "Hoàn Tất (36/36)",
       "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
-        },
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
         },
         {
           "name": "Hài Hước",
@@ -625,10 +748,6 @@
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
         }
       ],
       "countries": [
@@ -639,32 +758,44 @@
       ]
     },
     {
-      "id": "love-in-sadness-2019-b707ee63",
+      "id": "miraculous-tales-of-lady-2019-7afad413",
       "source": "phimapi",
-      "slug": "yeu-trong-dau-thuong",
-      "name": "Yêu Trong Đau Thương",
-      "originName": "Love In Sadness",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260727/yeu-trong-dau-thuong-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260727/yeu-trong-dau-thuong-thumb.webp",
+      "slug": "vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-3",
+      "name": "Viên Ngọc Thần Chuyện Về Bọ Rùa Và Mèo Mun (Phần 3)",
+      "originName": "Miraculous Tales Of Ladybug & Cat Noir (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-3-thumb.webp",
       "year": 2019,
-      "type": "series",
+      "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (40/40)",
+      "episodeCurrent": "Hoàn Tất (13/13)",
       "categories": [
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
         },
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
         }
       ],
       "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        },
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
@@ -728,113 +859,6 @@
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "ladies-in-black-2018-c724ad38",
-      "source": "phimapi",
-      "slug": "cac-quy-co-mac-do-den",
-      "name": "Các Quý Cô Mặc Đồ Đen",
-      "originName": "Ladies In Black",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260801/cac-quy-co-mac-do-den-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260801/cac-quy-co-mac-do-den-thumb.webp",
-      "year": 2018,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Úc",
-          "slug": "uc"
-        }
-      ]
-    },
-    {
-      "id": "the-leisure-seeker-2018-1e34cf15",
-      "source": "phimapi",
-      "slug": "chuyen-di-cuoi-cung-2017",
-      "name": "Chuyến Đi Cuối Cùng",
-      "originName": "The Leisure Seeker",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260801/chuyen-di-cuoi-cung-2017-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260801/chuyen-di-cuoi-cung-2017-thumb.webp",
-      "year": 2018,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Pháp",
-          "slug": "phap"
-        },
-        {
-          "name": "Ý",
-          "slug": "y"
-        }
-      ]
-    },
-    {
-      "id": "patriot-act-with-hasan-m-2018-3e3124a6",
-      "source": "phimapi",
-      "slug": "dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-1",
-      "name": "Đạo Luật Yêu Nước Với Hasan Minhaj (Phần 1)",
-      "originName": "Patriot Act With Hasan Minhaj (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260726/dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260726/dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-1-thumb.webp",
-      "year": 2018,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (7/7)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Talk",
-          "slug": "talk"
         }
       ],
       "countries": [

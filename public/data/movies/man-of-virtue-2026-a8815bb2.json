@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 10",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -77,13 +77,53 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260807/r74KiY83/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260807/r74KiY83/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260810/VYZzQvSj/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260810/VYZzQvSj/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260811/UW1kJpBk/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260811/UW1kJpBk/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260813/r2Y76hhn/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260813/r2Y76hhn/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260813/P2rmjhxy/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260813/P2rmjhxy/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260814/KfFxcZPV/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260814/KfFxcZPV/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "luang-pho-trong-sach",
-      "episodeCount": 5,
+      "episodeCount": 10,
       "priority": 1
     }
   ],

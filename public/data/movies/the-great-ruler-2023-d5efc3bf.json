@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
   "year": 2023,
   "type": "anime",
-  "status": "completed",
-  "episodeCurrent": "Tập 85",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 86",
   "categories": [
     {
       "name": "Hành Động",
@@ -721,13 +721,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260807/OFVuxi8z/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260807/OFVuxi8z/index.m3u8"
+    },
+    {
+      "name": "Tập 86",
+      "slug": "tap-86",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260814/poPzNSDj/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260814/poPzNSDj/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "dai-chua-te-3d",
-      "episodeCount": 85,
+      "episodeCount": 86,
       "priority": 1
     }
   ],

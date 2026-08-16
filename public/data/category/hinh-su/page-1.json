@@ -2,7 +2,7 @@
   "slug": "hinh-su",
   "name": "Hình Sự",
   "page": 1,
-  "totalPages": 5,
+  "totalPages": 4,
   "items": [
     {
       "id": "movie-2026-55c4d1ef",
@@ -340,6 +340,43 @@
         {
           "name": "Hồng Kông",
           "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "agent-kim-reactivated-2026-72ad79cb",
+      "source": "ophim",
+      "slug": "dac-vu-kim-tai-khoi-dong",
+      "name": "Đặc Vụ Kim Tái Khởi Động",
+      "originName": "Agent Kim Reactivated",
+      "posterUrl": "dac-vu-kim-tai-khoi-dong-poster.jpg",
+      "thumbUrl": "dac-vu-kim-tai-khoi-dong-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (10/10)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
@@ -720,35 +757,6 @@
         {
           "name": "Pháp",
           "slug": "phap"
-        }
-      ]
-    },
-    {
-      "id": "the-murder-puzzle-2026-c57a0936",
-      "source": "ophim",
-      "slug": "manh-ghep-bi-an",
-      "name": "Mảnh Ghép Bí Ẩn",
-      "originName": "The Murder Puzzle",
-      "posterUrl": "manh-ghep-bi-an-poster.jpg",
-      "thumbUrl": "manh-ghep-bi-an-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 24",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
         }
       ]
     }

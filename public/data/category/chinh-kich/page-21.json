@@ -2,8 +2,41 @@
   "slug": "chinh-kich",
   "name": "Chính kịch",
   "page": 21,
-  "totalPages": 22,
+  "totalPages": 23,
   "items": [
+    {
+      "id": "empire-state-2013-a29a49fa",
+      "source": "ophim",
+      "slug": "empire-state",
+      "name": "Empire State",
+      "originName": "Empire State",
+      "posterUrl": "empire-state-poster.jpg",
+      "thumbUrl": "empire-state-thumb.jpg",
+      "year": 2013,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
     {
       "id": "southland-season-5-2013-770d3414",
       "source": "ophim",
@@ -59,47 +92,6 @@
         {
           "name": "Anh",
           "slug": "anh"
-        }
-      ]
-    },
-    {
-      "id": "the-originals-season-1-2013-bacbc243",
-      "source": "phimapi",
-      "slug": "ma-ca-rong-nguyen-thuy-phan-1",
-      "name": "Ma Cà Rồng Nguyên Thủy (Phần 1)",
-      "originName": "The Originals (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251102-1/b1fd59fb4c6384ff924d2012ff250e75.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251102-1/1297b833c990b03fec3ea52d3400d890.jpg",
-      "year": 2013,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (22/22)",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     },
@@ -191,6 +183,76 @@
       ]
     },
     {
+      "id": "icarly-season-6-2012-5de92a92",
+      "source": "phimapi",
+      "slug": "co-be-internet-carly-phan-6",
+      "name": "Cô Bé Internet Carly (Phần 6)",
+      "originName": "iCarly (Season 6)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260816/co-be-internet-carly-phan-6-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260816/co-be-internet-carly-phan-6-thumb.webp",
+      "year": 2012,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "gossip-girl-season-6-2012-1d9c761c",
+      "source": "phimapi",
+      "slug": "hoi-ba-tam-co-nang-lam-chuyen-phan-6",
+      "name": "Hội Bà Tám / Cô Nàng Lắm Chuyện (Phần 6)",
+      "originName": "Gossip Girl (Season 6)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260816/hoi-ba-tam-co-nang-lam-chuyen-phan-6-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260816/hoi-ba-tam-co-nang-lam-chuyen-phan-6-thumb.webp",
+      "year": 2012,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "smashed-2012-3eca182e",
       "source": "phimapi",
       "slug": "sau-con-say-dap-tan",
@@ -253,6 +315,76 @@
       ]
     },
     {
+      "id": "icarly-season-5-2011-5ff33fce",
+      "source": "phimapi",
+      "slug": "co-be-internet-carly-phan-5",
+      "name": "Cô Bé Internet Carly (Phần 5)",
+      "originName": "iCarly (Season 5)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260816/co-be-internet-carly-phan-5-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260816/co-be-internet-carly-phan-5-thumb.webp",
+      "year": 2011,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (11/11)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "gossip-girl-season-5-2011-14b2debb",
+      "source": "phimapi",
+      "slug": "hoi-ba-tam-co-nang-lam-chuyen-phan-5",
+      "name": "Hội Bà Tám / Cô Nàng Lắm Chuyện (Phần 5)",
+      "originName": "Gossip Girl (Season 5)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260816/hoi-ba-tam-co-nang-lam-chuyen-phan-5-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260816/hoi-ba-tam-co-nang-lam-chuyen-phan-5-thumb.webp",
+      "year": 2011,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "bedways-2010-b481f6cf",
       "source": "ophim",
       "slug": "chuyen-chan-goi",
@@ -303,6 +435,72 @@
       ]
     },
     {
+      "id": "icarly-season-4-2010-fb1c2321",
+      "source": "phimapi",
+      "slug": "co-be-internet-carly-phan-4",
+      "name": "Cô Bé Internet Carly (Phần 4)",
+      "originName": "iCarly (Season 4)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260816/co-be-internet-carly-phan-4-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260816/co-be-internet-carly-phan-4-thumb.webp",
+      "year": 2010,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "gossip-girl-season-4-2010-40da1e91",
+      "source": "phimapi",
+      "slug": "hoi-ba-tam-co-nang-lam-chuyen-phan-4",
+      "name": "Hội Bà Tám / Cô Nàng Lắm Chuyện (Phần 4)",
+      "originName": "Gossip Girl (Season 4)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260816/hoi-ba-tam-co-nang-lam-chuyen-phan-4-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260816/hoi-ba-tam-co-nang-lam-chuyen-phan-4-thumb.webp",
+      "year": 2010,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (22/22)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "running-man-2010-ca3391d1",
       "source": "phimapi",
       "slug": "thu-thach-than-tuong",
@@ -313,7 +511,7 @@
       "year": 2010,
       "type": "tvshow",
       "status": "ongoing",
-      "episodeCurrent": "Tập 814",
+      "episodeCurrent": "Tập 815",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -357,25 +555,29 @@
       ]
     },
     {
-      "id": "the-uninvited-2009-4c0b835c",
+      "id": "icarly-season-3-2009-d973a001",
       "source": "phimapi",
-      "slug": "khach-khong-moi",
-      "name": "Khách Không Mời",
-      "originName": "The Uninvited",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260731/khach-khong-moi-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260731/khach-khong-moi-thumb.webp",
+      "slug": "co-be-internet-carly-phan-3",
+      "name": "Cô Bé Internet Carly (Phần 3)",
+      "originName": "iCarly (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260816/co-be-internet-carly-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260816/co-be-internet-carly-phan-3-thumb.webp",
       "year": 2009,
-      "type": "single",
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn Tất (20/20)",
       "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
         },
         {
           "name": "Tâm Lý",
@@ -386,6 +588,105 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "gossip-girl-season-3-2009-d4fcf45e",
+      "source": "phimapi",
+      "slug": "hoi-ba-tam-co-nang-lam-chuyen-phan-3",
+      "name": "Hội Bà Tám / Cô Nàng Lắm Chuyện (Phần 3)",
+      "originName": "Gossip Girl (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260816/hoi-ba-tam-co-nang-lam-chuyen-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260816/hoi-ba-tam-co-nang-lam-chuyen-phan-3-thumb.webp",
+      "year": 2009,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (22/22)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "teke-teke-2009-d9bc25b7",
+      "source": "phimapi",
+      "slug": "hon-ma-khong-chan",
+      "name": "Hồn Ma Không Chân",
+      "originName": "Teke Teke",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260813/hon-ma-khong-chan-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260813/hon-ma-khong-chan-thumb.webp",
+      "year": 2009,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "teke-teke-2-2009-69c5546a",
+      "source": "phimapi",
+      "slug": "hon-ma-khong-chan-2",
+      "name": "Hồn Ma Không Chân 2",
+      "originName": "Teke Teke 2",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260813/hon-ma-khong-chan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260813/hon-ma-khong-chan-2-thumb.webp",
+      "year": 2009,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -415,261 +716,28 @@
       ]
     },
     {
-      "id": "justice-bao-2008-38432e38",
+      "id": "icarly-season-2-2008-dfee08dc",
       "source": "phimapi",
-      "slug": "bao-thanh-thien-2008",
-      "name": "Bao Thanh Thiên",
-      "originName": "Justice Bao",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260730/bao-thanh-thien-2008-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/bao-thanh-thien-2008-thumb.webp",
+      "slug": "co-be-internet-carly-phan-2",
+      "name": "Cô Bé Internet Carly (Phần 2)",
+      "originName": "iCarly (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260816/co-be-internet-carly-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260816/co-be-internet-carly-phan-2-thumb.webp",
       "year": 2008,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (61/61)",
+      "episodeCurrent": "Hoàn Tất (10/10)",
       "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
         {
           "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "er-season-14-2007-f54505d5",
-      "source": "ophim",
-      "slug": "er-phong-cap-cuu-phan-14",
-      "name": "ER: Phòng Cấp Cứu (Phần 14)",
-      "originName": "ER (Season 14)",
-      "posterUrl": "er-phong-cap-cuu-phan-14-poster.jpg",
-      "thumbUrl": "er-phong-cap-cuu-phan-14-thumb.jpg",
-      "year": 2007,
-      "type": "series",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "er-season-13-2006-c3513d1d",
-      "source": "ophim",
-      "slug": "er-phong-cap-cuu-phan-13",
-      "name": "ER: Phòng Cấp Cứu (Phần 13)",
-      "originName": "ER (Season 13)",
-      "posterUrl": "er-phong-cap-cuu-phan-13-poster.jpg",
-      "thumbUrl": "er-phong-cap-cuu-phan-13-thumb.jpg",
-      "year": 2006,
-      "type": "series",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-conquest-2006-877406b1",
-      "source": "ophim",
-      "slug": "song-hung-tranh-ba",
-      "name": "Song Hùng Tranh Bá",
-      "originName": "The Conquest",
-      "posterUrl": "song-hung-tranh-ba-poster.jpg",
-      "thumbUrl": "song-hung-tranh-ba-thumb.jpg",
-      "year": 2006,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (42/42)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        },
-        {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
-        }
-      ]
-    },
-    {
-      "id": "er-season-12-2005-4e1595c6",
-      "source": "ophim",
-      "slug": "er-phong-cap-cuu-phan-12",
-      "name": "ER: Phòng Cấp Cứu (Phần 12)",
-      "originName": "ER (Season 12)",
-      "posterUrl": "er-phong-cap-cuu-phan-12-poster.jpg",
-      "thumbUrl": "er-phong-cap-cuu-phan-12-thumb.jpg",
-      "year": 2005,
-      "type": "series",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "er-season-11-2004-44771850",
-      "source": "ophim",
-      "slug": "er-phong-cap-cuu-phan-11",
-      "name": "ER: Phòng Cấp Cứu (Phần 11)",
-      "originName": "ER (Season 11)",
-      "posterUrl": "er-phong-cap-cuu-phan-11-poster.jpg",
-      "thumbUrl": "er-phong-cap-cuu-phan-11-thumb.jpg",
-      "year": 2004,
-      "type": "series",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "er-season-10-2003-4fe3f1f6",
-      "source": "ophim",
-      "slug": "er-phong-cap-cuu-phan-10",
-      "name": "ER: Phòng Cấp Cứu (Phần 10)",
-      "originName": "ER (Season 10)",
-      "posterUrl": "er-phong-cap-cuu-phan-10-poster.jpg",
-      "thumbUrl": "er-phong-cap-cuu-phan-10-thumb.jpg",
-      "year": 2003,
-      "type": "series",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "wishing-stairs-2003-0c3acef9",
-      "source": "phimapi",
-      "slug": "cau-thang-nguyen-uoc-dieu-uoc-tra-gia-bang-mang-song",
-      "name": "Cầu Thang Nguyện Ước (Điều Ước Trả Giá Bằng Mạng Sống)",
-      "originName": "Wishing Stairs",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260727/cau-thang-nguyen-uoc-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260727/cau-thang-nguyen-uoc-thumb.webp",
-      "year": 2003,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "er-season-9-2002-b031a0cd",
-      "source": "ophim",
-      "slug": "er-phong-cap-cuu-phan-9",
-      "name": "ER: Phòng Cấp Cứu (Phần 9)",
-      "originName": "ER (Season 9)",
-      "posterUrl": "er-phong-cap-cuu-phan-9-poster.jpg",
-      "thumbUrl": "er-phong-cap-cuu-phan-9-thumb.jpg",
-      "year": 2002,
-      "type": "series",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "er-season-8-2001-84a91c07",
-      "source": "ophim",
-      "slug": "er-phong-cap-cuu-phan-8",
-      "name": "ER: Phòng Cấp Cứu (Phần 8)",
-      "originName": "ER (Season 8)",
-      "posterUrl": "er-phong-cap-cuu-phan-8-poster.jpg",
-      "thumbUrl": "er-phong-cap-cuu-phan-8-thumb.jpg",
-      "year": 2001,
-      "type": "series",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Chính kịch",
           "slug": "chinh-kich"
         }
       ],

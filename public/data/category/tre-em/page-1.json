@@ -2,8 +2,82 @@
   "slug": "tre-em",
   "name": "Trẻ Em",
   "page": 1,
-  "totalPages": 1,
+  "totalPages": 2,
   "items": [
+    {
+      "id": "dr-seuss-s-red-fish-blue-2026-80bc7891",
+      "source": "phimapi",
+      "slug": "ca-do-ca-xanh-phan-2",
+      "name": "Cá Đỏ Cá Xanh (Phần 2)",
+      "originName": "Dr. Seuss's Red Fish Blue Fish (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260104-1/d4ff8603d3d11b0eacaaaf750de3b4de.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260104-1/c8885062f21b4d353f0b57e59539d8d5.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (5/5)",
+      "categories": [
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "dr-seuss-s-red-fish-blue-2026-ae700382",
+      "source": "phimapi",
+      "slug": "ca-do-ca-xanh-phan-3",
+      "name": "Cá Đỏ Cá Xanh (Phần 3)",
+      "originName": "Dr. Seuss's Red Fish Blue Fish (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260813/ca-do-ca-xanh-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260813/ca-do-ca-xanh-phan-3-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (5/5)",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
     {
       "id": "star-detective-precure-2026-99cb3f38",
       "source": "phimapi",
@@ -14,8 +88,8 @@
       "thumbUrl": "https://phimimg.com/upload/vod/20260607-1/9369fb0b1a0db1c015470c105d065ba0.jpg",
       "year": 2026,
       "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (26/26)",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 28",
       "categories": [
         {
           "name": "Hài Hước",
@@ -50,29 +124,29 @@
       ]
     },
     {
-      "id": "super-space-sheriff-gava-2026-18655e2c",
+      "id": "miraculous-tales-of-lady-2026-9ccfe460",
       "source": "phimapi",
-      "slug": "sieu-canh-sat-vu-tru-gavan-infinity",
-      "name": "Siêu Cảnh Sát Vũ Trụ Gavan Infinity",
-      "originName": "Super Space Sheriff Gavan Infinity",
-      "posterUrl": "https://phimimg.com/upload/vod/20260228-1/880269004d7c97f22c21b9073695eae9.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260228-1/5b3b0a72ea5e8d9f8bc9d0d276bca3b3.jpg",
+      "slug": "vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-7",
+      "name": "Viên Ngọc Thần Chuyện Về Bọ Rùa Và Mèo Mun (Phần 7)",
+      "originName": "Miraculous Tales Of Ladybug & Cat Noir (Season 7)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-7-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-7-thumb.webp",
       "year": 2026,
-      "type": "series",
+      "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (23/23)",
+      "episodeCurrent": "Hoàn Tất (13/13)",
       "categories": [
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
         },
         {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
         },
         {
           "name": "Trẻ Em",
@@ -81,16 +155,94 @@
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
         }
       ],
       "countries": [
         {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "miraculous-tales-of-lady-2026-09ff22cf",
+      "source": "phimapi",
+      "slug": "vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-8",
+      "name": "Viên Ngọc Thần Chuyện Về Bọ Rùa Và Mèo Mun (Phần 8)",
+      "originName": "Miraculous Tales Of Ladybug & Cat Noir (Season 8)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-8-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-8-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "dr-seuss-s-red-fish-blue-2025-ff0b6a2e",
+      "source": "phimapi",
+      "slug": "ca-do-ca-xanh-phan-1",
+      "name": "Cá Đỏ Cá Xanh (Phần 1)",
+      "originName": "Dr. Seuss's Red Fish Blue Fish (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20250909-1/5a7e3aef4f21e6cff19d36465e85f772.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250909-1/5a3112176acc9ac90d8dd31e9ec6a1bb.jpg",
+      "year": 2025,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (5/5)",
+      "categories": [
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
         }
       ]
     },
@@ -105,7 +257,7 @@
       "year": 2025,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 40",
+      "episodeCurrent": "Tập 42",
       "categories": [
         {
           "name": "Hành Động",
@@ -126,6 +278,84 @@
         {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "miraculous-tales-of-lady-2025-9f9217fb",
+      "source": "phimapi",
+      "slug": "vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-6",
+      "name": "Viên Ngọc Thần Chuyện Về Bọ Rùa Và Mèo Mun (Phần 6)",
+      "originName": "Miraculous Tales Of Ladybug & Cat Noir (Season 6)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-6-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-6-thumb.webp",
+      "year": 2025,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (27/27)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "dragon-ball-daima-2024-a97a1506",
+      "source": "phimapi",
+      "slug": "dragon-ball-daima",
+      "name": "Dragon Ball Daima",
+      "originName": "Dragon Ball DAIMA",
+      "posterUrl": "https://phimimg.com/upload/vod/20241013-1/0fae7296f2e1a31e55deb61fe6db7a03.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20241013-1/91111e599bd78a9fc80ae3f15b23ae29.jpg",
+      "year": 2024,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (20/20)",
+      "categories": [
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
         }
       ],
       "countries": [
@@ -224,6 +454,96 @@
         }
       ],
       "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "miraculous-tales-of-lady-2022-b9caa6ff",
+      "source": "phimapi",
+      "slug": "vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-5",
+      "name": "Viên Ngọc Thần Chuyện Về Bọ Rùa Và Mèo Mun (Phần 5)",
+      "originName": "Miraculous Tales Of Ladybug & Cat Noir (Season 5)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-5-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-5-thumb.webp",
+      "year": 2022,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "miraculous-tales-of-lady-2021-b475e758",
+      "source": "phimapi",
+      "slug": "vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-4",
+      "name": "Viên Ngọc Thần Chuyện Về Bọ Rùa Và Mèo Mun (Phần 4)",
+      "originName": "Miraculous Tales Of Ladybug & Cat Noir (Season 4)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-4-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-4-thumb.webp",
+      "year": 2021,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        },
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
@@ -355,6 +675,51 @@
       ]
     },
     {
+      "id": "miraculous-tales-of-lady-2019-7afad413",
+      "source": "phimapi",
+      "slug": "vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-3",
+      "name": "Viên Ngọc Thần Chuyện Về Bọ Rùa Và Mèo Mun (Phần 3)",
+      "originName": "Miraculous Tales Of Ladybug & Cat Noir (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-3-thumb.webp",
+      "year": 2019,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
       "id": "alvinnn-and-the-chipmunk-2017-afedadc4",
       "source": "phimapi",
       "slug": "alvinnn-va-nhom-soc-chuot-phan-2",
@@ -425,6 +790,51 @@
       ]
     },
     {
+      "id": "miraculous-tales-of-lady-2017-6adf7415",
+      "source": "phimapi",
+      "slug": "vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-2",
+      "name": "Viên Ngọc Thần Chuyện Về Bọ Rùa Và Mèo Mun (Phần 2)",
+      "originName": "Miraculous Tales Of Ladybug & Cat Noir (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-2-thumb.webp",
+      "year": 2017,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
       "id": "alvinnn-and-the-chipmunk-2016-14cf8991",
       "source": "phimapi",
       "slug": "alvinnn-va-nhom-soc-chuot-phan-1",
@@ -470,18 +880,30 @@
       ]
     },
     {
-      "id": "tom-and-jerry-the-classi-2004-c1c0b3ba",
+      "id": "miraculous-tales-of-lady-2015-57f39809",
       "source": "phimapi",
-      "slug": "tom-va-jerry-tuyen-tap-kinh-dien",
-      "name": "Tom Và Jerry: Tuyển Tập Kinh Điển",
-      "originName": "Tom And Jerry: The Classic Collection",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260731/tom-va-jerry-tuyen-tap-kinh-dien-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260731/tom-va-jerry-tuyen-tap-kinh-dien-thumb.webp",
-      "year": 2004,
+      "slug": "vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-1",
+      "name": "Viên Ngọc Thần Chuyện Về Bọ Rùa Và Mèo Mun (Phần 1)",
+      "originName": "Miraculous Tales Of Ladybug & Cat Noir (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-1-thumb.webp",
+      "year": 2015,
       "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
+      "episodeCurrent": "Hoàn Tất (26/26)",
       "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
         {
           "name": "Trẻ Em",
           "slug": "tre-em"
@@ -489,16 +911,16 @@
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        },
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
         }
       ],
       "countries": [
         {
-          "name": "Mỹ",
-          "slug": "my"
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     }

@@ -2,8 +2,37 @@
   "slug": "hai-huoc",
   "name": "Hài Hước",
   "page": 2,
-  "totalPages": 9,
+  "totalPages": 10,
   "items": [
+    {
+      "id": "hacks-season-5-2026-1a9a0053",
+      "source": "ophim",
+      "slug": "huyen-thoai-lang-hai-phan-5",
+      "name": "Huyền Thoại Làng Hài (Phần 5)",
+      "originName": "Hacks (Season 5)",
+      "posterUrl": "huyen-thoai-lang-hai-phan-5-poster.jpg",
+      "thumbUrl": "huyen-thoai-lang-hai-phan-5-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (10/10)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
     {
       "id": "the-legend-of-kitchen-so-2026-f6b1f175",
       "source": "ophim",
@@ -331,39 +360,6 @@
       ]
     },
     {
-      "id": "minions-monsters-2026-e0b1b9bd",
-      "source": "ophim",
-      "slug": "minions-and-quai-vat",
-      "name": "Minions & Quái Vật",
-      "originName": "Minions & Monsters",
-      "posterUrl": "minions-and-quai-vat-poster.jpg",
-      "thumbUrl": "minions-and-quai-vat-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "a-controversial-entertai-2026-020af590",
       "source": "ophim",
       "slug": "nam-cong-quan",
@@ -529,6 +525,35 @@
         {
           "name": "Đức",
           "slug": "duc"
+        }
+      ]
+    },
+    {
+      "id": "see-you-at-work-tomorrow-2026-84d99b8a",
+      "source": "ophim",
+      "slug": "sep-oi-mai-dung-gap-nhau",
+      "name": "Sếp Ơi Mai Đừng Gặp Nhau",
+      "originName": "See You at Work Tomorrow!",
+      "posterUrl": "sep-oi-mai-dung-gap-nhau-poster.jpg",
+      "thumbUrl": "sep-oi-mai-dung-gap-nhau-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 2",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
@@ -740,31 +765,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "i-want-to-end-this-love--2026-bc28992b",
-      "source": "ophim",
-      "slug": "toi-muon-cham-dut-tro-choi-tinh-yeu-nay",
-      "name": "Tôi muốn chấm dứt trò chơi tình yêu này",
-      "originName": "I Want to End This Love Game",
-      "posterUrl": "toi-muon-cham-dut-tro-choi-tinh-yeu-nay-poster.jpg",
-      "thumbUrl": "toi-muon-cham-dut-tro-choi-tinh-yeu-nay-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (12/12)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
         }
       ]
     }
