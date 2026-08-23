@@ -1,0 +1,103 @@
+{
+  "id": "ash-2026-06610dae",
+  "source": "phimapi",
+  "slug": "tan-thuoc",
+  "name": "Tàn Thuốc",
+  "originName": "Ash",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-thumb.webp",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 3",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hồng Kông",
+      "slug": "hong-kong"
+    }
+  ],
+  "description": "<p>Một cảnh sát chìm và CEO của một tập đoàn lớn bị cuốn vào mối quan hệ đầy bí mật và những thân phận được che giấu. Khi danh tính thật sự dần được hé lộ, cả hai cùng bị kéo vào một vụ án làm tiền giả xuyên quốc gia và cuộc tranh giành quyền lực giữa các thế lực địa phương.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub + Thuyết Minh",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260816/yAK7zSbE/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260816/yAK7zSbE/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260816/weEjTNjz/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260816/weEjTNjz/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/tDzBI9iT/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260822/tDzBI9iT/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260816/5Z7ASv2B/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260816/5Z7ASv2B/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260816/lHAB4XpE/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260816/lHAB4XpE/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/pSYRBy75/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260822/pSYRBy75/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "tan-thuoc",
+      "episodeCount": 6,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

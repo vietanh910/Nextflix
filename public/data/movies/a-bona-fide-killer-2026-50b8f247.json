@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Bí Ẩn",
@@ -87,6 +87,30 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260814/PY5YeCSp/index.m3u8"
     },
     {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260816/QkKHz7ih/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260816/QkKHz7ih/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/mwlS3mqP/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260822/mwlS3mqP/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/i83QuyXt/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260822/i83QuyXt/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -125,13 +149,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260814/yjSWKrjs/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260814/yjSWKrjs/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260816/xD3d8y1c/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260816/xD3d8y1c/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/quxNhAYF/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260822/quxNhAYF/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/HgLPc3Ot/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260822/HgLPc3Ot/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "sat-thu-noi-tro-vo-toi-la-sat-thu",
-      "episodeCount": 10,
+      "episodeCount": 16,
       "priority": 1
     }
   ],

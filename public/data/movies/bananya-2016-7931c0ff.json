@@ -9,7 +9,22 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Slice of Life",
+      "slug": "slice-of-life"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "countries": [],
+  "description": "An adaptation of Bananya, the banana cat mascot of the stationary company Q-Lia.",
   "episodes": [],
   "sources": [
     {

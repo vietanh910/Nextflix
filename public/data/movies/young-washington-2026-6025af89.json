@@ -1,0 +1,77 @@
+{
+  "id": "young-washington-2026-6025af89",
+  "source": "phimapi",
+  "slug": "thoi-nien-thieu-cua-washington",
+  "name": "Thời niên thiếu của Washington",
+  "originName": "Young Washington",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260817/thoi-nien-thieu-cua-washington-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260817/thoi-nien-thieu-cua-washington-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Lịch Sử",
+      "slug": "lich-su"
+    },
+    {
+      "name": "Chiến Tranh",
+      "slug": "chien-tranh"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Ireland",
+      "slug": "ireland"
+    },
+    {
+      "name": "Canada",
+      "slug": "canada"
+    }
+  ],
+  "description": "<p>Xoay quanh thời niên thiếu và giai đoạn đầu trưởng thành của George Washington — người sau này trở thành vị Tổng thống đầu tiên của Hợp chủng quốc Hoa Kỳ.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260817/ipXIQX95/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260817/ipXIQX95/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260814/HiUfxluA/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260814/HiUfxluA/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "thoi-nien-thieu-cua-washington",
+      "episodeCount": 1,
+      "priority": 1
+    },
+    {
+      "source": "phimapi",
+      "slug": "thoi-tre-cua-washington",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

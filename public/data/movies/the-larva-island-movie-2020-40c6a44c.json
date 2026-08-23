@@ -1,0 +1,59 @@
+{
+  "id": "the-larva-island-movie-2020-40c6a44c",
+  "source": "phimapi",
+  "slug": "bo-phim-dao-au-trung-dao-au-trung-ban-dien-anh",
+  "name": "Bộ Phim Đảo Ấu Trùng (Đảo Ấu Trùng: Bản Điện Ảnh)",
+  "originName": "The Larva Island Movie",
+  "posterUrl": "https://phimimg.com/upload/vod/20231207-1/3a8f1039383bae16fcdae8cfda7b45b9.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20231207-1/d81c3166fa8c156e9d1920fc5b769b26.jpg",
+  "year": 2020,
+  "type": "anime",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Gia Đình",
+      "slug": "gia-dinh"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "<p>Sau năm năm rưỡi sống trên hoang đảo, Chuck trở về nhà và kể với một phóng viên về cuộc sống của mình với những người bạn ấu trùng kỳ quặc Đỏ và Vàng.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub + Lồng Tiếng",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260817/LtISRNO8/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260817/LtISRNO8/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260817/d3l2oFGO/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260817/d3l2oFGO/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "bo-phim-dao-au-trung-dao-au-trung-ban-dien-anh",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

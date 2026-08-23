@@ -9,7 +9,7 @@
   "year": 2020,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 186",
+  "episodeCurrent": "Tập 188",
   "categories": [
     {
       "name": "Hành Động",
@@ -1527,6 +1527,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260808/nCjHtT7W/index.m3u8"
     },
     {
+      "name": "Tập 187",
+      "slug": "tap-187",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/itrY0h0J/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260822/itrY0h0J/index.m3u8"
+    },
+    {
+      "name": "Tập 188",
+      "slug": "tap-188",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/AmAz0fuX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260822/AmAz0fuX/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -1595,7 +1611,7 @@
     {
       "source": "phimapi",
       "slug": "pham-nhan-tu-tien",
-      "episodeCount": 194,
+      "episodeCount": 196,
       "priority": 1
     }
   ],

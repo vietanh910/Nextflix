@@ -1,0 +1,55 @@
+{
+  "id": "zapped-1982-8da8235a",
+  "source": "phimapi",
+  "slug": "zapped",
+  "name": "Zapped!",
+  "originName": "Zapped!",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260822/zapped-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260822/zapped-thumb.webp",
+  "year": 1982,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Peyton và Barney là những học sinh trung học ham vui đang thực hiện một đề tài khoa học với những con chuột bạch. Khi một trong những con chuột bắt đầu kéo thức ăn về phía mình mà không cần chạm vào, Barney nhận ra cậu đã vô tình khám phá ra công thức tạo nên sức mạnh dịch chuyển vật thể bằng trí óc (telekinesis). Giờ đây, một nam sinh trung học có thể di chuyển mọi thứ chỉ bằng suy nghĩ sẽ gây ra vô số rắc rối đến mức nào?</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/PdWaTji7/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260822/PdWaTji7/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "zapped",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 9",
+  "episodeCurrent": "Tập 10",
   "categories": [
     {
       "name": "Hài Hước",
@@ -101,13 +101,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260813/f9yHG5wz/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260813/f9yHG5wz/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260820/FODboFSY/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260820/FODboFSY/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "bang-dream-yumemita",
-      "episodeCount": 9,
+      "episodeCount": 10,
       "priority": 1
     }
   ],

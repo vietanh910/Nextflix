@@ -2,7 +2,7 @@
   "slug": "phieu-luu",
   "name": "Phiêu Lưu",
   "page": 1,
-  "totalPages": 8,
+  "totalPages": 9,
   "items": [
     {
       "id": "vought-rising-2027-d5e1e4aa",
@@ -149,6 +149,43 @@
       ]
     },
     {
+      "id": "portland-street-operatio-2026-df5ffe48",
+      "source": "ophim",
+      "slug": "chien-dich-pho-portland",
+      "name": "Chiến Dịch Phố Portland",
+      "originName": "Portland Street Operation",
+      "posterUrl": "chien-dich-pho-portland-poster.jpg",
+      "thumbUrl": "chien-dich-pho-portland-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 14",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
       "id": "propeller-one-way-night--2026-ae3ca1aa",
       "source": "ophim",
       "slug": "chuyen-bay-mot-chieu-den-hollywood-mo-uoc",
@@ -253,35 +290,6 @@
           "name": "Nhật Bản",
           "slug": "nhat-ban"
         },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "mortal-kombat-ii-2026-76a437e2",
-      "source": "ophim",
-      "slug": "cuoc-chien-sinh-tu-ii",
-      "name": "Cuộc Chiến Sinh Tử II",
-      "originName": "Mortal Kombat II",
-      "posterUrl": "cuoc-chien-sinh-tu-ii-poster.jpg",
-      "thumbUrl": "cuoc-chien-sinh-tu-ii-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
@@ -561,6 +569,43 @@
       ]
     },
     {
+      "id": "karna-the-guardian-2026-ec1d4f65",
+      "source": "ophim",
+      "slug": "karna-nguoi-bao-ve",
+      "name": "Karna Người Bảo Vệ",
+      "originName": "Karna the Guardian",
+      "posterUrl": "karna-nguoi-bao-ve-poster.jpg",
+      "thumbUrl": "karna-nguoi-bao-ve-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 11",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        },
+        {
+          "name": "Ấn Độ",
+          "slug": "an-do"
+        },
+        {
+          "name": "Indonesia",
+          "slug": "indonesia"
+        }
+      ]
+    },
+    {
       "id": "song-of-the-samurai-chap-2026-e4e62128",
       "source": "ophim",
       "slug": "khuc-ca-linh-hon-shinsengumi",
@@ -800,35 +845,6 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "monster-eater-2026-367bf32b",
-      "source": "ophim",
-      "slug": "monster-eater",
-      "name": "Monster Eater",
-      "originName": "Monster Eater",
-      "posterUrl": "monster-eater-poster.jpg",
-      "thumbUrl": "monster-eater-thumb-1775895614969.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 11",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
         }
       ]
     }

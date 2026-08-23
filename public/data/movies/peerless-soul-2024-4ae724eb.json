@@ -9,7 +9,7 @@
   "year": 2024,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 194",
+  "episodeCurrent": "Tập 196",
   "categories": [
     {
       "name": "Hành Động",
@@ -1585,13 +1585,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260811/z4d9bo5O/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260811/z4d9bo5O/index.m3u8"
+    },
+    {
+      "name": "Tập 195",
+      "slug": "tap-195",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260816/fIbb5tzU/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260816/fIbb5tzU/index.m3u8"
+    },
+    {
+      "name": "Tập 196",
+      "slug": "tap-196",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260818/O4WuOiDx/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260818/O4WuOiDx/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "tuyet-the-chien-hon",
-      "episodeCount": 194,
+      "episodeCount": 196,
       "priority": 1
     }
   ],

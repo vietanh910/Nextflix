@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Hành Động",
@@ -99,6 +99,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260813/AhlTCTPi/index.m3u8"
     },
     {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260820/ssQcykLO/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260820/ssQcykLO/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -141,7 +149,7 @@
     {
       "source": "phimapi",
       "slug": "trong-giap-hiep-si-chuyen-sinh-bi-luu-day-tro-nen-vo-dich-nho-kien-thuc-ve-game",
-      "episodeCount": 7,
+      "episodeCount": 8,
       "priority": 1
     }
   ],

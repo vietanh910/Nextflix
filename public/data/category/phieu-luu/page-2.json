@@ -2,8 +2,37 @@
   "slug": "phieu-luu",
   "name": "Phiêu Lưu",
   "page": 2,
-  "totalPages": 8,
+  "totalPages": 9,
   "items": [
+    {
+      "id": "monster-eater-2026-367bf32b",
+      "source": "ophim",
+      "slug": "monster-eater",
+      "name": "Monster Eater",
+      "originName": "Monster Eater",
+      "posterUrl": "monster-eater-poster.jpg",
+      "thumbUrl": "monster-eater-thumb-1775895614969.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 11",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
     {
       "id": "spider-man-brand-new-day-2026-3abbfdf9",
       "source": "ophim",
@@ -644,7 +673,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 16",
+      "episodeCurrent": "Tập 18",
       "categories": [
         {
           "name": "Hành Động",
@@ -671,6 +700,43 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "outer-banks-season-5-2026-1d8ec2fd",
+      "source": "phimapi",
+      "slug": "bi-mat-bi-vui-lap-phan-5",
+      "name": "Bí Mật Bị Vùi Lấp (Phần 5)",
+      "originName": "Outer Banks (Season 5)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260822/bi-mat-bi-vui-lap-phan-5-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/bi-mat-bi-vui-lap-phan-5-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -730,7 +796,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -771,7 +837,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -836,88 +902,6 @@
         }
       ],
       "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "ultraman-teo-2026-e2dfb987",
-      "source": "phimapi",
-      "slug": "chien-binh-anh-sang-teo",
-      "name": "Chiến Binh Ánh Sáng TEO",
-      "originName": "Ultraman Teo",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260708/chien-binh-anh-sang-teo-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260708/chien-binh-anh-sang-teo-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 7",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "portland-street-operatio-2026-e56a4fdc",
-      "source": "phimapi",
-      "slug": "chien-dich-pho-portland",
-      "name": "Chiến Dịch Phố Portland",
-      "originName": "Portland Street Operation",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260723/chien-dich-pho-portland-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260723/chien-dich-pho-portland-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (24/24)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
-        },
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 15",
+  "episodeCurrent": "Tập 26",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -153,13 +153,101 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260815/mlD310bD/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260815/mlD310bD/index.m3u8"
+    },
+    {
+      "name": "Tập 16",
+      "slug": "tap-16",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260816/91IZvnwm/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260816/91IZvnwm/index.m3u8"
+    },
+    {
+      "name": "Tập 17",
+      "slug": "tap-17",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260816/UL4lTX8U/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260816/UL4lTX8U/index.m3u8"
+    },
+    {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260816/1WuurZEk/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260816/1WuurZEk/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260818/dNOmzis8/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260818/dNOmzis8/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260819/EYpSMHJc/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260819/EYpSMHJc/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260819/HCX5fNbr/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260819/HCX5fNbr/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260820/azHyNBYc/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260820/azHyNBYc/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260820/A8huuKTK/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260820/A8huuKTK/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260821/vvAcLk1r/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260821/vvAcLk1r/index.m3u8"
+    },
+    {
+      "name": "Tập 25",
+      "slug": "tap-25",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/kkK6Rnc1/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260822/kkK6Rnc1/index.m3u8"
+    },
+    {
+      "name": "Tập 26",
+      "slug": "tap-26",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/1ZIvxrB2/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260822/1ZIvxrB2/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "hoa-khai-cam-tu",
-      "episodeCount": 15,
+      "episodeCount": 26,
       "priority": 1
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Khoa Học",
@@ -81,13 +81,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260808/SWalGC3l/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260808/SWalGC3l/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260816/S8gapDyJ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260816/S8gapDyJ/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/XQtTEfwW/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260822/XQtTEfwW/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "con-trai-cong-tuoc-tuyen-bo-se-khong-yeu-toi-nhung-van-ton-tho-toi",
-      "episodeCount": 6,
+      "episodeCount": 8,
       "priority": 1
     }
   ],

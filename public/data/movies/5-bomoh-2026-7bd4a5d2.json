@@ -1,0 +1,47 @@
+{
+  "id": "5-bomoh-2026-7bd4a5d2",
+  "source": "phimapi",
+  "slug": "5-thay-phap",
+  "name": "5 thầy pháp",
+  "originName": "5 Bomoh",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260822/5-thay-phap-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260822/5-thay-phap-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Malaysia",
+      "slug": "malaysia"
+    }
+  ],
+  "description": "<p>Người cha tìm kiếm mọi ngóc ngách, kể cả những nguồn lực khác thường, để giúp con gái đạt điểm cao trong kỳ thi có thể mở đường cho tương lai của cô.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/JzWUvV1d/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260822/JzWUvV1d/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "5-thay-phap",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

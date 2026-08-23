@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260808/nhan-ngu-2026-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 17",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (22/22)",
   "categories": [
     {
       "name": "Bí Ẩn",
@@ -169,13 +169,53 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260814/Tab9eccq/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260814/Tab9eccq/index.m3u8"
+    },
+    {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260819/rqBfobPu/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260819/rqBfobPu/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260820/HrohYPUQ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260820/HrohYPUQ/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260821/7tmPCHss/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260821/7tmPCHss/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260821/NBo54Uif/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260821/NBo54Uif/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/HlMe6pLA/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260822/HlMe6pLA/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nhan-ngu-2026",
-      "episodeCount": 17,
+      "episodeCount": 22,
       "priority": 1
     }
   ],

@@ -1,121 +1,116 @@
 {
-  "updatedAt": "2026-08-16T03:42:03.253Z",
-  "totalMovies": 1851,
+  "updatedAt": "2026-08-23T03:44:07.301Z",
+  "totalMovies": 1860,
   "bySource": {
-    "ophim": 412,
-    "phimapi": 478,
-    "animapper": 961
+    "ophim": 422,
+    "phimapi": 476,
+    "animapper": 962
   },
   "byType": {
-    "series": 455,
-    "tvshow": 19,
-    "single": 182,
-    "anime": 1195
+    "series": 489,
+    "tvshow": 18,
+    "single": 170,
+    "anime": 1183
   },
   "byStatus": {
     "unknown": 1005,
-    "ongoing": 283,
-    "completed": 563
+    "ongoing": 294,
+    "completed": 561
   },
   "byCategory": [
     {
       "slug": "khac",
       "name": "Khac",
-      "count": 835
+      "count": 837
     },
     {
       "slug": "chinh-kich",
       "name": "Chính kịch",
-      "count": 535
+      "count": 540
     },
     {
       "slug": "tam-ly",
       "name": "Tâm Lý",
-      "count": 375
+      "count": 359
     },
     {
       "slug": "hai-huoc",
       "name": "Hài Hước",
-      "count": 230
-    },
-    {
-      "slug": "hanh-dong",
-      "name": "Hành Động",
-      "count": 190
+      "count": 229
     },
     {
       "slug": "phieu-luu",
       "name": "Phiêu Lưu",
-      "count": 189
+      "count": 210
+    },
+    {
+      "slug": "hanh-dong",
+      "name": "Hành Động",
+      "count": 208
     },
     {
       "slug": "vien-tuong",
       "name": "Viễn Tưởng",
-      "count": 182
+      "count": 185
     },
     {
       "slug": "khoa-hoc",
       "name": "Khoa Học",
-      "count": 156
-    },
-    {
-      "slug": "tinh-cam",
-      "name": "Tình Cảm",
-      "count": 89
+      "count": 157
     },
     {
       "slug": "hinh-su",
       "name": "Hình Sự",
-      "count": 89
+      "count": 85
     },
     {
-      "slug": "hoat-hinh",
-      "name": "Hoạt Hình",
-      "count": 84
+      "slug": "tinh-cam",
+      "name": "Tình Cảm",
+      "count": 82
     },
     {
       "slug": "bi-an",
       "name": "Bí ẩn",
-      "count": 73
+      "count": 78
+    },
+    {
+      "slug": "hoat-hinh",
+      "name": "Hoạt Hình",
+      "count": 78
     },
     {
       "slug": "comedy",
       "name": "Comedy",
-      "count": 61
-    },
-    {
-      "slug": "gia-dinh",
-      "name": "Gia Đình",
-      "count": 47
+      "count": 59
     },
     {
       "slug": "action",
       "name": "Action",
-      "count": 42
+      "count": 47
     },
     {
       "slug": "kinh-di",
       "name": "Kinh Dị",
-      "count": 41
+      "count": 46
     },
     {
-      "slug": "slice-of-life",
-      "name": "Slice of Life",
-      "count": 31
+      "slug": "gia-dinh",
+      "name": "Gia Đình",
+      "count": 42
     },
     {
       "slug": "fantasy",
       "name": "Fantasy",
-      "count": 28
+      "count": 33
+    },
+    {
+      "slug": "drama",
+      "name": "Drama",
+      "count": 29
     },
     {
       "slug": "co-trang",
       "name": "Cổ Trang",
-      "count": 25
-    },
-    {
-      "slug": "tre-em",
-      "name": "Trẻ Em",
       "count": 25
     },
     {
@@ -124,19 +119,19 @@
       "count": 25
     },
     {
-      "slug": "drama",
-      "name": "Drama",
-      "count": 25
-    },
-    {
       "slug": "romance",
       "name": "Romance",
-      "count": 25
+      "count": 24
     },
     {
-      "slug": "sci-fi",
-      "name": "Sci-Fi",
-      "count": 22
+      "slug": "slice-of-life",
+      "name": "Slice of Life",
+      "count": 24
+    },
+    {
+      "slug": "tre-em",
+      "name": "Trẻ Em",
+      "count": 23
     },
     {
       "slug": "tai-lieu",
@@ -144,13 +139,28 @@
       "count": 21
     },
     {
-      "slug": "adventure",
-      "name": "Adventure",
+      "slug": "sci-fi",
+      "name": "Sci-Fi",
       "count": 19
     },
     {
-      "slug": "music",
-      "name": "Music",
+      "slug": "adventure",
+      "name": "Adventure",
+      "count": 18
+    },
+    {
+      "slug": "ecchi",
+      "name": "Ecchi",
+      "count": 15
+    },
+    {
+      "slug": "sports",
+      "name": "Sports",
+      "count": 14
+    },
+    {
+      "slug": "mystery",
+      "name": "Mystery",
       "count": 13
     },
     {
@@ -159,13 +169,13 @@
       "count": 12
     },
     {
-      "slug": "ecchi",
-      "name": "Ecchi",
-      "count": 12
+      "slug": "war-politics",
+      "name": "War & Politics",
+      "count": 10
     },
     {
-      "slug": "mystery",
-      "name": "Mystery",
+      "slug": "music",
+      "name": "Music",
       "count": 10
     },
     {
@@ -176,12 +186,12 @@
     {
       "slug": "psychological",
       "name": "Psychological",
-      "count": 8
+      "count": 6
     },
     {
       "slug": "chien-tranh",
       "name": "Chiến Tranh",
-      "count": 6
+      "count": 5
     },
     {
       "slug": "am-nhac",
@@ -189,8 +199,8 @@
       "count": 5
     },
     {
-      "slug": "lich-su",
-      "name": "Lịch Sử",
+      "slug": "thriller",
+      "name": "Thriller",
       "count": 5
     },
     {
@@ -209,23 +219,23 @@
       "count": 4
     },
     {
-      "slug": "horror",
-      "name": "Horror",
-      "count": 4
+      "slug": "lich-su",
+      "name": "Lịch Sử",
+      "count": 3
     },
     {
-      "slug": "sports",
-      "name": "Sports",
-      "count": 4
+      "slug": "mahou-shoujo",
+      "name": "Mahou Shoujo",
+      "count": 3
+    },
+    {
+      "slug": "horror",
+      "name": "Horror",
+      "count": 3
     },
     {
       "slug": "the-thao",
       "name": "Thể Thao",
-      "count": 2
-    },
-    {
-      "slug": "thriller",
-      "name": "Thriller",
       "count": 2
     },
     {
@@ -239,23 +249,13 @@
       "count": 1
     },
     {
-      "slug": "phim-ngan",
-      "name": "Phim Ngắn",
-      "count": 1
-    },
-    {
-      "slug": "war-politics",
-      "name": "War & Politics",
+      "slug": "soap",
+      "name": "Soap",
       "count": 1
     },
     {
       "slug": "kinh-dien",
       "name": "Kinh Điển",
-      "count": 1
-    },
-    {
-      "slug": "mahou-shoujo",
-      "name": "Mahou Shoujo",
       "count": 1
     }
   ]

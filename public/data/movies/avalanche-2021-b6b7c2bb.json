@@ -9,7 +9,7 @@
   "year": 2021,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 3",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -75,6 +75,46 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260813/ZUQxvxmA/index.m3u8"
     },
     {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260816/Jpeg0f1G/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260816/Jpeg0f1G/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260817/w4Ctdh0L/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260817/w4Ctdh0L/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260819/T8glXzjF/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260819/T8glXzjF/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260819/5E0U5ij5/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260819/5E0U5ij5/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/qF6YNaJN/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260822/qF6YNaJN/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -97,13 +137,53 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260813/3zMa96GN/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260813/3zMa96GN/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260816/Bii7Ugya/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260816/Bii7Ugya/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260817/sNefZAX3/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260817/sNefZAX3/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260819/XGIyJZlT/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260819/XGIyJZlT/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260819/XXrMxahB/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260819/XXrMxahB/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/BRxGdbzQ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260822/BRxGdbzQ/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "biet-doi-cong-ly-avalanche",
-      "episodeCount": 6,
+      "episodeCount": 16,
       "priority": 1
     }
   ],

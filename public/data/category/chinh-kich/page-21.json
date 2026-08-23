@@ -5,6 +5,43 @@
   "totalPages": 23,
   "items": [
     {
+      "id": "young-sherlock-2014-712a9f81",
+      "source": "phimapi",
+      "slug": "thieu-nien-than-tham-dich-nhan-kiet",
+      "name": "Thiếu Niên Thần Thám Địch Nhân Kiệt",
+      "originName": "Young Sherlock",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260808/thieu-nien-than-tham-dich-nhan-kiet-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260808/thieu-nien-than-tham-dich-nhan-kiet-thumb.webp",
+      "year": 2014,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (40/40)",
+      "categories": [
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "empire-state-2013-a29a49fa",
       "source": "ophim",
       "slug": "empire-state",
@@ -96,17 +133,17 @@
       ]
     },
     {
-      "id": "her-2013-366fc3ed",
+      "id": "sudden-2013-0f9fe82b",
       "source": "phimapi",
-      "slug": "nang-nguoi-tinh-may-tinh",
-      "name": "Nàng / Người Tình Máy Tính",
-      "originName": "Her",
-      "posterUrl": "https://phimimg.com/upload/vod/20241218-1/0b1408ee2841e0967af302b50cc21c9a.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20241218-1/73e211938d22ef363ece15a845a7394f.jpg",
+      "slug": "dot-bien",
+      "name": "Đột Biến",
+      "originName": "Sudden",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260821/dot-bien-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260821/dot-bien-thumb.webp",
       "year": 2013,
-      "type": "single",
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn Tất (20/20)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -115,16 +152,12 @@
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Singapore",
+          "slug": "singapore"
         }
       ]
     },
@@ -253,43 +286,6 @@
       ]
     },
     {
-      "id": "smashed-2012-3eca182e",
-      "source": "phimapi",
-      "slug": "sau-con-say-dap-tan",
-      "name": "Sau Cơn Say (Đập Tan)",
-      "originName": "Smashed",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260801/sau-con-say-dap-tan-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260801/sau-con-say-dap-tan-thumb.webp",
-      "year": 2012,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "southland-season-3-2011-c8bc5933",
       "source": "ophim",
       "slug": "southland-phan-3",
@@ -311,6 +307,39 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "lights-and-shadows-2011-0bacb615",
+      "source": "phimapi",
+      "slug": "anh-sang-va-bong-toi-hao-quang-nghiet-nga",
+      "name": "Ánh Sáng Và Bóng Tối / Hào Quang Nghiệt Ngã",
+      "originName": "Lights And Shadows",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260819/anh-sang-va-bong-toi-hao-quang-nghiet-nga-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260819/anh-sang-va-bong-toi-hao-quang-nghiet-nga-thumb.webp",
+      "year": 2011,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (66/66)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
@@ -511,7 +540,7 @@
       "year": 2010,
       "type": "tvshow",
       "status": "ongoing",
-      "episodeCurrent": "Tập 815",
+      "episodeCurrent": "Tập 816",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -705,39 +734,6 @@
       "categories": [
         {
           "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "icarly-season-2-2008-dfee08dc",
-      "source": "phimapi",
-      "slug": "co-be-internet-carly-phan-2",
-      "name": "Cô Bé Internet Carly (Phần 2)",
-      "originName": "iCarly (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260816/co-be-internet-carly-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260816/co-be-internet-carly-phan-2-thumb.webp",
-      "year": 2008,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính Kịch",
           "slug": "chinh-kich"
         }
       ],

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 3",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -49,13 +49,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260814/THSzyGVR/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260814/THSzyGVR/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/7YGwDxsa/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260822/7YGwDxsa/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "huan-luyen-vien-ted-lasso-phan-4",
-      "episodeCount": 2,
+      "episodeCount": 3,
       "priority": 1
     }
   ],

@@ -9,7 +9,22 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "countries": [],
+  "description": "Third season of Kaitou Joker.",
   "episodes": [],
   "sources": [
     {

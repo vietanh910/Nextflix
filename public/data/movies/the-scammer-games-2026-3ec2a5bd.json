@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260619-1/9e93d64325569582ddae5c844a3c1d4d.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 17",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (19/19)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -167,6 +167,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260813/W2JsVXiT/index.m3u8"
     },
     {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260820/2oale7tZ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260820/2oale7tZ/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260820/q9h5WS2g/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260820/q9h5WS2g/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -265,7 +281,7 @@
     {
       "source": "phimapi",
       "slug": "tam-tay-lua-dao",
-      "episodeCount": 17,
+      "episodeCount": 19,
       "priority": 1
     }
   ],

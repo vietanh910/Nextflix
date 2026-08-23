@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260807/tinh-yeu-noi-loan-phan-2-thumb.webp",
   "year": 2026,
   "type": "tvshow",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (10/10)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -89,13 +89,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260811/2XVHVHIJ/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260811/2XVHVHIJ/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260818/4OeQDYK5/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260818/4OeQDYK5/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260818/dfLw3PAZ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260818/dfLw3PAZ/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260818/3cEsG1PC/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260818/3cEsG1PC/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "tinh-yeu-noi-loan-phan-2",
-      "episodeCount": 7,
+      "episodeCount": 10,
       "priority": 1
     }
   ],

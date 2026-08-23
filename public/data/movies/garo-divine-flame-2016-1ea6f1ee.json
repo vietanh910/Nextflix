@@ -9,7 +9,22 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Supernatural",
+      "slug": "supernatural"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "countries": [],
+  "description": "A sequel set 4 years after the TV anime \"Garo: Honoo no Kokuin.\"",
   "episodes": [],
   "sources": [
     {

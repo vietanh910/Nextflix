@@ -9,7 +9,22 @@
   "year": 2014,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Slice of Life",
+      "slug": "slice-of-life"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    }
+  ],
+  "countries": [],
+  "description": "Limited edition OVA episode of Miss Monochrome.",
   "episodes": [],
   "sources": [
     {

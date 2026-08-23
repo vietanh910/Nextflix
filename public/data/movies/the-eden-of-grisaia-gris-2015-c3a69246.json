@@ -9,7 +9,18 @@
   "year": 2015,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Ecchi",
+      "slug": "ecchi"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "countries": [],
+  "description": "Short specials included in the Blu-ray and DVD releases.",
   "episodes": [],
   "sources": [
     {

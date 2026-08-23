@@ -1,0 +1,55 @@
+{
+  "id": "stephanie-2017-2a6c2baf",
+  "source": "phimapi",
+  "slug": "stephanie",
+  "name": "Stephanie",
+  "originName": "Stephanie",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260819/stephanie-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260819/stephanie-thumb.webp",
+  "year": 2017,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    },
+    {
+      "name": "Bí Ẩn",
+      "slug": "bi-an"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Sau một cuộc khủng hoảng bí ẩn toàn cầu, một cô bé bị bỏ lại một mình, phải lẩn trốn khỏi một thế lực tà ác đang rình rập ngôi nhà của mình. Cha mẹ cô bé cuối cùng cũng trở về và cuộc chiến bắt đầu để cứu lấy con gái họ.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260819/FF89U328/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260819/FF89U328/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "stephanie",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

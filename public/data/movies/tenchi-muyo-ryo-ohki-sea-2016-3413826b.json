@@ -9,7 +9,22 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Sci-Fi",
+      "slug": "sci-fi"
+    }
+  ],
+  "countries": [],
+  "description": "An official Twitter account and website opened on Friday to announce a Tenchi Muyo! Ryo Ohki Dai-4-Ki (4th Season) project.<br>\n<br>\n(Source: Anime News Network)",
   "episodes": [],
   "sources": [
     {

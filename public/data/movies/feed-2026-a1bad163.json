@@ -1,0 +1,55 @@
+{
+  "id": "feed-2026-a1bad163",
+  "source": "phimapi",
+  "slug": "nuoi-duong",
+  "name": "Nuôi Dưỡng",
+  "originName": "Feed",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260822/nuoi-duong-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260822/nuoi-duong-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    }
+  ],
+  "countries": [
+    {
+      "name": "IE",
+      "slug": "ie"
+    },
+    {
+      "name": "Anh",
+      "slug": "anh"
+    },
+    {
+      "name": "BE",
+      "slug": "be"
+    }
+  ],
+  "description": "<p>Câu chuyện theo chân một nhóm khoảng năm đến sáu nhà sáng tạo nội dung, người có ảnh hưởng trên mạng xã hội (social media influencers) cùng nhau đến một căn biệt thự/khu nghỉ dưỡng biệt lập ở vùng nông thôn Ireland để nghỉ ngơi, làm việc và tổ chức một buổi can thiệp tinh thần nhằm giúp đỡ cô nàng đang đau buồn vì mất người thân tên là Orla.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/VLa8Q6qb/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260822/VLa8Q6qb/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "nuoi-duong",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

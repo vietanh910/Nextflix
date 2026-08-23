@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -87,6 +87,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260808/PsiCweTM/index.m3u8"
     },
     {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/BXx8Ce3c/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260822/BXx8Ce3c/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/fjTqq0Yl/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260822/fjTqq0Yl/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -121,7 +137,7 @@
     {
       "source": "phimapi",
       "slug": "ham-silo-phan-3",
-      "episodeCount": 6,
+      "episodeCount": 8,
       "priority": 1
     }
   ],

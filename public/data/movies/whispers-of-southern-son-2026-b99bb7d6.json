@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260808/nam-hi-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 20",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (24/24)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -189,13 +189,45 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260815/vHgsReJ1/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260815/vHgsReJ1/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260816/UGJvOby8/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260816/UGJvOby8/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260816/5NBgooiv/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260816/5NBgooiv/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260817/hlEUPxSE/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260817/hlEUPxSE/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260818/PoFL4nlU/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260818/PoFL4nlU/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nam-hi",
-      "episodeCount": 20,
+      "episodeCount": 24,
       "priority": 1
     }
   ],

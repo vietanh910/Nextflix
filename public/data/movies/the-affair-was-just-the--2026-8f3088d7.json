@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 6",
   "categories": [
     {
       "name": "Hài Hước",
@@ -75,6 +75,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260814/4zB8aomo/index.m3u8"
     },
     {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260821/eHitejtb/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260821/eHitejtb/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -113,13 +121,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260814/RhCg3mFe/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260814/RhCg3mFe/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260821/h8OyJ3rH/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260821/h8OyJ3rH/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "vo-boc-ngoai-tinh-ngoai-tinh-da-nham-nho-gi",
-      "episodeCount": 10,
+      "episodeCount": 12,
       "priority": 1
     }
   ],

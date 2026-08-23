@@ -2,25 +2,387 @@
   "slug": "phieu-luu",
   "name": "Phiêu Lưu",
   "page": 8,
-  "totalPages": 8,
+  "totalPages": 9,
   "items": [
     {
-      "id": "that-time-i-got-reincarn-2018-a10989cc",
+      "id": "miraculous-tales-of-lady-2021-b475e758",
       "source": "phimapi",
-      "slug": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-1",
-      "name": "Lúc Đó Tôi Đã Chuyển Sinh Thành Slime (Phần 1)",
-      "originName": "That Time I Got Reincarnated As A Slime (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260407-1/c273984087cadca312eb86900c9e7a9d.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260407-1/2e0492001361590b303cb39d0583164c.jpg",
-      "year": 2018,
+      "slug": "vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-4",
+      "name": "Viên Ngọc Thần Chuyện Về Bọ Rùa Và Mèo Mun (Phần 4)",
+      "originName": "Miraculous Tales Of Ladybug & Cat Noir (Season 4)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-4-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-4-thumb.webp",
+      "year": 2021,
       "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (24/24)",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "pham-nhan-tu-tien-chi-ph-2020-b847fa1f",
+      "source": "ophim",
+      "slug": "pham-nhan-tu-tien",
+      "name": "Phàm Nhân Tu Tiên",
+      "originName": "Phàm Nhân Tu Tiên Chi Phàm Nhân Phong Khởi Thiên Nam, Fan Ren Xiu Xian Zhuan",
+      "posterUrl": "pham-nhan-tu-tien-poster.jpg",
+      "thumbUrl": "pham-nhan-tu-tien-thumb.jpg",
+      "year": 2020,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 181",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "martial-master-2020-ecd7c826",
+      "source": "ophim",
+      "slug": "vo-than-chua-te",
+      "name": "Võ Thần Chúa Tể",
+      "originName": "Martial Master",
+      "posterUrl": "vo-than-chua-te-poster.jpg",
+      "thumbUrl": "vo-than-chua-te-thumb.jpg",
+      "year": 2020,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 661",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "supreme-god-emperor-2020-00ee0974",
+      "source": "ophim",
+      "slug": "vo-thuong-than-de",
+      "name": "Vô Thượng Thần Đế",
+      "originName": "Supreme God Emperor",
+      "posterUrl": "vo-thuong-than-de-poster.jpg",
+      "thumbUrl": "vo-thuong-than-de-thumb.jpg",
+      "year": 2020,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 602",
+      "categories": [
+        {
+          "name": "Võ Thuật",
+          "slug": "vo-thuat"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "outer-banks-season-1-2020-3880d636",
+      "source": "phimapi",
+      "slug": "bi-mat-bi-vui-lap-phan-1",
+      "name": "Bí Mật Bị Vùi Lấp (Phần 1)",
+      "originName": "Outer Banks (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260822/bi-mat-bi-vui-lap-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/bi-mat-bi-vui-lap-phan-1-thumb.webp",
+      "year": 2020,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "fantasy-island-2020-430097de",
+      "source": "phimapi",
+      "slug": "dao-kinh-hoang-2020",
+      "name": "Đảo Kinh Hoàng",
+      "originName": "Fantasy Island",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260808/dao-kinh-hoang-2020-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260808/dao-kinh-hoang-2020-thumb.webp",
+      "year": 2020,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "seal-team-season-4-2020-1482134b",
+      "source": "phimapi",
+      "slug": "doi-dac-nhiem-seal-phan-4",
+      "name": "Đội Đặc Nhiệm SEAL (Phần 4)",
+      "originName": "Seal Team (Season 4)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260819/doi-dac-nhiem-seal-phan-4-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260819/doi-dac-nhiem-seal-phan-4-thumb.webp",
+      "year": 2020,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (16/16)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "War & Politics",
+          "slug": "war-politics"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "a-will-eternal-2020-07a0a7c6",
+      "source": "phimapi",
+      "slug": "nhat-niem-vinh-hang",
+      "name": "Nhất Niệm Vĩnh Hằng",
+      "originName": "A Will Eternal",
+      "posterUrl": "https://phimimg.com/upload/vod/20240820-1/56ef483389cd47b258bad4e3c18bdc07.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240820-1/9a7edcb43abcae56b909720e1fcb2ebe.jpg",
+      "year": 2020,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 171",
       "categories": [
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
         },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "a-record-of-a-mortal-s-j-2020-5011a3b3",
+      "source": "phimapi",
+      "slug": "pham-nhan-tu-tien",
+      "name": "Phàm Nhân Tu Tiên",
+      "originName": "A Record of a Mortal's Journey to Immortality",
+      "posterUrl": "https://phimimg.com/upload/vod/20240715-1/ed827a6e5d8f7c41aa0728403665cd87.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240715-1/fe09a10062768cca301682eba6c8245b.jpg",
+      "year": 2020,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 188",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Thần Thoại",
+          "slug": "than-thoai"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "glow-up-britain-s-next-m-2020-bc99b7fc",
+      "source": "phimapi",
+      "slug": "phu-thuy-trang-diem-phan-2",
+      "name": "Phù Thủy Trang Điểm (Phần 2)",
+      "originName": "Glow Up: Britain's Next Make-Up Star (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260814/phu-thuy-trang-diem-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240302-1/0aba832fb95f212c363c5d3c454255ab.jpg",
+      "year": 2020,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "swallowed-star-2020-3c48f3c2",
+      "source": "phimapi",
+      "slug": "thon-phe-tinh-khong",
+      "name": "Thôn Phệ Tinh Không",
+      "originName": "Swallowed Star",
+      "posterUrl": "https://phimimg.com/upload/vod/20240821-1/a651652396e9f53c09cd88d28700d5c4.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240821-1/22c49ba9590b0e5f3d126696c0bfbecf.jpg",
+      "year": 2020,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 237",
+      "categories": [
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
@@ -34,18 +396,211 @@
           "slug": "phieu-luu"
         },
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
         }
       ],
       "countries": [
         {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "larva-island-season-2-2019-e2835c31",
+      "source": "phimapi",
+      "slug": "dao-au-trung-phan-2",
+      "name": "Đảo ấu trùng (Phần 2)",
+      "originName": "Larva Island (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260818/dao-au-trung-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260818/dao-au-trung-phan-2-thumb.webp",
+      "year": 2019,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "seal-team-season-3-2019-af79e302",
+      "source": "phimapi",
+      "slug": "doi-dac-nhiem-seal-phan-3",
+      "name": "Đội Đặc Nhiệm SEAL (Phần 3)",
+      "originName": "Seal Team (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260819/doi-dac-nhiem-seal-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260819/doi-dac-nhiem-seal-phan-3-thumb.webp",
+      "year": 2019,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (20/20)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "War & Politics",
+          "slug": "war-politics"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "miraculous-tales-of-lady-2019-7afad413",
+      "source": "phimapi",
+      "slug": "vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-3",
+      "name": "Viên Ngọc Thần Chuyện Về Bọ Rùa Và Mèo Mun (Phần 3)",
+      "originName": "Miraculous Tales Of Ladybug & Cat Noir (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-3-thumb.webp",
+      "year": 2019,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "larva-island-season-1-2018-23b05672",
+      "source": "phimapi",
+      "slug": "dao-au-trung-phan-1",
+      "name": "Đảo Ấu Trùng (Phần 1)",
+      "originName": "Larva Island (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20240118-1/fb2f9aa2a4e042a9c972e3db56d36af0.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240118-1/59b3ac1c4443ae5be3ac4f5b1ca77cdd.jpg",
+      "year": 2018,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "seal-team-season-2-2018-fc2bb12c",
+      "source": "phimapi",
+      "slug": "doi-dac-nhiem-seal-phan-2",
+      "name": "Đội Đặc Nhiệm SEAL (Phần 2)",
+      "originName": "Seal Team (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260819/doi-dac-nhiem-seal-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260819/doi-dac-nhiem-seal-phan-2-thumb.webp",
+      "year": 2018,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (22/22)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "War & Politics",
+          "slug": "war-politics"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -79,6 +634,80 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "troy-fall-of-a-city-2018-0babc4a6",
+      "source": "phimapi",
+      "slug": "thanh-troy-sup-do",
+      "name": "Thành Troy Sụp Đổ",
+      "originName": "Troy: Fall of a City",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260821/thanh-troy-sup-do-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260821/thanh-troy-sup-do-thumb.webp",
+      "year": 2018,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "War & Politics",
+          "slug": "war-politics"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "black-sails-season-4-2017-5319701a",
+      "source": "phimapi",
+      "slug": "canh-buom-den-phan-4",
+      "name": "Cánh Buồm Đen (Phần 4)",
+      "originName": "Black Sails (Season 4)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260818/canh-buom-den-phan-4-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260818/canh-buom-den-phan-4-thumb.webp",
+      "year": 2017,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nam Phi",
+          "slug": "nam-phi"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -124,92 +753,43 @@
       ]
     },
     {
-      "id": "akashic-records-of-basta-2017-660e7cfe",
+      "id": "seal-team-season-1-2017-ff904003",
       "source": "phimapi",
-      "slug": "ong-thay-vi-dieu",
-      "name": "Ông Thầy Vi Diệu",
-      "originName": "Akashic Records Of Bastard Magic Instructor",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260802/ong-thay-vi-dieu-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260802/ong-thay-vi-dieu-thumb.webp",
+      "slug": "doi-dac-nhiem-seal-phan-1",
+      "name": "Đội Đặc Nhiệm SEAL (Phần 1)",
+      "originName": "Seal Team (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260819/doi-dac-nhiem-seal-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260819/doi-dac-nhiem-seal-phan-1-thumb.webp",
       "year": 2017,
-      "type": "anime",
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
+      "episodeCurrent": "Hoàn Tất (22/22)",
       "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
+          "name": "War & Politics",
+          "slug": "war-politics"
         },
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
         }
       ],
       "countries": [
         {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "case-closed-the-crimson--2017-f2c27006",
-      "source": "phimapi",
-      "slug": "tham-tu-lung-danh-conan-21-ban-tinh-ca-mau-do-tham",
-      "name": "Thám Tử Lừng Danh Conan 21: Bản Tình Ca Màu Đỏ Thẫm",
-      "originName": "Case Closed: The Crimson Love Letter",
-      "posterUrl": "https://phimimg.com/upload/vod/20231019-1/80b471a5e8172dd3732e7583c841bab3.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20231019-1/84f91112b6fe999381342ad1f84e8f81.jpg",
-      "year": 2017,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -300,441 +880,18 @@
       ]
     },
     {
-      "id": "007-spectre-2015-353a6cd1",
-      "source": "ophim",
-      "slug": "diep-vien-007-bong-ma",
-      "name": "Điệp Viên 007: Bóng Ma",
-      "originName": "007: SPECTRE",
-      "posterUrl": "diep-vien-007-bong-ma-poster.jpg",
-      "thumbUrl": "diep-vien-007-bong-ma-thumb.jpg",
-      "year": 2015,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Anh",
-          "slug": "anh"
-        }
-      ]
-    },
-    {
-      "id": "max-2015-8fa052c9",
+      "id": "black-sails-season-3-2016-fab92531",
       "source": "phimapi",
-      "slug": "chu-cho-max",
-      "name": "Chú Chó Max",
-      "originName": "Max",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260804/chu-cho-max-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260804/chu-cho-max-thumb.webp",
-      "year": 2015,
-      "type": "single",
+      "slug": "canh-buom-den-phan-3",
+      "name": "Cánh Buồm Đen (Phần 3)",
+      "originName": "Black Sails (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260818/canh-buom-den-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260818/canh-buom-den-phan-3-thumb.webp",
+      "year": 2016,
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn Tất (10/10)",
       "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-night-before-2015-5825447b",
-      "source": "phimapi",
-      "slug": "dem-truoc-giang-sinh",
-      "name": "Đêm Trước Giáng Sinh",
-      "originName": "The Night Before",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260801/dem-truoc-giang-sinh-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260801/dem-truoc-giang-sinh-thumb.webp",
-      "year": 2015,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "miraculous-tales-of-lady-2015-57f39809",
-      "source": "phimapi",
-      "slug": "vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-1",
-      "name": "Viên Ngọc Thần Chuyện Về Bọ Rùa Và Mèo Mun (Phần 1)",
-      "originName": "Miraculous Tales Of Ladybug & Cat Noir (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-1-thumb.webp",
-      "year": 2015,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (26/26)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Trẻ Em",
-          "slug": "tre-em"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Pháp",
-          "slug": "phap"
-        },
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "dragon-ball-z-kai-the-fi-2009-b4e285bf",
-      "source": "phimapi",
-      "slug": "bay-vien-ngoc-rong-z-kai-chuong-cuoi",
-      "name": "Bảy Viên Ngọc Rồng Z Kai Chương Cuối",
-      "originName": "Dragon Ball Z Kai: The Final Chapters",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260810/bay-vien-ngoc-rong-z-kai-chuong-cuoi-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260810/bay-vien-ngoc-rong-z-kai-chuong-cuoi-thumb.webp",
-      "year": 2009,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (69/69)",
-      "categories": [
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "yu-gi-oh-gx-2004-00c6661c",
-      "source": "phimapi",
-      "slug": "yu-gi-oh-gx",
-      "name": "Yu-Gi-Oh! GX",
-      "originName": "Yu-Gi-Oh! GX",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260814/yu-gi-oh-gx-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260814/yu-gi-oh-gx-thumb.webp",
-      "year": 2004,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (180/180)",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "yu-gi-oh-duel-monsters-2000-e5728320",
-      "source": "phimapi",
-      "slug": "vua-tro-choi-2000",
-      "name": "Vua Trò Chơi",
-      "originName": "Yu-Gi-Oh! Duel Monsters",
-      "posterUrl": "https://phimimg.com/upload/vod/20241124-1/39cae382ef85b1fb744f95ecd2f898e7.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20241124-1/5b9a1d1216a06bb3244c3fdb1929674a.jpg",
-      "year": 2000,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (224/224)",
-      "categories": [
-        {
-          "name": "Trẻ Em",
-          "slug": "tre-em"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "one-piece-luffy-1999-ea35662f",
-      "source": "ophim",
-      "slug": "one-piece",
-      "name": "Đảo Hải Tặc",
-      "originName": "One Piece (Luffy)",
-      "posterUrl": "one-piece-poster.jpg",
-      "thumbUrl": "one-piece-thumb.jpg",
-      "year": 1999,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 1168",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "one-piece-1999-09306878",
-      "source": "phimapi",
-      "slug": "dao-hai-tac",
-      "name": "Đảo Hải Tặc",
-      "originName": "One Piece",
-      "posterUrl": "https://phimimg.com/upload/vod/20240310-1/31e6c244a0673838a46732d3b4f0b190.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20240310-1/d61250d0c1670917fd783a1b48cbb29c.jpg",
-      "year": 1999,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 1173",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "detective-conan-the-time-1997-13c487ef",
-      "source": "phimapi",
-      "slug": "tham-tu-lung-danh-conan-qua-bom-choc-troi",
-      "name": "Thám Tử Lừng Danh Conan: Quả Bom Chọc Trời",
-      "originName": "Detective Conan: The Time Bombed Skyscraper",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260801/tham-tu-lung-danh-conan-qua-bom-choc-troi-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260801/tham-tu-lung-danh-conan-qua-bom-choc-troi-thumb.webp",
-      "year": 1997,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "where-is-the-friend-s-ho-1987-88c3a1d3",
-      "source": "phimapi",
-      "slug": "nha-ban-toi-o-dau",
-      "name": "Nhà Bạn Tôi Ở Đâu",
-      "originName": "Where Is The Friend's House?",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260804/nha-ban-toi-o-dau-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260804/nha-ban-toi-o-dau-thumb.webp",
-      "year": 1987,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Iran",
-          "slug": "iran"
-        }
-      ]
-    },
-    {
-      "id": "tomorrow-s-joe-ashita-no-1980-51656419",
-      "source": "phimapi",
-      "slug": "thiet-quyen-lang-tu-phan-2",
-      "name": "Thiết Quyền Lãng Tử (Phần 2)",
-      "originName": "Tomorrow's Joe / Ashita no Joe (Season 2) ",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260810/thiet-quyen-lang-tu-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260810/thiet-quyen-lang-tu-phan-2-thumb.webp",
-      "year": 1980,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (47/47)",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
@@ -754,90 +911,8 @@
       ],
       "countries": [
         {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "tomorrow-s-joe-ashita-no-1970-56096380",
-      "source": "phimapi",
-      "slug": "thiet-quyen-lang-tu-phan-1",
-      "name": "Thiết Quyền Lãng Tử (Phần 1)",
-      "originName": "Tomorrow's Joe / Ashita no Joe (Season 1) ",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260810/thiet-quyen-lang-tu-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260810/thiet-quyen-lang-tu-phan-1-thumb.webp",
-      "year": 1970,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (79/79)",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "the-guns-of-navarone-1961-d05f543c",
-      "source": "phimapi",
-      "slug": "dai-phao-thanh-navarone",
-      "name": "Đại Pháo Thành Navarone",
-      "originName": "The Guns Of Navarone",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260805/dai-phao-thanh-navarone-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260805/dai-phao-thanh-navarone-thumb.webp",
-      "year": 1961,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chiến Tranh",
-          "slug": "chien-tranh"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
+          "name": "Nam Phi",
+          "slug": "nam-phi"
         },
         {
           "name": "Âu Mỹ",

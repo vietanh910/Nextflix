@@ -2,8 +2,164 @@
   "slug": "hanh-dong",
   "name": "Hành Động",
   "page": 5,
-  "totalPages": 8,
+  "totalPages": 9,
   "items": [
+    {
+      "id": "ash-2026-06610dae",
+      "source": "phimapi",
+      "slug": "tan-thuoc",
+      "name": "Tàn Thuốc",
+      "originName": "Ash",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 3",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "mutiny-2026-ae7a246d",
+      "source": "phimapi",
+      "slug": "tau-buon-nguoi",
+      "name": "Tàu Buôn Người",
+      "originName": "Mutiny",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260821/tau-buon-nguoi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260821/tau-buon-nguoi-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "golden-curse-2026-e7144e55",
+      "source": "phimapi",
+      "slug": "than-tai-dau-chiem-long",
+      "name": "Thần Tài Đậu Chiêm Long",
+      "originName": "Golden Curse",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260818/than-tai-dau-chiem-long-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260818/than-tai-dau-chiem-long-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 3",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "mushoku-tensei-jobless-r-2026-7854f359",
+      "source": "phimapi",
+      "slug": "that-nghiep-chuyen-sinh-phan-3",
+      "name": "Thất Nghiệp Chuyển Sinh (Phần 3)",
+      "originName": "Mushoku Tensei: Jobless Reincarnation (Season 3)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260705-1/7a2f81eb1bff8b655f808758cbaeb2b8.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260705-1/a1a382342ca441845e6ed49d2ad1c5b3.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 8",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
     {
       "id": "the-two-faces-of-thatri-2026-c6b0f81b",
       "source": "phimapi",
@@ -46,43 +202,6 @@
       ]
     },
     {
-      "id": "malaikat-malam-2026-55e94a64",
-      "source": "phimapi",
-      "slug": "thien-than-dem",
-      "name": "Thiên Thần Đêm",
-      "originName": "Malaikat Malam",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260805/thien-than-dem-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260805/thien-than-dem-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Malaysia",
-          "slug": "malaysia"
-        }
-      ]
-    },
-    {
       "id": "the-elusive-samurai-seas-2026-7ee5fccc",
       "source": "phimapi",
       "slug": "thieu-chu-gioi-chay-tron-phan-2",
@@ -93,7 +212,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -130,7 +249,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hành Động",
@@ -161,47 +280,6 @@
       ]
     },
     {
-      "id": "full-time-magister-seaso-2026-7b2fb535",
-      "source": "phimapi",
-      "slug": "toan-chuc-phap-su-phan-7",
-      "name": "Toàn Chức Pháp Sư (Phần 7)",
-      "originName": "Full-Time Magister (Season 7)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260519-1/d7584901fa2edcff0bf19aa372bbec40.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260519-1/dee7ca0537499751b0b5382d0bce65ed.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
       "id": "i-became-a-legend-after--2026-e4136c78",
       "source": "phimapi",
       "slug": "toi-tro-thanh-huyen-thoai-sau-tran-chien-cuoi-cung-keo-dai-10-nam",
@@ -212,7 +290,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hành Động",
@@ -253,7 +331,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hành Động",
@@ -294,7 +372,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hành Động",
@@ -334,8 +412,8 @@
       "thumbUrl": "https://phimimg.com/upload/vod/20260423-1/950380cf1fa0a107247fefbd2b2e2346.jpg",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 18",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (19/19)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -380,7 +458,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -515,7 +593,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -542,6 +620,51 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-walking-dead-dead-ci-2026-e49b74e1",
+      "source": "phimapi",
+      "slug": "xac-song-thanh-pho-chet-phan-3",
+      "name": "Xác Sống: Thành Phố Chết (Phần 3)",
+      "originName": "The Walking Dead: Dead City (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260817/xac-song-thanh-pho-chet-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260817/xac-song-thanh-pho-chet-phan-3-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 3",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -805,160 +928,29 @@
       ]
     },
     {
-      "id": "manila-s-finest-2025-89a4fcfd",
+      "id": "the-roughneck-2025-cfa2497b",
       "source": "phimapi",
-      "slug": "canh-sat-uu-tu-manila",
-      "name": "Cảnh Sát Ưu Tú Manila",
-      "originName": "Manila's Finest",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260807/canh-sat-uu-tu-manila-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260807/canh-sat-uu-tu-manila-thumb.webp",
+      "slug": "bi-mat-den-toi",
+      "name": "Bí Mật Đen Tối",
+      "originName": "The Roughneck",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260822/bi-mat-den-toi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/bi-mat-den-toi-thumb.webp",
       "year": 2025,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Philippines",
-          "slug": "philippines"
-        }
-      ]
-    },
-    {
-      "id": "digimon-beatbreak-2025-d92f228c",
-      "source": "phimapi",
-      "slug": "digimon-beatbreak",
-      "name": "DIGIMON BEATBREAK",
-      "originName": "Digimon Beatbreak",
-      "posterUrl": "https://phimimg.com/upload/vod/20251111-1/0db4abb38dc3193efe0ac7c3d7d4753b.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251111-1/b9d5ee4209289a3e9ba05a7b002f8e0c.jpg",
-      "year": 2025,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 42",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Trẻ Em",
-          "slug": "tre-em"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "kamen-rider-zeztz-2025-c2ebc58d",
-      "source": "phimapi",
-      "slug": "hiep-si-mat-na-zeztz",
-      "name": "Hiệp Sĩ Mặt Nạ ZEZTZ",
-      "originName": "Kamen Rider ZEZTZ",
-      "posterUrl": "https://phimimg.com/upload/vod/20250909-1/f24410500ec5132d041c94af7243ade3.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250909-1/9687569eb69eb6084238e0c46149fbc0.jpg",
-      "year": 2025,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 47",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
           "name": "Tâm Lý",
           "slug": "tam-ly"
         },
         {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "your-friendly-neighborho-2025-f4de8278",
-      "source": "phimapi",
-      "slug": "nguoi-nhen-hang-xom-than-thien",
-      "name": "Người Nhện Hàng Xóm Thân Thiện",
-      "originName": "Your Friendly Neighborhood Spider-Man",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260809/nguoi-nhen-hang-xom-than-thien-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260809/nguoi-nhen-hang-xom-than-thien-thumb.webp",
-      "year": 2025,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
           "name": "Hành Động",
           "slug": "hanh-dong"
         },
         {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [

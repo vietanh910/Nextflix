@@ -1,0 +1,63 @@
+{
+  "id": "elvis-2022-b8d5e964",
+  "source": "phimapi",
+  "slug": "elvis",
+  "name": "Elvis",
+  "originName": "Elvis",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260821/elvis-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260821/elvis-thumb.webp",
+  "year": 2022,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Âm Nhạc",
+      "slug": "am-nhac"
+    },
+    {
+      "name": "Lịch Sử",
+      "slug": "lich-su"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Úc",
+      "slug": "uc"
+    },
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Chuyện phim ELVIS khám phá những khía cạnh trong cuộc đời cũng như âm nhạc của Elvis Presley thông qua lăng kính về mối quan hệ phức tạp của ông với người quản lý Tom Parker. Được kể từ góc nhìn của Parker, phim đào sâu vào sự liên kết của Presley và Parker trong suốt 20 năm, từ lúc cậu trai trẻ Presley vụt sáng thành sao trong bối cảnh xã hội Mỹ rối ren và văn hóa đại chúng ngày một phát triển. Trung tâm của hành trình đó là một trong những người có ảnh hưởng sâu sắc nhất trong cuộc đời của Elvis, Priscilla Presley.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260820/mv8BL6oB/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260820/mv8BL6oB/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "elvis",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

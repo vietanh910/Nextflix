@@ -2,32 +2,69 @@
   "slug": "tam-ly",
   "name": "Tâm Lý",
   "page": 15,
-  "totalPages": 16,
+  "totalPages": 15,
   "items": [
     {
-      "id": "pinocchio-2014-f442f4d5",
+      "id": "the-skeleton-key-2005-8c999788",
       "source": "phimapi",
-      "slug": "cap-doi-trai-nguoc",
-      "name": "Cặp Đôi Trái Ngược",
-      "originName": "Pinocchio",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260809/cap-doi-trai-nguoc-poster-2.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260809/cap-doi-trai-nguoc-thumb.webp",
-      "year": 2014,
-      "type": "series",
+      "slug": "chia-khoa-xuong-nguoi",
+      "name": "Chìa Khóa Xương Người",
+      "originName": "The Skeleton Key",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260809/chia-khoa-xuong-nguoi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260809/chia-khoa-xuong-nguoi-thumb.webp",
+      "year": 2005,
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (20/20)",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
         },
         {
           "name": "Bí Ẩn",
           "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Đức",
+          "slug": "duc"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-king-and-the-clown-2005-5a1c93df",
+      "source": "phimapi",
+      "slug": "nha-vua-va-chang-he-nha-vua-va-chu-he",
+      "name": "Nhà Vua Và Chàng Hề (Nhà vua và Chú hề)",
+      "originName": "The King And The Clown",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260809/nha-vua-va-chang-he-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260809/nha-vua-va-chang-he-thumb.webp",
+      "year": 2005,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Lịch Sử",
+          "slug": "lich-su"
         },
         {
           "name": "Tâm Lý",
@@ -42,54 +79,21 @@
       ]
     },
     {
-      "id": "derek-season-2-2014-85b6c81e",
+      "id": "the-man-who-wasn-t-there-2001-ce519499",
       "source": "phimapi",
-      "slug": "derek-phan-2",
-      "name": "Derek (Phần 2)",
-      "originName": "Derek (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260805/derek-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260805/derek-phan-2-thumb.webp",
-      "year": 2014,
-      "type": "series",
+      "slug": "nguoi-dan-ong-vang-mat",
+      "name": "Người Đàn Ông Vắng Mặt",
+      "originName": "The Man Who Wasn't There",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260821/nguoi-dan-ong-vang-mat-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260821/nguoi-dan-ong-vang-mat-thumb.webp",
+      "year": 2001,
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (6/6)",
+      "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
-        }
-      ]
-    },
-    {
-      "id": "derek-season-3-2014-649f4be4",
-      "source": "phimapi",
-      "slug": "derek-phan-3",
-      "name": "Derek (Phần 3)",
-      "originName": "Derek (Season 3)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260808/derek-phan-3-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260808/derek-phan-3-thumb.webp",
-      "year": 2014,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (1/1)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Hình Sự",
+          "slug": "hinh-su"
         },
         {
           "name": "Chính Kịch",
@@ -104,18 +108,22 @@
         {
           "name": "Anh",
           "slug": "anh"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
     {
-      "id": "heaven-is-for-real-2014-c5cbb81e",
+      "id": "the-tailor-of-panama-2001-84dd3fc3",
       "source": "phimapi",
-      "slug": "thien-duong-la-co-that",
-      "name": "Thiên Đường Là Có Thật",
-      "originName": "Heaven Is For Real",
-      "posterUrl": "https://phimimg.com/upload/vod/20231111-1/66f277b5f223fe130db3de7bc0a3dd75.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20231111-1/a06c613fac7203c3607865d36717555c.jpg",
-      "year": 2014,
+      "slug": "nguoi-tho-may-o-panama",
+      "name": "Người Thợ May Ở Panama",
+      "originName": "The Tailor Of Panama",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260817/nguoi-tho-may-o-panama-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260817/nguoi-tho-may-o-panama-thumb.webp",
+      "year": 2001,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
@@ -123,6 +131,129 @@
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ireland",
+          "slug": "ireland"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "marsupilami-2000-271dc1d6",
+      "source": "phimapi",
+      "slug": "ban-toi-la-marsupilami",
+      "name": "Bạn Tôi Là Marsupilami",
+      "originName": "Marsupilami",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-thumb.webp",
+      "year": 2000,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (41/41)",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Đức",
+          "slug": "duc"
+        }
+      ]
+    },
+    {
+      "id": "practical-magic-1998-b8c09600",
+      "source": "phimapi",
+      "slug": "ma-thuat-thuc-hanh",
+      "name": "Ma Thuật Thực Hành",
+      "originName": "Practical Magic",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260819/ma-thuat-thuc-hanh-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260819/ma-thuat-thuc-hanh-thumb.webp",
+      "year": 1998,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "beast-wars-transformers--1998-b14ec579",
+      "source": "phimapi",
+      "slug": "sieu-thu-bien-hinh-manh-thu-dai-chien-robot-bien-hinh-phan-3",
+      "name": "Siêu Thú Biến Hình / Mãnh Thú Đại Chiến: Robot Biến Hình (Phần 3)",
+      "originName": "Beast Wars Transformers (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260822/sieu-thu-bien-hinh-manh-thu-dai-chien-robot-bien-hinh-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/sieu-thu-bien-hinh-manh-thu-dai-chien-robot-bien-hinh-phan-3-thumb.webp",
+      "year": 1998,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
         },
         {
           "name": "Tâm Lý",
@@ -133,7 +264,118 @@
         {
           "name": "Canada",
           "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "beast-wars-transformers--1997-e731f828",
+      "source": "phimapi",
+      "slug": "sieu-thu-bien-hinh-manh-thu-dai-chien-robot-bien-hinh-phan-2",
+      "name": "Siêu Thú Biến Hình / Mãnh Thú Đại Chiến: Robot Biến Hình (Phần 2)",
+      "originName": "Beast Wars Transformers (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260822/sieu-thu-bien-hinh-manh-thu-dai-chien-robot-bien-hinh-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/sieu-thu-bien-hinh-manh-thu-dai-chien-robot-bien-hinh-phan-2-thumb.webp",
+      "year": 1997,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
         },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "beast-wars-transformers--1996-0f77c4e8",
+      "source": "phimapi",
+      "slug": "sieu-thu-bien-hinh-manh-thu-dai-chien-robot-bien-hinh-phan-1",
+      "name": "Siêu Thú Biến Hình / Mãnh Thú Đại Chiến: Robot Biến Hình (Phần 1)",
+      "originName": "Beast Wars Transformers (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260822/sieu-thu-bien-hinh-manh-thu-dai-chien-robot-bien-hinh-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/sieu-thu-bien-hinh-manh-thu-dai-chien-robot-bien-hinh-phan-1-thumb.webp",
+      "year": 1996,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (26/26)",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "higher-learning-1995-c83a77b5",
+      "source": "phimapi",
+      "slug": "sinh-ton-o-dai-hoc",
+      "name": "Sinh Tồn Ở Đại Học",
+      "originName": "Higher Learning",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260815/sinh-ton-o-dai-hoc-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260815/sinh-ton-o-dai-hoc-thumb.webp",
+      "year": 1995,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
@@ -141,18 +383,368 @@
       ]
     },
     {
-      "id": "young-sherlock-2014-712a9f81",
+      "id": "sleepaway-camp-iii-teena-1989-4767d417",
       "source": "phimapi",
-      "slug": "thieu-nien-than-tham-dich-nhan-kiet",
-      "name": "Thiếu Niên Thần Thám Địch Nhân Kiệt",
-      "originName": "Young Sherlock",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260808/thieu-nien-than-tham-dich-nhan-kiet-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260808/thieu-nien-than-tham-dich-nhan-kiet-thumb.webp",
-      "year": 2014,
+      "slug": "trai-he-kinh-hoang-3",
+      "name": "Trại Hè Kinh Hoàng 3",
+      "originName": "Sleepaway Camp III: Teenage Wasteland",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260811/trai-he-kinh-hoang-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260811/trai-he-kinh-hoang-3-thumb.webp",
+      "year": 1989,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "dragon-ball-mystical-adv-1988-4bf2ec57",
+      "source": "phimapi",
+      "slug": "7-vien-ngoc-rong-hanh-trinh-ky-dieu-bay-vien-ngoc-rong-cuoc-phieu-luu-huyen-bi",
+      "name": "7 Viên Ngọc Rồng: Hành Trình Kỳ Diệu / Bảy Viên Ngọc Rồng: Cuộc Phiêu Lưu Huyền Bí",
+      "originName": "Dragon Ball: Mystical Adventure",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260809/7-vien-ngoc-rong-hanh-trinh-ky-dieu-bay-vien-ngoc-rong-cuoc-phieu-luu-huyen-bi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260809/7-vien-ngoc-rong-hanh-trinh-ky-dieu-bay-vien-ngoc-rong-cuoc-phieu-luu-huyen-bi-thumb.webp",
+      "year": 1988,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "poltergeist-iii-1988-1521daa0",
+      "source": "phimapi",
+      "slug": "ma-quay-pha-3-yeu-tinh-3",
+      "name": "Ma Quậy Phá 3 / Yêu Tinh 3",
+      "originName": "Poltergeist III",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260822/ma-quay-pha-3-yeu-tinh-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/ma-quay-pha-3-yeu-tinh-3-thumb.webp",
+      "year": 1988,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "sleepaway-camp-ii-unhapp-1988-36c9cfd3",
+      "source": "phimapi",
+      "slug": "trai-he-kinh-hoang-2",
+      "name": "Trại Hè Kinh Hoàng 2",
+      "originName": "Sleepaway Camp II: Unhappy Campers",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260811/trai-he-kinh-hoang-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260811/trai-he-kinh-hoang-2-thumb.webp",
+      "year": 1988,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "poltergeist-ii-the-other-1986-71dc51da",
+      "source": "phimapi",
+      "slug": "ma-quay-pha-2-yeu-tinh-2",
+      "name": "Ma Quậy Phá 2 / Yêu Tinh 2",
+      "originName": "Poltergeist II: The Other Side",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260822/ma-quay-pha-2-yeu-tinh-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/ma-quay-pha-2-yeu-tinh-2-thumb.webp",
+      "year": 1986,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "new-heavenly-sword-and-d-1986-11e48a98",
+      "source": "phimapi",
+      "slug": "y-thien-do-long-ky-co-gai-do-long",
+      "name": "Ỷ Thiên Đồ Long Ký / Cô Gái Đồ Long",
+      "originName": "New Heavenly Sword And Dragon Sabre",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260817/y-thien-do-long-ky-co-gai-do-long-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260817/y-thien-do-long-ky-co-gai-do-long-thumb.webp",
+      "year": 1986,
       "type": "series",
       "status": "completed",
       "episodeCurrent": "Hoàn Tất (40/40)",
       "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "sleepaway-camp-1983-a9f6496c",
+      "source": "phimapi",
+      "slug": "trai-he-kinh-hoang",
+      "name": "Trại Hè Kinh Hoàng",
+      "originName": "Sleepaway Camp",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260811/trai-he-kinh-hoang-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260811/trai-he-kinh-hoang-thumb.webp",
+      "year": 1983,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "zapped-1982-8da8235a",
+      "source": "phimapi",
+      "slug": "zapped",
+      "name": "Zapped!",
+      "originName": "Zapped!",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260822/zapped-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/zapped-thumb.webp",
+      "year": 1982,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-four-seasons-1981-24e29be1",
+      "source": "phimapi",
+      "slug": "bon-mua-1981",
+      "name": "Bốn Mùa",
+      "originName": "The Four Seasons",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260811/bon-mua-1981-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260811/bon-mua-1981-thumb.webp",
+      "year": 1981,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "tomorrow-s-joe-ashita-no-1980-51656419",
+      "source": "phimapi",
+      "slug": "thiet-quyen-lang-tu-phan-2",
+      "name": "Thiết Quyền Lãng Tử (Phần 2)",
+      "originName": "Tomorrow's Joe / Ashita no Joe (Season 2) ",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260810/thiet-quyen-lang-tu-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260810/thiet-quyen-lang-tu-phan-2-thumb.webp",
+      "year": 1980,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (47/47)",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-inugami-family-1976-55b6cbaa",
+      "source": "phimapi",
+      "slug": "gia-dinh-inugami",
+      "name": "Gia Đình Inugami",
+      "originName": "The Inugami Family",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260808/gia-dinh-inugami-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260808/gia-dinh-inugami-thumb.webp",
+      "year": 1976,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
         {
           "name": "Bí Ẩn",
           "slug": "bi-an"
@@ -160,426 +752,6 @@
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "puncture-wounds-2014-c45bbb24",
-      "source": "phimapi",
-      "slug": "vet-thuong-kho-lanh",
-      "name": "Vết Thương Khó Lành",
-      "originName": "Puncture Wounds",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260801/vet-thuong-kho-lanh-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260801/vet-thuong-kho-lanh-thumb.webp",
-      "year": 2014,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "derek-season-1-2013-4cdd5223",
-      "source": "phimapi",
-      "slug": "derek-phan-1",
-      "name": "Derek (Phần 1)",
-      "originName": "Derek (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260805/derek-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260805/derek-phan-1-thumb.webp",
-      "year": 2013,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (7/7)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
-        }
-      ]
-    },
-    {
-      "id": "her-2013-366fc3ed",
-      "source": "phimapi",
-      "slug": "nang-nguoi-tinh-may-tinh",
-      "name": "Nàng / Người Tình Máy Tính",
-      "originName": "Her",
-      "posterUrl": "https://phimimg.com/upload/vod/20241218-1/0b1408ee2841e0967af302b50cc21c9a.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20241218-1/73e211938d22ef363ece15a845a7394f.jpg",
-      "year": 2013,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "icarly-season-6-2012-5de92a92",
-      "source": "phimapi",
-      "slug": "co-be-internet-carly-phan-6",
-      "name": "Cô Bé Internet Carly (Phần 6)",
-      "originName": "iCarly (Season 6)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260816/co-be-internet-carly-phan-6-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260816/co-be-internet-carly-phan-6-thumb.webp",
-      "year": 2012,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "gossip-girl-season-6-2012-1d9c761c",
-      "source": "phimapi",
-      "slug": "hoi-ba-tam-co-nang-lam-chuyen-phan-6",
-      "name": "Hội Bà Tám / Cô Nàng Lắm Chuyện (Phần 6)",
-      "originName": "Gossip Girl (Season 6)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260816/hoi-ba-tam-co-nang-lam-chuyen-phan-6-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260816/hoi-ba-tam-co-nang-lam-chuyen-phan-6-thumb.webp",
-      "year": 2012,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "smashed-2012-3eca182e",
-      "source": "phimapi",
-      "slug": "sau-con-say-dap-tan",
-      "name": "Sau Cơn Say (Đập Tan)",
-      "originName": "Smashed",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260801/sau-con-say-dap-tan-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260801/sau-con-say-dap-tan-thumb.webp",
-      "year": 2012,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "icarly-season-5-2011-5ff33fce",
-      "source": "phimapi",
-      "slug": "co-be-internet-carly-phan-5",
-      "name": "Cô Bé Internet Carly (Phần 5)",
-      "originName": "iCarly (Season 5)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260816/co-be-internet-carly-phan-5-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260816/co-be-internet-carly-phan-5-thumb.webp",
-      "year": 2011,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (11/11)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "gossip-girl-season-5-2011-14b2debb",
-      "source": "phimapi",
-      "slug": "hoi-ba-tam-co-nang-lam-chuyen-phan-5",
-      "name": "Hội Bà Tám / Cô Nàng Lắm Chuyện (Phần 5)",
-      "originName": "Gossip Girl (Season 5)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260816/hoi-ba-tam-co-nang-lam-chuyen-phan-5-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260816/hoi-ba-tam-co-nang-lam-chuyen-phan-5-thumb.webp",
-      "year": 2011,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (24/24)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "gossip-girl-season-4-2010-40da1e91",
-      "source": "phimapi",
-      "slug": "hoi-ba-tam-co-nang-lam-chuyen-phan-4",
-      "name": "Hội Bà Tám / Cô Nàng Lắm Chuyện (Phần 4)",
-      "originName": "Gossip Girl (Season 4)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260816/hoi-ba-tam-co-nang-lam-chuyen-phan-4-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260816/hoi-ba-tam-co-nang-lam-chuyen-phan-4-thumb.webp",
-      "year": 2010,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (22/22)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "icarly-season-3-2009-d973a001",
-      "source": "phimapi",
-      "slug": "co-be-internet-carly-phan-3",
-      "name": "Cô Bé Internet Carly (Phần 3)",
-      "originName": "iCarly (Season 3)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260816/co-be-internet-carly-phan-3-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260816/co-be-internet-carly-phan-3-thumb.webp",
-      "year": 2009,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (20/20)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "gossip-girl-season-3-2009-d4fcf45e",
-      "source": "phimapi",
-      "slug": "hoi-ba-tam-co-nang-lam-chuyen-phan-3",
-      "name": "Hội Bà Tám / Cô Nàng Lắm Chuyện (Phần 3)",
-      "originName": "Gossip Girl (Season 3)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260816/hoi-ba-tam-co-nang-lam-chuyen-phan-3-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260816/hoi-ba-tam-co-nang-lam-chuyen-phan-3-thumb.webp",
-      "year": 2009,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (22/22)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "teke-teke-2009-d9bc25b7",
-      "source": "phimapi",
-      "slug": "hon-ma-khong-chan",
-      "name": "Hồn Ma Không Chân",
-      "originName": "Teke Teke",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260813/hon-ma-khong-chan-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260813/hon-ma-khong-chan-thumb.webp",
-      "year": 2009,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
         }
       ],
       "countries": [
@@ -590,223 +762,70 @@
       ]
     },
     {
-      "id": "teke-teke-2-2009-69c5546a",
+      "id": "tomorrow-s-joe-ashita-no-1970-56096380",
       "source": "phimapi",
-      "slug": "hon-ma-khong-chan-2",
-      "name": "Hồn Ma Không Chân 2",
-      "originName": "Teke Teke 2",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260813/hon-ma-khong-chan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260813/hon-ma-khong-chan-2-thumb.webp",
-      "year": 2009,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "gossip-girl-season-2-2008-0ac752a9",
-      "source": "phimapi",
-      "slug": "hoi-ba-tam-co-nang-lam-chuyen-phan-2",
-      "name": "Hội Bà Tám / Cô Nàng Lắm Chuyện (Phần 2)",
-      "originName": "Gossip Girl (Season 2)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260615-1/f8d6b54b67e4949d2278f2f898ed713a.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260615-1/db551273d63c3b978a20cdcc066f4d05.jpg",
-      "year": 2008,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (25/25)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "return-to-sleepaway-camp-2008-88fb7ade",
-      "source": "phimapi",
-      "slug": "tro-lai-trai-he-kinh-hoang",
-      "name": "Trở Lại Trại Hè Kinh Hoàng",
-      "originName": "Return to Sleepaway Camp",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260811/tro-lai-trai-he-kinh-hoang-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260811/tro-lai-trai-he-kinh-hoang-thumb.webp",
-      "year": 2008,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "wieners-2008-f5c1bb34",
-      "source": "phimapi",
-      "slug": "xuc-xich-duong-dai",
-      "name": "Xúc Xích Đường Dài",
-      "originName": "Wieners",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260815/xuc-xich-duong-dai-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260815/xuc-xich-duong-dai-thumb.webp",
-      "year": 2008,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "icarly-season-1-2007-d95d7445",
-      "source": "phimapi",
-      "slug": "co-be-internet-carly-phan-1",
-      "name": "Cô Bé Internet Carly (Phần 1)",
-      "originName": "iCarly (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260816/co-be-internet-carly-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260816/co-be-internet-carly-phan-1-thumb.webp",
-      "year": 2007,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (25/25)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "gossip-girl-season-1-2007-726f0664",
-      "source": "phimapi",
-      "slug": "hoi-ba-tam-co-nang-lam-chuyen-phan-1",
-      "name": "Hội Bà Tám / Cô Nàng Lắm Chuyện (Phần 1)",
-      "originName": "Gossip Girl (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260615-1/c9c15e52c84448f2cb8e2374a628f5fc.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260615-1/abc45eb32693be89b7dd9f17c5274e92.jpg",
-      "year": 2007,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (18/18)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "detective-conan-2005-98e12589",
-      "source": "ophim",
-      "slug": "tham-tu-lung-danh-conan",
-      "name": "Thám Tử Lừng Danh Conan",
-      "originName": "Detective Conan",
-      "posterUrl": "tham-tu-lung-danh-conan-poster.jpg",
-      "thumbUrl": "tham-tu-lung-danh-conan-thumb.jpg",
-      "year": 2005,
+      "slug": "thiet-quyen-lang-tu-phan-1",
+      "name": "Thiết Quyền Lãng Tử (Phần 1)",
+      "originName": "Tomorrow's Joe / Ashita no Joe (Season 1) ",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260810/thiet-quyen-lang-tu-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260810/thiet-quyen-lang-tu-phan-1-thumb.webp",
+      "year": 1970,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 1203",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (79/79)",
       "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "it-s-the-great-pumpkin-c-1966-a97cdb50",
+      "source": "phimapi",
+      "slug": "do-la-sieu-bi-ngo-charlie-brown",
+      "name": "Đó Là Siêu Bí Ngô, Charlie Brown",
+      "originName": "It's The Great Pumpkin, Charlie Brown",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260822/do-la-sieu-bi-ngo-charlie-brown-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/do-la-sieu-bi-ngo-charlie-brown-thumb.webp",
+      "year": 1966,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (1/1)",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "TV Shows",
+          "slug": "tv-shows"
         },
         {
           "name": "Hài Hước",
@@ -815,16 +834,12 @@
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
         }
       ],
       "countries": [
         {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     }

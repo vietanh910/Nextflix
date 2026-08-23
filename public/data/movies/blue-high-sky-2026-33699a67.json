@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260708/troi-cao-nguyen-xanh-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 26",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (27/27)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -237,13 +237,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260814/9TgSfV2T/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260814/9TgSfV2T/index.m3u8"
+    },
+    {
+      "name": "Tập 27",
+      "slug": "tap-27",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260818/urklII67/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260818/urklII67/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "troi-cao-nguyen-xanh",
-      "episodeCount": 26,
+      "episodeCount": 27,
       "priority": 1
     }
   ],

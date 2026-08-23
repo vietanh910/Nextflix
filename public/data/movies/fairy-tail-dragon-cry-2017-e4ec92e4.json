@@ -9,7 +9,22 @@
   "year": 2017,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "countries": [],
+  "description": "In the Kingdom of Fiore lies a terrible weapon: the Dragon Cry, a magical staff rumored to possess power capable of destroying the world. For years, it's been safely guarded and kept away from those tempted by its power. But everything changes when a traitor named Zash manages to steal it away. Now, in the hands of Animus— the cruel ruler of the Kingdom of Stella— a plot begins to form with the fate of the world at their mercy.<br>\n<br>\nLuckily, a simple recovery task is nothing for the wizards of Fairy Tail! Together, Natsu and his friends go undercover to infiltrate Stella Kingdom in hopes of getting answers and restoring safety to the realm. But they quickly find there's more to this staff than the stories claim. What power really dwells within the Dragon Cry, and is the gang strong enough to fight ultimate destruction?<br>\n<br>\n(Source: Crunchyroll, edited)",
   "episodes": [],
   "sources": [
     {

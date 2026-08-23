@@ -9,7 +9,26 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Slice of Life",
+      "slug": "slice-of-life"
+    },
+    {
+      "name": "Supernatural",
+      "slug": "supernatural"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "countries": [],
+  "description": "The fifth season of <i>Natsume Yuujinchou</i>.",
   "episodes": [],
   "sources": [
     {

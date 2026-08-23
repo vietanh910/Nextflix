@@ -1,0 +1,71 @@
+{
+  "id": "phu-sa-2026-f2a88e2b",
+  "source": "phimapi",
+  "slug": "phu-sa",
+  "name": "Phù Sa",
+  "originName": "Phu Sa",
+  "posterUrl": "https://i.ex-cdn.com/danviet.vn/files/content/2026/08/13/final--poster-phu-sa-1012.jpg",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260819/phu-sa-thumb.webp",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 3",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Việt Nam",
+      "slug": "viet-nam"
+    }
+  ],
+  "description": "<p>Câu chuyện bắt đầu tại xóm Bình Hòa ven sông Tiền, nơi những vụ sạt lở liên tiếp khiến nhà cửa, vườn tược đứng trước nguy cơ biến mất. Người dân hoang mang, những lời đồn về đất đai mất giá xuất hiện, cò đất lảng vảng và ngày càng nhiều gia đình nghĩ tới chuyện bán đất, rời quê. Đúng lúc ấy, Phù Sa (diễn viên Trúc Mây) từ thành phố trở về mang theo một kế hoạch đầy tham vọng: Nâng giá trị cây ca cao, tạo ra sản phẩm của Bình Hòa và từ đó mở thêm sinh kế cho người dân.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260819/P5zaDB5g/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260819/P5zaDB5g/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260819/VILOFU61/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260819/VILOFU61/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/bhFoswjK/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260822/bhFoswjK/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "phu-sa",
+      "episodeCount": 3,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

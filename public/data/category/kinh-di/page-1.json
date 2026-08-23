@@ -457,7 +457,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 18",
+      "episodeCurrent": "Tập 20",
       "categories": [
         {
           "name": "Khoa Học",
@@ -484,62 +484,21 @@
       ]
     },
     {
-      "id": "leviticus-2026-daf6536f",
+      "id": "colony-2026-5451cf13",
       "source": "phimapi",
-      "slug": "leviticus-bong-quy",
-      "name": "Leviticus: Bóng Quỷ",
-      "originName": "Leviticus",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260801/leviticus-bong-quy-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260801/leviticus-bong-quy-thumb.webp",
+      "slug": "bay-xac-song",
+      "name": "Bầy Xác Sống",
+      "originName": "Colony",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260723/bay-xac-song-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260723/bay-xac-song-thumb.webp",
       "year": 2026,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Úc",
-          "slug": "uc"
-        }
-      ]
-    },
-    {
-      "id": "scary-movie-2026-5d0d24b5",
-      "source": "phimapi",
-      "slug": "lien-khuc-phim-kinh-di-6",
-      "name": "Liên Khúc Phim Kinh Dị 6",
-      "originName": "Scary Movie",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260718/lien-khuc-phim-kinh-di-6-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260718/lien-khuc-phim-kinh-di-6-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
         },
         {
           "name": "Kinh Dị",
@@ -552,8 +511,8 @@
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
@@ -591,47 +550,6 @@
       ]
     },
     {
-      "id": "mikael-hunter-of-two-rea-2026-b573d5f2",
-      "source": "phimapi",
-      "slug": "mikael-tho-san-cua-hai-the-gioi",
-      "name": "Mikael Thợ Săn Của Hai Thế Giới",
-      "originName": "Mikael: Hunter Of Two Realms / Mikael: Pemburu Dua Alam",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260804/mikael-tho-san-cua-hai-the-gioi-mikael-pemburu-dua-alam-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260804/mikael-tho-san-cua-hai-the-gioi-mikael-pemburu-dua-alam-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Malaysia",
-          "slug": "malaysia"
-        }
-      ]
-    },
-    {
       "id": "the-last-house-2026-319bd017",
       "source": "phimapi",
       "slug": "ngoi-nha-cuoi-cung",
@@ -665,6 +583,64 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "feed-2026-a1bad163",
+      "source": "phimapi",
+      "slug": "nuoi-duong",
+      "name": "Nuôi Dưỡng",
+      "originName": "Feed",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260822/nuoi-duong-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/nuoi-duong-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "IE",
+          "slug": "ie"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "BE",
+          "slug": "be"
+        }
+      ]
+    },
+    {
+      "id": "the-corspe-2-2026-94890a96",
+      "source": "phimapi",
+      "slug": "quy-nhap-trang-2",
+      "name": "Quỷ Nhập Tràng 2",
+      "originName": "The Corspe 2",
+      "posterUrl": "https://phimimg.com/upload/vod/20260505-1/ffbe96cdfc4d8a0c2551286a019fe36b.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260505-1/cbc5286fb860a0c8aaf625058869d6fe.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Việt Nam",
+          "slug": "viet-nam"
         }
       ]
     },

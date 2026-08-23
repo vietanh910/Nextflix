@@ -9,7 +9,7 @@
   "year": 2025,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 42",
+  "episodeCurrent": "Tập 43",
   "categories": [
     {
       "name": "Hành Động",
@@ -377,13 +377,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260810/J8Hku2f9/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260810/J8Hku2f9/index.m3u8"
+    },
+    {
+      "name": "Tập 43",
+      "slug": "tap-43",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260818/mytXKDwD/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260818/mytXKDwD/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "digimon-beatbreak",
-      "episodeCount": 42,
+      "episodeCount": 43,
       "priority": 1
     }
   ],

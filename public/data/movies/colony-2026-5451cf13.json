@@ -1,0 +1,63 @@
+{
+  "id": "colony-2026-5451cf13",
+  "source": "phimapi",
+  "slug": "bay-xac-song",
+  "name": "Bầy Xác Sống",
+  "originName": "Colony",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260723/bay-xac-song-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260723/bay-xac-song-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "<p>Giáo sư Se Jeong tham dự một hội nghị công nghệ sinh học, nhưng lại chứng kiến ​​nó biến thành thảm họa khi một loại virus đột biến nhanh chóng được giải phóng. Khi dịch bệnh lan rộng và những người nhiễm bệnh bắt đầu biến đổi, chính quyền đã phong tỏa toàn bộ cơ sở.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub + Thuyết Minh",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260723/IoxnhTek/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260723/IoxnhTek/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260817/tN5hKM0b/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260817/tN5hKM0b/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "bay-xac-song",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

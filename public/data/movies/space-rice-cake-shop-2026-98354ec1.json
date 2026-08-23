@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "tvshow",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 3",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -45,13 +45,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260808/KQg5eCEO/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260808/KQg5eCEO/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260819/T2Xrqa33/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260819/T2Xrqa33/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "tiem-banh-gao-vu-tru",
-      "episodeCount": 2,
+      "episodeCount": 3,
       "priority": 1
     }
   ],

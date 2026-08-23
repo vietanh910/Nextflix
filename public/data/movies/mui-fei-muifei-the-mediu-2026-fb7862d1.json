@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 18",
+  "episodeCurrent": "Tập 20",
   "categories": [
     {
       "name": "Khoa Học",
@@ -183,6 +183,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260812/CiEMlFbZ/index.m3u8"
     },
     {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260819/Igp41JWU/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260819/Igp41JWU/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260819/TOmsGltb/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260819/TOmsGltb/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -325,13 +341,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260812/rxUJH7BS/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260812/rxUJH7BS/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260819/qR2TKozQ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260819/qR2TKozQ/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260819/rEX0VQCw/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260819/rEX0VQCw/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "ba-dong-muifei-muoi-phi",
-      "episodeCount": 36,
+      "episodeCount": 40,
       "priority": 1
     }
   ],

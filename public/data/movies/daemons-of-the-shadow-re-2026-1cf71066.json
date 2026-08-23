@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 19",
+  "episodeCurrent": "Tập 20",
   "categories": [
     {
       "name": "Hành Động",
@@ -195,6 +195,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260815/Lwhr6aAp/index.m3u8"
     },
     {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/g3PRH3Yo/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260822/g3PRH3Yo/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Lồng Tiếng",
@@ -281,6 +289,14 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260815/Fbz75q6S/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260815/Fbz75q6S/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/psrkQ9i5/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260822/psrkQ9i5/index.m3u8"
     },
     {
       "name": "1",
@@ -413,7 +429,7 @@
     {
       "source": "phimapi",
       "slug": "song-menh-coi-hoang-tuyen",
-      "episodeCount": 30,
+      "episodeCount": 32,
       "priority": 1
     }
   ],

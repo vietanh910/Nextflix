@@ -5,6 +5,97 @@
   "totalPages": 23,
   "items": [
     {
+      "id": "loved-one-2026-04f2297a",
+      "source": "ophim",
+      "slug": "loved-one",
+      "name": "LOVED ONE",
+      "originName": "LOVED ONE",
+      "posterUrl": "loved-one-poster.jpg",
+      "thumbUrl": "loved-one-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 8",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-evil-lawyer-2026-7932e8f9",
+      "source": "ophim",
+      "slug": "luat-su-gian-ac",
+      "name": "Luật Sư Gian Ác",
+      "originName": "The Evil Lawyer",
+      "posterUrl": "luat-su-gian-ac-poster.jpg",
+      "thumbUrl": "luat-su-gian-ac-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "the-vampire-lestat-inter-2026-cb134e5f",
+      "source": "ophim",
+      "slug": "ma-ca-rong-lestat-de-lioncourt",
+      "name": "Ma Cà Rồng: Lestat de Lioncourt",
+      "originName": "The Vampire Lestat (Interview with the Vampire Season 3)",
+      "posterUrl": "ma-ca-rong-lestat-de-lioncourt-poster.jpg",
+      "thumbUrl": "ma-ca-rong-lestat-de-lioncourt-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 6",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "maa-behen-2026-b78e2a86",
       "source": "ophim",
       "slug": "maa-behen",
@@ -566,89 +657,6 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "the-testaments-season-1-2026-c1baa8b6",
-      "source": "ophim",
-      "slug": "nhung-ban-di-chuc-phan-1",
-      "name": "Những Bản Di Chúc (Phần 1)",
-      "originName": "The Testaments (Season 1)",
-      "posterUrl": "nhung-ban-di-chuc-phan-1-poster.jpg",
-      "thumbUrl": "nhung-ban-di-chuc-phan-1-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-flowers-of-evil-2026-e5c697b0",
-      "source": "ophim",
-      "slug": "nhung-bong-hoa-ac",
-      "name": "Những Bông Hoa Ác",
-      "originName": "The Flowers of Evil",
-      "posterUrl": "nhung-bong-hoa-ac-poster.jpg",
-      "thumbUrl": "nhung-bong-hoa-ac-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 9",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "notes-from-the-last-row-2026-08bc4e68",
-      "source": "ophim",
-      "slug": "nhung-ghi-chu-o-hang-cuoi",
-      "name": "Những ghi chú ở hàng cuối",
-      "originName": "Notes from the Last Row",
-      "posterUrl": "nhung-ghi-chu-o-hang-cuoi-poster.jpg",
-      "thumbUrl": "nhung-ghi-chu-o-hang-cuoi-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (6/6)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
         }
       ]
     }

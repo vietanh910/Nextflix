@@ -1,0 +1,86 @@
+{
+  "id": "the-furious-2026-7dbd81e5",
+  "source": "phimapi",
+  "slug": "con-thinh-no",
+  "name": "Cơn Thịnh Nộ",
+  "originName": "The Furious",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260707/con-thinh-no-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260707/con-thinh-no-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hồng Kông",
+      "slug": "hong-kong"
+    },
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    },
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Chủ tiệm Vương Vĩ có cô con gái Vũ Tình bị một băng nhóm tội phạm bắt cóc giữa phố. Trong hành trình giải cứu con, anh lần theo dấu vết của một mạng lưới buôn người và tội phạm ngầm vô cùng nguy hiểm. Đồng hành cùng anh là một nhà báo mang trong mình quá khứ bí ẩn. Hai người buộc phải hợp tác, sử dụng kỹ năng chiến đấu của mình để đối đầu với tổ chức tội phạm và đưa cô bé trở về an toàn.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub + Thuyết Minh",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260708/I8DoDA9u/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260708/I8DoDA9u/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260817/qT7ZV5hx/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260817/qT7ZV5hx/index.m3u8"
+    },
+    {
+      "name": "",
+      "serverName": "Vietsub #1",
+      "source": "ophim"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "con-thinh-no",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "con-thinh-no",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

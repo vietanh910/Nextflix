@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 1",
+  "episodeCurrent": "Tập 3",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -41,13 +41,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260812/aqhvloE3/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260812/aqhvloE3/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260817/lbWP7xEN/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260817/lbWP7xEN/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260818/VXJZRMKg/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260818/VXJZRMKg/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "hai-trai-tim",
-      "episodeCount": 1,
+      "episodeCount": 3,
       "priority": 1
     }
   ],

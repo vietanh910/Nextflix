@@ -3545,6 +3545,14 @@
         "name": "",
         "serverName": "Vietsub #1",
         "source": "ophim"
+      },
+      {
+        "name": "Full",
+        "slug": "full",
+        "serverName": "Vietsub",
+        "source": "phimapi",
+        "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260818/w61gaLGl/index.m3u8",
+        "m3u8Url": "https://v7.kkphimplayer7.com/20260818/w61gaLGl/index.m3u8"
       }
     ],
     "sources": [
@@ -3553,6 +3561,12 @@
         "slug": "cau-chuyen-do-choi-5",
         "episodeCount": 1,
         "priority": 0
+      },
+      {
+        "source": "phimapi",
+        "slug": "cau-chuyen-do-choi-5",
+        "episodeCount": 1,
+        "priority": 1
       }
     ],
     "_priority": 0
@@ -4752,6 +4766,169 @@
         "source": "ophim",
         "slug": "chi-oi-anh-yeu-em-phan-2",
         "episodeCount": 3,
+        "priority": 0
+      }
+    ],
+    "_priority": 0
+  },
+  {
+    "id": "portland-street-operatio-2026-df5ffe48",
+    "source": "ophim",
+    "slug": "chien-dich-pho-portland",
+    "name": "Chiến Dịch Phố Portland",
+    "originName": "Portland Street Operation",
+    "posterUrl": "chien-dich-pho-portland-poster.jpg",
+    "thumbUrl": "chien-dich-pho-portland-thumb.jpg",
+    "year": 2026,
+    "type": "series",
+    "status": "ongoing",
+    "episodeCurrent": "Tập 14",
+    "categories": [
+      {
+        "name": "Hành Động",
+        "slug": "hanh-dong"
+      },
+      {
+        "name": "Hình Sự",
+        "slug": "hinh-su"
+      },
+      {
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Trung Quốc",
+        "slug": "trung-quoc"
+      },
+      {
+        "name": "Hồng Kông",
+        "slug": "hong-kong"
+      }
+    ],
+    "description": "<p>Lương Chí Cường, Song Hoa Hồng Côn của bang Hợp Nghĩa Thịnh, vì gánh tội thay anh em mà phải ngồi tù suốt 20 năm. Sau khi mãn hạn tù, anh phát hiện người anh em năm xưa là Tạ Quán Hoành nay đã trở thành người nắm quyền trong bang hội, đồng thời cưới người yêu cũ của anh là Trịnh Bảo Kiều và có với cô một cậu con trai. Quyết tâm hoàn lương, Lương Chí Cường chỉ mong rời xa chốn giang hồ. Tại tiệm hoa Cát Tường, anh gặp gỡ rồi đem lòng yêu cô giáo Đan Ni, ngỡ rằng cuộc đời cuối cùng cũng đã sang trang. Thế nhưng, quá khứ chưa bao giờ thực sự khép lại. Bóng ma của vụ án năm xưa, sự đổi thay trong lòng người anh em và sự thật về tình thân lần lượt kéo anh trở về đêm định mệnh cách đây 20 năm - cái đêm đã thay đổi số phận của tất cả mọi người. Đúng lúc tưởng mình có thể làm lại cuộc đời, anh mới nhận ra giang hồ chưa từng thật sự buông tha mình. Nhưng lần này, anh không còn liều mình vì nghĩa khí huynh đệ, mà sẽ đánh cược tất cả để bảo vệ những người thật lòng quan tâm đến mình.</p>",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "episodes": [
+      {
+        "name": "1",
+        "slug": "1",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/85d8ce590ad8981ca2c8286f79f59954",
+        "m3u8Url": "https://vip.opstream800.com/20260724/197_85d8ce59/index.m3u8"
+      },
+      {
+        "name": "2",
+        "slug": "2",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/0e65972dce68dad4d52d063967f0a705",
+        "m3u8Url": "https://vip.opstream800.com/20260724/198_0e65972d/index.m3u8"
+      },
+      {
+        "name": "3",
+        "slug": "3",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/84d9ee44e457ddef7f2c4f25dc8fa865",
+        "m3u8Url": "https://vip.opstream800.com/20260724/199_84d9ee44/index.m3u8"
+      },
+      {
+        "name": "4",
+        "slug": "4",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/3644a684f98ea8fe223c713b77189a77",
+        "m3u8Url": "https://vip.opstream800.com/20260724/200_3644a684/index.m3u8"
+      },
+      {
+        "name": "5",
+        "slug": "5",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/757b505cfd34c64c85ca5b5690ee5293",
+        "m3u8Url": "https://vip.opstream800.com/20260724/201_757b505c/index.m3u8"
+      },
+      {
+        "name": "6",
+        "slug": "6",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/854d6fae5ee42911677c739ee1734486",
+        "m3u8Url": "https://vip.opstream800.com/20260724/202_854d6fae/index.m3u8"
+      },
+      {
+        "name": "7",
+        "slug": "7",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/502e4a16930e414107ee22b6198c578f",
+        "m3u8Url": "https://vip.opstream800.com/20260726/258_502e4a16/index.m3u8"
+      },
+      {
+        "name": "8",
+        "slug": "8",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/cfa0860e83a4c3a763a7e62d825349f7",
+        "m3u8Url": "https://vip.opstream800.com/20260726/259_cfa0860e/index.m3u8"
+      },
+      {
+        "name": "9",
+        "slug": "9",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/a4f23670e1833f3fdb077ca70bbd5d66",
+        "m3u8Url": "https://vip.opstream800.com/20260726/260_a4f23670/index.m3u8"
+      },
+      {
+        "name": "10",
+        "slug": "10",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/b1a59b315fc9a3002ce38bbe070ec3f5",
+        "m3u8Url": "https://vip.opstream800.com/20260726/261_b1a59b31/index.m3u8"
+      },
+      {
+        "name": "11",
+        "slug": "11",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/36660e59856b4de58a219bcf4e27eba3",
+        "m3u8Url": "https://vip.opstream800.com/20260726/262_36660e59/index.m3u8"
+      },
+      {
+        "name": "12",
+        "slug": "12",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/8c19f571e251e61cb8dd3612f26d5ecf",
+        "m3u8Url": "https://vip.opstream800.com/20260726/263_8c19f571/index.m3u8"
+      },
+      {
+        "name": "13",
+        "slug": "13",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/d6baf65e0b240ce177cf70da146c8dc8",
+        "m3u8Url": "https://vip.opstream800.com/20260726/264_d6baf65e/index.m3u8"
+      },
+      {
+        "name": "14",
+        "slug": "14",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/e56954b4f6347e897f954495eab16a88",
+        "m3u8Url": "https://vip.opstream800.com/20260726/265_e56954b4/index.m3u8"
+      }
+    ],
+    "sources": [
+      {
+        "source": "ophim",
+        "slug": "chien-dich-pho-portland",
+        "episodeCount": 14,
         "priority": 0
       }
     ],
@@ -7059,6 +7236,157 @@
     "_priority": 0
   },
   {
+    "id": "yiran-s-silver-linings-2026-c942e590",
+    "source": "ophim",
+    "slug": "chuyen-vui-cua-y-nhien",
+    "name": "Chuyện Vui Của Y Nhiên",
+    "originName": "Yiran's Silver Linings",
+    "posterUrl": "chuyen-vui-cua-y-nhien-poster.jpg",
+    "thumbUrl": "chuyen-vui-cua-y-nhien-thumb.jpg",
+    "year": 2026,
+    "type": "series",
+    "status": "ongoing",
+    "episodeCurrent": "Tập 14",
+    "categories": [
+      {
+        "name": "Chính kịch",
+        "slug": "chinh-kich"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Trung Quốc",
+        "slug": "trung-quoc"
+      }
+    ],
+    "description": "<p>Bộ phim kể về Lý Y Nhiên, sau nhiều năm xa cách đã trở về Lạc Thương, một thị trấn nhỏ ở vùng Tây Nam. Tám năm trời xa nhà khiến khoảng cách giữa cô và mẹ ngày càng lớn. Trong một cơ duyên đầy trớ trêu, hai mẹ con bất ngờ cùng đứng ra lo liệu những chuyện đại sự của đời người cho người dân trong thị trấn. Đối diện với những câu chuyện hiện thực đến tàn khốc, nhưng cũng thấm đẫm tình người, Lý Y Nhiên dần có những cảm nhận mới về cuộc đời và những điều còn dang dở. Đồng thời, mối quan hệ giữa cô và mẹ cũng âm thầm thay đổi.</p>",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "episodes": [
+      {
+        "name": "1",
+        "slug": "1",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/3416a75f4cea9109507cacd8e2f2aefc",
+        "m3u8Url": "https://vip.opstream800.com/20260723/41_3416a75f/index.m3u8"
+      },
+      {
+        "name": "2",
+        "slug": "2",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/a1d0c6e83f027327d8461063f4ac58a6",
+        "m3u8Url": "https://vip.opstream800.com/20260723/42_a1d0c6e8/index.m3u8"
+      },
+      {
+        "name": "3",
+        "slug": "3",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/17e62166fc8586dfa4d1bc0e1742c08b",
+        "m3u8Url": "https://vip.opstream800.com/20260723/43_17e62166/index.m3u8"
+      },
+      {
+        "name": "4",
+        "slug": "4",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/f7177163c833dff4b38fc8d2872f1ec6",
+        "m3u8Url": "https://vip.opstream800.com/20260723/44_f7177163/index.m3u8"
+      },
+      {
+        "name": "5",
+        "slug": "5",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/6c8349cc7260ae62e3b1396831a8398f",
+        "m3u8Url": "https://vip.opstream800.com/20260723/45_6c8349cc/index.m3u8"
+      },
+      {
+        "name": "6",
+        "slug": "6",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/d9d4f495e875a2e075a1a4a6e1b9770f",
+        "m3u8Url": "https://vip.opstream800.com/20260723/46_d9d4f495/index.m3u8"
+      },
+      {
+        "name": "7",
+        "slug": "7",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/67c6a1e7ce56d3d6fa748ab6d9af3fd7",
+        "m3u8Url": "https://vip.opstream800.com/20260723/47_67c6a1e7/index.m3u8"
+      },
+      {
+        "name": "8",
+        "slug": "8",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/642e92efb79421734881b53e1e1b18b6",
+        "m3u8Url": "https://vip.opstream800.com/20260723/48_642e92ef/index.m3u8"
+      },
+      {
+        "name": "9",
+        "slug": "9",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/39059724f73a9969845dfe4146c5660e",
+        "m3u8Url": "https://vip.opstream800.com/20260726/270_39059724/index.m3u8"
+      },
+      {
+        "name": "10",
+        "slug": "10",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/7f100b7b36092fb9b06dfb4fac360931",
+        "m3u8Url": "https://vip.opstream800.com/20260726/271_7f100b7b/index.m3u8"
+      },
+      {
+        "name": "11",
+        "slug": "11",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/7a614fd06c325499f1680b9896beedeb",
+        "m3u8Url": "https://vip.opstream800.com/20260726/272_7a614fd0/index.m3u8"
+      },
+      {
+        "name": "12",
+        "slug": "12",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/4734ba6f3de83d861c3176a6273cac6d",
+        "m3u8Url": "https://vip.opstream800.com/20260726/273_4734ba6f/index.m3u8"
+      },
+      {
+        "name": "13",
+        "slug": "13",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/d947bf06a885db0d477d707121934ff8",
+        "m3u8Url": "https://vip.opstream800.com/20260726/274_d947bf06/index.m3u8"
+      },
+      {
+        "name": "14",
+        "slug": "14",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/63923f49e5241343aa7acb6a06a751e7",
+        "m3u8Url": "https://vip.opstream800.com/20260726/275_63923f49/index.m3u8"
+      }
+    ],
+    "sources": [
+      {
+        "source": "ophim",
+        "slug": "chuyen-vui-cua-y-nhien",
+        "episodeCount": 14,
+        "priority": 0
+      }
+    ],
+    "_priority": 0
+  },
+  {
     "id": "cia-2026-a7dd09e8",
     "source": "ophim",
     "slug": "cia-phan-1",
@@ -7767,62 +8095,6 @@
     "_priority": 0
   },
   {
-    "id": "the-furious-2026-18227862",
-    "source": "ophim",
-    "slug": "con-thinh-no",
-    "name": "Cơn Thịnh Nộ",
-    "originName": "The Furious",
-    "posterUrl": "con-thinh-no-poster.jpg",
-    "thumbUrl": "con-thinh-no-thumb.jpg",
-    "year": 2026,
-    "type": "single",
-    "status": "unknown",
-    "episodeCurrent": "Trailer",
-    "categories": [
-      {
-        "name": "Hành Động",
-        "slug": "hanh-dong"
-      },
-      {
-        "name": "Hình Sự",
-        "slug": "hinh-su"
-      }
-    ],
-    "countries": [
-      {
-        "name": "Trung Quốc",
-        "slug": "trung-quoc"
-      },
-      {
-        "name": "Âu Mỹ",
-        "slug": "au-my"
-      },
-      {
-        "name": "Hồng Kông",
-        "slug": "hong-kong"
-      }
-    ],
-    "description": "<p>Cơn Thịnh Nộ</p>",
-    "quality": "HD",
-    "lang": "Vietsub",
-    "episodes": [
-      {
-        "name": "",
-        "serverName": "Vietsub #1",
-        "source": "ophim"
-      }
-    ],
-    "sources": [
-      {
-        "source": "ophim",
-        "slug": "con-thinh-no",
-        "episodeCount": 1,
-        "priority": 0
-      }
-    ],
-    "_priority": 0
-  },
-  {
     "id": "recipe-for-love-2026-fae87879",
     "source": "ophim",
     "slug": "cong-thuc-tinh-yeu",
@@ -8430,57 +8702,6 @@
         "source": "ophim",
         "slug": "cuoc-chien-khong-gianphan-5",
         "episodeCount": 10,
-        "priority": 0
-      }
-    ],
-    "_priority": 0
-  },
-  {
-    "id": "mortal-kombat-ii-2026-76a437e2",
-    "source": "ophim",
-    "slug": "cuoc-chien-sinh-tu-ii",
-    "name": "Cuộc Chiến Sinh Tử II",
-    "originName": "Mortal Kombat II",
-    "posterUrl": "cuoc-chien-sinh-tu-ii-poster.jpg",
-    "thumbUrl": "cuoc-chien-sinh-tu-ii-thumb.jpg",
-    "year": 2026,
-    "type": "single",
-    "status": "completed",
-    "episodeCurrent": "Full",
-    "categories": [
-      {
-        "name": "Hành Động",
-        "slug": "hanh-dong"
-      },
-      {
-        "name": "Phiêu Lưu",
-        "slug": "phieu-luu"
-      }
-    ],
-    "countries": [
-      {
-        "name": "Âu Mỹ",
-        "slug": "au-my"
-      }
-    ],
-    "description": "<p>Những chiến binh được yêu thích nhất — nay có thêm sự góp mặt của Johnny Cage — buộc phải đối đầu lẫn nhau trong trận chiến tối thượng đẫm máu và không khoan nhượng. Mục tiêu: đánh bại sự thống trị tàn bạo của Shao Kahn, kẻ đang đe dọa sự tồn vong của Địa Giới và tất cả những ai đứng lên bảo vệ nó.</p>",
-    "quality": "HD",
-    "lang": "Vietsub",
-    "episodes": [
-      {
-        "name": "Full",
-        "slug": "full",
-        "serverName": "Vietsub #1",
-        "source": "ophim",
-        "embedUrl": "https://vip.opstream90.com/share/1bc949fb8a71e4cfab76cdd57cf1dccc",
-        "m3u8Url": "https://vip.opstream90.com/20260608/34303_1bc949fb/index.m3u8"
-      }
-    ],
-    "sources": [
-      {
-        "source": "ophim",
-        "slug": "cuoc-chien-sinh-tu-ii",
-        "episodeCount": 1,
         "priority": 0
       }
     ],
@@ -13174,6 +13395,181 @@
     "_priority": 0
   },
   {
+    "id": "overdo-2026-efb01c50",
+    "source": "ophim",
+    "slug": "giay-phut-ay-vuot-gioi-han",
+    "name": "Giây Phút Ấy Vượt Giới Hạn",
+    "originName": "Overdo",
+    "posterUrl": "giay-phut-ay-vuot-gioi-han-poster.jpg",
+    "thumbUrl": "giay-phut-ay-vuot-gioi-han-thumb.jpg",
+    "year": 2026,
+    "type": "series",
+    "status": "ongoing",
+    "episodeCurrent": "Tập 17",
+    "categories": [
+      {
+        "name": "Chính kịch",
+        "slug": "chinh-kich"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Trung Quốc",
+        "slug": "trung-quoc"
+      }
+    ],
+    "description": "<p>Vào thời Dân Quốc ở Thượng Hải, cậu con trai út của quân phiệt Mộ Dung Thanh Dịch vì bị ôm nhầm từ nhỏ nên phải chịu đựng sự ng..ược đ..ãi của cha nuôi. Khi còn là thiếu niên, cậu bỏ nhà trốn đi và được Nhậm Tố Tố cứu giúp, nhưng cũng chính vì vậy mà gia đình cô bị vạ lây rơi vào cảnh người nhà bị giếch sạch. Nhiều năm sau, hai người tái ngộ và dần nảy sinh tình cảm nhưng để cứu người khác, Nhậm Tố Tố đã kiên quyết giả chếch trốn đi, để lại Mộ Dung Thanh Dịch chìm đắm trong nỗi đau mất đi người mình yêu. Ba năm sau, Nhậm Tố Tố trở về nhưng thân phận nay đã là “chị dâu tương lai” của Mộ Dung Thanh Dịch.</p>",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "episodes": [
+      {
+        "name": "1",
+        "slug": "1",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream10.com/share/5e740f261196151a0b02c7b2fccf6ae6",
+        "m3u8Url": "https://vip.opstream10.com/20260719/34366_5e740f26/index.m3u8"
+      },
+      {
+        "name": "2",
+        "slug": "2",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream10.com/share/95b2a1df756b9e6e67bfacd25c2c6110",
+        "m3u8Url": "https://vip.opstream10.com/20260719/34367_95b2a1df/index.m3u8"
+      },
+      {
+        "name": "3",
+        "slug": "3",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream10.com/share/8230258b576f81e8dec86997100d1bfb",
+        "m3u8Url": "https://vip.opstream10.com/20260719/34368_8230258b/index.m3u8"
+      },
+      {
+        "name": "4",
+        "slug": "4",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream10.com/share/13c6af08ae7a22f54b558adc098b01ab",
+        "m3u8Url": "https://vip.opstream10.com/20260719/34369_13c6af08/index.m3u8"
+      },
+      {
+        "name": "5",
+        "slug": "5",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream10.com/share/2b12c0d47f5821a5adb3bfd973d0f708",
+        "m3u8Url": "https://vip.opstream10.com/20260719/34370_2b12c0d4/index.m3u8"
+      },
+      {
+        "name": "6",
+        "slug": "6",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream10.com/share/1e015d3b4a83e478faf3a3693cfce279",
+        "m3u8Url": "https://vip.opstream10.com/20260720/34420_1e015d3b/index.m3u8"
+      },
+      {
+        "name": "7",
+        "slug": "7",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream10.com/share/a1810b42dcc83a4a1ba801293085aec7",
+        "m3u8Url": "https://vip.opstream10.com/20260720/34421_a1810b42/index.m3u8"
+      },
+      {
+        "name": "8",
+        "slug": "8",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/9a1158154dfa42caddbd0694a4e9bdc8",
+        "m3u8Url": "https://vip.opstream800.com/20260723/52_9a115815/index.m3u8"
+      },
+      {
+        "name": "9",
+        "slug": "9",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/d82c8d1619ad8176d665453cfb2e55f0",
+        "m3u8Url": "https://vip.opstream800.com/20260723/53_d82c8d16/index.m3u8"
+      },
+      {
+        "name": "10",
+        "slug": "10",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/a684eceee76fc522773286a895bc8436",
+        "m3u8Url": "https://vip.opstream800.com/20260723/54_a684ecee/index.m3u8"
+      },
+      {
+        "name": "11",
+        "slug": "11",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/b53b3a3d6ab90ce0268229151c9bde11",
+        "m3u8Url": "https://vip.opstream800.com/20260723/55_b53b3a3d/index.m3u8"
+      },
+      {
+        "name": "12",
+        "slug": "12",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/6cdd60ea0045eb7a6ec44c54d29ed402",
+        "m3u8Url": "https://vip.opstream800.com/20260724/184_6cdd60ea/index.m3u8"
+      },
+      {
+        "name": "13",
+        "slug": "13",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/eecca5b6365d9607ee5a9d336962c534",
+        "m3u8Url": "https://vip.opstream800.com/20260724/185_eecca5b6/index.m3u8"
+      },
+      {
+        "name": "14",
+        "slug": "14",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/9b04d152845ec0a378394003c96da594",
+        "m3u8Url": "https://vip.opstream800.com/20260726/231_9b04d152/index.m3u8"
+      },
+      {
+        "name": "15",
+        "slug": "15",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/be83ab3ecd0db773eb2dc1b0a17836a1",
+        "m3u8Url": "https://vip.opstream800.com/20260726/232_be83ab3e/index.m3u8"
+      },
+      {
+        "name": "16",
+        "slug": "16",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/e165421110ba03099a1c0393373c5b43",
+        "m3u8Url": "https://vip.opstream800.com/20260726/233_e1654211/index.m3u8"
+      },
+      {
+        "name": "17",
+        "slug": "17",
+        "serverName": "Vietsub #1",
+        "source": "ophim",
+        "embedUrl": "https://vip.opstream800.com/share/289dff07669d7a23de0ef88d2f7129e7",
+        "m3u8Url": "https://vip.opstream800.com/20260726/234_289dff07/index.m3u8"
+      }
+    ],
+    "sources": [
+      {
+        "source": "ophim",
+        "slug": "giay-phut-ay-vuot-gioi-han",
+        "episodeCount": 17,
+        "priority": 0
+      }
+    ],
+    "_priority": 0
+  },
+  {
     "id": "gbrb-farm-operation-go-g-2026-d5c11779",
     "source": "ophim",
     "slug": "gieo-gi-gat-nay-nong-trai-thang-tien",
@@ -16162,125 +16558,6 @@
         "source": "ophim",
         "slug": "hoc-cach-chien-dau",
         "episodeCount": 6,
-        "priority": 0
-      }
-    ],
-    "_priority": 0
-  },
-  {
-    "id": "dog-man-2026-fb385685",
-    "source": "ophim",
-    "slug": "hon-le-anh-no-em",
-    "name": "Hôn Lễ Anh Nợ Em",
-    "originName": "Dog Man",
-    "posterUrl": "hon-le-anh-no-em-poster.jpg",
-    "thumbUrl": "hon-le-anh-no-em-thumb.jpg",
-    "year": 2026,
-    "type": "series",
-    "status": "completed",
-    "episodeCurrent": "Hoàn tất (10/10)",
-    "categories": [
-      {
-        "name": "Chính kịch",
-        "slug": "chinh-kich"
-      }
-    ],
-    "countries": [
-      {
-        "name": "Đài Loan",
-        "slug": "dai-loan"
-      }
-    ],
-    "description": "<p>Giữa thành phố sôi động đầy khát vọng, một nhạc sĩ đang lên và những người thân cận đối mặt với áp lực ngày càng lớn khi hình ảnh trước công chúng trái ngược với đời tư chật vật.</p>",
-    "quality": "HD",
-    "lang": "Vietsub",
-    "episodes": [
-      {
-        "name": "1",
-        "slug": "1",
-        "serverName": "Vietsub #1",
-        "source": "ophim",
-        "embedUrl": "https://vip.opstream90.com/share/c107528e73e8598530e5ca306eb40503",
-        "m3u8Url": "https://vip.opstream90.com/20260621/35361_c107528e/index.m3u8"
-      },
-      {
-        "name": "2",
-        "slug": "2",
-        "serverName": "Vietsub #1",
-        "source": "ophim",
-        "embedUrl": "https://vip.opstream90.com/share/553ed65b08798c8e41e5bb4b8486d49a",
-        "m3u8Url": "https://vip.opstream90.com/20260621/35362_553ed65b/index.m3u8"
-      },
-      {
-        "name": "3",
-        "slug": "3",
-        "serverName": "Vietsub #1",
-        "source": "ophim",
-        "embedUrl": "https://vip.opstream90.com/share/72dce8029979b5c942a316445fec7afc",
-        "m3u8Url": "https://vip.opstream90.com/20260621/35363_72dce802/index.m3u8"
-      },
-      {
-        "name": "4",
-        "slug": "4",
-        "serverName": "Vietsub #1",
-        "source": "ophim",
-        "embedUrl": "https://vip.opstream90.com/share/c151e57162f490550b743e688a9abe1e",
-        "m3u8Url": "https://vip.opstream90.com/20260621/35364_c151e571/index.m3u8"
-      },
-      {
-        "name": "5",
-        "slug": "5",
-        "serverName": "Vietsub #1",
-        "source": "ophim",
-        "embedUrl": "https://vip.opstream90.com/share/6c27f03d7e05fafe06f225bcbeb42d3a",
-        "m3u8Url": "https://vip.opstream90.com/20260621/35365_6c27f03d/index.m3u8"
-      },
-      {
-        "name": "6",
-        "slug": "6",
-        "serverName": "Vietsub #1",
-        "source": "ophim",
-        "embedUrl": "https://vip.opstream90.com/share/691f453dee852ba0ea7222427a888edc",
-        "m3u8Url": "https://vip.opstream90.com/20260621/35366_691f453d/index.m3u8"
-      },
-      {
-        "name": "7",
-        "slug": "7",
-        "serverName": "Vietsub #1",
-        "source": "ophim",
-        "embedUrl": "https://vip.opstream90.com/share/710eec06bc39ec7c6bd28ddf5f3a5668",
-        "m3u8Url": "https://vip.opstream90.com/20260621/35367_710eec06/index.m3u8"
-      },
-      {
-        "name": "8",
-        "slug": "8",
-        "serverName": "Vietsub #1",
-        "source": "ophim",
-        "embedUrl": "https://vip.opstream90.com/share/60c8179fad5be6d39b73660ca24c8d65",
-        "m3u8Url": "https://vip.opstream90.com/20260621/35368_60c8179f/index.m3u8"
-      },
-      {
-        "name": "9",
-        "slug": "9",
-        "serverName": "Vietsub #1",
-        "source": "ophim",
-        "embedUrl": "https://vip.opstream90.com/share/849c7b9fe5dfea5e93665c8bbfba04f0",
-        "m3u8Url": "https://vip.opstream90.com/20260621/35369_849c7b9f/index.m3u8"
-      },
-      {
-        "name": "10",
-        "slug": "10",
-        "serverName": "Vietsub #1",
-        "source": "ophim",
-        "embedUrl": "https://vip.opstream90.com/share/10c3aef33ff9c5cabc26fb95279af764",
-        "m3u8Url": "https://vip.opstream90.com/20260621/35370_10c3aef3/index.m3u8"
-      }
-    ],
-    "sources": [
-      {
-        "source": "ophim",
-        "slug": "hon-le-anh-no-em",
-        "episodeCount": 10,
         "priority": 0
       }
     ],

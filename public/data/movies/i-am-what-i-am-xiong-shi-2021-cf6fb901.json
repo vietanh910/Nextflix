@@ -1,0 +1,63 @@
+{
+  "id": "i-am-what-i-am-xiong-shi-2021-cf6fb901",
+  "source": "phimapi",
+  "slug": "hung-su-thieu-nien-cau-be-su-tu",
+  "name": "Hùng Sư Thiếu Niên / Cậu Bé Sư Tử",
+  "originName": "I Am What I Am (Xiong shi shao nian)",
+  "posterUrl": "https://phimimg.com/upload/vod/20231101-1/40439525b0883c1900cb7e0c6281ca91.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20231101-1/b2a57fc5f01fb8f59d742c2b1ee42b63.jpg",
+  "year": 2021,
+  "type": "anime",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "<p>Hùng Sư Thiếu Niên kể về câu chuyện của cậu thiếu niên bị bỏ rơi A Quyên cùng những người bạn A Miêu A Cẩu tham gia cuộc thi múa lân dưới sự huấn luyện của Sư vương đã nghỉ hưu Hàm Ngư Cường. Sau khi rèn luyện, họ trưởng thành từ một mèo bệnh thành hùng sư.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub + Thuyết Minh",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240703/WO0eQhqY/index.m3u8",
+      "m3u8Url": "https://s3.phim1280.tv/20240703/WO0eQhqY/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/oFSXj4KG/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260822/oFSXj4KG/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "hung-su-thieu-nien-cau-be-su-tu",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

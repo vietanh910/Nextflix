@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 17",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -97,13 +97,85 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260815/u9LrYW9M/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260815/u9LrYW9M/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260816/WzAhutcV/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260816/WzAhutcV/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260816/ZpvI5xCW/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260816/ZpvI5xCW/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260817/WVEw7acH/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260817/WVEw7acH/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260817/Z1wmcNjn/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260817/Z1wmcNjn/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260819/ms2YXJxP/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260819/ms2YXJxP/index.m3u8"
+    },
+    {
+      "name": "Tập 14",
+      "slug": "tap-14",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260819/E6plR8Sh/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260819/E6plR8Sh/index.m3u8"
+    },
+    {
+      "name": "Tập 15",
+      "slug": "tap-15",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260820/oRRyTicU/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260820/oRRyTicU/index.m3u8"
+    },
+    {
+      "name": "Tập 16",
+      "slug": "tap-16",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260821/nkH24cfG/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260821/nkH24cfG/index.m3u8"
+    },
+    {
+      "name": "Tập 17",
+      "slug": "tap-17",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/siCzM2SJ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260822/siCzM2SJ/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "han-y-nhap-tam",
-      "episodeCount": 8,
+      "episodeCount": 17,
       "priority": 1
     }
   ],
