@@ -9,7 +9,26 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Ecchi",
+      "slug": "ecchi"
+    },
+    {
+      "name": "Supernatural",
+      "slug": "supernatural"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "countries": [],
+  "description": "An unaired episode included with the seventh volume of the DVD/BD.",
   "episodes": [],
   "sources": [
     {

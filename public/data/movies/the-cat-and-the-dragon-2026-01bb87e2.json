@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 9",
+  "episodeCurrent": "Tập 10",
   "categories": [
     {
       "name": "Khoa Học",
@@ -105,13 +105,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/0VcfN52E/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260822/0VcfN52E/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260829/n7lL69sI/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260829/n7lL69sI/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "con-meo-va-con-rong",
-      "episodeCount": 9,
+      "episodeCount": 10,
       "priority": 1
     }
   ],

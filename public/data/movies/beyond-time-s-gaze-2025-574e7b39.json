@@ -9,7 +9,7 @@
   "year": 2025,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 36",
+  "episodeCurrent": "Tập 37",
   "categories": [
     {
       "name": "Khoa Học",
@@ -321,13 +321,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/eOfsEV4L/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260822/eOfsEV4L/index.m3u8"
+    },
+    {
+      "name": "Tập 37",
+      "slug": "tap-37",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260829/OXBcH0jN/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260829/OXBcH0jN/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "quang-am-chi-ngoai",
-      "episodeCount": 36,
+      "episodeCount": 37,
       "priority": 1
     }
   ],

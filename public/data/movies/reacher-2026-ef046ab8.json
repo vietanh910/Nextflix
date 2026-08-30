@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Hành Động",
@@ -40,7 +40,7 @@
   ],
   "description": "<p>Jack Reacher 2022: Phát Súng Cuối Cùng, kể về câu chuyện của Jack Reacher, một cựu cảnh sát hình sự, bị vướng vào một âm mưu vu oan to lớn, được thực hiện bởi một nhóm cảnh sát, doanh nhân lẫn chính trị gia biến chất. Reacher và vợ sẽ phải làm gì để thoát khỏi âm mưu này, nhất là sau cái chết của người anh mình?</p>",
   "quality": "FHD",
-  "lang": "Vietsub",
+  "lang": "Vietsub + Thuyết Minh",
   "episodes": [
     {
       "name": "Tập 01",
@@ -57,13 +57,77 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260820/Q9dkcmc0/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260820/Q9dkcmc0/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260824/aGkqJCpc/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260824/aGkqJCpc/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260824/dFplNmtD/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260824/dFplNmtD/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260827/0DxuQ7es/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260827/0DxuQ7es/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260824/WQ84t1L8/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260824/WQ84t1L8/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260824/vsu0Oc3y/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260824/vsu0Oc3y/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260824/R0PlaFyS/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260824/R0PlaFyS/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260824/7htj7J1k/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260824/7htj7J1k/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260827/Ey6kt4lM/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260827/Ey6kt4lM/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "phat-sung-cuoi-cung-phan-4",
-      "episodeCount": 2,
+      "episodeCount": 10,
       "priority": 1
     }
   ],

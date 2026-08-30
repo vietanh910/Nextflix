@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 9",
+  "episodeCurrent": "Tập 10",
   "categories": [
     {
       "name": "Hành Động",
@@ -115,59 +115,21 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260819/V7wXwkYU/index.m3u8"
     },
     {
-      "name": "1",
-      "slug": "1",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream800.com/share/1ff8a7b5dc7a7d1f0ed65aaa29c04b1e",
-      "m3u8Url": "https://vip.opstream800.com/20260723/172_1ff8a7b5/index.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "2",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream800.com/share/f7e6c85504ce6e82442c770f7c8606f0",
-      "m3u8Url": "https://vip.opstream800.com/20260723/173_f7e6c855/index.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "3",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream800.com/share/bf8229696f7a3bb4700cfddef19fa23f",
-      "m3u8Url": "https://vip.opstream800.com/20260723/174_bf822969/index.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "4",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream800.com/share/82161242827b703e6acf9c726942a1e4",
-      "m3u8Url": "https://vip.opstream800.com/20260723/175_82161242/index.m3u8"
-    },
-    {
-      "name": "5",
-      "slug": "5",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream800.com/share/38af86134b65d0f10fe33d30dd76442e",
-      "m3u8Url": "https://vip.opstream800.com/20260723/176_38af8613/index.m3u8"
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260827/znHb5Nix/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260827/znHb5Nix/index.m3u8"
     }
   ],
   "sources": [
     {
-      "source": "ophim",
-      "slug": "dan-lang-cap-999-tu-lang-que",
-      "episodeCount": 5,
-      "priority": 0
-    },
-    {
       "source": "phimapi",
       "slug": "ke-mang-cap-999-tu-lang-que-dan-lang-cap-999",
-      "episodeCount": 9,
+      "episodeCount": 10,
       "priority": 1
     }
   ],
-  "_priority": 0
+  "_priority": 1
 }

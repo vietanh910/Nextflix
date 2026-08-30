@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260420-1/a00de874909fb1bfb7f7749f926081a3.jpg",
   "year": 2023,
   "type": "anime",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 51",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (52/52)",
   "categories": [
     {
       "name": "Hành Động",
@@ -449,13 +449,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260820/haM6T6NB/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260820/haM6T6NB/index.m3u8"
+    },
+    {
+      "name": "Tập 52",
+      "slug": "tap-52",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260827/Y3PGYhvF/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260827/Y3PGYhvF/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nghich-thien-ta-than",
-      "episodeCount": 51,
+      "episodeCount": 52,
       "priority": 1
     }
   ],

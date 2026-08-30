@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 55",
+  "episodeCurrent": "Tập 57",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -489,13 +489,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260820/hM9YjLMR/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260820/hM9YjLMR/index.m3u8"
+    },
+    {
+      "name": "Tập 56",
+      "slug": "tap-56",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260825/hOMGultR/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260825/hOMGultR/index.m3u8"
+    },
+    {
+      "name": "Tập 57",
+      "slug": "tap-57",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260827/b5u3IyKY/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260827/b5u3IyKY/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "dao-yeu-hanh",
-      "episodeCount": 55,
+      "episodeCount": 57,
       "priority": 1
     }
   ],

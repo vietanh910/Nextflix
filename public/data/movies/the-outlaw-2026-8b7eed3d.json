@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260814/cuong-do-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 21",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (24/24)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -197,13 +197,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/rrZ7cJRz/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260822/rrZ7cJRz/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260823/z9DqnO3B/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260823/z9DqnO3B/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260824/UuaQsB9R/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260824/UuaQsB9R/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260825/LC5jqXAx/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260825/LC5jqXAx/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "cuong-do",
-      "episodeCount": 21,
+      "episodeCount": 24,
       "priority": 1
     }
   ],

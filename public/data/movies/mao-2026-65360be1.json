@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 20",
+  "episodeCurrent": "Tập 21",
   "categories": [
     {
       "name": "Hành Động",
@@ -201,13 +201,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260817/gpzgGjft/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260817/gpzgGjft/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260824/AEuvdeVT/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260824/AEuvdeVT/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "mao",
-      "episodeCount": 20,
+      "episodeCount": 21,
       "priority": 1
     }
   ],

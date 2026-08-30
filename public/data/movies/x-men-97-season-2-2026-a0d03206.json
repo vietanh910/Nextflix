@@ -113,63 +113,9 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260818/rwoCNxYh/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260818/rwoCNxYh/index.m3u8"
-    },
-    {
-      "name": "1",
-      "slug": "1",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream90.com/share/5839357787b0f90a2f82708e8f305b08",
-      "m3u8Url": "https://vip.opstream90.com/20260705/36141_58393577/index.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "2",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream90.com/share/04e7a0ec8d1e93cc858d552490a56bcf",
-      "m3u8Url": "https://vip.opstream90.com/20260705/36142_04e7a0ec/index.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "3",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream90.com/share/88447d3a2c4e50237d32431a087518dd",
-      "m3u8Url": "https://vip.opstream90.com/20260705/36143_88447d3a/index.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "4",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/d8585cb93fef89c4cf932574e6554c9c",
-      "m3u8Url": "https://vip.opstream10.com/20260718/34324_d8585cb9/index.m3u8"
-    },
-    {
-      "name": "5",
-      "slug": "5",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/c3e71101f147210be216f85bf76a067a",
-      "m3u8Url": "https://vip.opstream10.com/20260718/34325_c3e71101/index.m3u8"
-    },
-    {
-      "name": "6",
-      "slug": "6",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream800.com/share/2b24d495052a8ce66358eb576b8912c8",
-      "m3u8Url": "https://vip.opstream800.com/20260723/145_2b24d495/index.m3u8"
     }
   ],
   "sources": [
-    {
-      "source": "ophim",
-      "slug": "di-nhan-97-phan-2",
-      "episodeCount": 6,
-      "priority": 0
-    },
     {
       "source": "phimapi",
       "slug": "di-nhan-97-phan-2",
@@ -177,5 +123,5 @@
       "priority": 1
     }
   ],
-  "_priority": 0
+  "_priority": 1
 }

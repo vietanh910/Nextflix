@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -103,51 +103,21 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260818/ncYyk7cV/index.m3u8"
     },
     {
-      "name": "1",
-      "slug": "1",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream90.com/share/c8d07e8982eec15cf1002efafc1d7cf8",
-      "m3u8Url": "https://vip.opstream90.com/20260701/35871_c8d07e89/index.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "2",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream800.com/share/1c9ac0159c94d8d0cbedc973445af2da",
-      "m3u8Url": "https://vip.opstream800.com/20260723/156_1c9ac015/index.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "3",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream800.com/share/6c4b761a28b734fe93831e3fb400ce87",
-      "m3u8Url": "https://vip.opstream800.com/20260723/157_6c4b761a/index.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "4",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream800.com/share/06409663226af2f3114485aa4e0a23b4",
-      "m3u8Url": "https://vip.opstream800.com/20260723/158_06409663/index.m3u8"
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260825/GBmAAI7m/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260825/GBmAAI7m/index.m3u8"
     }
   ],
   "sources": [
     {
-      "source": "ophim",
-      "slug": "knot-nut-that",
-      "episodeCount": 4,
-      "priority": 0
-    },
-    {
       "source": "phimapi",
       "slug": "nut-that",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 1
     }
   ],
-  "_priority": 0
+  "_priority": 1
 }

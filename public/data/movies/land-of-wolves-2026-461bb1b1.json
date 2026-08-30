@@ -1,0 +1,59 @@
+{
+  "id": "land-of-wolves-2026-461bb1b1",
+  "source": "phimapi",
+  "slug": "vung-dat-soi",
+  "name": "Vùng Đất Sói",
+  "originName": "Land of Wolves",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260827/vung-dat-soi-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260827/vung-dat-soi-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Chiến Tranh",
+      "slug": "chien-tranh"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Mỹ",
+      "slug": "my"
+    }
+  ],
+  "description": "<p>Nơi họ bị giam giữ thực chất là một đấu trường ngầm tàn nhẫn – nơi các tỷ phú máu mặt biến mạng người thành trò giải trí phát trực tiếp (live-streamed bloodsport). Bị tước đoạt vũ khí và bị dồn vào đường cùng, các thành viên trong đội SEAL buộc phải dựa vào kỹ năng chiến đấu đỉnh cao, tình đồng đội khăng khít và sự lỳ đòn để chống chọi qua từng vòng đấu tử thần, từ đó tìm cách lật tẩy toàn bộ tổ chức đen tối này và giành lại tự do.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub + Thuyết Minh",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260827/Vvs8HzME/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260827/Vvs8HzME/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260827/FT8ICILM/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260827/FT8ICILM/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "vung-dat-soi",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

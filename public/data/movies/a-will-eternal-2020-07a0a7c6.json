@@ -9,7 +9,7 @@
   "year": 2020,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 171",
+  "episodeCurrent": "Tập 173",
   "categories": [
     {
       "name": "Hài Hước",
@@ -1401,13 +1401,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260813/i1xPWjOQ/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260813/i1xPWjOQ/index.m3u8"
+    },
+    {
+      "name": "Tập 172",
+      "slug": "tap-172",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260828/NMw2mwg8/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260828/NMw2mwg8/index.m3u8"
+    },
+    {
+      "name": "Tập 173",
+      "slug": "tap-173",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260828/L9OFLeJ4/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260828/L9OFLeJ4/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nhat-niem-vinh-hang",
-      "episodeCount": 171,
+      "episodeCount": 173,
       "priority": 1
     }
   ],

@@ -137,47 +137,9 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260816/uzIsiRm8/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260816/uzIsiRm8/index.m3u8"
-    },
-    {
-      "name": "1",
-      "slug": "1",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/562eec4ba9b07078010e6d03345f031f",
-      "m3u8Url": "https://vip.opstream10.com/20260718/34339_562eec4b/index.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "2",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/29728f99c3104f0ee7efac0f90eb2788",
-      "m3u8Url": "https://vip.opstream10.com/20260718/34340_29728f99/index.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "3",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/2f02ebc2e4fc50a2545e0709c5fb526c",
-      "m3u8Url": "https://vip.opstream10.com/20260718/34338_2f02ebc2/index.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "4",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/af63a657e0ceef55ddb2751bc5c0294d",
-      "m3u8Url": "https://vip.opstream10.com/20260719/34395_af63a657/index.m3u8"
     }
   ],
   "sources": [
-    {
-      "source": "ophim",
-      "slug": "phi-vu-chung-cu",
-      "episodeCount": 4,
-      "priority": 0
-    },
     {
       "source": "phimapi",
       "slug": "phi-vu-chung-cu",
@@ -185,5 +147,5 @@
       "priority": 1
     }
   ],
-  "_priority": 0
+  "_priority": 1
 }

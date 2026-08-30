@@ -1,0 +1,51 @@
+{
+  "id": "lazareth-2024-05acf5cd",
+  "source": "phimapi",
+  "slug": "lazareth-the-gioi-co-lap",
+  "name": "Lazareth: Thế Giới Cô Lập",
+  "originName": "Lazareth",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260826/lazareth-the-gioi-co-lap-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260826/lazareth-the-gioi-co-lap-thumb.webp",
+  "year": 2024,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Lee là một người cô với sứ mệnh đời mình là bảo vệ hai đứa cháu gái mồ côi, Imogen và Maeve, khỏi một thế giới đang tự hủy diệt. Cô nuôi dạy hai đứa trẻ trong sự cô lập hoàn toàn cho đến khi một kẻ lạ mặt xuất hiện, đe dọa sự tồn tại bình yên của họ.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260826/d1hvcyIJ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260826/d1hvcyIJ/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "lazareth-the-gioi-co-lap",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

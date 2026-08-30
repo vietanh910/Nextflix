@@ -2,32 +2,65 @@
   "slug": "vien-tuong",
   "name": "Viễn Tưởng",
   "page": 2,
-  "totalPages": 8,
+  "totalPages": 6,
   "items": [
     {
-      "id": "hitori-no-shita-the-outc-2026-07b2c214",
-      "source": "ophim",
-      "slug": "nguoi-tren-van-nguoi-phan-6",
-      "name": "Người Trên Vạn Người (Phần 6)",
-      "originName": "Hitori No Shita - The Outcast (Season 6)",
-      "posterUrl": "nguoi-tren-van-nguoi-phan-6-poster.jpg",
-      "thumbUrl": "nguoi-tren-van-nguoi-phan-6-thumb.jpg",
+      "id": "doraemon-the-movie-new-n-2026-cd3a77a5",
+      "source": "phimapi",
+      "slug": "doraemon-nobita-va-lau-dai-duoi-day-bien-phien-ban-moi",
+      "name": "Doraemon: Nobita và Lâu Đài Dưới Đáy Biển (Phiên bản mới)",
+      "originName": "Doraemon the Movie: New Nobita and the Castle of the Undersea Devil",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260829/doraemon-nobita-va-lau-dai-duoi-day-bien-phien-ban-moi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260829/doraemon-nobita-va-lau-dai-duoi-day-bien-phien-ban-moi-thumb.webp",
       "year": 2026,
       "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (26/26)",
+      "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
         },
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
         },
         {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "under-the-gate-2026-594afaf7",
+      "source": "phimapi",
+      "slug": "gioi-mon-chi-ha",
+      "name": "Giới Môn Chi Hạ",
+      "originName": "Under The Gate",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260807/gioi-mon-chi-ha-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260807/gioi-mon-chi-ha-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 11",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
         },
         {
           "name": "Phiêu Lưu",
@@ -36,76 +69,84 @@
         {
           "name": "Khoa Học",
           "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
         }
       ],
       "countries": [
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
-        },
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
         }
       ]
     },
     {
-      "id": "the-most-heretical-last--2026-579e5e3a",
-      "source": "ophim",
-      "slug": "nu-vuong-trum-cuoi-tan-doc-can-nguyen-cua-moi-tham-kich-se-doc-suc-vi-nguoi-dan-phan-2",
-      "name": "Nữ Vương Trùm Cuối Tàn Độc Căn Nguyên Của Mọi Thảm Kịch Sẽ Dốc Sức Vì Người Dân (Phần 2)",
-      "originName": "The Most Heretical Last Boss Queen: From Villainess to Savior (Season 2)",
-      "posterUrl": "nu-vuong-trum-cuoi-tan-doc-can-nguyen-cua-moi-tham-kich-se-doc-suc-vi-nguoi-dan-phan-2-poster.jpg",
-      "thumbUrl": "nu-vuong-trum-cuoi-tan-doc-can-nguyen-cua-moi-tham-kich-se-doc-suc-vi-nguoi-dan-phan-2-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (12/12)",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "iron-lung-2026-c2c479a2",
-      "source": "ophim",
-      "slug": "phoi-sat",
-      "name": "Phổi Sắt",
-      "originName": "Iron Lung",
-      "posterUrl": "phoi-sat-poster.jpg",
-      "thumbUrl": "phoi-sat-thumb.jpg",
+      "id": "dragon-2026-ebc93397",
+      "source": "phimapi",
+      "slug": "hai-mo-tam-long",
+      "name": "Hải Mộ Tầm Long",
+      "originName": "Dragon",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260814/hai-mo-tam-long-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260814/hai-mo-tam-long-thumb.webp",
       "year": 2026,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "silo-season-3-2026-36cd5b42",
+      "source": "phimapi",
+      "slug": "ham-silo-phan-3",
+      "name": "Hầm SILO (Phần 3)",
+      "originName": "Silo (Season 3)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260704-1/a87af009b289da38de8dbaed7d279cec.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260704-1/dd78762f7651be4977588e7b8b93fb91.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 9",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Khoa Học",
           "slug": "khoa-hoc"
         },
         {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         },
         {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
         }
       ],
       "countries": [
@@ -116,70 +157,33 @@
       ]
     },
     {
-      "id": "rick-and-morty-season-9-2026-048e4cd2",
-      "source": "ophim",
-      "slug": "rick-va-morty-phan-9",
-      "name": "Rick và Morty (Phần 9)",
-      "originName": "Rick and Morty (Season 9)",
-      "posterUrl": "rick-va-morty-phan-9-poster.jpg",
-      "thumbUrl": "rick-va-morty-phan-9-thumb.jpg",
+      "id": "hanaori-san-still-wants--2026-a73593a5",
+      "source": "phimapi",
+      "slug": "hanaori-san-wa-tensei-shitemo-kenka-ga-shitai",
+      "name": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
+      "originName": "Hanaori-san Still Wants to Fight in the Next Life",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260715/hanaori-san-wa-tensei-shitemo-kenka-ga-shitai-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260715/hanaori-san-wa-tensei-shitemo-kenka-ga-shitai-thumb.webp",
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
       "episodeCurrent": "Tập 7",
       "categories": [
         {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
         },
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
         },
         {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "agents-of-the-four-seaso-2026-44c6fca2",
-      "source": "ophim",
-      "slug": "su-gia-bon-mua-vu-dieu-mua-xuan",
-      "name": "Sứ Giả Bốn Mùa - Vũ Điệu Mùa Xuân",
-      "originName": "Agents of the Four Seasons",
-      "posterUrl": "su-gia-bon-mua-vu-dieu-mua-xuan-poster.jpg",
-      "thumbUrl": "su-gia-bon-mua-vu-dieu-mua-xuan-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (14/14)",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
           "name": "Khoa Học",
           "slug": "khoa-hoc"
         },
         {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
         }
       ],
       "countries": [
@@ -190,589 +194,304 @@
       ]
     },
     {
-      "id": "supergirl-2026-81badbaa",
-      "source": "ophim",
-      "slug": "supergirl",
-      "name": "Supergirl",
-      "originName": "Supergirl",
-      "posterUrl": "supergirl-poster.jpg",
-      "thumbUrl": "supergirl-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "i-the-fated-villain-2026-32797087",
-      "source": "ophim",
-      "slug": "ta-la-ke-phan-dien-menh-lon",
-      "name": "Ta Là Kẻ Phản Diện Mệnh Lớn",
-      "originName": "I,The Fated Villain",
-      "posterUrl": "ta-la-ke-phan-dien-menh-lon-poster-1781758821556.jpg",
-      "thumbUrl": "ta-la-ke-phan-dien-menh-lon-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "avatar-the-last-airbende-2026-d2d6cc71",
-      "source": "ophim",
-      "slug": "the-than-ngu-khi-su-cuoi-cung-phan-2-2026",
-      "name": "Thế Thần: Ngự khí sư cuối cùng (Phần 2)",
-      "originName": "Avatar the Last Airbender (Season 2)",
-      "posterUrl": "the-than-ngu-khi-su-cuoi-cung-phan-2-2026-poster.jpg",
-      "thumbUrl": "the-than-ngu-khi-su-cuoi-cung-phan-2-2026-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (7/7)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "from-season-4-2026-7cb6ea65",
-      "source": "ophim",
-      "slug": "thi-tran-ac-mong-phan-4",
-      "name": "Thị Trấn Ác Mộng (Phần 4)",
-      "originName": "FROM (Season 4)",
-      "posterUrl": "thi-tran-ac-mong-phan-4-poster.jpg",
-      "thumbUrl": "thi-tran-ac-mong-phan-4-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "disclosure-day-2026-8a6bcd65",
-      "source": "ophim",
-      "slug": "thoi-khac-cong-bo",
-      "name": "Thời Khắc Công Bố",
-      "originName": "Disclosure Day",
-      "posterUrl": "thoi-khac-cong-bo-poster.jpg",
-      "thumbUrl": "thoi-khac-cong-bo-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "per-aspera-ad-astra-2026-bad601c7",
-      "source": "ophim",
-      "slug": "tinh-ha-nhap-mong",
-      "name": "Tinh Hà Nhập Mộng",
-      "originName": "Per Aspera Ad Astra",
-      "posterUrl": "tinh-ha-nhap-mong-poster.jpg",
-      "thumbUrl": "tinh-ha-nhap-mong-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "fighter-of-the-destiny-3-2026-28794156",
-      "source": "ophim",
-      "slug": "trach-thien-ky-2026",
-      "name": "Trạch Thiên Ký",
-      "originName": "Fighter of the Destiny 3D",
-      "posterUrl": "trach-thien-ky-2026-poster.jpg",
-      "thumbUrl": "trach-thien-ky-2026-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 25",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "snowball-earth-2026-4a215029",
-      "source": "ophim",
-      "slug": "trai-dat-dong-bang",
-      "name": "Trái Đất Đóng Băng",
-      "originName": "SNOWBALL EARTH",
-      "posterUrl": "trai-dat-dong-bang-poster.jpg",
-      "thumbUrl": "trai-dat-dong-bang-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (13/13)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "trigun-stampede-season-2-2026-a14ce8a7",
-      "source": "ophim",
-      "slug": "trigun-stampede-phan-2-stargaze",
-      "name": "TRIGUN STAMPEDE (Phần 2) Stargaze",
-      "originName": "TRIGUN STAMPEDE (Season 2)",
-      "posterUrl": "trigun-stampede-phan-2-stargaze-poster.jpg",
-      "thumbUrl": "trigun-stampede-phan-2-stargaze-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (12/12)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "the-love-game-2026-2db77f0e",
-      "source": "ophim",
-      "slug": "tro-choi-tinh-yeu-2026",
-      "name": "Trò Chơi Tình Yêu",
-      "originName": "The Love Game",
-      "posterUrl": "tro-choi-tinh-yeu-2026-poster.jpg",
-      "thumbUrl": "tro-choi-tinh-yeu-2026-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (25/25)",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "peerless-battle-spirit-s-2026-34c3fab3",
-      "source": "ophim",
-      "slug": "tuyet-the-chien-hon-phan-2",
-      "name": "Tuyệt Thế Chiến Hồn (Phần 2)",
-      "originName": "Peerless Battle Spirit (Season 2)",
-      "posterUrl": "tuyet-the-chien-hon-phan-2-poster.jpg",
-      "thumbUrl": "tuyet-the-chien-hon-phan-2-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 4",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "welcome-to-demon-school--2026-58c4a5ef",
-      "source": "ophim",
-      "slug": "vao-ma-gioi-roi-day-iruma-kun-phan-4",
-      "name": "Vào Ma Giới Rồi Đấy! Iruma-kun (Phần 4)",
-      "originName": "Welcome to Demon School! Iruma-kun (Season 4)",
-      "posterUrl": "vao-ma-gioi-roi-day-iruma-kun-phan-4-poster.jpg",
-      "thumbUrl": "vao-ma-gioi-roi-day-iruma-kun-phan-4-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 14",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "affection-2026-df05fad7",
-      "source": "ophim",
-      "slug": "vong-lap-ky-uc",
-      "name": "Vòng Lặp Ký Ức",
-      "originName": "Affection",
-      "posterUrl": "vong-lap-ky-uc-poster.jpg",
-      "thumbUrl": "vong-lap-ky-uc-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "wistoria-wand-and-sword--2026-4dcb6007",
-      "source": "ophim",
-      "slug": "wistoria-truong-va-kiem-phan-2",
-      "name": "Wistoria: Trượng và Kiếm (Phần 2)",
-      "originName": "Wistoria: Wand and Sword (Season 2)",
-      "posterUrl": "wistoria-truong-va-kiem-phan-2-poster.jpg",
-      "thumbUrl": "wistoria-truong-va-kiem-phan-2-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (12/12)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "wu-2026-32b7c273",
-      "source": "ophim",
-      "slug": "wu",
-      "name": "WU",
-      "originName": "WU",
-      "posterUrl": "wu-poster.jpg",
-      "thumbUrl": "wu-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (9/9)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "witch-hat-atelier-2026-aa0f564f",
-      "source": "ophim",
-      "slug": "xuong-phep-thuat",
-      "name": "Xưởng Phép Thuật",
-      "originName": "Witch Hat Atelier",
-      "posterUrl": "xuong-phep-thuat-poster.jpg",
-      "thumbUrl": "xuong-phep-thuat-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (13/13)",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "crowned-in-a-hundred-day-2026-7d8d2f7b",
+      "id": "the-world-s-strongest-re-2026-7d7c6d1f",
       "source": "phimapi",
-      "slug": "100-ngay-tro-thanh-vua",
-      "name": "100 Ngày Trở Thành Vua",
-      "originName": "Crowned In A Hundred Days",
-      "posterUrl": "https://phimimg.com/upload/vod/20260705-1/fa3aca9eeb59b42dfcda83b0c2d85fd4.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260705-1/be3861cd61b17562208ac480e1a72485.jpg",
+      "slug": "hau-phuong-manh-nhat-the-gioi-nha-khai-pha-tan-binh-cua-vuong-quoc-me-cung",
+      "name": "Hậu Phương Mạnh Nhất Thế Giới - Nhà Khai Phá Tân Binh Của Vương Quốc Mê Cung",
+      "originName": "The World's Strongest Rearguard",
+      "posterUrl": "https://phimimg.com/upload/vod/20260706-1/77db63f704e93279e6a31c668daf3c32.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260706-1/f71f0f1d25c2cf1dbee49f48d2c10b65.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 8",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        },
+        {
+          "name": "Đài Loan",
+          "slug": "dai-loan"
+        }
+      ]
+    },
+    {
+      "id": "hell-mode-the-hardcore-g-2026-6317d6d0",
+      "source": "phimapi",
+      "slug": "hell-mode-game-thu-xuat-chung-tung-hoanh-chon-di-gioi-hon-nguyen-phan-2",
+      "name": "Hell Mode: Game Thủ Xuất Chúng Tung Hoành Chốn Dị Giới Hỗn Nguyên (Phần 2)",
+      "originName": "Hell Mode: The Hardcore Gamer Dominates In Another World With Garbage Balancing (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260705-1/60a64bc29b820d39997e3cbd6bc01518.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260705-1/eb633393851788cf7a7665e245c43438.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 9",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "skeleton-knight-in-anoth-2026-63b79212",
+      "source": "phimapi",
+      "slug": "hiep-si-xuong-tren-duong-du-hanh-den-the-gioi-khac-phan-2",
+      "name": "Hiệp Sĩ Xương Trên Đường Du Hành Đến Thế Giới Khác (Phần 2)",
+      "originName": "Skeleton Knight In Another World (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260705-1/0bfec379d64859044e30d3840776d173.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260705-1/561c22e37143930082aa6b208bdc9ad9.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 8",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "a-livid-lady-s-guide-to--2026-34997fa0",
+      "source": "phimapi",
+      "slug": "huong-dan-tra-thu-cua-mot-quy-ba-tuc-gian",
+      "name": "Hướng Dẫn Trả Thù Của Một Quý Bà Tức Giận",
+      "originName": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260708/huong-dan-tra-thu-cua-mot-quy-ba-tuc-gian-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260708/huong-dan-tra-thu-cua-mot-quy-ba-tuc-gian-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 8",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-heavenly-fate-villai-2026-9338aa41",
+      "source": "phimapi",
+      "slug": "huyen-huyen-ta-thien-menh-trum-phan-dien",
+      "name": "Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện",
+      "originName": "The Heavenly Fate Villain",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260726/huyen-huyen-ta-thien-menh-trum-phan-dien-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260726/huyen-huyen-ta-thien-menh-trum-phan-dien-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 15",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Võ Thuật",
+          "slug": "vo-thuat"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "magilumiere-magical-girl-2026-48dd6356",
+      "source": "phimapi",
+      "slug": "kabushikigaisha-magi-lumiere-ss2",
+      "name": "Kabushikigaisha Magi-Lumière SS2",
+      "originName": "Magilumiere Magical Girls Inc. Season 2",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260729/kabushikigaisha-magi-lumiere-ss2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260729/kabushikigaisha-magi-lumiere-ss2-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 8",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-villager-of-level-99-2026-95008b76",
+      "source": "phimapi",
+      "slug": "ke-mang-cap-999-tu-lang-que-dan-lang-cap-999",
+      "name": "Kẻ Mang Cấp 999 Từ Làng Quê (Dân Làng Cấp 999)",
+      "originName": "The Villager Of Level 999",
+      "posterUrl": "https://phimimg.com/upload/vod/20260702-1/d6636feba0735a0b093f8c0cae118f01.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260702-1/371a851fe264aba5ba792e50dbc7e8bd.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 10",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "yoroi-shinden-samurai-tr-2026-f78be155",
+      "source": "phimapi",
+      "slug": "khai-giap-chan-truyen",
+      "name": "Khải Giáp Chân Truyền",
+      "originName": "Yoroi-Shinden Samurai Troopers / Yoroi Shin Den Samurai Troopers",
+      "posterUrl": "https://phimimg.com/upload/vod/20260116-1/e3b57ec33c4555307df7c16a441ba08c.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260116-1/ce2cc0cbfbbf8532c8728a38aafdba39.jpg",
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
@@ -801,27 +520,113 @@
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
     {
-      "id": "though-i-am-an-inept-vil-2026-40c3d84e",
+      "id": "the-ghost-in-the-shell-2026-73f3eb9e",
       "source": "phimapi",
-      "slug": "ac-nu-nua-voi-truyen-ki-hoan-hon-doi-xac",
-      "name": "Ác Nữ Nửa Vời: Truyền Kì Hoán Hồn Đổi Xác",
-      "originName": "Though I Am An Inept Villainess",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260713/ac-nu-nua-voi-truyen-ki-hoan-hon-doi-xac-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260713/ac-nu-nua-voi-truyen-ki-hoan-hon-doi-xac-thumb.webp",
+      "slug": "koukaku-kidoutai",
+      "name": "Koukaku Kidoutai",
+      "originName": "THE GHOST IN THE SHELL",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260711/koukaku-kidoutai-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260711/koukaku-kidoutai-thumb.webp",
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-frontier-lord-begins-2026-46509f66",
+      "source": "phimapi",
+      "slug": "lanh-chua-vung-dat-khong-cu-dan",
+      "name": "Lãnh Chúa Vùng Đất Không Cư Dân",
+      "originName": "The Frontier Lord Begins With Zero Subjects",
+      "posterUrl": "https://phimimg.com/upload/vod/20260704-1/7db800258223261eb92a9a4796b73549.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260704-1/bb60d3ab25624df34574d31752b9eb6a.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 9",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "recommendations-from-iwa-2026-3ef04420",
+      "source": "phimapi",
+      "slug": "loi-gioi-thieu-cua-tien-boi-iwamoto",
+      "name": "Lời Giới Thiệu Của Tiền Bối Iwamoto",
+      "originName": "Recommendations From Iwamoto-Senpai",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260708/loi-gioi-thieu-cua-tien-boi-iwamoto-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260708/loi-gioi-thieu-cua-tien-boi-iwamoto-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 9",
+      "categories": [
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
         },
         {
           "name": "Hoạt Hình",
@@ -848,17 +653,136 @@
       ]
     },
     {
-      "id": "azur-lane-slow-ahead-sea-2026-1da1c3d2",
+      "id": "the-classroom-of-a-black-2026-4247dd4c",
       "source": "phimapi",
-      "slug": "azur-lane-bisoku-zenshin-ni-phan-2",
-      "name": "Azur Lane: Bisoku Zenshin! Ni!! (Phần 2)",
-      "originName": "Azur Lane: Slow Ahead! (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260723/azur-lane-bisoku-zenshin-ni-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260723/azur-lane-bisoku-zenshin-ni-phan-2-thumb.webp",
+      "slug": "lop-hoc-cua-meo-den-va-phu-thuy-hac-mieu-va-lop-hoc-phu-thuy",
+      "name": "Lớp Học Của Mèo Đen Và Phù Thủy (Hắc Miêu Và Lớp Học Phù Thủy)",
+      "originName": "The Classroom Of A Black Cat And A Witch",
+      "posterUrl": "https://phimimg.com/upload/vod/20260413-1/9776326318785b666ce90ecfdc3982c1.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260413-1/93efc2d5ad3299c2dc12c08520de5acb.jpg",
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 20",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "that-time-i-got-reincarn-2026-380899ef",
+      "source": "phimapi",
+      "slug": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4",
+      "name": "Lúc Đó Tôi Đã Chuyển Sinh Thành Slime (Phần 4)",
+      "originName": "That Time I Got Reincarnated As A Slime (Season 4)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260407-1/ab90a78161fa03e2b3f48f84bf250d05.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260406-1/26f4b114b4e3d0ac0bba2f6687131a3c.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 20",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "lanterns-season-1-2026-d7292022",
+      "source": "phimapi",
+      "slug": "luc-luong-lanterns-phan-1",
+      "name": "Lực lượng Lanterns (Phần 1)",
+      "originName": "Lanterns (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260817/luc-luong-lanterns-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260817/luc-luong-lanterns-phan-1-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 2",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "trapped-in-a-dating-sim--2026-38b28576",
+      "source": "phimapi",
+      "slug": "mac-ket-trong-game-hen-ho-the-gioi-game-otome-that-khac-nghiet-voi-nhan-vat-quan-chung-phan-2",
+      "name": "Mắc Kẹt Trong Game Hẹn Hò: Thế Giới Game Otome Thật Khắc Nghiệt Với Nhân Vật Quần Chúng (Phần 2)",
+      "originName": "Trapped In A Dating Sim: The World of Otome Games Is Tough For Mobs (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260708/the-gioi-otome-game-that-khac-nghiet-voi-nhan-vat-quan-chung-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260708/the-gioi-otome-game-that-khac-nghiet-voi-nhan-vat-quan-chung-phan-2-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -871,6 +795,178 @@
         {
           "name": "Khoa Học",
           "slug": "khoa-hoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "mao-2026-65360be1",
+      "source": "phimapi",
+      "slug": "mao",
+      "name": "MAO",
+      "originName": "MAO",
+      "posterUrl": "https://phimimg.com/upload/vod/20260407-1/8bfc211dbf6e0ad5ae4c0c4be2109b47.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260407-1/e848f6fcf159dd1ba4b6865bbc46616b.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 21",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "star-detective-precure-2026-99cb3f38",
+      "source": "phimapi",
+      "slug": "meitantei-precure",
+      "name": "Meitantei Precure!",
+      "originName": "Star Detective Precure!",
+      "posterUrl": "https://phimimg.com/upload/vod/20260607-1/0d46f3ca0500b986fda2df9d94ab9efa.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260607-1/9369fb0b1a0db1c015470c105d065ba0.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (30/30)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "minions-monsters-2026-6645b0b0",
+      "source": "phimapi",
+      "slug": "minions-quai-vat",
+      "name": "Minions & Quái Vật",
+      "originName": "Minions & Monsters",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260811/minions-quai-vat-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260811/minions-quai-vat-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "black-torch-2026-c2dcfe98",
+      "source": "phimapi",
+      "slug": "ngon-duoc-den",
+      "name": "Ngọn Đuốc Đen",
+      "originName": "BLACK TORCH",
+      "posterUrl": "https://phimimg.com/upload/vod/20260705-1/70406bff9bc6c46c77760afa1b842c2f.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260705-1/4d3ebec9ff1cc589f273f5ea080a4e41.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 9",
+      "categories": [
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
         },
         {
           "name": "Tâm Lý",

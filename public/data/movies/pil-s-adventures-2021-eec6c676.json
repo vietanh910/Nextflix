@@ -1,0 +1,71 @@
+{
+  "id": "pil-s-adventures-2021-eec6c676",
+  "source": "phimapi",
+  "slug": "chuyen-phieu-luu-cua-pil",
+  "name": "Chuyến Phiêu Lưu Của Pil",
+  "originName": "Pil's Adventures",
+  "posterUrl": "https://phimimg.com/upload/vod/20231029-1/ecef8da54215cc75e12a318661b722bd.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20231029-1/bd48ac286e9b1106dc7d410278b6e89c.jpg",
+  "year": 2021,
+  "type": "anime",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hoạt Hình",
+      "slug": "hoat-hinh"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Giả Tượng",
+      "slug": "gia-tuong"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Gia Đình",
+      "slug": "gia-dinh"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Pháp",
+      "slug": "phap"
+    }
+  ],
+  "description": "<p>Ngày xửa ngày xưa, có một cô bé mồ côi phải trở thành nàng công chúa bất đắc dĩ không giống ai. Một ngày nọ, hoàng tử bị một tên quan độc ác đầu độc và khiến Pil cùng những người bạn phải đứng lên bảo vệ mình và cả vương quốc.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub + Lồng Tiếng",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20231031/bXBj7tGX/index.m3u8",
+      "m3u8Url": "https://s2.phim1280.tv/20231031/bXBj7tGX/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260828/59rQ5VYe/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260828/59rQ5VYe/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "chuyen-phieu-luu-cua-pil",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

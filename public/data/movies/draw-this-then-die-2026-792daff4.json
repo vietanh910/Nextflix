@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -91,43 +91,21 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260822/4jpwQCUY/index.m3u8"
     },
     {
-      "name": "1",
-      "slug": "1",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/0f0c5117cdf71e86cd21ee67f05f20c2",
-      "m3u8Url": "https://vip.opstream10.com/20260718/34312_0f0c5117/index.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "2",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/4cadfa5ff153fb1c686f5f7535a23dc6",
-      "m3u8Url": "https://vip.opstream10.com/20260718/34313_4cadfa5f/index.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "3",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/f4ac38b57932845f1a5f7b569a364523",
-      "m3u8Url": "https://vip.opstream10.com/20260718/34314_f4ac38b5/index.m3u8"
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260828/PxWbFiY8/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260828/PxWbFiY8/index.m3u8"
     }
   ],
   "sources": [
     {
-      "source": "ophim",
-      "slug": "ve-xong-di-roi-hay-chet",
-      "episodeCount": 3,
-      "priority": 0
-    },
-    {
       "source": "phimapi",
       "slug": "ve-xong-di-roi-hay-chet",
-      "episodeCount": 7,
+      "episodeCount": 8,
       "priority": 1
     }
   ],
-  "_priority": 0
+  "_priority": 1
 }

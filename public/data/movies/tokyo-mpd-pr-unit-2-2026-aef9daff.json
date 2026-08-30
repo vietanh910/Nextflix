@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260808/so-canh-sat-tokyo-doi-quan-he-cong-chung-so-2-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 9",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (11/11)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -107,6 +107,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260822/N5mS5WyD/index.m3u8"
     },
     {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260824/V8eIAtYz/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260824/V8eIAtYz/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260825/UviOzW4K/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260825/UviOzW4K/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -177,13 +193,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/4c8dkVWi/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260822/4c8dkVWi/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260824/km98cSKs/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260824/km98cSKs/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260825/N1fsqIir/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260825/N1fsqIir/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "so-canh-sat-tokyo-doi-quan-he-cong-chung-so-2",
-      "episodeCount": 18,
+      "episodeCount": 22,
       "priority": 1
     }
   ],

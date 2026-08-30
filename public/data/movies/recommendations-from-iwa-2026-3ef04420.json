@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Bí Ẩn",
@@ -107,43 +107,21 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260822/qiHuMayU/index.m3u8"
     },
     {
-      "name": "1",
-      "slug": "1",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/9abbbda872050c52f250190578b0c178",
-      "m3u8Url": "https://vip.opstream10.com/20260718/34331_9abbbda8/index.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "2",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/f4fb3ad46ed38e0582c16fb84b610897",
-      "m3u8Url": "https://vip.opstream10.com/20260718/34332_f4fb3ad4/index.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "3",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/c110f3fd3ee12cc12d7334c8a3e53c74",
-      "m3u8Url": "https://vip.opstream10.com/20260718/34333_c110f3fd/index.m3u8"
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260829/b2TiYZQX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260829/b2TiYZQX/index.m3u8"
     }
   ],
   "sources": [
     {
-      "source": "ophim",
-      "slug": "loi-gioi-thieu-cua-tien-boi-iwamoto",
-      "episodeCount": 3,
-      "priority": 0
-    },
-    {
       "source": "phimapi",
       "slug": "loi-gioi-thieu-cua-tien-boi-iwamoto",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 1
     }
   ],
-  "_priority": 0
+  "_priority": 1
 }

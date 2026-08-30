@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 4",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -36,7 +36,7 @@
   ],
   "description": "<p>Bộ phim xoay quanh CEO của thương hiệu váy cưới J&White, Baek Mi Young và chồng cô, nhà thiết kế Ji Won Ho. Từng yêu nhau sâu đậm và cùng gây dựng sự nghiệp, họ tưởng như có một cuộc hôn nhân hạnh phúc, nhưng sau 7 năm chung sống, những mâu thuẫn và tổn thương âm thầm khiến Mi Young quyết định đề nghị ly hôn. Từ đây, cả hai bước vào cuộc chiến ly hôn đầy căng thẳng, buộc cả hai phải nhìn lại những biến cố trong quá khứ và đối mặt với những cảm xúc chưa được giải quyết.</p>",
   "quality": "FHD",
-  "lang": "Vietsub",
+  "lang": "Vietsub + Thuyết Minh",
   "episodes": [
     {
       "name": "Tập 01",
@@ -53,13 +53,61 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260820/yj0axLXV/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260820/yj0axLXV/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260826/73Cq7C3o/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260826/73Cq7C3o/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260827/3MfTEk0o/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260827/3MfTEk0o/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260826/qiHTLngN/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260826/qiHTLngN/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260826/sPi8cdiP/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260826/sPi8cdiP/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260827/g3BWd2lI/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260827/g3BWd2lI/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260827/xg9wl4z5/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260827/xg9wl4z5/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "u-thi-ly-hon",
-      "episodeCount": 2,
+      "episodeCount": 8,
       "priority": 1
     }
   ],

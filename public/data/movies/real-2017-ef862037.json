@@ -1,0 +1,59 @@
+{
+  "id": "real-2017-ef862037",
+  "source": "phimapi",
+  "slug": "su-that",
+  "name": "Sự Thật",
+  "originName": "Real",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260825/su-that-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260825/su-that-thumb.webp",
+  "year": 2017,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    },
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "<p>Real xoay quanh nhân vật Jang Tae Young (Kim Soo Hyun), người đàn ông lạnh lùng và tham vọng, làm việc cho thế giới ngầm. Anh bị đồng tiền mê hoặc và muốn xây dựng một khách sạn casino để điều khiển cả thành phố. Tuy nhiên, mọi thứ bắt đầu rơi khỏi tầm kiểm soát khi một phóng viên theo đuôi Jang Tae Young xuất hiện. Sulli đảm nhận vai Song Yoo Hwa, một nhà vật lý trị liệu. Tác phẩm dán nhãn 19+ vì có nhiều cảnh bạo lực và tình cảm giữa hai nhân vật chính.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260825/Xg251RlL/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260825/Xg251RlL/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "su-that",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

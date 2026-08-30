@@ -1,0 +1,63 @@
+{
+  "id": "insidious-2011-dddda3d2",
+  "source": "phimapi",
+  "slug": "quy-quyet",
+  "name": "Quỷ Quyệt",
+  "originName": "Insidious",
+  "posterUrl": "https://phimimg.com/upload/vod/20250731-1/7805a656c8b6bdeee32ab9c2eccf77fb.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20250731-1/e753d27a7578d8e7cc0d7da1c3af9846.jpg",
+  "year": 2011,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Canada",
+      "slug": "canada"
+    },
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Đây là phần phim đầu tiên (theo thứ tự thời gian, lần thứ ba) trong loạt phim Insidious. Câu chuyện xoay quanh cặp vợ chồng có con trai không hiểu sao đi vào tình trạng hôn mê và trở thành một vật chứa cho hồn ma trong một không gian tâm linh muốn cư ngụ cơ thể của mình, để sống một lần nữa. Bộ phim đã được phát hành tại rạp vào ngày 1 tháng 4 năm 2011 và FilmDistrict phát hành đầu tiên. Bộ phim được nối tiếp theo một phần sau, Quỷ quyệt 2 (2013) và hai phần sau, Quỷ quyệt 3 (2015) và Quỷ quyệt: Chìa khóa quỷ dữ (2018).</p>",
+  "quality": "FHD",
+  "lang": "Vietsub + Thuyết Minh",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250731/L60vVXNv/index.m3u8",
+      "m3u8Url": "https://s6.kkphimplayer6.com/20250731/L60vVXNv/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260823/JbVS36SW/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260823/JbVS36SW/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "quy-quyet",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

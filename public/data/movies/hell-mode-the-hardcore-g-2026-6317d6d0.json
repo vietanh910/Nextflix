@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Hành Động",
@@ -107,43 +107,21 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260822/kucsQF9c/index.m3u8"
     },
     {
-      "name": "1",
-      "slug": "1",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/f2162f0713c4aa4c3c9a843febf03e56",
-      "m3u8Url": "https://vip.opstream10.com/20260718/34210_f2162f07/index.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "2",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/a331c27331682da1666f6f230fce79d8",
-      "m3u8Url": "https://vip.opstream10.com/20260718/34211_a331c273/index.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "3",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/65b2bc9eb35261e785fdb1a9bc02b6b1",
-      "m3u8Url": "https://vip.opstream10.com/20260718/34212_65b2bc9e/index.m3u8"
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260828/PolKrEWl/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260828/PolKrEWl/index.m3u8"
     }
   ],
   "sources": [
     {
-      "source": "ophim",
-      "slug": "hell-mode-game-thu-xuat-chung-tung-hoanh-chon-di-gioi-hon-nguyen-phan-2",
-      "episodeCount": 3,
-      "priority": 0
-    },
-    {
       "source": "phimapi",
       "slug": "hell-mode-game-thu-xuat-chung-tung-hoanh-chon-di-gioi-hon-nguyen-phan-2",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 1
     }
   ],
-  "_priority": 0
+  "_priority": 1
 }

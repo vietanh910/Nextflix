@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -99,43 +99,21 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260822/L8L4k530/index.m3u8"
     },
     {
-      "name": "1",
-      "slug": "1",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/23c1de06a1eb6b5d2ff63009548b0eb4",
-      "m3u8Url": "https://vip.opstream10.com/20260719/34362_23c1de06/index.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "2",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/d5f6b27eed9d01f58d2e943b6c319081",
-      "m3u8Url": "https://vip.opstream10.com/20260719/34363_d5f6b27e/index.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "3",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/31a67bdbe13f907c857a7a27a3111509",
-      "m3u8Url": "https://vip.opstream10.com/20260719/34364_31a67bdb/index.m3u8"
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260830/mJqhcSVc/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260830/mJqhcSVc/index.m3u8"
     }
   ],
   "sources": [
     {
-      "source": "ophim",
-      "slug": "bao-mau-bi-mat-cua-tieu-thu",
-      "episodeCount": 3,
-      "priority": 0
-    },
-    {
       "source": "phimapi",
       "slug": "bao-mau-bi-mat-cua-tieu-thu",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 1
     }
   ],
-  "_priority": 0
+  "_priority": 1
 }

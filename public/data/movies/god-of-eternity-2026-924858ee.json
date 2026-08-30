@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 11",
+  "episodeCurrent": "Tập 13",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -123,43 +123,29 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260818/NiJ8wF5A/index.m3u8"
     },
     {
-      "name": "1",
-      "slug": "1",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream800.com/share/a8baa56554f96369ab93e4f3bb068c22",
-      "m3u8Url": "https://vip.opstream800.com/20260723/142_a8baa565/index.m3u8"
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260825/hEpEvV1Q/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260825/hEpEvV1Q/index.m3u8"
     },
     {
-      "name": "2",
-      "slug": "2",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream800.com/share/903ce9225fca3e988c2af215d4e544d3",
-      "m3u8Url": "https://vip.opstream800.com/20260723/143_903ce922/index.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "3",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream800.com/share/0a09c8844ba8f0936c20bd791130d6b6",
-      "m3u8Url": "https://vip.opstream800.com/20260723/144_0a09c884/index.m3u8"
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260825/bhfMXcUG/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260825/bhfMXcUG/index.m3u8"
     }
   ],
   "sources": [
     {
-      "source": "ophim",
-      "slug": "van-co-than-de",
-      "episodeCount": 3,
-      "priority": 0
-    },
-    {
       "source": "phimapi",
       "slug": "van-co-than-de",
-      "episodeCount": 11,
+      "episodeCount": 13,
       "priority": 1
     }
   ],
-  "_priority": 0
+  "_priority": 1
 }

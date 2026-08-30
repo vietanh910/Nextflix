@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Hành Động",
@@ -107,51 +107,21 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260816/fIuesP5Z/index.m3u8"
     },
     {
-      "name": "1",
-      "slug": "1",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream90.com/share/705dd9f97ecdfe098f71f2a1089d4fcc",
-      "m3u8Url": "https://vip.opstream90.com/20260705/36184_705dd9f9/index.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "2",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream90.com/share/f026065498487d98a7f2052d48749913",
-      "m3u8Url": "https://vip.opstream90.com/20260705/36185_f0260654/index.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "3",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/ee79d5e1b7c2b698105bc5811e6a3eb5",
-      "m3u8Url": "https://vip.opstream10.com/20260720/34407_ee79d5e1/index.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "4",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/8f8f63800cdf54a776ba9c14b2059ec0",
-      "m3u8Url": "https://vip.opstream10.com/20260720/34408_8f8f6380/index.m3u8"
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260823/bTaIU7eR/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260823/bTaIU7eR/index.m3u8"
     }
   ],
   "sources": [
     {
-      "source": "ophim",
-      "slug": "that-nghiep-chuyen-sinh-phan-3",
-      "episodeCount": 4,
-      "priority": 0
-    },
-    {
       "source": "phimapi",
       "slug": "that-nghiep-chuyen-sinh-phan-3",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 1
     }
   ],
-  "_priority": 0
+  "_priority": 1
 }

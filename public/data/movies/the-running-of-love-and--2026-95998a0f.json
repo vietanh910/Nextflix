@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 16",
+  "episodeCurrent": "Tập 17",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -163,67 +163,21 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260822/0gCNDxsm/index.m3u8"
     },
     {
-      "name": "1",
-      "slug": "1",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/e800acf8774c816fa0156944bb45bf74",
-      "m3u8Url": "https://vip.opstream10.com/20260719/34356_e800acf8/index.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "2",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/fc234a34937d7459d1f0518f37e1a7b1",
-      "m3u8Url": "https://vip.opstream10.com/20260719/34357_fc234a34/index.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "3",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/16c07e910397fb3910aad491c8c25e55",
-      "m3u8Url": "https://vip.opstream10.com/20260719/34358_16c07e91/index.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "4",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/fb30d3b7fa58e575c4bf59bb899c314d",
-      "m3u8Url": "https://vip.opstream10.com/20260719/34359_fb30d3b7/index.m3u8"
-    },
-    {
-      "name": "5",
-      "slug": "5",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/bc55ea9e207158cae19485c14e573efd",
-      "m3u8Url": "https://vip.opstream10.com/20260719/34360_bc55ea9e/index.m3u8"
-    },
-    {
-      "name": "6",
-      "slug": "6",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/995e869dac6a1eb7a46c430768a04db3",
-      "m3u8Url": "https://vip.opstream10.com/20260719/34361_995e869d/index.m3u8"
+      "name": "Tập 17",
+      "slug": "tap-17",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260823/EM55pUmB/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260823/EM55pUmB/index.m3u8"
     }
   ],
   "sources": [
     {
-      "source": "ophim",
-      "slug": "cuoc-chay-dua-cua-tinh-va-tien",
-      "episodeCount": 6,
-      "priority": 0
-    },
-    {
       "source": "phimapi",
       "slug": "cuoc-chay-dua-cua-tinh-va-tien",
-      "episodeCount": 16,
+      "episodeCount": 17,
       "priority": 1
     }
   ],
-  "_priority": 0
+  "_priority": 1
 }

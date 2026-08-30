@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260718/chuyen-tinh-ma-quai-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 11",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (12/12)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -131,6 +131,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260822/53Le9U25/index.m3u8"
     },
     {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260823/9kExxsfI/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260823/9kExxsfI/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -169,29 +177,15 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260808/QDNl81yW/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260808/QDNl81yW/index.m3u8"
-    },
-    {
-      "name": "1",
-      "slug": "1",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/f9825fce3f80c8c387aea3be5e387179",
-      "m3u8Url": "https://vip.opstream10.com/20260718/34329_f9825fce/index.m3u8"
     }
   ],
   "sources": [
     {
-      "source": "ophim",
-      "slug": "chuyen-tinh-ma-quai",
-      "episodeCount": 1,
-      "priority": 0
-    },
-    {
       "source": "phimapi",
       "slug": "chuyen-tinh-ma-quai",
-      "episodeCount": 16,
+      "episodeCount": 17,
       "priority": 1
     }
   ],
-  "_priority": 0
+  "_priority": 1
 }

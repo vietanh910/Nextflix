@@ -5,68 +5,6 @@
   "totalPages": 1,
   "items": [
     {
-      "id": "pressure-2026-3b3d8a08",
-      "source": "ophim",
-      "slug": "ap-luc",
-      "name": "Áp Lực",
-      "originName": "Pressure",
-      "posterUrl": "ap-luc-poster.jpg",
-      "thumbUrl": "ap-luc-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chiến Tranh",
-          "slug": "chien-tranh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
-        },
-        {
-          "name": "Pháp",
-          "slug": "phap"
-        }
-      ]
-    },
-    {
-      "id": "desert-warrior-2026-d1075187",
-      "source": "ophim",
-      "slug": "desert-warrior",
-      "name": "Desert Warrior",
-      "originName": "Desert Warrior",
-      "posterUrl": "desert-warrior-poster.jpg",
-      "thumbUrl": "desert-warrior-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Chiến Tranh",
-          "slug": "chien-tranh"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "young-washington-2026-6025af89",
       "source": "phimapi",
       "slug": "thoi-nien-thieu-cua-washington",
@@ -108,6 +46,35 @@
       ]
     },
     {
+      "id": "land-of-wolves-2026-461bb1b1",
+      "source": "phimapi",
+      "slug": "vung-dat-soi",
+      "name": "Vùng Đất Sói",
+      "originName": "Land of Wolves",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260827/vung-dat-soi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260827/vung-dat-soi-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Chiến Tranh",
+          "slug": "chien-tranh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Mỹ",
+          "slug": "my"
+        }
+      ]
+    },
+    {
       "id": "home-coming-2022-d32f71e7",
       "source": "phimapi",
       "slug": "van-ly-quy-tu-van-ly-quy-do",
@@ -133,35 +100,6 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "1941-1979-a0eb8bb9",
-      "source": "ophim",
-      "slug": "1941",
-      "name": "1941",
-      "originName": "1941",
-      "posterUrl": "1941-poster.jpg",
-      "thumbUrl": "1941-thumb.jpg",
-      "year": 1979,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chiến Tranh",
-          "slug": "chien-tranh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     }

@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260808/biet-doi-cong-ly-avalanche-thumb.webp",
   "year": 2021,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (10/10)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -115,6 +115,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260822/qF6YNaJN/index.m3u8"
     },
     {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260824/PPAHJztt/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260824/PPAHJztt/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260825/ez4WBtL8/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260825/ez4WBtL8/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -177,13 +193,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/BRxGdbzQ/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260822/BRxGdbzQ/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260824/3SwRa3Q9/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260824/3SwRa3Q9/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260825/a1lqqqWE/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260825/a1lqqqWE/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "biet-doi-cong-ly-avalanche",
-      "episodeCount": 16,
+      "episodeCount": 20,
       "priority": 1
     }
   ],

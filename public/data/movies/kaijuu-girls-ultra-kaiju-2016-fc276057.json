@@ -9,7 +9,18 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "countries": [],
+  "description": "The Ultra Kaijuu Gijinka Keikaku project transforms kaijuu (monsters) from the Ultraman live-action special-effects series into cute, female anthropomorphised monsters.\n<br><br>\n(Source: Anime News Network)",
   "episodes": [],
   "sources": [
     {

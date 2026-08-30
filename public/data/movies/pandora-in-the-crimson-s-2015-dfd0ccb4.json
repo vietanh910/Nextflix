@@ -9,7 +9,26 @@
   "year": 2015,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Ecchi",
+      "slug": "ecchi"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Sci-Fi",
+      "slug": "sci-fi"
+    }
+  ],
+  "countries": [],
+  "description": "In an age when large-scale natural disasters frequently happen all over the world, when cyborgs and autonomous robots are beginning to appear on the market in technologically advanced nations, and major world powers compete for technology and resources, the divide between rich and poor grows and the future for the poor looks bleak. In this transitional stage, everyone wanders around in a self-indulgent daze and the way out isn't clear... This is the story of how two cybernetically enhanced girls meet.\n",
   "episodes": [],
   "sources": [
     {

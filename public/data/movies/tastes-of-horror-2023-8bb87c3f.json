@@ -1,0 +1,55 @@
+{
+  "id": "tastes-of-horror-2023-8bb87c3f",
+  "source": "phimapi",
+  "slug": "am-hon-do-thi",
+  "name": "Âm Hồn Đô Thị",
+  "originName": "Tastes Of Horror",
+  "posterUrl": "https://image.tmdb.org/t/p/original/rgB23yhNSSGhH7cusyKneKsdEP2.jpg",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260828/am-hon-do-thi-thumb.webp",
+  "year": 2023,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "<p>Phim là tuyển tập kinh dị Hàn Quốc gồm sáu câu chuyện độc lập, đưa người xem khám phá nhiều nỗi sợ khác nhau trong cuộc sống hiện đại. Từ những thử thách trực tuyến, mạng xã hội đến khao khát tiền bạc, ngoại hình và danh tiếng, những điều tưởng chừng quen thuộc dần trở thành nguồn cơn của những tình huống ám ảnh. Mỗi câu chuyện mở ra một góc tối khác nhau, nơi những ham muốn và áp lực đời thường có thể biến thành cơn ác mộng.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260827/eqAjJrlG/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260827/eqAjJrlG/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "am-hon-do-thi",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

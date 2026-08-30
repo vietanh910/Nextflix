@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260712/gio-noi-han-duong-xuan-son-canh-nang-dong-goi-gio-tren-nui-xuan-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 15",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (16/16)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -155,35 +155,21 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260822/8t39iBc3/index.m3u8"
     },
     {
-      "name": "5",
-      "slug": "5",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream90.com/share/dde33913c72bd862964b1f9b3ebca6f0",
-      "m3u8Url": "https://vip.opstream90.com/20260704/36088_dde33913/index.m3u8"
-    },
-    {
-      "name": "6",
-      "slug": "6",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream90.com/share/ebde33c70e6e38c6377f49e3d1956fd1",
-      "m3u8Url": "https://vip.opstream90.com/20260704/36089_ebde33c7/index.m3u8"
+      "name": "Tập 16",
+      "slug": "tap-16",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260826/vSi8ETw8/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260826/vSi8ETw8/index.m3u8"
     }
   ],
   "sources": [
     {
-      "source": "ophim",
-      "slug": "a-winter-sun-wakes-the-wind-in-spring-hills-dream",
-      "episodeCount": 2,
-      "priority": 0
-    },
-    {
       "source": "phimapi",
       "slug": "gio-noi-han-duong-xuan-son-canh-nang-dong-goi-gio-tren-nui-xuan",
-      "episodeCount": 15,
+      "episodeCount": 16,
       "priority": 1
     }
   ],
-  "_priority": 0
+  "_priority": 1
 }

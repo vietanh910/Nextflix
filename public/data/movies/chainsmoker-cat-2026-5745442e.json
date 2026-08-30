@@ -101,47 +101,9 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260820/UiTHB6Zr/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260820/UiTHB6Zr/index.m3u8"
-    },
-    {
-      "name": "1",
-      "slug": "1",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream800.com/share/eb163727917cbba1eea208541a643e74",
-      "m3u8Url": "https://vip.opstream800.com/20260724/211_eb163727/index.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "2",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream800.com/share/1534b76d325a8f591b52d302e7181331",
-      "m3u8Url": "https://vip.opstream800.com/20260724/212_1534b76d/index.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "3",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream800.com/share/979d472a84804b9f647bc185a877a8b5",
-      "m3u8Url": "https://vip.opstream800.com/20260724/213_979d472a/index.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "4",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream800.com/share/ca46c1b9512a7a8315fa3c5a946e8265",
-      "m3u8Url": "https://vip.opstream800.com/20260724/214_ca46c1b9/index.m3u8"
     }
   ],
   "sources": [
-    {
-      "source": "ophim",
-      "slug": "co-meo-nghien-thuoc-la",
-      "episodeCount": 4,
-      "priority": 0
-    },
     {
       "source": "phimapi",
       "slug": "co-meo-nghien-thuoc-la",
@@ -149,5 +111,5 @@
       "priority": 1
     }
   ],
-  "_priority": 0
+  "_priority": 1
 }

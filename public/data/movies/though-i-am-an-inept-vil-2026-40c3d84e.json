@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 7",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -91,35 +91,21 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260816/fmu08gHt/index.m3u8"
     },
     {
-      "name": "1",
-      "slug": "1",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/721d2344f7d2bfbe7a90c257f8d961df",
-      "m3u8Url": "https://vip.opstream10.com/20260720/34409_721d2344/index.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "2",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/11eed2e8a05bbbb4508ffa229a7b84c0",
-      "m3u8Url": "https://vip.opstream10.com/20260720/34410_11eed2e8/index.m3u8"
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260823/YxnlmphM/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260823/YxnlmphM/index.m3u8"
     }
   ],
   "sources": [
     {
-      "source": "ophim",
-      "slug": "ac-nu-nua-voi-truyen-ki-hoan-hon-doi-xac",
-      "episodeCount": 2,
-      "priority": 0
-    },
-    {
       "source": "phimapi",
       "slug": "ac-nu-nua-voi-truyen-ki-hoan-hon-doi-xac",
-      "episodeCount": 6,
+      "episodeCount": 7,
       "priority": 1
     }
   ],
-  "_priority": 0
+  "_priority": 1
 }

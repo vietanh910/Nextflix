@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 11",
+  "episodeCurrent": "Tập 13",
   "categories": [
     {
       "name": "Hài Hước",
@@ -119,43 +119,29 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260821/Sfz2dieX/index.m3u8"
     },
     {
-      "name": "1",
-      "slug": "1",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream800.com/share/c24cd76e1ce41366a4bbe8a49b02a028",
-      "m3u8Url": "https://vip.opstream800.com/20260726/253_c24cd76e/index.m3u8"
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260828/noFsyrVF/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260828/noFsyrVF/index.m3u8"
     },
     {
-      "name": "2",
-      "slug": "2",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream800.com/share/c52f1bd66cc19d05628bd8bf27af3ad6",
-      "m3u8Url": "https://vip.opstream800.com/20260726/254_c52f1bd6/index.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "3",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream800.com/share/fe131d7f5a6b38b23cc967316c13dae2",
-      "m3u8Url": "https://vip.opstream800.com/20260726/255_fe131d7f/index.m3u8"
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260828/Lupu3f7C/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260828/Lupu3f7C/index.m3u8"
     }
   ],
   "sources": [
     {
-      "source": "ophim",
-      "slug": "phap-su-tu-linh-ta-chinh-la-thien-tai",
-      "episodeCount": 3,
-      "priority": 0
-    },
-    {
       "source": "phimapi",
       "slug": "phap-su-tu-linh-ta-chinh-la-thien-tai",
-      "episodeCount": 11,
+      "episodeCount": 13,
       "priority": 1
     }
   ],
-  "_priority": 0
+  "_priority": 1
 }

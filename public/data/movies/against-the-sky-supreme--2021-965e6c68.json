@@ -9,7 +9,7 @@
   "year": 2021,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 542",
+  "episodeCurrent": "Tập 544",
   "categories": [
     {
       "name": "Cổ Trang",
@@ -4329,13 +4329,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260821/HIPxkfVg/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260821/HIPxkfVg/index.m3u8"
+    },
+    {
+      "name": "Tập 543",
+      "slug": "tap-543",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260824/3syEokd3/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260824/3syEokd3/index.m3u8"
+    },
+    {
+      "name": "Tập 544",
+      "slug": "tap-544",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260828/Y3qADbmo/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260828/Y3qADbmo/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nghich-thien-chi-ton",
-      "episodeCount": 537,
+      "episodeCount": 539,
       "priority": 1
     }
   ],

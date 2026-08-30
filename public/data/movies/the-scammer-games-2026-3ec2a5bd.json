@@ -181,103 +181,9 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260820/q9h5WS2g/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260820/q9h5WS2g/index.m3u8"
-    },
-    {
-      "name": "1",
-      "slug": "1",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream90.com/share/a104a04b5de4c7bffa5bf69d204be1e7",
-      "m3u8Url": "https://vip.opstream90.com/20260619/35210_a104a04b/index.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "2",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream90.com/share/9e92c56b07777926189cdffe9110dffd",
-      "m3u8Url": "https://vip.opstream90.com/20260624/35555_9e92c56b/index.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "3",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream90.com/share/297599ea587669a83f7d30846c397b72",
-      "m3u8Url": "https://vip.opstream90.com/20260701/35902_297599ea/index.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "4",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/82d81ceb440acae35be11f4e062f7e46",
-      "m3u8Url": "https://vip.opstream10.com/20260717/34064_82d81ceb/index.m3u8"
-    },
-    {
-      "name": "5",
-      "slug": "5",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/0e9a9605327d6cb01c3e322a7e421294",
-      "m3u8Url": "https://vip.opstream10.com/20260717/34065_0e9a9605/index.m3u8"
-    },
-    {
-      "name": "6",
-      "slug": "6",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/b6ef5d5380d88cee64653c50b098b245",
-      "m3u8Url": "https://vip.opstream10.com/20260717/34066_b6ef5d53/index.m3u8"
-    },
-    {
-      "name": "7",
-      "slug": "7",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/9527f862774325cefd158e74c3045c1e",
-      "m3u8Url": "https://vip.opstream10.com/20260717/34067_9527f862/index.m3u8"
-    },
-    {
-      "name": "8",
-      "slug": "8",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/dd6096012cbf345790335c13d8898490",
-      "m3u8Url": "https://vip.opstream10.com/20260717/34068_dd609601/index.m3u8"
-    },
-    {
-      "name": "9",
-      "slug": "9",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/f501052d526ab10cde220acace65b7dc",
-      "m3u8Url": "https://vip.opstream10.com/20260717/34069_f501052d/index.m3u8"
-    },
-    {
-      "name": "10",
-      "slug": "10",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream800.com/share/a4a042cf4fd6bfb47701cbc8a1653ada",
-      "m3u8Url": "https://vip.opstream800.com/20260723/171_a4a042cf/index.m3u8"
-    },
-    {
-      "name": "11",
-      "slug": "11",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream800.com/share/6f3ef77ac0e3619e98159e9b6febf557",
-      "m3u8Url": "https://vip.opstream800.com/20260724/210_6f3ef77a/index.m3u8"
     }
   ],
   "sources": [
-    {
-      "source": "ophim",
-      "slug": "tam-tay-lua-dao",
-      "episodeCount": 11,
-      "priority": 0
-    },
     {
       "source": "phimapi",
       "slug": "tam-tay-lua-dao",
@@ -285,5 +191,5 @@
       "priority": 1
     }
   ],
-  "_priority": 0
+  "_priority": 1
 }

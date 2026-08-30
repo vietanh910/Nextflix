@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Hành Động",
@@ -103,43 +103,21 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260816/yGufgJJQ/index.m3u8"
     },
     {
-      "name": "1",
-      "slug": "1",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/ffe640179b554e295c167a2f6be528e0",
-      "m3u8Url": "https://vip.opstream10.com/20260719/34399_ffe64017/index.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "2",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/667ea75a7895da024f6298f05f3b658d",
-      "m3u8Url": "https://vip.opstream10.com/20260719/34400_667ea75a/index.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "3",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/821b56bbd7c4ce329a0b7664561b30e7",
-      "m3u8Url": "https://vip.opstream10.com/20260719/34401_821b56bb/index.m3u8"
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260823/YuW6NoJJ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260823/YuW6NoJJ/index.m3u8"
     }
   ],
   "sources": [
     {
-      "source": "ophim",
-      "slug": "hau-phuong-manh-nhat-the-gioi-nha-khai-pha-tan-binh-cua-vuong-quoc-me-cung",
-      "episodeCount": 3,
-      "priority": 0
-    },
-    {
       "source": "phimapi",
       "slug": "hau-phuong-manh-nhat-the-gioi-nha-khai-pha-tan-binh-cua-vuong-quoc-me-cung",
-      "episodeCount": 7,
+      "episodeCount": 8,
       "priority": 1
     }
   ],
-  "_priority": 0
+  "_priority": 1
 }

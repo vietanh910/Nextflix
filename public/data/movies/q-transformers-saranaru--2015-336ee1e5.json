@@ -9,7 +9,22 @@
   "year": 2015,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Mecha",
+      "slug": "mecha"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Sci-Fi",
+      "slug": "sci-fi"
+    }
+  ],
+  "countries": [],
+  "description": "Second season of Q Transformers: Kaettekita Convoy no Nazo.",
   "episodes": [],
   "sources": [
     {

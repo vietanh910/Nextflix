@@ -1,0 +1,55 @@
+{
+  "id": "little-shop-of-horrors-1986-04b7eaf4",
+  "source": "phimapi",
+  "slug": "cua-hang-kinh-di-nho",
+  "name": "Cửa Hàng Kinh Dị Nhỏ",
+  "originName": "Little Shop Of Horrors",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260829/cua-hang-kinh-di-nho-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260829/cua-hang-kinh-di-nho-thumb.webp",
+  "year": 1986,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Seymour Krelborn là một anh chàng mồ côi ngô nghê làm việc tại tiệm hoa Mushnik ở khu phố ổ chuột Skid Row. Cậu thầm thương cô đồng nghiệp Audrey Fulquard, trong khi hàng ngày vẫn bị ông chủ Mushnik la mắng. Một ngày nọ, Seymour tìm thấy một cây trồng bí ẩn chưa xác định và đặt tên cho nó là Audrey II. Cái cây này dường như có niềm khao khát máu người và sớm cất tiếng hát đòi ăn tối.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260829/KFAE9osi/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260829/KFAE9osi/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "cua-hang-kinh-di-nho",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

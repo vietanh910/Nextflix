@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260712/xich-tinh-ruc-lua-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (8/8)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -95,35 +95,21 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260822/ZghdQPi3/index.m3u8"
     },
     {
-      "name": "1",
-      "slug": "1",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/19081333d0f55f0e056d42691466a191",
-      "m3u8Url": "https://vip.opstream10.com/20260718/34336_19081333/index.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "2",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/5f963b42063bb09eaf0529dd0e6d84ce",
-      "m3u8Url": "https://vip.opstream10.com/20260718/34337_5f963b42/index.m3u8"
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260829/0e1NKuWs/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260829/0e1NKuWs/index.m3u8"
     }
   ],
   "sources": [
     {
-      "source": "ophim",
-      "slug": "xich-tinh-ruc-lua",
-      "episodeCount": 2,
-      "priority": 0
-    },
-    {
       "source": "phimapi",
       "slug": "xich-tinh-ruc-lua",
-      "episodeCount": 7,
+      "episodeCount": 8,
       "priority": 1
     }
   ],
-  "_priority": 0
+  "_priority": 1
 }

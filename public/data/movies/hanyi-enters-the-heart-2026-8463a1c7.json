@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260816/han-y-nhap-tam-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 17",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (24/24)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -169,13 +169,69 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/siCzM2SJ/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260822/siCzM2SJ/index.m3u8"
+    },
+    {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260823/hRH92rWO/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260823/hRH92rWO/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260824/8FfG9srA/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260824/8FfG9srA/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260825/ZbjZfLmw/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260825/ZbjZfLmw/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260826/uYRFHbuO/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260826/uYRFHbuO/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260827/wm9WLkMy/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260827/wm9WLkMy/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260828/Fu6nxuFy/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260828/Fu6nxuFy/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260829/45t1xJWi/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260829/45t1xJWi/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "han-y-nhap-tam",
-      "episodeCount": 17,
+      "episodeCount": 24,
       "priority": 1
     }
   ],

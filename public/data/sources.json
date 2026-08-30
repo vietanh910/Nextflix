@@ -1,14 +1,15 @@
 {
-  "updatedAt": "2026-08-23T03:44:07.301Z",
+  "updatedAt": "2026-08-30T08:49:56.678Z",
   "mode": "full",
   "sources": [
     {
       "source": "ophim",
       "enabled": true,
       "baseUrl": "https://ophim1.com",
-      "ok": true,
-      "fetchedCount": 480,
-      "lastSyncAt": "2026-08-23T03:44:07.301Z"
+      "ok": false,
+      "fetchedCount": 0,
+      "errorMessage": "HTTP 404",
+      "lastSyncAt": "2026-08-30T08:49:56.678Z"
     },
     {
       "source": "phimapi",
@@ -16,7 +17,7 @@
       "baseUrl": "https://phimapi.com",
       "ok": true,
       "fetchedCount": 480,
-      "lastSyncAt": "2026-08-23T03:44:07.301Z"
+      "lastSyncAt": "2026-08-30T08:49:56.678Z"
     },
     {
       "source": "nguonc",
@@ -25,7 +26,7 @@
       "ok": false,
       "fetchedCount": 0,
       "errorMessage": "HTTP 403",
-      "lastSyncAt": "2026-08-23T03:44:07.301Z"
+      "lastSyncAt": "2026-08-30T08:49:56.678Z"
     },
     {
       "source": "animapper",
@@ -33,7 +34,7 @@
       "baseUrl": "https://api.animapper.net/api/v1",
       "ok": true,
       "fetchedCount": 1000,
-      "lastSyncAt": "2026-08-23T03:44:07.301Z"
+      "lastSyncAt": "2026-08-30T08:49:56.678Z"
     }
   ]
 }

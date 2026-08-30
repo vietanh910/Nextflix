@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -103,43 +103,21 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260822/fjTqq0Yl/index.m3u8"
     },
     {
-      "name": "1",
-      "slug": "1",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream90.com/share/a748fee25fe35e147e4ce6b502c6a2e2",
-      "m3u8Url": "https://vip.opstream90.com/20260703/36051_a748fee2/index.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "2",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/7baa3894c1163d4ecd5acc9b4cda2c4a",
-      "m3u8Url": "https://vip.opstream10.com/20260718/34290_7baa3894/index.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "3",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/55d3833ccf0805f16f14edde0562ce32",
-      "m3u8Url": "https://vip.opstream10.com/20260718/34291_55d3833c/index.m3u8"
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260828/YAWdauye/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260828/YAWdauye/index.m3u8"
     }
   ],
   "sources": [
     {
-      "source": "ophim",
-      "slug": "silo-phan-3",
-      "episodeCount": 3,
-      "priority": 0
-    },
-    {
       "source": "phimapi",
       "slug": "ham-silo-phan-3",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 1
     }
   ],
-  "_priority": 0
+  "_priority": 1
 }

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Bí Ẩn",
@@ -111,43 +111,21 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260822/aXBBtWo6/index.m3u8"
     },
     {
-      "name": "1",
-      "slug": "1",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream90.com/share/1c77d7a11855fdfde420194c050c147b",
-      "m3u8Url": "https://vip.opstream90.com/20260705/36183_1c77d7a1/index.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "2",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/a8de5273039f3fc34b037d1d35cd5674",
-      "m3u8Url": "https://vip.opstream10.com/20260718/34170_a8de5273/index.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "3",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/586ef1246d9a7c964ad8bda24c2ba581",
-      "m3u8Url": "https://vip.opstream10.com/20260718/34171_586ef124/index.m3u8"
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260829/F0J46sAj/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260829/F0J46sAj/index.m3u8"
     }
   ],
   "sources": [
     {
-      "source": "ophim",
-      "slug": "duoc-den",
-      "episodeCount": 3,
-      "priority": 0
-    },
-    {
       "source": "phimapi",
       "slug": "ngon-duoc-den",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 1
     }
   ],
-  "_priority": 0
+  "_priority": 1
 }

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 7",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -79,35 +79,29 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260811/CYANXnpy/index.m3u8"
     },
     {
-      "name": "1",
-      "slug": "1",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream800.com/share/82aa4b0af34c2313a562076992e50aa3",
-      "m3u8Url": "https://vip.opstream800.com/20260723/162_82aa4b0a/index.m3u8"
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260826/yMKvpOt7/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260826/yMKvpOt7/index.m3u8"
     },
     {
-      "name": "2",
-      "slug": "2",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream800.com/share/0777d5c17d4066b82ab86dff8a46af6f",
-      "m3u8Url": "https://vip.opstream800.com/20260723/163_0777d5c1/index.m3u8"
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260826/npkjig5D/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260826/npkjig5D/index.m3u8"
     }
   ],
   "sources": [
     {
-      "source": "ophim",
-      "slug": "love-destiny-nhan-duyen-tien-dinh",
-      "episodeCount": 2,
-      "priority": 0
-    },
-    {
       "source": "phimapi",
       "slug": "nhan-duyen-tien-dinh-2026",
-      "episodeCount": 5,
+      "episodeCount": 7,
       "priority": 1
     }
   ],
-  "_priority": 0
+  "_priority": 1
 }

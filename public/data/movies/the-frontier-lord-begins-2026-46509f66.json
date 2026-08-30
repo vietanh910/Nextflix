@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Hài Hước",
@@ -111,43 +111,21 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260822/cBZyF30F/index.m3u8"
     },
     {
-      "name": "1",
-      "slug": "1",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/7ca4d3846a7d9aad42da15d4289c7ada",
-      "m3u8Url": "https://vip.opstream10.com/20260718/34304_7ca4d384/index.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "2",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/994d88a370250b303be16fc98bb5cdac",
-      "m3u8Url": "https://vip.opstream10.com/20260718/34305_994d88a3/index.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "3",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/b3dd9704c36f89bb79ee6408a4bea644",
-      "m3u8Url": "https://vip.opstream10.com/20260718/34306_b3dd9704/index.m3u8"
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260828/WTxtzE7o/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260828/WTxtzE7o/index.m3u8"
     }
   ],
   "sources": [
     {
-      "source": "ophim",
-      "slug": "lanh-chua-vung-dat-khong-cu-dan",
-      "episodeCount": 3,
-      "priority": 0
-    },
-    {
       "source": "phimapi",
       "slug": "lanh-chua-vung-dat-khong-cu-dan",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 1
     }
   ],
-  "_priority": 0
+  "_priority": 1
 }

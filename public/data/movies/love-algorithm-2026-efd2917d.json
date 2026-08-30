@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 7",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -79,35 +79,21 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260819/bisrr5YZ/index.m3u8"
     },
     {
-      "name": "1",
-      "slug": "1",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream800.com/share/091d584fced301b442654dd8c23b3fc9",
-      "m3u8Url": "https://vip.opstream800.com/20260724/208_091d584f/index.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "2",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream800.com/share/084b6fbb10729ed4da8c3d3f5a3ae7c9",
-      "m3u8Url": "https://vip.opstream800.com/20260724/196_084b6fbb/index.m3u8"
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260827/3l4z4hQc/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260827/3l4z4hQc/index.m3u8"
     }
   ],
   "sources": [
     {
-      "source": "ophim",
-      "slug": "phuong-trinh-tinh-yeu-2026",
-      "episodeCount": 2,
-      "priority": 0
-    },
-    {
       "source": "phimapi",
       "slug": "phuong-trinh-tinh-yeu-2026",
-      "episodeCount": 6,
+      "episodeCount": 7,
       "priority": 1
     }
   ],
-  "_priority": 0
+  "_priority": 1
 }

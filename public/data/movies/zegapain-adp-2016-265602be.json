@@ -9,7 +9,26 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Mecha",
+      "slug": "mecha"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Sci-Fi",
+      "slug": "sci-fi"
+    }
+  ],
+  "countries": [],
+  "description": "The prequel movie to the Zegapain TV series explores the events during the initial server resets experienced by Kyo. These events ultimately lead to the moon mission.",
   "episodes": [],
   "sources": [
     {

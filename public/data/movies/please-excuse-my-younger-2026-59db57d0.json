@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -91,43 +91,29 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260814/gfTTTqRx/index.m3u8"
     },
     {
-      "name": "1",
-      "slug": "1",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/aff857de2196e157fbeac66b619bfe05",
-      "m3u8Url": "https://vip.opstream10.com/20260718/34267_aff857de/index.m3u8"
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/Pfo0G3eW/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260822/Pfo0G3eW/index.m3u8"
     },
     {
-      "name": "2",
-      "slug": "2",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/694d7355190adf16029c39d3cfd83e1b",
-      "m3u8Url": "https://vip.opstream10.com/20260718/34268_694d7355/index.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "3",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/8e175535ca639d6fec9225e79dbf7699",
-      "m3u8Url": "https://vip.opstream10.com/20260718/34269_8e175535/index.m3u8"
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260828/wmto4Oxt/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260828/wmto4Oxt/index.m3u8"
     }
   ],
   "sources": [
     {
-      "source": "ophim",
-      "slug": "xin-hay-thu-loi-cho-cac-em-trai-cua-toi",
-      "episodeCount": 3,
-      "priority": 0
-    },
-    {
       "source": "phimapi",
       "slug": "xin-hay-thu-loi-cho-cac-em-trai-cua-toi",
-      "episodeCount": 7,
+      "episodeCount": 9,
       "priority": 1
     }
   ],
-  "_priority": 0
+  "_priority": 1
 }

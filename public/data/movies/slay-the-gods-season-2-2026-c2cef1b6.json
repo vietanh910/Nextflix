@@ -153,71 +153,9 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260813/t3XEYmzu/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260813/t3XEYmzu/index.m3u8"
-    },
-    {
-      "name": "1",
-      "slug": "1",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream90.com/share/e52da5a31de788599378924f0e639557",
-      "m3u8Url": "https://vip.opstream90.com/20260627/35737_e52da5a3/index.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "2",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream90.com/share/fd97bb50e4b07a520a0f4844554bdd4a",
-      "m3u8Url": "https://vip.opstream90.com/20260627/35738_fd97bb50/index.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "3",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream90.com/share/2a081587c87c2f361a44876167336224",
-      "m3u8Url": "https://vip.opstream90.com/20260627/35739_2a081587/index.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "4",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream800.com/share/e2c0be24560d78c5e599c2a9c9d0bbd2",
-      "m3u8Url": "https://vip.opstream800.com/20260724/203_e2c0be24/index.m3u8"
-    },
-    {
-      "name": "5",
-      "slug": "5",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream800.com/share/274ad4786c3abca69fa097b85867d9a4",
-      "m3u8Url": "https://vip.opstream800.com/20260724/204_274ad478/index.m3u8"
-    },
-    {
-      "name": "6",
-      "slug": "6",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream800.com/share/eae27d77ca20db309e056e3d2dcd7d69",
-      "m3u8Url": "https://vip.opstream800.com/20260724/205_eae27d77/index.m3u8"
-    },
-    {
-      "name": "7",
-      "slug": "7",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream800.com/share/7eabe3a1649ffa2b3ff8c02ebfd5659f",
-      "m3u8Url": "https://vip.opstream800.com/20260724/206_7eabe3a1/index.m3u8"
     }
   ],
   "sources": [
-    {
-      "source": "ophim",
-      "slug": "tram-than-pham-tran-than-vuc-phan-2",
-      "episodeCount": 7,
-      "priority": 0
-    },
     {
       "source": "phimapi",
       "slug": "tram-than-pham-tran-than-vuc-phan-2",
@@ -225,5 +163,5 @@
       "priority": 1
     }
   ],
-  "_priority": 0
+  "_priority": 1
 }

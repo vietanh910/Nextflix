@@ -9,7 +9,22 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Slice of Life",
+      "slug": "slice-of-life"
+    }
+  ],
+  "countries": [],
+  "description": "Second film starring characters from the HoneyWorks vocaloid group.",
   "episodes": [],
   "sources": [
     {

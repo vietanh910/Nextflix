@@ -2,49 +2,8 @@
   "slug": "hoat-hinh",
   "name": "Hoạt Hình",
   "page": 3,
-  "totalPages": 4,
+  "totalPages": 3,
   "items": [
-    {
-      "id": "clevatess-season-2-2026-cc88d0be",
-      "source": "phimapi",
-      "slug": "vua-ma-thu-dua-tre-dinh-menh-va-anh-hung-bat-tu-phan-2",
-      "name": "Vua Ma Thú, Đứa Trẻ Định Mệnh Và Anh Hùng Bất Tử (Phần 2)",
-      "originName": "Clevatess (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260709/vua-ma-thu-dua-tre-dinh-menh-va-anh-hung-bat-tu-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260709/vua-ma-thu-dua-tre-dinh-menh-va-anh-hung-bat-tu-phan-2-thumb.webp",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 7",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
     {
       "id": "grand-blue-dreaming-seas-2026-277ca1a3",
       "source": "phimapi",
@@ -56,7 +15,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -89,7 +48,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -122,7 +81,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -153,33 +112,62 @@
       ]
     },
     {
-      "id": "your-friendly-neighborho-2025-f4de8278",
+      "id": "into-the-mortal-world-2024-babdfb36",
       "source": "phimapi",
-      "slug": "nguoi-nhen-hang-xom-than-thien",
-      "name": "Người Nhện Hàng Xóm Thân Thiện",
-      "originName": "Your Friendly Neighborhood Spider-Man",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260809/nguoi-nhen-hang-xom-than-thien-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260809/nguoi-nhen-hang-xom-than-thien-thumb.webp",
-      "year": 2025,
+      "slug": "lac-pham-tran-hau-due-chuc-nu",
+      "name": "Lạc Phàm Trần: Hậu Duệ Chức Nữ",
+      "originName": "Into The Mortal World",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260823/lac-pham-tran-hau-due-chuc-nu-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260823/lac-pham-tran-hau-due-chuc-nu-thumb.webp",
+      "year": 2024,
       "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Hoạt Hình",
           "slug": "hoat-hinh"
         },
         {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "god-with-three-eyes-2024-1b8add7c",
+      "source": "phimapi",
+      "slug": "nhi-lang-than-tham-hai-giao-long",
+      "name": "Nhị Lang Thần: Thâm Hải Giao Long",
+      "originName": "God With Three Eyes",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260823/nhi-lang-than-tham-hai-giao-long-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260823/nhi-lang-than-tham-hai-giao-long-thumb.webp",
+      "year": 2024,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
         },
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
         },
         {
           "name": "Viễn Tưởng",
@@ -192,39 +180,39 @@
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
     {
-      "id": "miraculous-tales-of-lady-2025-9f9217fb",
+      "id": "the-inventor-2023-69523065",
       "source": "phimapi",
-      "slug": "vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-6",
-      "name": "Viên Ngọc Thần Chuyện Về Bọ Rùa Và Mèo Mun (Phần 6)",
-      "originName": "Miraculous Tales Of Ladybug & Cat Noir (Season 6)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-6-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-6-thumb.webp",
-      "year": 2025,
+      "slug": "thien-tai-sang-che",
+      "name": "Thiên Tài Sáng Chế",
+      "originName": "The Inventor",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260823/thien-tai-sang-che-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260823/thien-tai-sang-che-thumb.webp",
+      "year": 2023,
       "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (27/27)",
+      "episodeCurrent": "Full",
       "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
         {
           "name": "Hoạt Hình",
           "slug": "hoat-hinh"
         },
         {
-          "name": "Trẻ Em",
-          "slug": "tre-em"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Lịch Sử",
+          "slug": "lich-su"
         }
       ],
       "countries": [
@@ -233,8 +221,16 @@
           "slug": "phap"
         },
         {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
+          "name": "Ireland",
+          "slug": "ireland"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
         }
       ]
     },
@@ -249,7 +245,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 154",
+      "episodeCurrent": "Tập 155",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -272,51 +268,6 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "the-strongest-sage-with--2022-9d8ecb09",
-      "source": "phimapi",
-      "slug": "hien-gia-manh-nhat-voi-dau-an-yeu-nhat-shikkakumon-no-saikyou-kenja",
-      "name": "Hiền Giả Mạnh Nhất Với Dấu Ấn Yếu Nhất / Shikkakumon no Saikyou Kenja",
-      "originName": "The Strongest Sage With The Weakest Crest",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260812/hien-gia-manh-nhat-voi-dau-an-yeu-nhat-shikkakumon-no-saikyou-kenja-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260812/hien-gia-manh-nhat-voi-dau-an-yeu-nhat-shikkakumon-no-saikyou-kenja-thumb.webp",
-      "year": 2022,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
         }
       ]
     },
@@ -370,92 +321,43 @@
       ]
     },
     {
-      "id": "miraculous-tales-of-lady-2022-b9caa6ff",
+      "id": "pil-s-adventures-2021-eec6c676",
       "source": "phimapi",
-      "slug": "vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-5",
-      "name": "Viên Ngọc Thần Chuyện Về Bọ Rùa Và Mèo Mun (Phần 5)",
-      "originName": "Miraculous Tales Of Ladybug & Cat Noir (Season 5)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-5-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-5-thumb.webp",
-      "year": 2022,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Trẻ Em",
-          "slug": "tre-em"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Pháp",
-          "slug": "phap"
-        },
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "miraculous-tales-of-lady-2021-b475e758",
-      "source": "phimapi",
-      "slug": "vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-4",
-      "name": "Viên Ngọc Thần Chuyện Về Bọ Rùa Và Mèo Mun (Phần 4)",
-      "originName": "Miraculous Tales Of Ladybug & Cat Noir (Season 4)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-4-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-4-thumb.webp",
+      "slug": "chuyen-phieu-luu-cua-pil",
+      "name": "Chuyến Phiêu Lưu Của Pil",
+      "originName": "Pil's Adventures",
+      "posterUrl": "https://phimimg.com/upload/vod/20231029-1/ecef8da54215cc75e12a318661b722bd.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20231029-1/bd48ac286e9b1106dc7d410278b6e89c.jpg",
       "year": 2021,
       "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
+      "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
         },
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
         },
         {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
+          "name": "Giả Tượng",
+          "slug": "gia-tuong"
         },
         {
-          "name": "Trẻ Em",
-          "slug": "tre-em"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
         }
       ],
       "countries": [
         {
           "name": "Pháp",
           "slug": "phap"
-        },
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
         }
       ]
     },
@@ -497,51 +399,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "miraculous-tales-of-lady-2019-7afad413",
-      "source": "phimapi",
-      "slug": "vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-3",
-      "name": "Viên Ngọc Thần Chuyện Về Bọ Rùa Và Mèo Mun (Phần 3)",
-      "originName": "Miraculous Tales Of Ladybug & Cat Noir (Season 3)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-3-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-3-thumb.webp",
-      "year": 2019,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Trẻ Em",
-          "slug": "tre-em"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Pháp",
-          "slug": "phap"
-        },
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
         }
       ]
     },
@@ -616,33 +473,29 @@
       ]
     },
     {
-      "id": "miraculous-tales-of-lady-2017-6adf7415",
+      "id": "natsume-s-book-of-friend-2017-008d6a47",
       "source": "phimapi",
-      "slug": "vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-2",
-      "name": "Viên Ngọc Thần Chuyện Về Bọ Rùa Và Mèo Mun (Phần 2)",
-      "originName": "Miraculous Tales Of Ladybug & Cat Noir (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-2-thumb.webp",
+      "slug": "huu-nhan-so-phan-6",
+      "name": "Hữu Nhân Sổ (Phần 6)",
+      "originName": "Natsume's Book Of Friends (Season 6)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260827/huu-nhan-so-phan-6-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260827/huu-nhan-so-phan-6-thumb.webp",
       "year": 2017,
       "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
+      "episodeCurrent": "Hoàn Tất (11/11)",
       "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
         {
           "name": "Hoạt Hình",
           "slug": "hoat-hinh"
         },
         {
-          "name": "Trẻ Em",
-          "slug": "tre-em"
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
         },
         {
           "name": "Tâm Lý",
@@ -651,57 +504,8 @@
       ],
       "countries": [
         {
-          "name": "Pháp",
-          "slug": "phap"
-        },
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "miraculous-tales-of-lady-2015-57f39809",
-      "source": "phimapi",
-      "slug": "vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-1",
-      "name": "Viên Ngọc Thần Chuyện Về Bọ Rùa Và Mèo Mun (Phần 1)",
-      "originName": "Miraculous Tales Of Ladybug & Cat Noir (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-1-thumb.webp",
-      "year": 2015,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (26/26)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Trẻ Em",
-          "slug": "tre-em"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Pháp",
-          "slug": "phap"
-        },
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -739,51 +543,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "dragon-ball-z-kai-the-fi-2009-b4e285bf",
-      "source": "phimapi",
-      "slug": "bay-vien-ngoc-rong-z-kai-chuong-cuoi",
-      "name": "Bảy Viên Ngọc Rồng Z Kai Chương Cuối",
-      "originName": "Dragon Ball Z Kai: The Final Chapters",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260810/bay-vien-ngoc-rong-z-kai-chuong-cuoi-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260810/bay-vien-ngoc-rong-z-kai-chuong-cuoi-thumb.webp",
-      "year": 2009,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (69/69)",
-      "categories": [
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
         }
       ]
     },
@@ -977,6 +736,129 @@
         {
           "name": "Canada",
           "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "beast-wars-transformers--1997-e731f828",
+      "source": "phimapi",
+      "slug": "sieu-thu-bien-hinh-manh-thu-dai-chien-robot-bien-hinh-phan-2",
+      "name": "Siêu Thú Biến Hình / Mãnh Thú Đại Chiến: Robot Biến Hình (Phần 2)",
+      "originName": "Beast Wars Transformers (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260822/sieu-thu-bien-hinh-manh-thu-dai-chien-robot-bien-hinh-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/sieu-thu-bien-hinh-manh-thu-dai-chien-robot-bien-hinh-phan-2-thumb.webp",
+      "year": 1997,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "beast-wars-transformers--1996-0f77c4e8",
+      "source": "phimapi",
+      "slug": "sieu-thu-bien-hinh-manh-thu-dai-chien-robot-bien-hinh-phan-1",
+      "name": "Siêu Thú Biến Hình / Mãnh Thú Đại Chiến: Robot Biến Hình (Phần 1)",
+      "originName": "Beast Wars Transformers (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260822/sieu-thu-bien-hinh-manh-thu-dai-chien-robot-bien-hinh-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/sieu-thu-bien-hinh-manh-thu-dai-chien-robot-bien-hinh-phan-1-thumb.webp",
+      "year": 1996,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (26/26)",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "it-s-the-great-pumpkin-c-1966-a97cdb50",
+      "source": "phimapi",
+      "slug": "do-la-sieu-bi-ngo-charlie-brown",
+      "name": "Đó Là Siêu Bí Ngô, Charlie Brown",
+      "originName": "It's The Great Pumpkin, Charlie Brown",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260822/do-la-sieu-bi-ngo-charlie-brown-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/do-la-sieu-bi-ngo-charlie-brown-thumb.webp",
+      "year": 1966,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (1/1)",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "TV Shows",
+          "slug": "tv-shows"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     }

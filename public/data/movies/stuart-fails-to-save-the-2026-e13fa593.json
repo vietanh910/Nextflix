@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 6",
   "categories": [
     {
       "name": "Hài Hước",
@@ -73,13 +73,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/zGs2ozof/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260822/zGs2ozof/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260828/mhixvbZ0/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260828/mhixvbZ0/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "stuart-cuu-khong-noi-vu-tru-phan-1",
-      "episodeCount": 5,
+      "episodeCount": 6,
       "priority": 1
     }
   ],

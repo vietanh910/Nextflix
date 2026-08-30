@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -99,35 +99,21 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260820/wGyhHgpz/index.m3u8"
     },
     {
-      "name": "1",
-      "slug": "1",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/dbfc43b5a635df63a2448f9c979d9bf5",
-      "m3u8Url": "https://vip.opstream10.com/20260718/34218_dbfc43b5/index.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "2",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream10.com/share/da067f61c42e2e1562894e4afcfee191",
-      "m3u8Url": "https://vip.opstream10.com/20260718/34219_da067f61/index.m3u8"
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260827/xzQSM5KU/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260827/xzQSM5KU/index.m3u8"
     }
   ],
   "sources": [
     {
-      "source": "ophim",
-      "slug": "yeu-nhau-den-tan-ngay-cau-bien-mat",
-      "episodeCount": 2,
-      "priority": 0
-    },
-    {
       "source": "phimapi",
       "slug": "yeu-nhau-den-tan-ngay-cau-bien-mat",
-      "episodeCount": 7,
+      "episodeCount": 8,
       "priority": 1
     }
   ],
-  "_priority": 0
+  "_priority": 1
 }
