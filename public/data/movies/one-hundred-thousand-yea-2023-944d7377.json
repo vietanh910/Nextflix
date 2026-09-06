@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 371",
+  "episodeCurrent": "Tập 374",
   "categories": [
     {
       "name": "Hành Động",
@@ -3005,13 +3005,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260825/Z2KofLab/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260825/Z2KofLab/index.m3u8"
+    },
+    {
+      "name": "Tập 372",
+      "slug": "tap-372",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260901/584wJKu2/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260901/584wJKu2/index.m3u8"
+    },
+    {
+      "name": "Tập 373",
+      "slug": "tap-373",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260901/LxbKV5xY/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260901/LxbKV5xY/index.m3u8"
+    },
+    {
+      "name": "Tập 374",
+      "slug": "tap-374",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260905/wCDNmzuE/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260905/wCDNmzuE/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "luyen-khi-muoi-van-nam",
-      "episodeCount": 371,
+      "episodeCount": 374,
       "priority": 1
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 6",
   "categories": [
     {
       "name": "Hành Động",
@@ -83,6 +83,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260827/0DxuQ7es/index.m3u8"
     },
     {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260904/9il2PhJj/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260904/9il2PhJj/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -127,7 +135,7 @@
     {
       "source": "phimapi",
       "slug": "phat-sung-cuoi-cung-phan-4",
-      "episodeCount": 10,
+      "episodeCount": 11,
       "priority": 1
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Hài Hước",
@@ -89,13 +89,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260828/XBYAi7hb/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260828/XBYAi7hb/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260905/j5kUwD4D/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260905/j5kUwD4D/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "hay-la-nguoi-choi-thu-hai-cua-toi-hay-lam-nguoi-choi-so-hai-cua-anh-ban-uncut",
-      "episodeCount": 7,
+      "episodeCount": 8,
       "priority": 1
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 20",
+  "episodeCurrent": "Tập 22",
   "categories": [
     {
       "name": "Hành Động",
@@ -201,13 +201,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260828/Qvo5M9F1/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260828/Qvo5M9F1/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260904/Tyio5OHB/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260904/Tyio5OHB/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260904/lyJszZkT/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260904/lyJszZkT/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "100-ngay-tro-thanh-vua",
-      "episodeCount": 20,
+      "episodeCount": 22,
       "priority": 1
     }
   ],

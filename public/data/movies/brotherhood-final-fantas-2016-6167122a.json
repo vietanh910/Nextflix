@@ -9,7 +9,22 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "countries": [],
+  "description": "BROTHERHOOD FINAL FANTASY XV delves into the extraordinary friendships between Crown Prince Noctis and his three comrades, setting the stage for the adventure players will set out upon in the action-packed RPG.<br>\n<br>\n(Source: Official Site)",
   "episodes": [],
   "sources": [
     {

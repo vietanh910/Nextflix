@@ -9,7 +9,7 @@
   "year": 2021,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 544",
+  "episodeCurrent": "Tập 546",
   "categories": [
     {
       "name": "Cổ Trang",
@@ -4345,13 +4345,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260828/Y3qADbmo/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260828/Y3qADbmo/index.m3u8"
+    },
+    {
+      "name": "Tập 545",
+      "slug": "tap-545",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260831/cKxEh8tL/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260831/cKxEh8tL/index.m3u8"
+    },
+    {
+      "name": "Tập 546",
+      "slug": "tap-546",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260904/zMBoCmqr/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260904/zMBoCmqr/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nghich-thien-chi-ton",
-      "episodeCount": 539,
+      "episodeCount": 541,
       "priority": 1
     }
   ],

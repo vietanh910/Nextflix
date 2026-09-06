@@ -9,7 +9,7 @@
   "year": 2025,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 24",
+  "episodeCurrent": "Tập 26",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -225,13 +225,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260826/YEbV36lU/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260826/YEbV36lU/index.m3u8"
+    },
+    {
+      "name": "Tập 25",
+      "slug": "tap-25",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260902/Wg3fGApL/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260902/Wg3fGApL/index.m3u8"
+    },
+    {
+      "name": "Tập 26",
+      "slug": "tap-26",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260904/ELpja9FW/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260904/ELpja9FW/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "bat-dau-voi-chi-ton-dan-dien",
-      "episodeCount": 24,
+      "episodeCount": 26,
       "priority": 1
     }
   ],

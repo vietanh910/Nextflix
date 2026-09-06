@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "tvshow",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -61,13 +61,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260824/9valCMI8/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260824/9valCMI8/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260901/u1T3zxR5/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260901/u1T3zxR5/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "tiem-banh-gao-vu-tru",
-      "episodeCount": 4,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

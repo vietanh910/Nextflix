@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 18",
+  "episodeCurrent": "Tập 21",
   "categories": [
     {
       "name": "Hành Động",
@@ -185,13 +185,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260818/OZoK2HNO/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260818/OZoK2HNO/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260904/E1ykR0zc/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260904/E1ykR0zc/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260904/ulFIS3qP/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260904/ulFIS3qP/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260904/VAQmfuUJ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260904/VAQmfuUJ/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "khai-giap-chan-truyen",
-      "episodeCount": 18,
+      "episodeCount": 21,
       "priority": 1
     }
   ],

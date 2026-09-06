@@ -1,0 +1,67 @@
+{
+  "id": "the-thousand-faces-of-fe-2023-58e9a9bb",
+  "source": "phimapi",
+  "slug": "ki-mon-phi-giap",
+  "name": "Kì Môn Phi Giáp",
+  "originName": "The Thousand Faces Of Feijia",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260901/ki-mon-phi-giap-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260901/ki-mon-phi-giap-thumb.webp",
+  "year": 2023,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Cổ Trang",
+      "slug": "co-trang"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "<p>Vương Tiểu Hiệp vốn là một thanh niên không có hoài bão gì lớn lao, sống chung với người cha mù tại trấn. Nguyện vọng duy nhất của cậu là có thể chữa khỏi cho mắt của cha. Trong một lần tình cờ, Vương Tiểu Hiệp gặp được Thẩm Lam Nhi, không may sao lại bị cuốn vào một âm mưu. Anh đến Kỳ Ẩn Môn và cuối cùng phát hiện ra thân thế bị giấu kín của mình.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub + Thuyết Minh",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260831/7EQl2YVG/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260831/7EQl2YVG/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260831/jW3Cb9zi/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260831/jW3Cb9zi/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "ki-mon-phi-giap",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 19",
+  "episodeCurrent": "Tập 20",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -189,13 +189,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260822/GGB3X5kx/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260822/GGB3X5kx/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260905/sZmi78Do/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260905/sZmi78Do/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "co-nang-mot-sach",
-      "episodeCount": 19,
+      "episodeCount": 20,
       "priority": 1
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2024,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 198",
+  "episodeCurrent": "Tập 201",
   "categories": [
     {
       "name": "Hành Động",
@@ -1617,13 +1617,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260825/Juu2M80q/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260825/Juu2M80q/index.m3u8"
+    },
+    {
+      "name": "Tập 199",
+      "slug": "tap-199",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260901/4eBlALCI/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260901/4eBlALCI/index.m3u8"
+    },
+    {
+      "name": "Tập 200",
+      "slug": "tap-200",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260901/7wVcIO2H/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260901/7wVcIO2H/index.m3u8"
+    },
+    {
+      "name": "Tập 201",
+      "slug": "tap-201",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260905/WjvPJjlZ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260905/WjvPJjlZ/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "tuyet-the-chien-hon",
-      "episodeCount": 198,
+      "episodeCount": 201,
       "priority": 1
     }
   ],

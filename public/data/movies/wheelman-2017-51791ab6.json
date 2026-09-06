@@ -1,0 +1,55 @@
+{
+  "id": "wheelman-2017-51791ab6",
+  "source": "phimapi",
+  "slug": "truy-tim-ke-phan-boi",
+  "name": "Truy Tìm Kẻ Phản Bội",
+  "originName": "Wheelman",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260904/truy-tim-ke-phan-boi-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260904/truy-tim-ke-phan-boi-thumb.webp",
+  "year": 2017,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Sau một vụ cướp bất thành, người tài xế bất đắc dĩ của lũ tội phạm phải vận dụng kỹ năng và khối óc để đối phó với các mệnh lệnh lạ lùng từ một kẻ không rõ danh tính.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260904/gD3fsOYf/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260904/gD3fsOYf/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "truy-tim-ke-phan-boi",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

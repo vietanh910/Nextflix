@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -75,6 +75,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260828/AfDrOS58/index.m3u8"
     },
     {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260904/geci1gIG/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260904/geci1gIG/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -105,13 +113,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260828/M6MJbbQg/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260828/M6MJbbQg/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260904/0yLZp2Cx/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260904/0yLZp2Cx/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "tan-thuoc",
-      "episodeCount": 8,
+      "episodeCount": 10,
       "priority": 1
     }
   ],

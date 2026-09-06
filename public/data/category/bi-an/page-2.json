@@ -5,47 +5,6 @@
   "totalPages": 3,
   "items": [
     {
-      "id": "flex-x-cop-season-2-2026-515710c9",
-      "source": "phimapi",
-      "slug": "tai-phiet-va-canh-sat-phan-2",
-      "name": "Tài phiệt và Cảnh sát (Phần 2)",
-      "originName": "Flex X Cop (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260810/tai-phiet-va-canh-sat-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260810/tai-phiet-va-canh-sat-phan-2-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 8",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
       "id": "cang-feng-2026-fc3839a4",
       "source": "phimapi",
       "slug": "tang-phong",
@@ -56,11 +15,44 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 18",
+      "episodeCurrent": "Tập 23",
       "categories": [
         {
           "name": "Hình Sự",
           "slug": "hinh-su"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "mystic-martial-tome-2026-5357c0a6",
+      "source": "phimapi",
+      "slug": "thien-co-bi-luc",
+      "name": "Thiên Cơ Bí Lục",
+      "originName": "Mystic Martial Tome",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260903/thien-co-bi-luc-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260903/thien-co-bi-luc-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
         },
         {
           "name": "Bí Ẩn",
@@ -122,7 +114,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -187,8 +179,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20260822/ve-sau-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 20",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (21/21)",
       "categories": [
         {
           "name": "Bí Ẩn",
@@ -252,47 +244,39 @@
       ]
     },
     {
-      "id": "good-doctor-thailand-ver-2024-7039d8d3",
+      "id": "breaking-the-shadows-2025-04cb9ba1",
       "source": "phimapi",
-      "slug": "bac-si-thien-tai-ban-thai",
-      "name": "Bác Sĩ Thiên Tài (Bản Thái)",
-      "originName": "Good Doctor (Thailand Version)",
-      "posterUrl": "https://phimimg.com/upload/vod/20241013-1/beed97462894998676294e314eb54339.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20241013-1/fe352509644075f779b675876355e490.jpg",
-      "year": 2024,
+      "slug": "o-van-chi-thuong-ven-man-may-den",
+      "name": "Ô Vân Chi Thượng : Vén Màn Mây Đen",
+      "originName": "Breaking The Shadows",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260831/o-van-chi-thuong-ven-man-may-den-poster.webp",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250404-1/9e657922541569c5fbedb54fe35843ab.jpg",
+      "year": 2025,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (20/20)",
+      "episodeCurrent": "Hoàn Tất (17/17)",
       "categories": [
         {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
         },
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
+          "name": "Hình Sự",
+          "slug": "hinh-su"
         },
         {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -667,6 +651,109 @@
       ]
     },
     {
+      "id": "exorcism-2023-0e6c2049",
+      "source": "phimapi",
+      "slug": "tru-ta",
+      "name": "Trừ Tà",
+      "originName": "Exorcism",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260903/tru-ta-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260903/tru-ta-thumb.webp",
+      "year": 2023,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-case-of-the-four-dem-2023-686502f8",
+      "source": "phimapi",
+      "slug": "tu-yeu-quan-ki-an",
+      "name": "Tứ Yêu Quan Kì Án",
+      "originName": "The Case Of The Four Demon Coffins / Break Evil",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260903/tu-yeu-quan-ki-an-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260903/tu-yeu-quan-ki-an-thumb.webp",
+      "year": 2023,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "detective-dee-and-resurr-2022-d6b440bf",
+      "source": "phimapi",
+      "slug": "dich-nhan-kiet-muon-xac-tra-hon",
+      "name": "Địch Nhân Kiệt: Mượn Xác Trả Hồn",
+      "originName": "Detective Dee And Resurrection From The Dead / Di Renjie Resurrection",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260901/dich-nhan-kiet-muon-xac-tra-hon-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260901/dich-nhan-kiet-muon-xac-tra-hon-thumb.webp",
+      "year": 2022,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "graveyard-season-1-2022-f6389909",
       "source": "phimapi",
       "slug": "nghia-trang-phan-1",
@@ -786,121 +873,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "outer-banks-season-1-2020-3880d636",
-      "source": "phimapi",
-      "slug": "bi-mat-bi-vui-lap-phan-1",
-      "name": "Bí Mật Bị Vùi Lấp (Phần 1)",
-      "originName": "Outer Banks (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260822/bi-mat-bi-vui-lap-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/bi-mat-bi-vui-lap-phan-1-thumb.webp",
-      "year": 2020,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "tragic-jungle-2020-2d84ddb3",
-      "source": "phimapi",
-      "slug": "khu-rung-bi-tham",
-      "name": "Khu Rừng Bi Thảm",
-      "originName": "Tragic Jungle",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260815/khu-rung-bi-tham-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260815/khu-rung-bi-tham-thumb.webp",
-      "year": 2020,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Colombia",
-          "slug": "colombia"
-        },
-        {
-          "name": "Pháp",
-          "slug": "phap"
-        },
-        {
-          "name": "Mexico",
-          "slug": "mexico"
-        }
-      ]
-    },
-    {
-      "id": "no-way-for-stumer-2019-fb626933",
-      "source": "phimapi",
-      "slug": "hoi-ket-cua-ke-lam-tien-gia",
-      "name": "Hồi Kết Của Kẻ Làm Tiền Giả",
-      "originName": "No Way For Stumer",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260821/hoi-ket-cua-ke-lam-tien-gia-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260821/hoi-ket-cua-ke-lam-tien-gia-thumb.webp",
-      "year": 2019,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (24/24)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
         }
       ]
     }

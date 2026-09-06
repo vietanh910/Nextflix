@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -77,13 +77,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260818/8tbPOkhG/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260818/8tbPOkhG/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260905/GBm3By0m/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260905/GBm3By0m/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260905/PXoG77nw/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260905/PXoG77nw/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "lan-ranh-cuong-no-phan-1",
-      "episodeCount": 6,
+      "episodeCount": 8,
       "priority": 1
     }
   ],

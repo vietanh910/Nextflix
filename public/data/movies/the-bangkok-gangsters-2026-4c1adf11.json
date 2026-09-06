@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260813/giang-ho-bangkok-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (8/8)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -79,6 +79,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260827/MHe1AuAg/index.m3u8"
     },
     {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260902/AfsJ3rf1/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260902/AfsJ3rf1/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260903/KM2yoey2/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260903/KM2yoey2/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -117,13 +133,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260827/Vi9zQbWU/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260827/Vi9zQbWU/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260903/D8xVySuu/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260903/D8xVySuu/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260902/2fb810wP/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260902/2fb810wP/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260903/zIgTHnTZ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260903/zIgTHnTZ/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "giang-ho-bangkok",
-      "episodeCount": 11,
+      "episodeCount": 16,
       "priority": 1
     }
   ],

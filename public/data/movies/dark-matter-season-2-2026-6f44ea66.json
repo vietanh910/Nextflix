@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 1",
+  "episodeCurrent": "Tập 2",
   "categories": [
     {
       "name": "Khoa Học",
@@ -41,13 +41,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260828/XB4vCaGB/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260828/XB4vCaGB/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260904/9xXYTaGW/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260904/9xXYTaGW/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nguoi-chay-xuyen-khong-gian-phan-2",
-      "episodeCount": 1,
+      "episodeCount": 2,
       "priority": 1
     }
   ],

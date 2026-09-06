@@ -9,7 +9,17 @@
   "year": 2007,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "countries": [],
   "episodes": [],
   "sources": [
     {

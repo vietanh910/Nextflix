@@ -9,7 +9,7 @@
   "year": 2024,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 210",
+  "episodeCurrent": "Tập 211",
   "categories": [
     {
       "name": "Hành Động",
@@ -1717,13 +1717,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260828/lzVXV5se/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260828/lzVXV5se/index.m3u8"
+    },
+    {
+      "name": "Tập 211",
+      "slug": "tap-211",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260901/4TQJpj1m/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260901/4TQJpj1m/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "dai-luc-linh-vo",
-      "episodeCount": 210,
+      "episodeCount": 211,
       "priority": 1
     }
   ],

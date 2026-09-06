@@ -2,8 +2,115 @@
   "slug": "tinh-cam",
   "name": "Tình Cảm",
   "page": 2,
-  "totalPages": 4,
+  "totalPages": 3,
   "items": [
+    {
+      "id": "white-fire-2026-2da08fe5",
+      "source": "phimapi",
+      "slug": "lua-trang-2026",
+      "name": "Lửa Trắng",
+      "originName": "White Fire",
+      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/3e4a5707b7b1cd0e9e4fcee32e630cf1.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 22",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Việt Nam",
+          "slug": "viet-nam"
+        }
+      ]
+    },
+    {
+      "id": "that-summer-2026-f945622e",
+      "source": "phimapi",
+      "slug": "mua-he-nam-ay-2026",
+      "name": "Mùa Hè Năm Ấy",
+      "originName": "That Summer",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260808/mua-he-nam-ay-2026-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260808/mua-he-nam-ay-2026-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 12",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Việt Nam",
+          "slug": "viet-nam"
+        }
+      ]
+    },
+    {
+      "id": "here-the-whole-time-2026-c79848b7",
+      "source": "phimapi",
+      "slug": "muoi-lam-ngay",
+      "name": "Mười Lăm Ngày",
+      "originName": "Here The Whole Time",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260820/muoi-lam-ngay-quinze-dias-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260820/muoi-lam-ngay-quinze-dias-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Brazil",
+          "slug": "brazil"
+        }
+      ]
+    },
     {
       "id": "summertime-2026-c0fe5cf0",
       "source": "phimapi",
@@ -15,7 +122,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -43,8 +150,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20260829/nguoi-tinh-hoan-hao-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (25/25)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -100,6 +207,39 @@
       ]
     },
     {
+      "id": "falling-in-love-with-hol-2026-4014abfb",
+      "source": "phimapi",
+      "slug": "phai-long-anh-chang-trong-suot",
+      "name": "Phải Lòng Anh Chàng Trong Suốt",
+      "originName": "Falling In Love With Hollow Man",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260903/phai-long-anh-chang-trong-suot-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260903/phai-long-anh-chang-trong-suot-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "phu-sa-2026-f2a88e2b",
       "source": "phimapi",
       "slug": "phu-sa",
@@ -110,7 +250,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -203,6 +343,39 @@
       ]
     },
     {
+      "id": "seoul-unnie-2026-a3557836",
+      "source": "phimapi",
+      "slug": "seoul-unnie",
+      "name": "Seoul Unnie",
+      "originName": "Seoul Unnie",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260905/seoul-unnie-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260905/seoul-unnie-thumb.webp",
+      "year": 2026,
+      "type": "tvshow",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 1",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
       "id": "truly-naked-2026-d59f362d",
       "source": "phimapi",
       "slug": "su-that-tran-trui",
@@ -250,7 +423,7 @@
       "year": 2026,
       "type": "tvshow",
       "status": "ongoing",
-      "episodeCurrent": "Tập 13",
+      "episodeCurrent": "Tập 16",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -316,7 +489,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "episodeCurrent": "Tập 12",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -419,7 +592,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 1",
+      "episodeCurrent": "Tập 2",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -615,187 +788,6 @@
       "posterUrl": "https://phimimg.com/upload/vod/20260320-1/832294bf8265a0c0198fe607cb0f714b.jpg",
       "thumbUrl": "https://phimimg.com/upload/vod/20250912-1/dabdfd62b8a6dc1aaf52b0d68eb90db4.jpg",
       "year": 2025,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (16/16)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "my-boss-2024-99dd6e1a",
-      "source": "phimapi",
-      "slug": "anh-cung-co-ngay-nay",
-      "name": "Anh Cũng Có Ngày Này",
-      "originName": "My Boss",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260827/anh-cung-co-ngay-nay-poster.webp",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250928-1/11aae5d8736fd05911ebf1d70a5a8aad.jpg",
-      "year": 2024,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (36/36)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "reversed-destiny-2024-7de9cf50",
-      "source": "phimapi",
-      "slug": "dong-ho-cat",
-      "name": "Đồng Hồ Cát",
-      "originName": "Reversed Destiny",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260824/dong-ho-cat-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260806/dong-ho-cat-thumb.webp",
-      "year": 2024,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "the-journey-of-flower-2024-234a895e",
-      "source": "phimapi",
-      "slug": "hoa-thien-cot-ban-dien-anh",
-      "name": "Hoa Thiên Cốt (Bản Điện Ảnh)",
-      "originName": "The Journey Of Flower",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260823/hoa-thien-cot-ban-dien-anh-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260823/hoa-thien-cot-ban-dien-anh-thumb.webp",
-      "year": 2024,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "romance-in-the-alley-2024-02bf1f5c",
-      "source": "phimapi",
-      "slug": "nguoi-trong-ngo-nho-tieu-hang-nhan-gia",
-      "name": "Người Trong Ngõ Nhỏ / Tiểu Hạng Nhân Gia",
-      "originName": "Romance In The Alley",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260826/nguoi-trong-ngo-nho-tieu-hang-nhan-gia-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260826/nguoi-trong-ngo-nho-tieu-hang-nhan-gia-thumb.webp",
-      "year": 2024,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (40/40)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "beauty-in-black-season-1-2024-a3b737cb",
-      "source": "phimapi",
-      "slug": "sac-den-huyen-dieu-phan-1",
-      "name": "Sắc Đen Huyền Diệu (Phần 1)",
-      "originName": "Beauty In Black (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20250308-1/f4a3c0da21ede09ca7c7c49535d49ba7.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250308-1/8ca769a25825dcafd1663e7753082b22.jpg",
-      "year": 2024,
       "type": "series",
       "status": "completed",
       "episodeCurrent": "Hoàn Tất (16/16)",

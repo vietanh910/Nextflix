@@ -1,0 +1,55 @@
+{
+  "id": "gandhari-2026-3c642f6c",
+  "source": "phimapi",
+  "slug": "gandhari",
+  "name": "Gandhari",
+  "originName": "Gandhari",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260904/gandhari-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260904/gandhari-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Ấn Độ",
+      "slug": "an-do"
+    }
+  ],
+  "description": "<p>Mất đi thị lực và con gái trong một vụ bắt cóc, người mẹ nọ tự mình truy tìm những kẻ đứng sau vụ việc.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260903/L2mojIzQ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260903/L2mojIzQ/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "gandhari",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

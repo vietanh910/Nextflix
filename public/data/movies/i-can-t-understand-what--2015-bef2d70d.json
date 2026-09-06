@@ -9,7 +9,22 @@
   "year": 2015,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Slice of Life",
+      "slug": "slice-of-life"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "countries": [],
+  "description": "The second season of Danna ga Nani wo Itteiru ka Wakaranai Ken.",
   "episodes": [],
   "sources": [
     {

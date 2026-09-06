@@ -9,7 +9,7 @@
   "year": 2020,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 189",
+  "episodeCurrent": "Tập 190",
   "categories": [
     {
       "name": "Hành Động",
@@ -1551,6 +1551,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260829/mgMep724/index.m3u8"
     },
     {
+      "name": "Tập 190",
+      "slug": "tap-190",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260905/j4uBd5Cr/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260905/j4uBd5Cr/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -1619,7 +1627,7 @@
     {
       "source": "phimapi",
       "slug": "pham-nhan-tu-tien",
-      "episodeCount": 197,
+      "episodeCount": 198,
       "priority": 1
     }
   ],

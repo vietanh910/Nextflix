@@ -9,7 +9,26 @@
   "year": 2015,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Ecchi",
+      "slug": "ecchi"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "countries": [],
+  "description": "The Grisaia no Rakuen visual novel continues the Grisaia no Meikyuu visual novel's main route and concludes the trilogy. It also includes a prologue following the five heroines as they arrive at Mihama Academy.",
   "episodes": [],
   "sources": [
     {

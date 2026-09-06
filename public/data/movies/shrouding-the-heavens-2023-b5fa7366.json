@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 177",
+  "episodeCurrent": "Tập 179",
   "categories": [
     {
       "name": "Cổ Trang",
@@ -1453,13 +1453,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260825/dQrCY1Xo/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260825/dQrCY1Xo/index.m3u8"
+    },
+    {
+      "name": "Tập 178",
+      "slug": "tap-178",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260831/WKxf0kOJ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260831/WKxf0kOJ/index.m3u8"
+    },
+    {
+      "name": "Tập 179",
+      "slug": "tap-179",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260901/tIUPdEGs/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260901/tIUPdEGs/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "gia-thien",
-      "episodeCount": 177,
+      "episodeCount": 179,
       "priority": 1
     }
   ],

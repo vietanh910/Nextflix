@@ -15,7 +15,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 20",
+      "episodeCurrent": "Tập 21",
       "categories": [
         {
           "name": "Hài Hước",
@@ -52,7 +52,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "episodeCurrent": "Tập 12",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -84,8 +84,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20260822/ve-sau-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 20",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (21/21)",
       "categories": [
         {
           "name": "Bí Ẩn",
@@ -118,7 +118,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -151,7 +151,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Khoa Học",
@@ -184,7 +184,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -232,8 +232,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20260802/vo-boc-ngoai-tinh-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -311,7 +311,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -381,7 +381,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -447,7 +447,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -488,7 +488,7 @@
       "year": 2025,
       "type": "tvshow",
       "status": "ongoing",
-      "episodeCurrent": "Tập 56",
+      "episodeCurrent": "Tập 58",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -544,25 +544,21 @@
       ]
     },
     {
-      "id": "godfather-of-harlem-seas-2025-4cc6e173",
+      "id": "to-kill-a-mongolian-hors-2025-14de2244",
       "source": "phimapi",
-      "slug": "bo-gia-vung-harlem-phan-4",
-      "name": "Bố Già Vùng Harlem (Phần 4)",
-      "originName": "Godfather Of Harlem (Season 4)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260816/bo-gia-vung-harlem-phan-4-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260816/bo-gia-vung-harlem-phan-4-thumb.webp",
+      "slug": "con-ngua-mong-co-bi-san-duoi",
+      "name": "Con Ngựa Mông Cổ Bị Săn Đuổi",
+      "originName": "To Kill A Mongolian Horse",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260903/con-ngua-mong-co-bi-san-duoi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260903/con-ngua-mong-co-bi-san-duoi-thumb.webp",
       "year": 2025,
-      "type": "series",
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
         },
         {
           "name": "Tâm Lý",
@@ -571,8 +567,16 @@
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Indonesia",
+          "slug": "indonesia"
+        },
+        {
+          "name": "Malaysia",
+          "slug": "malaysia"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
         }
       ]
     },
@@ -620,7 +624,7 @@
       "year": 2025,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -639,6 +643,43 @@
       ]
     },
     {
+      "id": "unusual-deal-2025-84acc488",
+      "source": "phimapi",
+      "slug": "giao-dich-bat-thuong",
+      "name": "Giao Dịch Bất Thường",
+      "originName": "Unusual Deal",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260901/giao-dich-bat-thuong-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260901/giao-dich-bat-thuong-thumb.webp",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "kamen-rider-zeztz-2025-c2ebc58d",
       "source": "phimapi",
       "slug": "hiep-si-mat-na-zeztz",
@@ -648,8 +689,8 @@
       "thumbUrl": "https://phimimg.com/upload/vod/20250909-1/9687569eb69eb6084238e0c46149fbc0.jpg",
       "year": 2025,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 49",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (50/50)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -783,35 +824,6 @@
         {
           "name": "Mỹ",
           "slug": "my"
-        }
-      ]
-    },
-    {
-      "id": "tires-season-2-2025-24193a47",
-      "source": "phimapi",
-      "slug": "lop-xe-phan-2",
-      "name": "Lốp Xe (Phần 2)",
-      "originName": "Tires (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260816/lop-xe-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250610-1/39931c574c333df7781c1fa85422e413.jpg",
-      "year": 2025,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     },

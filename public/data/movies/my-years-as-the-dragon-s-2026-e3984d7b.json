@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260821/nhung-nam-ta-la-de-nhat-tam-long-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 23",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (26/26)",
   "categories": [
     {
       "name": "Hành Động",
@@ -221,13 +221,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260830/apLMaXGZ/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260830/apLMaXGZ/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260830/h8E2msg9/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260830/h8E2msg9/index.m3u8"
+    },
+    {
+      "name": "Tập 25",
+      "slug": "tap-25",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260831/aJVLdusy/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260831/aJVLdusy/index.m3u8"
+    },
+    {
+      "name": "Tập 26",
+      "slug": "tap-26",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260901/YcSAAUmv/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260901/YcSAAUmv/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nhung-nam-ta-la-de-nhat-tam-long",
-      "episodeCount": 23,
+      "episodeCount": 26,
       "priority": 1
     }
   ],

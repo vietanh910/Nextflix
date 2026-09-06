@@ -9,7 +9,34 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "Psychological",
+      "slug": "psychological"
+    },
+    {
+      "name": "Mahou Shoujo",
+      "slug": "mahou-shoujo"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "countries": [],
+  "description": "A social game called The Magical Girl Raising Project allows one in tens of thousands of people to be a \"magical girl\" — possessing extraordinary physical capabilities and looks, as well as special magical powers that set them apart from the rest of the human race. But one day, in a district containing 16 magical girls, the administration announces that it must halve the number of magical girls to solve the problem of magical energy.<br><br>\n\n(Source: Anime News Network)",
   "episodes": [],
   "sources": [
     {

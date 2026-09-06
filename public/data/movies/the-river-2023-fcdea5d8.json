@@ -40,7 +40,7 @@
   ],
   "description": "<p>Những người quyền lực trong thời cổ đại đã cất giữ những kho báu được truyền từ thế hệ này sang thế hệ khác dưới nước, và các thế hệ tương lai có thể thừa kế chúng. Gửi tiền và rút tiền đều được hoàn thành dưới nước, có thể hiểu đơn giản là ngân hàng dưới nước. Ngân hàng dưới nước đã được gia đình của ba họ phụ trách từ thời cổ đại, và họ vẫn đang tham gia vào hoạt động kinh doanh này trong thành phố. Nhưng 20 năm trước, trong một lần “mở canh vàng” bình thường, chiếc nồi vô tình bị lật, những xúc tu khổng lồ bất ngờ xuất hiện trong hồ suýt chút nữa đã quét sạch ba cao thủ có mặt, chỉ còn lại Dị Táp trẻ tuổi sóng sót. Hai mươi năm sau, Dị Táp trở thành thủy quan, có cơ thể dị thường, để tìm ra sự thật về lật ngược quá khứ và tự cứu mình, anh đã hợp tác với thủy quan của những họ khác cùng nhau xuống nước mở hũ vàng lần nữa</p>",
   "quality": "FHD",
-  "lang": "Vietsub",
+  "lang": "Vietsub + Thuyết Minh",
   "episodes": [
     {
       "name": "Full",
@@ -49,13 +49,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260827/DVrAIj15/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260827/DVrAIj15/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260831/4C9eFXk2/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260831/4C9eFXk2/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "tam-tuyen-luan-hoi",
-      "episodeCount": 1,
+      "episodeCount": 2,
       "priority": 1
     }
   ],

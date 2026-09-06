@@ -9,7 +9,18 @@
   "year": 2015,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Ecchi",
+      "slug": "ecchi"
+    }
+  ],
+  "countries": [],
+  "description": "Short specials added to DVDs and BDs.",
   "episodes": [],
   "sources": [
     {

@@ -1,0 +1,63 @@
+{
+  "id": "exorcism-2023-0e6c2049",
+  "source": "phimapi",
+  "slug": "tru-ta",
+  "name": "Trừ Tà",
+  "originName": "Exorcism",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260903/tru-ta-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260903/tru-ta-thumb.webp",
+  "year": 2023,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Bí Ẩn",
+      "slug": "bi-an"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "<p>Những năm đầu của Trung Hoa Dân Quốc, chính quyền nhà Thanh suy đồi bị cách mạng lật đổ, tư tưởng dân chủ tiến bộ lan rộng khắp Trung Hoa. Tuy nhiên tình hình lúc đó vẫn rất hỗn loạn, dân chúng chưa hiểu biết, nạn thất học, phát triển yếu kém, niềm tin và lối tư duy phong kiến vẫn tràn ngập trong xã hội Trung Hoa. Con trai của Vương Chí Trương, một cảnh sát ở Trung Hoa Dân Quốc đã chết vì thuốc phiện, ông căm ghét xã hội cũ nơi tội ác tràn lan và tư tưởng phong kiến đầu độc người dân. Để kết thúc vấn đề này, ông đã cải trang thành một đạo sĩ, xâm nhập vào nhà của doanh nhân địa phương Trần lão để điều tra vụ buôn lậu thuốc phiện.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub + Thuyết Minh",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260831/aZukiQPJ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260831/aZukiQPJ/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260831/vjKDNBYw/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260831/vjKDNBYw/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "tru-ta",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

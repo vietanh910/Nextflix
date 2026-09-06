@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260822/ve-sau-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 20",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (21/21)",
   "categories": [
     {
       "name": "Bí Ẩn",
@@ -193,13 +193,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260830/bypapyOu/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260830/bypapyOu/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260831/oFEowBki/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260831/oFEowBki/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "ve-sau",
-      "episodeCount": 20,
+      "episodeCount": 21,
       "priority": 1
     }
   ],

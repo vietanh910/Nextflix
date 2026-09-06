@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 3",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -53,13 +53,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260824/HypKtme2/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260824/HypKtme2/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260831/o1VggfG1/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260831/o1VggfG1/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "luc-luong-lanterns-phan-1",
-      "episodeCount": 2,
+      "episodeCount": 3,
       "priority": 1
     }
   ],

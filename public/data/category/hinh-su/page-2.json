@@ -2,107 +2,8 @@
   "slug": "hinh-su",
   "name": "Hình Sự",
   "page": 2,
-  "totalPages": 3,
+  "totalPages": 2,
   "items": [
-    {
-      "id": "umthetho-2026-b0e64097",
-      "source": "phimapi",
-      "slug": "umthetho",
-      "name": "Umthetho",
-      "originName": "Umthetho",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260815/umthetho-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260815/umthetho-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (7/7)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nam Phi",
-          "slug": "nam-phi"
-        }
-      ]
-    },
-    {
-      "id": "the-affair-was-just-the--2026-8f3088d7",
-      "source": "phimapi",
-      "slug": "vo-boc-ngoai-tinh-ngoai-tinh-da-nham-nho-gi",
-      "name": "Vỏ Bọc Ngoại Tình (Ngoại Tình Đã Nhằm Nhò Gì)",
-      "originName": "The Affair Was Just The Beginning",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260802/vo-boc-ngoai-tinh-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260802/vo-boc-ngoai-tinh-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 7",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "godfather-of-harlem-seas-2025-4cc6e173",
-      "source": "phimapi",
-      "slug": "bo-gia-vung-harlem-phan-4",
-      "name": "Bố Già Vùng Harlem (Phần 4)",
-      "originName": "Godfather Of Harlem (Season 4)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260816/bo-gia-vung-harlem-phan-4-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260816/bo-gia-vung-harlem-phan-4-thumb.webp",
-      "year": 2025,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
     {
       "id": "9-1-1-season-9-2025-45b50ee6",
       "source": "phimapi",
@@ -137,6 +38,43 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "unusual-deal-2025-84acc488",
+      "source": "phimapi",
+      "slug": "giao-dich-bat-thuong",
+      "name": "Giao Dịch Bất Thường",
+      "originName": "Unusual Deal",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260901/giao-dich-bat-thuong-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260901/giao-dich-bat-thuong-thumb.webp",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -182,26 +120,18 @@
       ]
     },
     {
-      "id": "reacher-season-3-2025-af4ab295",
+      "id": "the-alto-knights-2025-8a92ce58",
       "source": "phimapi",
-      "slug": "phat-sung-cuoi-cung-phan-3",
-      "name": "Phát Súng Cuối Cùng (Phần 3)",
-      "originName": "Reacher (Season 3)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260817/phat-sung-cuoi-cung-phan-3-poster.webp",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250227-1/c57c517bae9a79752c8657d26d9e276e.jpg",
+      "slug": "nhung-hiep-si-alto",
+      "name": "Những Hiệp Sĩ Alto",
+      "originName": "The Alto Knights",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260906/nhung-hiep-si-alto-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260906/nhung-hiep-si-alto-thumb.webp",
       "year": 2025,
-      "type": "series",
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
+      "episodeCurrent": "Full",
       "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
         {
           "name": "Hình Sự",
           "slug": "hinh-su"
@@ -209,6 +139,10 @@
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
+        },
+        {
+          "name": "Lịch Sử",
+          "slug": "lich-su"
         },
         {
           "name": "Tâm Lý",
@@ -219,6 +153,43 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "breaking-the-shadows-2025-04cb9ba1",
+      "source": "phimapi",
+      "slug": "o-van-chi-thuong-ven-man-may-den",
+      "name": "Ô Vân Chi Thượng : Vén Màn Mây Đen",
+      "originName": "Breaking The Shadows",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260831/o-van-chi-thuong-ven-man-may-den-poster.webp",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250404-1/9e657922541569c5fbedb54fe35843ab.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (17/17)",
+      "categories": [
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -286,6 +257,47 @@
         }
       ],
       "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-gentlemen-season-1-2024-576dc53f",
+      "source": "phimapi",
+      "slug": "quy-ong-the-gioi-ngam-phan-1",
+      "name": "Quý Ông Thế Giới Ngầm (Phần 1)",
+      "originName": "The Gentlemen (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260905/quy-ong-the-gioi-ngam-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240307-1/73fe9704d483d8ed0d6d300e3000f8ba.jpg",
+      "year": 2024,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
@@ -363,43 +375,6 @@
       ]
     },
     {
-      "id": "godfather-of-harlem-seas-2023-3f4d6f92",
-      "source": "phimapi",
-      "slug": "bo-gia-vung-harlem-phan-3",
-      "name": "Bố Già Vùng Harlem (Phần 3)",
-      "originName": "Godfather Of Harlem (Season 3)",
-      "posterUrl": "https://phimimg.com/upload/vod/20250308-1/6a45446e5f02a25188b9b747586e698a.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250308-1/c284727d8d594d036a6426f4307b3c6a.jpg",
-      "year": 2023,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "kazama-kimichika-kyojo-z-2023-3cb2a653",
       "source": "phimapi",
       "slug": "giang-duong-thep",
@@ -433,47 +408,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "reacher-season-2-2023-526fdd55",
-      "source": "phimapi",
-      "slug": "phat-sung-cuoi-cung-phan-2",
-      "name": "Phát Súng Cuối Cùng (Phần 2)",
-      "originName": "Reacher (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260817/phat-sung-cuoi-cung-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250227-1/3cb43c61ae7ecb806743a9c3da06f1c7.jpg",
-      "year": 2023,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     },
@@ -589,6 +523,72 @@
       ]
     },
     {
+      "id": "men-of-sacrifice-2022-cd1a6053",
+      "source": "phimapi",
+      "slug": "su-song-va-cai-chet",
+      "name": "Sự Sống Và Cái Chết",
+      "originName": "Men Of Sacrifice",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260903/su-song-va-cai-chet-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260903/su-song-va-cai-chet-thumb.webp",
+      "year": 2022,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "crimes-a-biot-murder-in--2021-df3068c8",
+      "source": "phimapi",
+      "slug": "an-mang-o-biot",
+      "name": "Án Mạng Ở Biot",
+      "originName": "Crimes à Biot / Murder In Biot",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260903/an-mang-o-biot-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260903/an-mang-o-biot-thumb.webp",
+      "year": 2021,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        }
+      ]
+    },
+    {
       "id": "avalanche-2021-b6b7c2bb",
       "source": "phimapi",
       "slug": "biet-doi-cong-ly-avalanche",
@@ -638,110 +638,36 @@
       ]
     },
     {
-      "id": "godfather-of-harlem-seas-2021-4a1bac1a",
+      "id": "the-gentlemen-2020-be30a450",
       "source": "phimapi",
-      "slug": "bo-gia-vung-harlem-phan-2",
-      "name": "Bố Già Vùng Harlem (Phần 2)",
-      "originName": "Godfather Of Harlem (Season 2)",
-      "posterUrl": "https://phimimg.com/upload/vod/20250308-1/1d3be99f7e6eccfe182a3f2574bdb47c.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250308-1/35ab619ae8cd329b634cf9646097cac0.jpg",
-      "year": 2021,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "and-tomorrow-the-entire--2021-c1c96411",
-      "source": "phimapi",
-      "slug": "va-ngay-mai-ca-the-gioi",
-      "name": "Và Ngày Mai, Cả Thế Giới",
-      "originName": "And Tomorrow The Entire World / Und morgen die ganze Welt",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260815/va-ngay-mai-ca-the-gioi-und-morgen-die-ganze-welt-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260815/va-ngay-mai-ca-the-gioi-und-morgen-die-ganze-welt-thumb.webp",
-      "year": 2021,
+      "slug": "quy-ong-the-gioi-ngam-2019",
+      "name": "Quý Ông Thế Giới Ngầm",
+      "originName": "The Gentlemen",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260904/quy-ong-the-gioi-ngam-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260904/quy-ong-the-gioi-ngam-thumb.webp",
+      "year": 2020,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Pháp",
-          "slug": "phap"
-        },
-        {
-          "name": "Đức",
-          "slug": "duc"
-        }
-      ]
-    },
-    {
-      "id": "godfather-of-harlem-seas-2019-8a3a9955",
-      "source": "phimapi",
-      "slug": "bo-gia-vung-harlem-phan-1",
-      "name": "Bố Già Vùng Harlem (Phần 1)",
-      "originName": "Godfather Of Harlem (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20250308-1/889a1f5ff47531da2bca20c1a2fdfb42.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250308-1/10fd97dfa2fcf0367b8e6719428ed44d.jpg",
-      "year": 2019,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
           "name": "Hành Động",
           "slug": "hanh-dong"
         },
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
         }
       ],
       "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
@@ -823,6 +749,39 @@
       ]
     },
     {
+      "id": "wheelman-2017-51791ab6",
+      "source": "phimapi",
+      "slug": "truy-tim-ke-phan-boi",
+      "name": "Truy Tìm Kẻ Phản Bội",
+      "originName": "Wheelman",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260904/truy-tim-ke-phan-boi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260904/truy-tim-ke-phan-boi-thumb.webp",
+      "year": 2017,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "chop-shop-die-autodiebe-2014-98824669",
       "source": "phimapi",
       "slug": "lo-mo-xe",
@@ -882,6 +841,35 @@
           "name": "Anh",
           "slug": "anh"
         },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-pink-panther-1963-4c010570",
+      "source": "phimapi",
+      "slug": "diep-vu-bao-hong-1963",
+      "name": "Điệp Vụ Báo Hồng",
+      "originName": "The Pink Panther",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260822/diep-vu-bao-hong-1963-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/diep-vu-bao-hong-1963-thumb.webp",
+      "year": 1963,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
         {
           "name": "Âu Mỹ",
           "slug": "au-my"

@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20250909-1/9687569eb69eb6084238e0c46149fbc0.jpg",
   "year": 2025,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 49",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (50/50)",
   "categories": [
     {
       "name": "Hài Hước",
@@ -447,6 +447,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260824/Y6PWb1MI/index.m3u8"
     },
     {
+      "name": "Tập 50",
+      "slug": "tap-50",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260831/QRtSV7Dm/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260831/QRtSV7Dm/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Lồng Tiếng",
@@ -837,13 +845,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260824/6kncAXr7/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260824/6kncAXr7/index.m3u8"
+    },
+    {
+      "name": "Tập 50",
+      "slug": "tap-50",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260831/uYwa86wj/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260831/uYwa86wj/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "hiep-si-mat-na-zeztz",
-      "episodeCount": 99,
+      "episodeCount": 101,
       "priority": 1
     }
   ],

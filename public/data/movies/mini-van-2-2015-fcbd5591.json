@@ -9,7 +9,14 @@
   "year": 2015,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "countries": [],
+  "description": "An animated flash series of the manga Mini Vanguard.",
   "episodes": [],
   "sources": [
     {

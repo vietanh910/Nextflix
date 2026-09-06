@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260802/vo-boc-ngoai-tinh-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (8/8)",
   "categories": [
     {
       "name": "Hài Hước",
@@ -91,6 +91,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260828/EJGCgWfg/index.m3u8"
     },
     {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260904/MFdmeF7w/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260904/MFdmeF7w/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -145,13 +153,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260828/qJMprIF7/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260828/qJMprIF7/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260904/GmhC2Fk3/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260904/GmhC2Fk3/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "vo-boc-ngoai-tinh-ngoai-tinh-da-nham-nho-gi",
-      "episodeCount": 14,
+      "episodeCount": 16,
       "priority": 1
     }
   ],

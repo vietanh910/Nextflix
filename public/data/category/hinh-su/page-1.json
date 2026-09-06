@@ -2,7 +2,7 @@
   "slug": "hinh-su",
   "name": "Hình Sự",
   "page": 1,
-  "totalPages": 3,
+  "totalPages": 2,
   "items": [
     {
       "id": "batman-knightfall-part-1-2026-8abec36b",
@@ -97,7 +97,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Hình Sự",
@@ -146,51 +146,6 @@
         }
       ],
       "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-furious-2026-7dbd81e5",
-      "source": "phimapi",
-      "slug": "con-thinh-no",
-      "name": "Cơn Thịnh Nộ",
-      "originName": "The Furious",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260707/con-thinh-no-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260707/con-thinh-no-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
-        },
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        },
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
@@ -282,7 +237,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -348,7 +303,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -478,6 +433,43 @@
       ]
     },
     {
+      "id": "the-underworld-2026-05bda671",
+      "source": "phimapi",
+      "slug": "nguoi-quyet-dinh",
+      "name": "Người Quyết Định",
+      "originName": "The Underworld",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260904/nguoi-quyet-dinh-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260904/nguoi-quyet-dinh-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 12",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "the-whisper-man-2026-22549211",
       "source": "phimapi",
       "slug": "nguoi-thi-tham",
@@ -511,39 +503,6 @@
       ]
     },
     {
-      "id": "nando-between-two-worlds-2026-7170cb8a",
-      "source": "phimapi",
-      "slug": "nhung-nga-duong-uoc-mo-nando-giua-hai-the-gioi",
-      "name": "Những Ngả Đường Ước Mơ Nando Giữa Hai Thế Giới",
-      "originName": "Nando Between Two Worlds - A Sintonia Film / Nando Entre Dois Mundos: Um Filme Sintonia",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260813/nhung-nga-duong-uoc-mo-nando-giua-hai-the-gioi-nando-entre-dois-mundos-um-filme-sintonia-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260813/nhung-nga-duong-uoc-mo-nando-giua-hai-the-gioi-nando-entre-dois-mundos-um-filme-sintonia-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Brazil",
-          "slug": "brazil"
-        }
-      ]
-    },
-    {
       "id": "reacher-2026-ef046ab8",
       "source": "phimapi",
       "slug": "phat-sung-cuoi-cung-phan-4",
@@ -554,7 +513,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Hành Động",
@@ -585,29 +544,25 @@
       ]
     },
     {
-      "id": "the-apartment-job-2026-0a732d84",
+      "id": "the-gentlemen-season-2-2026-8daddcf2",
       "source": "phimapi",
-      "slug": "phi-vu-chung-cu",
-      "name": "Phi Vụ Chung Cư",
-      "originName": "The Apartment Job",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260712/phi-vu-chung-cu-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260712/phi-vu-chung-cu-thumb.webp",
+      "slug": "quy-ong-the-gioi-ngam-phan-2",
+      "name": "Quý Ông Thế Giới Ngầm (Phần 2)",
+      "originName": "The Gentlemen (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260905/quy-ong-the-gioi-ngam-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260905/quy-ong-the-gioi-ngam-phan-2-thumb.webp",
       "year": 2026,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
+      "episodeCurrent": "Hoàn Tất (8/8)",
       "categories": [
         {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
         },
         {
           "name": "Hình Sự",
@@ -620,8 +575,12 @@
       ],
       "countries": [
         {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -636,7 +595,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 12",
       "categories": [
         {
           "name": "Bí Ẩn",
@@ -714,7 +673,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -755,7 +714,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -796,7 +755,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 18",
+      "episodeCurrent": "Tập 23",
       "categories": [
         {
           "name": "Hình Sự",
@@ -889,6 +848,39 @@
         {
           "name": "Tây Ban Nha",
           "slug": "tay-ban-nha"
+        }
+      ]
+    },
+    {
+      "id": "the-affair-was-just-the--2026-8f3088d7",
+      "source": "phimapi",
+      "slug": "vo-boc-ngoai-tinh-ngoai-tinh-da-nham-nho-gi",
+      "name": "Vỏ Bọc Ngoại Tình (Ngoại Tình Đã Nhằm Nhò Gì)",
+      "originName": "The Affair Was Just The Beginning",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260802/vo-boc-ngoai-tinh-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260802/vo-boc-ngoai-tinh-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     }

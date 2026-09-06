@@ -9,7 +9,7 @@
   "year": 2021,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 477",
+  "episodeCurrent": "Tập 480",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -3833,13 +3833,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260825/053V03mA/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260825/053V03mA/index.m3u8"
+    },
+    {
+      "name": "Tập 478",
+      "slug": "tap-478",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260901/LIdZfs3j/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260901/LIdZfs3j/index.m3u8"
+    },
+    {
+      "name": "Tập 479",
+      "slug": "tap-479",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260901/fWkb8dTs/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260901/fWkb8dTs/index.m3u8"
+    },
+    {
+      "name": "Tập 480",
+      "slug": "tap-480",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260905/8CejiCZp/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260905/8CejiCZp/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "van-gioi-doc-ton",
-      "episodeCount": 474,
+      "episodeCount": 477,
       "priority": 1
     }
   ],

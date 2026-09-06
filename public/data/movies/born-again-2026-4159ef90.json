@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260821/su-tai-sinh-cua-nang-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 20",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (24/24)",
   "categories": [
     {
       "name": "Khoa Học",
@@ -197,13 +197,45 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260830/sorepCq1/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260830/sorepCq1/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260831/pOZXlazw/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260831/pOZXlazw/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260901/0lTLxRv4/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260901/0lTLxRv4/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260902/nzorxpp4/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260902/nzorxpp4/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260903/auMJgITc/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260903/auMJgITc/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "su-tai-sinh-cua-nang",
-      "episodeCount": 20,
+      "episodeCount": 24,
       "priority": 1
     }
   ],

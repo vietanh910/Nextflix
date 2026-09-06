@@ -5,6 +5,80 @@
   "totalPages": 3,
   "items": [
     {
+      "id": "outer-banks-season-1-2020-3880d636",
+      "source": "phimapi",
+      "slug": "bi-mat-bi-vui-lap-phan-1",
+      "name": "Bí Mật Bị Vùi Lấp (Phần 1)",
+      "originName": "Outer Banks (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260822/bi-mat-bi-vui-lap-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/bi-mat-bi-vui-lap-phan-1-thumb.webp",
+      "year": 2020,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "no-way-for-stumer-2019-fb626933",
+      "source": "phimapi",
+      "slug": "hoi-ket-cua-ke-lam-tien-gia",
+      "name": "Hồi Kết Của Kẻ Làm Tiền Giả",
+      "originName": "No Way For Stumer",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260821/hoi-ket-cua-ke-lam-tien-gia-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260821/hoi-ket-cua-ke-lam-tien-gia-thumb.webp",
+      "year": 2019,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "detention-2019-5465c2de",
       "source": "phimapi",
       "slug": "tro-lai-mai-truong",
@@ -38,6 +112,43 @@
         {
           "name": "Đài Loan",
           "slug": "dai-loan"
+        }
+      ]
+    },
+    {
+      "id": "the-whispering-2018-8f7b79bd",
+      "source": "phimapi",
+      "slug": "loi-thi-tham",
+      "name": "Lời Thì Thầm",
+      "originName": "The Whispering",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260904/loi-thi-tham-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260904/loi-thi-tham-thumb.webp",
+      "year": 2018,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
@@ -432,6 +543,55 @@
       ]
     },
     {
+      "id": "inland-empire-2006-76ce4913",
+      "source": "phimapi",
+      "slug": "de-che-noi-dia",
+      "name": "Đế Chế Nội Địa",
+      "originName": "Inland Empire",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260903/de-che-noi-dia-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260903/de-che-noi-dia-thumb.webp",
+      "year": 2006,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Ba Lan",
+          "slug": "ba-lan"
+        }
+      ]
+    },
+    {
       "id": "dude-where-s-my-car-2000-a3dbdeba",
       "source": "phimapi",
       "slug": "anh-ban-xe-toi-dau",
@@ -487,7 +647,7 @@
       "year": 1996,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 1211",
+      "episodeCurrent": "Tập 1212",
       "categories": [
         {
           "name": "Bí Ẩn",

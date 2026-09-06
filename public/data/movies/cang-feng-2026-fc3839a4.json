@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 18",
+  "episodeCurrent": "Tập 23",
   "categories": [
     {
       "name": "Hình Sự",
@@ -177,13 +177,53 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260828/vsVWnCHW/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260828/vsVWnCHW/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260901/wDmO8Ipp/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260901/wDmO8Ipp/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260902/cI62Q02N/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260902/cI62Q02N/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260903/V18ykQ76/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260903/V18ykQ76/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260904/GTg03zDN/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260904/GTg03zDN/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260905/f1BD9awU/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260905/f1BD9awU/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "tang-phong",
-      "episodeCount": 18,
+      "episodeCount": 23,
       "priority": 1
     }
   ],

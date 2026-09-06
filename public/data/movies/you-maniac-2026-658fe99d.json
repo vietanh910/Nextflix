@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 1",
+  "episodeCurrent": "Tập 2",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -35,15 +35,23 @@
       "slug": "tap-01",
       "serverName": "Vietsub",
       "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260829/E8S2RDfW/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260829/E8S2RDfW/index.m3u8"
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260831/IE2aS8tF/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260831/IE2aS8tF/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260905/KBgLuk73/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260905/KBgLuk73/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "dien-tinh-2026",
-      "episodeCount": 1,
+      "episodeCount": 2,
       "priority": 1
     }
   ],
