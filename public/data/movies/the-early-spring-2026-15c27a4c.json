@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260826/dau-xuan-tuoi-sang-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 18",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (24/24)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -179,6 +179,54 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260906/cDWHFA3E/index.m3u8"
     },
     {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260907/s64pznOX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260907/s64pznOX/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260908/zxOX3oQf/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260908/zxOX3oQf/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260909/kJT0aRFz/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260909/kJT0aRFz/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260911/qvM1JEUE/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260911/qvM1JEUE/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260911/qn9xGVdb/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260911/qn9xGVdb/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260912/pALjXtem/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260912/pALjXtem/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -313,13 +361,45 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260906/Y9P8c9vl/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260906/Y9P8c9vl/index.m3u8"
+    },
+    {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260907/d2eABowK/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260907/d2eABowK/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260908/3axAa9Og/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260908/3axAa9Og/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260909/Peqo9Pyt/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260909/Peqo9Pyt/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260910/PdZ85hGj/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260910/PdZ85hGj/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "dau-xuan-tuoi-sang",
-      "episodeCount": 35,
+      "episodeCount": 45,
       "priority": 1
     }
   ],

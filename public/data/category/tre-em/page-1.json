@@ -52,7 +52,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 31",
+      "episodeCurrent": "Tập 32",
       "categories": [
         {
           "name": "Hài Hước",
@@ -482,21 +482,25 @@
       ]
     },
     {
-      "id": "beast-wars-transformers--1998-b14ec579",
+      "id": "gogo-sentai-boukenger-2006-ea66a28b",
       "source": "phimapi",
-      "slug": "sieu-thu-bien-hinh-manh-thu-dai-chien-robot-bien-hinh-phan-3",
-      "name": "Siêu Thú Biến Hình / Mãnh Thú Đại Chiến: Robot Biến Hình (Phần 3)",
-      "originName": "Beast Wars Transformers (Season 3)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260822/sieu-thu-bien-hinh-manh-thu-dai-chien-robot-bien-hinh-phan-3-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/sieu-thu-bien-hinh-manh-thu-dai-chien-robot-bien-hinh-phan-3-thumb.webp",
-      "year": 1998,
-      "type": "anime",
+      "slug": "chien-doi-phieu-luu-boukenger",
+      "name": "Chiến Đội Phiêu Lưu Boukenger",
+      "originName": "GoGo Sentai Boukenger",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260906/chien-doi-phieu-luu-boukenger-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260906/chien-doi-phieu-luu-boukenger-thumb.webp",
+      "year": 2006,
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
+      "episodeCurrent": "Hoàn Tất (49/49)",
       "categories": [
         {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
         },
         {
           "name": "Hành Động",
@@ -509,98 +513,12 @@
         {
           "name": "Trẻ Em",
           "slug": "tre-em"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Canada",
-          "slug": "canada"
-        }
-      ]
-    },
-    {
-      "id": "beast-wars-transformers--1997-e731f828",
-      "source": "phimapi",
-      "slug": "sieu-thu-bien-hinh-manh-thu-dai-chien-robot-bien-hinh-phan-2",
-      "name": "Siêu Thú Biến Hình / Mãnh Thú Đại Chiến: Robot Biến Hình (Phần 2)",
-      "originName": "Beast Wars Transformers (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260822/sieu-thu-bien-hinh-manh-thu-dai-chien-robot-bien-hinh-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/sieu-thu-bien-hinh-manh-thu-dai-chien-robot-bien-hinh-phan-2-thumb.webp",
-      "year": 1997,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Trẻ Em",
-          "slug": "tre-em"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Canada",
-          "slug": "canada"
-        }
-      ]
-    },
-    {
-      "id": "beast-wars-transformers--1996-0f77c4e8",
-      "source": "phimapi",
-      "slug": "sieu-thu-bien-hinh-manh-thu-dai-chien-robot-bien-hinh-phan-1",
-      "name": "Siêu Thú Biến Hình / Mãnh Thú Đại Chiến: Robot Biến Hình (Phần 1)",
-      "originName": "Beast Wars Transformers (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260822/sieu-thu-bien-hinh-manh-thu-dai-chien-robot-bien-hinh-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/sieu-thu-bien-hinh-manh-thu-dai-chien-robot-bien-hinh-phan-1-thumb.webp",
-      "year": 1996,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (26/26)",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Trẻ Em",
-          "slug": "tre-em"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Canada",
-          "slug": "canada"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     }

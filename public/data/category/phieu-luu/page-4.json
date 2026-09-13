@@ -2,8 +2,49 @@
   "slug": "phieu-luu",
   "name": "Phiêu Lưu",
   "page": 4,
-  "totalPages": 6,
+  "totalPages": 5,
   "items": [
+    {
+      "id": "digimon-beatbreak-2025-d92f228c",
+      "source": "phimapi",
+      "slug": "digimon-beatbreak",
+      "name": "DIGIMON BEATBREAK",
+      "originName": "Digimon Beatbreak",
+      "posterUrl": "https://phimimg.com/upload/vod/20251111-1/0db4abb38dc3193efe0ac7c3d7d4753b.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251111-1/b9d5ee4209289a3e9ba05a7b002f8e0c.jpg",
+      "year": 2025,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 45",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
     {
       "id": "kamen-rider-zeztz-2025-c2ebc58d",
       "source": "phimapi",
@@ -128,84 +169,6 @@
       ]
     },
     {
-      "id": "outer-banks-season-4-2024-140656fb",
-      "source": "phimapi",
-      "slug": "bi-mat-bi-vui-lap-phan-4",
-      "name": "Bí Mật Bị Vùi Lấp (Phần 4)",
-      "originName": "Outer Banks (Season 4)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260822/bi-mat-bi-vui-lap-phan-4-poster.webp",
-      "thumbUrl": "https://phimimg.com/upload/vod/20241013-1/31fdefb9b7c92dfda821c21acb2198c7.jpg",
-      "year": 2024,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "9-1-1-season-8-2024-ab3ecb20",
-      "source": "phimapi",
-      "slug": "cuoc-goi-khan-cap-9-1-1-phan-8",
-      "name": "Cuộc Gọi Khẩn Cấp 9-1-1 (Phần 8)",
-      "originName": "9-1-1 (Season 8)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260815/cuoc-goi-khan-cap-9-1-1-phan-8-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260815/cuoc-goi-khan-cap-9-1-1-phan-8-thumb.webp",
-      "year": 2024,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (18/18)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "legend-of-lingwu-contine-2024-ffb5ef13",
       "source": "phimapi",
       "slug": "dai-luc-linh-vo",
@@ -305,43 +268,6 @@
       ]
     },
     {
-      "id": "god-with-three-eyes-2024-1b8add7c",
-      "source": "phimapi",
-      "slug": "nhi-lang-than-tham-hai-giao-long",
-      "name": "Nhị Lang Thần: Thâm Hải Giao Long",
-      "originName": "God With Three Eyes",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260823/nhi-lang-than-tham-hai-giao-long-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260823/nhi-lang-than-tham-hai-giao-long-thumb.webp",
-      "year": 2024,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
       "id": "urban-miracle-doctor-2024-7e8a89ee",
       "source": "phimapi",
       "slug": "than-y-co-dai-o-do-thi-do-thi-co-tien-y",
@@ -352,7 +278,7 @@
       "year": 2024,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 210",
+      "episodeCurrent": "Tập 211",
       "categories": [
         {
           "name": "Hành Động",
@@ -371,43 +297,6 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "outer-banks-season-3-2023-ae59e8c3",
-      "source": "phimapi",
-      "slug": "bi-mat-bi-vui-lap-phan-3",
-      "name": "Bí Mật Bị Vùi Lấp (Phần 3)",
-      "originName": "Outer Banks (Season 3)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260822/bi-mat-bi-vui-lap-phan-3-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/bi-mat-bi-vui-lap-phan-3-thumb.webp",
-      "year": 2023,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     },
@@ -422,7 +311,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 89",
+      "episodeCurrent": "Tập 90",
       "categories": [
         {
           "name": "Hành Động",
@@ -463,7 +352,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 169",
+      "episodeCurrent": "Tập 170",
       "categories": [
         {
           "name": "Hành Động",
@@ -486,18 +375,22 @@
       ]
     },
     {
-      "id": "seal-team-season-7-2023-6ac97f41",
+      "id": "battle-through-the-heave-2023-4ab06686",
       "source": "phimapi",
-      "slug": "doi-dac-nhiem-seal-phan-7",
-      "name": "Đội Đặc Nhiệm SEAL (Phần 7)",
-      "originName": "Seal Team (Season 7)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260819/doi-dac-nhiem-seal-phan-7-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260819/doi-dac-nhiem-seal-phan-7-thumb.webp",
+      "slug": "dau-pha-thuong-khung-thieu-nien-tro-ve",
+      "name": "Đấu Phá Thương Khung: Thiếu Niên Trở Về",
+      "originName": "Battle Through The Heaven",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-thieu-nien-tro-ve-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-thieu-nien-tro-ve-thumb.webp",
       "year": 2023,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
+      "episodeCurrent": "Hoàn Tất (34/34)",
       "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
@@ -505,24 +398,12 @@
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "War & Politics",
-          "slug": "war-politics"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -574,7 +455,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 374",
+      "episodeCurrent": "Tập 376",
       "categories": [
         {
           "name": "Hành Động",
@@ -611,7 +492,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 53",
+      "episodeCurrent": "Tập 54",
       "categories": [
         {
           "name": "Hành Động",
@@ -693,7 +574,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 93",
+      "episodeCurrent": "Tập 94",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -734,7 +615,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 156",
+      "episodeCurrent": "Tập 157",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -761,43 +642,6 @@
       ]
     },
     {
-      "id": "12-hours-2022-6d56773b",
-      "source": "phimapi",
-      "slug": "cuoc-ruot-duoi-tai-cuc-dia",
-      "name": "Cuộc Rượt Đuổi Tại Cực Địa",
-      "originName": "12 Hours",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260823/cuoc-ruot-duoi-tai-cuc-dia-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260823/cuoc-ruot-duoi-tai-cuc-dia-thumb.webp",
-      "year": 2022,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
       "id": "fights-break-sphere-seas-2022-e4bf9962",
       "source": "phimapi",
       "slug": "dau-pha-thuong-khung-phan-5",
@@ -808,7 +652,7 @@
       "year": 2022,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 209",
+      "episodeCurrent": "Tập 210",
       "categories": [
         {
           "name": "Phiêu Lưu",
@@ -864,18 +708,133 @@
       ]
     },
     {
-      "id": "seal-team-season-6-2022-b689a4a2",
+      "id": "the-creature-cases-seaso-2022-71a9a856",
       "source": "phimapi",
-      "slug": "doi-dac-nhiem-seal-phan-6",
-      "name": "Đội Đặc Nhiệm SEAL (Phần 6)",
-      "originName": "Seal Team (Season 6)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260819/doi-dac-nhiem-seal-phan-6-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260819/doi-dac-nhiem-seal-phan-6-thumb.webp",
+      "slug": "tham-tu-dong-vat-phan-1",
+      "name": "Thám Tử Động Vật (Phần 1)",
+      "originName": "The Creature Cases (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20241019-1/8cef7f569bc37d3384e5a74519d9a13e.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20241019-1/a3f37dcf824d3ce669f7e6f2ea499d31.jpg",
       "year": 2022,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "the-creature-cases-seaso-2022-87059b42",
+      "source": "phimapi",
+      "slug": "tham-tu-dong-vat-phan-2",
+      "name": "Thám Tử Động Vật (Phần 2)",
+      "originName": "The Creature Cases (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20241019-1/ce189c7791aaf48a56678d38a122fde8.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20241019-1/86b1ea2b751720fe6d77a8e1f16313bb.jpg",
+      "year": 2022,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (1/1)",
+      "categories": [
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "growth-of-god-2022-f5e70ba6",
+      "source": "phimapi",
+      "slug": "xich-cuoc-dai-tien",
+      "name": "Xích Cước Đại Tiên",
+      "originName": "Growth Of God",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260903/xich-cuoc-dai-tien-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260903/xich-cuoc-dai-tien-thumb.webp",
+      "year": 2022,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "avalanche-2021-b6b7c2bb",
+      "source": "phimapi",
+      "slug": "biet-doi-cong-ly-avalanche",
+      "name": "Biệt Đội Công Lý Avalanche",
+      "originName": "Avalanche",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260808/biet-doi-cong-ly-avalanche-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260808/biet-doi-cong-ly-avalanche-thumb.webp",
+      "year": 2021,
       "type": "series",
       "status": "completed",
       "episodeCurrent": "Hoàn Tất (10/10)",
       "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
@@ -885,12 +844,12 @@
           "slug": "phieu-luu"
         },
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
           "name": "War & Politics",
           "slug": "war-politics"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
         },
         {
           "name": "Tâm Lý",
@@ -899,8 +858,49 @@
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "pil-s-adventures-2021-eec6c676",
+      "source": "phimapi",
+      "slug": "chuyen-phieu-luu-cua-pil",
+      "name": "Chuyến Phiêu Lưu Của Pil",
+      "originName": "Pil's Adventures",
+      "posterUrl": "https://phimimg.com/upload/vod/20231029-1/ecef8da54215cc75e12a318661b722bd.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20231029-1/bd48ac286e9b1106dc7d410278b6e89c.jpg",
+      "year": 2021,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Giả Tượng",
+          "slug": "gia-tuong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
         }
       ]
     }

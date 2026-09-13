@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 25",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (30/30)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -237,13 +237,53 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260904/nxQadJJW/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260904/nxQadJJW/index.m3u8"
+    },
+    {
+      "name": "Tập 26",
+      "slug": "tap-26",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260907/3fBKzHkZ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260907/3fBKzHkZ/index.m3u8"
+    },
+    {
+      "name": "Tập 27",
+      "slug": "tap-27",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260908/DJdUEngk/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260908/DJdUEngk/index.m3u8"
+    },
+    {
+      "name": "Tập 28",
+      "slug": "tap-28",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260909/bR3cdgh9/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260909/bR3cdgh9/index.m3u8"
+    },
+    {
+      "name": "Tập 29",
+      "slug": "tap-29",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260911/N4S8zZat/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260911/N4S8zZat/index.m3u8"
+    },
+    {
+      "name": "Tập 30",
+      "slug": "tap-30",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260911/fg4pm0H6/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260911/fg4pm0H6/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "luang-pho-trong-sach",
-      "episodeCount": 25,
+      "episodeCount": 30,
       "priority": 1
     }
   ],

@@ -5,103 +5,37 @@
   "totalPages": 6,
   "items": [
     {
-      "id": "a-record-of-a-mortal-s-j-2020-5011a3b3",
+      "id": "fights-break-sphere-2018-0d3f92b8",
       "source": "phimapi",
-      "slug": "pham-nhan-tu-tien",
-      "name": "Phàm Nhân Tu Tiên",
-      "originName": "A Record of a Mortal's Journey to Immortality",
-      "posterUrl": "https://phimimg.com/upload/vod/20240715-1/ed827a6e5d8f7c41aa0728403665cd87.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20240715-1/fe09a10062768cca301682eba6c8245b.jpg",
-      "year": 2020,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 190",
+      "slug": "dau-pha-thuong-khung",
+      "name": "Đấu Phá Thương Khung",
+      "originName": "Fights Break Sphere",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-thumb.webp",
+      "year": 2018,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (45/45)",
       "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Thần Thoại",
-          "slug": "than-thoai"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "swallowed-star-2020-3c48f3c2",
-      "source": "phimapi",
-      "slug": "thon-phe-tinh-khong",
-      "name": "Thôn Phệ Tinh Không",
-      "originName": "Swallowed Star",
-      "posterUrl": "https://phimimg.com/upload/vod/20240821-1/a651652396e9f53c09cd88d28700d5c4.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20240821-1/22c49ba9590b0e5f3d126696c0bfbecf.jpg",
-      "year": 2020,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 239",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
         {
           "name": "Khoa Học",
           "slug": "khoa-hoc"
         },
         {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
         },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "the-society-2019-e2dc1145",
-      "source": "phimapi",
-      "slug": "xa-hoi",
-      "name": "Xã Hội",
-      "originName": "The Society",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260822/xa-hoi-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/xa-hoi-thumb.webp",
-      "year": 2019,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
         },
         {
           "name": "Tâm Lý",
@@ -110,8 +44,8 @@
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -149,6 +83,43 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "ted-2-2015-a5c7a096",
+      "source": "phimapi",
+      "slug": "chu-gau-ted-2",
+      "name": "Chú Gấu Ted 2",
+      "originName": "Ted 2",
+      "posterUrl": "https://phimimg.com/upload/vod/20250712-1/8cd0164a105071abb4aa7ff0d2f05203.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250712-1/4beacda2a7743195dc74e1e76ee0f724.jpg",
+      "year": 2015,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -329,6 +300,43 @@
       ]
     },
     {
+      "id": "ted-2012-f517affc",
+      "source": "phimapi",
+      "slug": "chu-gau-ted",
+      "name": "Chú Gấu Ted",
+      "originName": "Ted",
+      "posterUrl": "https://phimimg.com/upload/vod/20250712-1/465f6b0a9566b150ee525642805a4d2d.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250712-1/8d22b57a30616a1c578a5a7046f5a4a0.jpg",
+      "year": 2012,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "haven-season-3-2012-6cd2dc8b",
       "source": "phimapi",
       "slug": "thi-tran-haven-phan-3",
@@ -464,6 +472,55 @@
       ]
     },
     {
+      "id": "the-secret-of-moonacre-2009-6402b2dc",
+      "source": "phimapi",
+      "slug": "bi-an-cung-trang",
+      "name": "Bí Ẩn Cung Trăng",
+      "originName": "The Secret Of Moonacre",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260912/bi-an-cung-trang-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260912/bi-an-cung-trang-thumb.webp",
+      "year": 2009,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Úc",
+          "slug": "uc"
+        },
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Hungary",
+          "slug": "hungary"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "magic-mobile-phone-seaso-2008-756d5e1a",
       "source": "phimapi",
       "slug": "chiec-dien-thoai-than-ky-phan-1",
@@ -501,6 +558,55 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "code-geass-season-2-2008-d7bafa25",
+      "source": "phimapi",
+      "slug": "cuoc-noi-loan-cua-lelouch-phan-2",
+      "name": "Cuộc Nổi Loạn Của Lelouch (Phần 2)",
+      "originName": "Code Geass  (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260912/cuoc-noi-loan-cua-lelouch-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260912/cuoc-noi-loan-cua-lelouch-phan-2-thumb.webp",
+      "year": 2008,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (25/25)",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -546,6 +652,137 @@
         {
           "name": "Bulgaria",
           "slug": "bulgaria"
+        }
+      ]
+    },
+    {
+      "id": "gogo-sentai-boukenger-2006-ea66a28b",
+      "source": "phimapi",
+      "slug": "chien-doi-phieu-luu-boukenger",
+      "name": "Chiến Đội Phiêu Lưu Boukenger",
+      "originName": "GoGo Sentai Boukenger",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260906/chien-doi-phieu-luu-boukenger-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260906/chien-doi-phieu-luu-boukenger-thumb.webp",
+      "year": 2006,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (49/49)",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "gogo-sentai-boukenger-th-2006-4d298a99",
+      "source": "phimapi",
+      "slug": "chien-doi-phieu-luu-boukenger-bau-vat-toi-thuong",
+      "name": "Chiến Đội Phiêu Lưu Boukenger: Báu Vật Tối Thượng",
+      "originName": "GoGo Sentai Boukenger The Movie: The Greatest Precious",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260906/chien-doi-phieu-luu-boukenger-bau-vat-toi-thuong-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260906/chien-doi-phieu-luu-boukenger-bau-vat-toi-thuong-thumb.webp",
+      "year": 2006,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "code-geass-season-1-2006-1d5b0bbc",
+      "source": "phimapi",
+      "slug": "cuoc-noi-loan-cua-lelouch-phan-1",
+      "name": "Cuộc Nổi Loạn Của Lelouch (Phần 1)",
+      "originName": "Code Geass  (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260912/cuoc-noi-loan-cua-lelouch-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260912/cuoc-noi-loan-cua-lelouch-phan-1-thumb.webp",
+      "year": 2006,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (25/25)",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -634,6 +871,43 @@
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-nest-1988-dba7eb82",
+      "source": "phimapi",
+      "slug": "gian-dot-bien",
+      "name": "Gián Đột Biến",
+      "originName": "The Nest",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260910/gian-dot-bien-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260910/gian-dot-bien-thumb.webp",
+      "year": 1988,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
         }
       ],
       "countries": [

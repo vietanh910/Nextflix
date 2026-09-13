@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260819/co-gi-lai-di-leo-nui-thumb.webp",
   "year": 2026,
   "type": "tvshow",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (10/10)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -93,13 +93,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260830/LvEkOJAv/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260830/LvEkOJAv/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260909/6DHcfdR9/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260909/6DHcfdR9/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260909/QUBODrt5/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260909/QUBODrt5/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "co-gi-lai-di-leo-nui",
-      "episodeCount": 8,
+      "episodeCount": 10,
       "priority": 1
     }
   ],

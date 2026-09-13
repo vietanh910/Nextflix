@@ -2,7 +2,7 @@
   "slug": "chinh-kich",
   "name": "Chính Kịch",
   "page": 1,
-  "totalPages": 13,
+  "totalPages": 14,
   "items": [
     {
       "id": "though-i-am-an-inept-vil-2026-40c3d84e",
@@ -15,7 +15,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -79,31 +79,35 @@
       ]
     },
     {
-      "id": "mr-hero-2026-7ba22ef0",
+      "id": "i-want-your-sex-2026-42d4ffd3",
       "source": "phimapi",
-      "slug": "anh-hung-2026",
-      "name": "Anh Hùng",
-      "originName": "Mr. Hero",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260821/anh-hung-2026-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260821/anh-hung-2026-thumb.webp",
+      "slug": "anh-muon-yeu-voi-em",
+      "name": "Anh Muốn \"Yêu\" Với Em",
+      "originName": "I Want Your Sex",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260908/anh-muon-yeu-voi-em-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260908/anh-muon-yeu-voi-em-thumb.webp",
       "year": 2026,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Việt Nam",
-          "slug": "viet-nam"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -118,7 +122,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -306,8 +310,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20260831/bay-vao-trai-tim-anh-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 12",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -377,7 +381,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -406,7 +410,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -429,6 +433,68 @@
       ]
     },
     {
+      "id": "khom-khlang-2026-caa4fc75",
+      "source": "phimapi",
+      "slug": "bua-ngai-troi-buoc",
+      "name": "Bùa Ngải Trói Buộc",
+      "originName": "Khom Khlang",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260907/khom-khlang-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260907/khom-khlang-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 1",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "go-team-2026-d3c10b89",
+      "source": "phimapi",
+      "slug": "ca-doi-co-len",
+      "name": "Cả Đội Cố Lên",
+      "originName": "Go Team!",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260912/ca-doi-co-len-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260912/ca-doi-co-len-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Tây Ban Nha",
+          "slug": "tay-ban-nha"
+        }
+      ]
+    },
+    {
       "id": "connecting-to-you-2026-d6c98b93",
       "source": "phimapi",
       "slug": "ca-the-gioi-chi-co-anh-ket-noi-duoc-voi-toi",
@@ -439,7 +505,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 12",
       "categories": [
         {
           "name": "Hài Hước",
@@ -480,7 +546,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -542,7 +608,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -608,7 +674,7 @@
       "year": 2026,
       "type": "tvshow",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -637,7 +703,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -673,7 +739,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -696,47 +762,6 @@
       ]
     },
     {
-      "id": "spooky-in-love-2026-91be3871",
-      "source": "phimapi",
-      "slug": "chuyen-tinh-ma-quai",
-      "name": "Chuyện Tình Ma Quái",
-      "originName": "Spooky In Love",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260718/chuyen-tinh-ma-quai-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260718/chuyen-tinh-ma-quai-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
       "id": "the-ogre-s-bride-2026-b358caf3",
       "source": "phimapi",
       "slug": "co-dau-cua-quy",
@@ -747,7 +772,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -774,17 +799,17 @@
       ]
     },
     {
-      "id": "take-a-hike-2026-65acc20e",
+      "id": "crew-girl-2026-b1863991",
       "source": "phimapi",
-      "slug": "co-gi-lai-di-leo-nui",
-      "name": "Cớ Gì Lại Đi Leo Núi?",
-      "originName": "Take A Hike!",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260819/co-gi-lai-di-leo-nui-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260819/co-gi-lai-di-leo-nui-thumb.webp",
+      "slug": "co-gai-doi-rowing",
+      "name": "Cô Gái Đội Rowing",
+      "originName": "Crew Girl",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260910/co-gai-doi-rowing-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260910/co-gai-doi-rowing-thumb.webp",
       "year": 2026,
-      "type": "tvshow",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -797,45 +822,8 @@
       ],
       "countries": [
         {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "ascendance-of-a-bookworm-2026-5b0b91d1",
-      "source": "phimapi",
-      "slug": "co-nang-mot-sach",
-      "name": "Cô Nàng Mọt Sách",
-      "originName": "Ascendance Of A Bookworm (Adopted Daughter Of An Archduke)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260413-1/7a0e4154b3a97790815b0ffa25ffcf2b.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260413-1/123b7a5cfa19c587ac0fb3395cd828f0.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 20",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
+          "name": "Canada",
+          "slug": "canada"
         }
       ]
     }

@@ -1,0 +1,63 @@
+{
+  "id": "the-fix-2024-c064cfe2",
+  "source": "phimapi",
+  "slug": "lieu-thuoc",
+  "name": "Liều Thuốc",
+  "originName": "The Fix",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260911/lieu-thuoc-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260911/lieu-thuoc-thumb.webp",
+  "year": 2024,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nam Phi",
+      "slug": "nam-phi"
+    }
+  ],
+  "description": "<p>Khi một nữ người mẫu gặp nhiều rắc rối sử dụng một loại chất kích thích mới tại một bữa tiệc, cô phải chịu đựng một sự biến đổi thể xác đầy kinh hoàng. Bị giới chức trách lẫn một băng nhóm tội phạm nguy hiểm ráo riết truy đuổi, cô nỗ lực tìm kiếm phương thuốc giải nhằm đảo ngược những tác động này, để rồi bàng hoàng phát hiện ra rằng những đột biến gen trong cơ thể mình có thể chính là chìa khóa cứu sống cả nhân loại.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260911/S782tzfF/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260911/S782tzfF/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "lieu-thuoc",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

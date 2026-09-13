@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260831/me-la-dung-nhat-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (7/7)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -61,13 +61,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260830/b3USs0xM/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260830/b3USs0xM/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260909/4wpkkS3P/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260909/4wpkkS3P/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260909/aYupswW2/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260909/aYupswW2/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260909/W4AsbsSs/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260909/W4AsbsSs/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "me-la-dung-nhat",
-      "episodeCount": 4,
+      "episodeCount": 7,
       "priority": 1
     }
   ],

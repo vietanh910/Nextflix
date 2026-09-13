@@ -5,6 +5,31 @@
   "totalPages": 1,
   "items": [
     {
+      "id": "untold-mr-t-i-pity-the-f-2026-0d3297b4",
+      "source": "phimapi",
+      "slug": "bi-mat-gioi-the-thao-mr-t",
+      "name": "Bí Mật Giới Thể Thao: Mr T",
+      "originName": "Untold Mr. T: I Pity the Fool",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260909/bi-mat-gioi-the-thao-mr-t-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260909/bi-mat-gioi-the-thao-mr-t-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tài Liệu",
+          "slug": "tai-lieu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Mỹ",
+          "slug": "my"
+        }
+      ]
+    },
+    {
       "id": "untold-raygun-breaking-b-2026-0dbcf1cf",
       "source": "phimapi",
       "slug": "bi-mat-gioi-the-thao-rachael-gunn",
@@ -88,35 +113,6 @@
       ]
     },
     {
-      "id": "chompoo-lost-forgotten-2026-40a5d17d",
-      "source": "phimapi",
-      "slug": "chompoo-lac-loi-va-lang-quen",
-      "name": "Chompoo: Lạc Lối Và Lãng Quên",
-      "originName": "Chompoo: Lost​ &​ Forgotten​",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260822/chompoo-lac-loi-va-lang-quen-poster-2.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/chompoo-lac-loi-va-lang-quen-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Tài Liệu",
-          "slug": "tai-lieu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
       "id": "fito-paez-the-world-with-2026-9a69818b",
       "source": "phimapi",
       "slug": "fito-paez-the-gioi-trong-mot-bai-hat",
@@ -156,7 +152,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -208,13 +204,12 @@
       ]
     },
     {
-      "id": "freefall-a-reckoning-for-2026-a5128426",
+      "id": "famous-last-words-gloria-2026-0e30dabc",
       "source": "phimapi",
-      "slug": "roi-tu-do-ngay-phan-xet-cua-boeing",
-      "name": "Rơi Tự Do: Ngày Phán Xét Của Boeing",
-      "originName": "Freefall: A Reckoning For Boeing",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260820/roi-tu-do-ngay-phan-xet-cua-boeing-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260820/roi-tu-do-ngay-phan-xet-cua-boeing-thumb.webp",
+      "slug": "nhung-loi-tran-troi-noi-tieng-gloria-steinem",
+      "name": "Những Lời Trăn Trối Nổi Tiếng: Gloria Steinem",
+      "originName": "Famous Last Words: Gloria Steinem",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260907/nhung-loi-tran-troi-noi-tieng-gloria-steinem-poster.webp",
       "year": 2026,
       "type": "single",
       "status": "completed",
@@ -223,16 +218,41 @@
         {
           "name": "Tài Liệu",
           "slug": "tai-lieu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-ai-doc-or-how-i-beca-2026-77328627",
+      "source": "phimapi",
+      "slug": "phim-tai-lieu-ve-ai-hay-cach-toi-tro-thanh-ke-lac-quan-ve-tan-the",
+      "name": "Phim Tài Liệu Về AI: Hay Cách Tôi Trở Thành Kẻ Lạc Quan Về Tận Thế",
+      "originName": "The AI Doc: Or How I Became An Apocaloptimist",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260912/phim-tai-lieu-ve-ai-hay-cach-toi-tro-thanh-ke-lac-quan-ve-tan-the-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260912/phim-tai-lieu-ve-ai-hay-cach-toi-tro-thanh-ke-lac-quan-ve-tan-the-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tài Liệu",
+          "slug": "tai-lieu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Hà Lan",
+          "slug": "ha-lan"
         }
       ]
     },

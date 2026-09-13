@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 9",
+  "episodeCurrent": "Tập 12",
   "categories": [
     {
       "name": "Hài Hước",
@@ -105,13 +105,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260906/VN82zAJf/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260906/VN82zAJf/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260907/hvQ3giBH/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260907/hvQ3giBH/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260908/FpT2KYA1/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260908/FpT2KYA1/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260912/p2aeO2KS/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260912/p2aeO2KS/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "hanh-trinh-tap-duot-chia-tay",
-      "episodeCount": 9,
+      "episodeCount": 12,
       "priority": 1
     }
   ],

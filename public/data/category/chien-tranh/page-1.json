@@ -5,6 +5,39 @@
   "totalPages": 1,
   "items": [
     {
+      "id": "mayday-2026-3b530966",
+      "source": "phimapi",
+      "slug": "bao-dong-mayday",
+      "name": "Báo Động Mayday",
+      "originName": "Mayday",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260906/bao-dong-mayday-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260906/bao-dong-mayday-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chiến Tranh",
+          "slug": "chien-tranh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "mobile-suit-gundam-hatha-2026-66564792",
       "source": "phimapi",
       "slug": "mobile-suit-gundam-tia-chop-hathaway-mobile-suit-gundam-hathaway-ma-thuat-nu-than-circe",
@@ -75,35 +108,6 @@
         {
           "name": "Mỹ",
           "slug": "my"
-        }
-      ]
-    },
-    {
-      "id": "home-coming-2022-d32f71e7",
-      "source": "phimapi",
-      "slug": "van-ly-quy-tu-van-ly-quy-do",
-      "name": "Vạn Lý Quy Tú / Vạn Lý Quy Đồ",
-      "originName": "Home Coming",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260822/van-ly-quy-tu-van-ly-quy-do-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/van-ly-quy-tu-van-ly-quy-do-thumb.webp",
-      "year": 2022,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Chiến Tranh",
-          "slug": "chien-tranh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
         }
       ]
     }

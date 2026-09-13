@@ -1,0 +1,55 @@
+{
+  "id": "call-my-agent-the-movie-2026-f7aee5bd",
+  "source": "phimapi",
+  "slug": "hay-goi-quan-ly-cua-toi-phim-dien-anh",
+  "name": "Hãy Gọi Quản Lý Của Tôi! - Phim Điện Ảnh",
+  "originName": "Call My Agent! The Movie",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260910/hay-goi-quan-ly-cua-toi-phim-dien-anh-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260910/hay-goi-quan-ly-cua-toi-phim-dien-anh-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Pháp",
+      "slug": "phap"
+    }
+  ],
+  "description": "<p>Năm năm sau khi hãng ASK đóng cửa, đạo diễn vừa ra mắt Andréa mất nam diễn viên chính chỉ vài ngày trước khi bấm máy, buộc cô tái hợp đội ngũ cũ – dù chưa biết đó là phúc hay họa.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260910/DZaKTj4F/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260910/DZaKTj4F/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "hay-goi-quan-ly-cua-toi-phim-dien-anh",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

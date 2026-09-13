@@ -9,7 +9,7 @@
   "year": 2020,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 239",
+  "episodeCurrent": "Tập 240",
   "categories": [
     {
       "name": "Hành Động",
@@ -1949,13 +1949,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260831/a7sb8tzi/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260831/a7sb8tzi/index.m3u8"
+    },
+    {
+      "name": "Tập 240",
+      "slug": "tap-240",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260907/wdB91e2v/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260907/wdB91e2v/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "thon-phe-tinh-khong",
-      "episodeCount": 239,
+      "episodeCount": 240,
       "priority": 1
     }
   ],

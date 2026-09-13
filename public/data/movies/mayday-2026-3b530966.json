@@ -1,0 +1,55 @@
+{
+  "id": "mayday-2026-3b530966",
+  "source": "phimapi",
+  "slug": "bao-dong-mayday",
+  "name": "Báo Động Mayday",
+  "originName": "Mayday",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260906/bao-dong-mayday-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260906/bao-dong-mayday-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Chiến Tranh",
+      "slug": "chien-tranh"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Khi một phi công hải quân Hoa Kỳ bị mắc kẹt bên chiến tuyến địch khi đang thực hiện nhiệm vụ tối mật thời Chiến tranh Lạnh, cơ hội sống sót duy nhất của anh là bắt tay liên minh với một cựu đặc vụ KGB lập dị.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260906/eSOelnsd/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260906/eSOelnsd/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "bao-dong-mayday",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

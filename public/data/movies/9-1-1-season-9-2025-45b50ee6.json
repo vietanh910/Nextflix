@@ -9,7 +9,7 @@
   "year": 2025,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 10",
+  "episodeCurrent": "Tập 11",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -117,13 +117,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260827/ETqoaFJJ/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260827/ETqoaFJJ/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260906/HceH5M78/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260906/HceH5M78/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "cuoc-goi-khan-cap-9-1-1-phan-9",
-      "episodeCount": 10,
+      "episodeCount": 11,
       "priority": 1
     }
   ],

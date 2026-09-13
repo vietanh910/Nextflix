@@ -1,0 +1,55 @@
+{
+  "id": "go-team-2026-d3c10b89",
+  "source": "phimapi",
+  "slug": "ca-doi-co-len",
+  "name": "Cả Đội Cố Lên",
+  "originName": "Go Team!",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260912/ca-doi-co-len-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260912/ca-doi-co-len-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Tây Ban Nha",
+      "slug": "tay-ban-nha"
+    }
+  ],
+  "description": "<p>Khi sự kiện xây dựng tinh thần đồng đội bị chuyển xuống một ngôi làng nhỏ, các nhân viên của công ty phô mai tưởng mọi chuyện không thể tệ hơn – cho đến khi hay tin về đợt sa thải.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260911/OXtXOcGI/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260911/OXtXOcGI/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "ca-doi-co-len",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

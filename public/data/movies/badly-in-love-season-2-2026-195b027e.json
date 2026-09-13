@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260807/tinh-yeu-noi-loan-phan-2-thumb.webp",
   "year": 2026,
   "type": "tvshow",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 16",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (20/20)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -161,13 +161,45 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260901/OHA62aCM/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260901/OHA62aCM/index.m3u8"
+    },
+    {
+      "name": "Tập 17",
+      "slug": "tap-17",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260908/X7tuJomh/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260908/X7tuJomh/index.m3u8"
+    },
+    {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260908/6T19g3cv/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260908/6T19g3cv/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260908/iKYmFxu0/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260908/iKYmFxu0/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260908/8YFOq0yP/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260908/8YFOq0yP/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "tinh-yeu-noi-loan-phan-2",
-      "episodeCount": 16,
+      "episodeCount": 20,
       "priority": 1
     }
   ],

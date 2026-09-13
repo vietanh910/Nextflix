@@ -9,7 +9,7 @@
   "year": 2021,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 480",
+  "episodeCurrent": "Tập 482",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -3857,13 +3857,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260905/8CejiCZp/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260905/8CejiCZp/index.m3u8"
+    },
+    {
+      "name": "Tập 481",
+      "slug": "tap-481",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260908/nL7jI7hR/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260908/nL7jI7hR/index.m3u8"
+    },
+    {
+      "name": "Tập 482",
+      "slug": "tap-482",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260912/LT5ZOm28/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260912/LT5ZOm28/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "van-gioi-doc-ton",
-      "episodeCount": 477,
+      "episodeCount": 479,
       "priority": 1
     }
   ],

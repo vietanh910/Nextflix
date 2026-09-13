@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260312-1/1fd77b198bbcfc53b17dd17f75d70899.jpg",
   "year": 2026,
   "type": "anime",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 59",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (60/60)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -521,13 +521,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260903/qhiJvQjI/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260903/qhiJvQjI/index.m3u8"
+    },
+    {
+      "name": "Tập 60",
+      "slug": "tap-60",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260908/TEW0GxQA/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260908/TEW0GxQA/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "dao-yeu-hanh",
-      "episodeCount": 59,
+      "episodeCount": 60,
       "priority": 1
     }
   ],

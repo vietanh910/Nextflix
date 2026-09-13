@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 169",
+  "episodeCurrent": "Tập 170",
   "categories": [
     {
       "name": "Hành Động",
@@ -1385,13 +1385,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260904/9efPLnzN/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260904/9efPLnzN/index.m3u8"
+    },
+    {
+      "name": "Tập 170",
+      "slug": "tap-170",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260911/DZg0JWkz/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260911/DZg0JWkz/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "dau-la-dai-luc-2-tuyet-the-duong-mon",
-      "episodeCount": 169,
+      "episodeCount": 170,
       "priority": 1
     }
   ],

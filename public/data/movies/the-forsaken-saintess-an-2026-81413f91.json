@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 9",
+  "episodeCurrent": "Tập 10",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -101,13 +101,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260831/IXWMqMt3/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260831/IXWMqMt3/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260907/dFe7M10h/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260907/dFe7M10h/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "thanh-nu-bi-ruong-bo-va-chuyen-du-hanh-am-thuc-cua-nang-o-the-gioi-khac",
-      "episodeCount": 9,
+      "episodeCount": 10,
       "priority": 1
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 10",
+  "episodeCurrent": "Tập 11",
   "categories": [
     {
       "name": "Hành Động",
@@ -123,6 +123,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260904/TmFAHRRh/index.m3u8"
     },
     {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260911/d76bfQbt/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260911/d76bfQbt/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Lồng Tiếng",
@@ -201,13 +209,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260904/3RDzPLMu/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260904/3RDzPLMu/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260911/eFhwyRD9/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260911/eFhwyRD9/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "chien-binh-anh-sang-teo",
-      "episodeCount": 20,
+      "episodeCount": 22,
       "priority": 1
     }
   ],

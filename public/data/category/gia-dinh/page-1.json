@@ -5,35 +5,6 @@
   "totalPages": 2,
   "items": [
     {
-      "id": "mr-hero-2026-7ba22ef0",
-      "source": "phimapi",
-      "slug": "anh-hung-2026",
-      "name": "Anh Hùng",
-      "originName": "Mr. Hero",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260821/anh-hung-2026-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260821/anh-hung-2026-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Việt Nam",
-          "slug": "viet-nam"
-        }
-      ]
-    },
-    {
       "id": "let-me-tell-you-dad-2026-3131392a",
       "source": "phimapi",
       "slug": "con-ke-ba-nghe",
@@ -103,7 +74,7 @@
       "id": "doraemon-the-movie-new-n-2026-cd3a77a5",
       "source": "phimapi",
       "slug": "doraemon-nobita-va-lau-dai-duoi-day-bien-phien-ban-moi",
-      "name": "Doraemon: Nobita và Lâu Đài Dưới Đáy Biển (Phiên bản mới)",
+      "name": "Doraemon: Nobita và Lâu Đài Dưới Đáy Biển (Phiên Bản Mới)",
       "originName": "Doraemon the Movie: New Nobita and the Castle of the Undersea Devil",
       "posterUrl": "https://phimimg.com/uploads/movies/20260829/doraemon-nobita-va-lau-dai-duoi-day-bien-phien-ban-moi-poster.webp",
       "thumbUrl": "https://phimimg.com/uploads/movies/20260829/doraemon-nobita-va-lau-dai-duoi-day-bien-phien-ban-moi-thumb.webp",
@@ -137,6 +108,80 @@
       ]
     },
     {
+      "id": "chumbak-2026-a2685097",
+      "source": "phimapi",
+      "slug": "gan-ket",
+      "name": "Gắn Kết",
+      "originName": "Chumbak",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260910/gan-ket-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260910/gan-ket-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 8",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ấn Độ",
+          "slug": "an-do"
+        }
+      ]
+    },
+    {
+      "id": "moana-2026-5fdab42b",
+      "source": "phimapi",
+      "slug": "hanh-trinh-cua-moana-2026",
+      "name": "Hành Trình Của Moana",
+      "originName": "Moana",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260908/hanh-trinh-cua-moana-2026-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260908/hanh-trinh-cua-moana-2026-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "fresh-off-the-sea-season-2026-739f6f57",
       "source": "phimapi",
       "slug": "huong-vi-cua-bien-mua-3",
@@ -147,7 +192,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -207,6 +252,43 @@
       ]
     },
     {
+      "id": "against-the-current-2026-a772f09c",
+      "source": "phimapi",
+      "slug": "lan-huong-nhu-co",
+      "name": "Lan Hương Như Cố",
+      "originName": "Against The Current",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260912/lan-huong-nhu-co-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260912/lan-huong-nhu-co-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 5",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "the-scent-of-pho-2026-918fb906",
       "source": "phimapi",
       "slug": "mui-pho",
@@ -254,7 +336,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 14",
       "categories": [
         {
           "name": "Gia Đình",
@@ -283,7 +365,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -320,7 +402,7 @@
       "year": 2024,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Gia Đình",
@@ -380,55 +462,6 @@
       ]
     },
     {
-      "id": "the-inventor-2023-69523065",
-      "source": "phimapi",
-      "slug": "thien-tai-sang-che",
-      "name": "Thiên Tài Sáng Chế",
-      "originName": "The Inventor",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260823/thien-tai-sang-che-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260823/thien-tai-sang-che-thumb.webp",
-      "year": 2023,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Lịch Sử",
-          "slug": "lich-su"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Pháp",
-          "slug": "phap"
-        },
-        {
-          "name": "Ireland",
-          "slug": "ireland"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Anh",
-          "slug": "anh"
-        }
-      ]
-    },
-    {
       "id": "pil-s-adventures-2021-eec6c676",
       "source": "phimapi",
       "slug": "chuyen-phieu-luu-cua-pil",
@@ -470,35 +503,6 @@
       ]
     },
     {
-      "id": "in-name-of-love-2018-f595c732",
-      "source": "phimapi",
-      "slug": "nhan-danh-tinh-yeu-2018",
-      "name": "Nhân danh tình yêu",
-      "originName": "In Name of Love",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260820/nhan-danh-tinh-yeu-2018-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260820/nhan-danh-tinh-yeu-2018-thumb.webp",
-      "year": 2018,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
       "id": "medical-top-team-2013-8c5158d5",
       "source": "phimapi",
       "slug": "doi-ngu-danh-y",
@@ -528,6 +532,47 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "gogo-sentai-boukenger-th-2006-4d298a99",
+      "source": "phimapi",
+      "slug": "chien-doi-phieu-luu-boukenger-bau-vat-toi-thuong",
+      "name": "Chiến Đội Phiêu Lưu Boukenger: Báu Vật Tối Thượng",
+      "originName": "GoGo Sentai Boukenger The Movie: The Greatest Precious",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260906/chien-doi-phieu-luu-boukenger-bau-vat-toi-thuong-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260906/chien-doi-phieu-luu-boukenger-bau-vat-toi-thuong-thumb.webp",
+      "year": 2006,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -771,39 +816,6 @@
       "posterUrl": "https://phimimg.com/uploads/movies/20260902/ngoi-nha-nho-tren-thao-nguyen-phan-4-poster.webp",
       "thumbUrl": "https://phimimg.com/upload/vod/20231219-1/425bd778dec7d0ce369f06e425aad414.jpg",
       "year": 1977,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (22/22)",
-      "categories": [
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "little-house-on-the-prai-1976-e62f8aca",
-      "source": "phimapi",
-      "slug": "ngoi-nha-nho-tren-thao-nguyen-phan-3",
-      "name": "Ngôi Nhà Nhỏ Trên Thảo Nguyên (Phần 3)",
-      "originName": "Little House On The Prairie (Season 3)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260902/ngoi-nha-nho-tren-thao-nguyen-phan-3-poster.webp",
-      "thumbUrl": "https://phimimg.com/upload/vod/20240924-1/264d853cbb2168889899e82ea655f7b6.jpg",
-      "year": 1976,
       "type": "series",
       "status": "completed",
       "episodeCurrent": "Hoàn Tất (22/22)",

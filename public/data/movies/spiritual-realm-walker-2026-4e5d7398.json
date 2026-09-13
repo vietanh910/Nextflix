@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 3",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -49,13 +49,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260903/NAn6xt13/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260903/NAn6xt13/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260909/ReRc5qFi/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260909/ReRc5qFi/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "linh-canh-hanh-gia",
-      "episodeCount": 2,
+      "episodeCount": 3,
       "priority": 1
     }
   ],

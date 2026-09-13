@@ -1,0 +1,59 @@
+{
+  "id": "vanishing-point-2026-3326c6be",
+  "source": "phimapi",
+  "slug": "nguoi-bien-mat",
+  "name": "Người Biến Mất",
+  "originName": "Vanishing Point",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260910/nguoi-bien-mat-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260910/nguoi-bien-mat-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Bí Ẩn",
+      "slug": "bi-an"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "<p>Một thi thể bị che giấu, một đứa trẻ bị thất lạc và một vụ hành hung chưa có lời giải làm chấn động cả khu chung cư. Ba bi kịch này có mối liên hệ bí ẩn như thế nào?</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260909/k2pDfYAZ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260909/k2pDfYAZ/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "nguoi-bien-mat",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -2,8 +2,115 @@
   "slug": "hinh-su",
   "name": "Hình Sự",
   "page": 2,
-  "totalPages": 2,
+  "totalPages": 3,
   "items": [
+    {
+      "id": "motor-city-2026-59b8abde",
+      "source": "phimapi",
+      "slug": "thanh-pho-dong-co",
+      "name": "Thành Phố Động Cơ",
+      "originName": "Motor City",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260826/thanh-pho-dong-co-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260826/thanh-pho-dong-co-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "above-below-2026-eff2f223",
+      "source": "phimapi",
+      "slug": "troi-cao-bien-sau",
+      "name": "Trời Cao Biển Sâu",
+      "originName": "Above & Below",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260827/troi-cao-bien-sau-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260827/troi-cao-bien-sau-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Tây Ban Nha",
+          "slug": "tay-ban-nha"
+        }
+      ]
+    },
+    {
+      "id": "the-affair-was-just-the--2026-8f3088d7",
+      "source": "phimapi",
+      "slug": "vo-boc-ngoai-tinh-ngoai-tinh-da-nham-nho-gi",
+      "name": "Vỏ Bọc Ngoại Tình (Ngoại Tình Đã Nhằm Nhò Gì)",
+      "originName": "The Affair Was Just The Beginning",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260802/vo-boc-ngoai-tinh-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260802/vo-boc-ngoai-tinh-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
     {
       "id": "9-1-1-season-9-2025-45b50ee6",
       "source": "phimapi",
@@ -15,7 +122,7 @@
       "year": 2025,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -194,76 +301,6 @@
       ]
     },
     {
-      "id": "women-in-blue-season-1-2024-17f04798",
-      "source": "phimapi",
-      "slug": "biet-doi-nu-canh-sat-ao-xanh-phan-1",
-      "name": "Biệt Đội Nữ Cảnh Sát Áo Xanh (Phần 1)",
-      "originName": "Women In Blue (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260821/biet-doi-nu-canh-sat-ao-xanh-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260821/biet-doi-nu-canh-sat-ao-xanh-phan-1-thumb.webp",
-      "year": 2024,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Mexico",
-          "slug": "mexico"
-        }
-      ]
-    },
-    {
-      "id": "9-1-1-season-8-2024-ab3ecb20",
-      "source": "phimapi",
-      "slug": "cuoc-goi-khan-cap-9-1-1-phan-8",
-      "name": "Cuộc Gọi Khẩn Cấp 9-1-1 (Phần 8)",
-      "originName": "9-1-1 (Season 8)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260815/cuoc-goi-khan-cap-9-1-1-phan-8-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260815/cuoc-goi-khan-cap-9-1-1-phan-8-thumb.webp",
-      "year": 2024,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (18/18)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "the-gentlemen-season-1-2024-576dc53f",
       "source": "phimapi",
       "slug": "quy-ong-the-gioi-ngam-phan-1",
@@ -408,80 +445,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "heart-s-motive-2023-f45ab041",
-      "source": "phimapi",
-      "slug": "su-that-cuoi-cung",
-      "name": "Sự Thật Cuối Cùng",
-      "originName": "Heart's Motive",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260823/su-that-cuoi-cung-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260823/su-that-cuoi-cung-thumb.webp",
-      "year": 2023,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "12-hours-2022-6d56773b",
-      "source": "phimapi",
-      "slug": "cuoc-ruot-duoi-tai-cuc-dia",
-      "name": "Cuộc Rượt Đuổi Tại Cực Địa",
-      "originName": "12 Hours",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260823/cuoc-ruot-duoi-tai-cuc-dia-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260823/cuoc-ruot-duoi-tai-cuc-dia-thumb.webp",
-      "year": 2022,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
         }
       ]
     },
@@ -675,39 +638,68 @@
       ]
     },
     {
-      "id": "no-way-for-stumer-2019-fb626933",
+      "id": "sneaky-pete-season-3-2019-4ec36750",
       "source": "phimapi",
-      "slug": "hoi-ket-cua-ke-lam-tien-gia",
-      "name": "Hồi Kết Của Kẻ Làm Tiền Giả",
-      "originName": "No Way For Stumer",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260821/hoi-ket-cua-ke-lam-tien-gia-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260821/hoi-ket-cua-ke-lam-tien-gia-thumb.webp",
+      "slug": "pete-ke-mao-danh-phan-3",
+      "name": "Pete: Kẻ Mạo Danh (Phần 3)",
+      "originName": "Sneaky Pete (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260909/pete-ke-mao-danh-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260909/pete-ke-mao-danh-phan-3-thumb.webp",
       "year": 2019,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (24/24)",
+      "episodeCurrent": "Hoàn Tất (10/10)",
       "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
         {
           "name": "Hình Sự",
           "slug": "hinh-su"
         },
         {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "sneaky-pete-season-2-2018-a2bbc638",
+      "source": "phimapi",
+      "slug": "pete-ke-mao-danh-phan-2",
+      "name": "Pete: Kẻ Mạo Danh (Phần 2)",
+      "originName": "Sneaky Pete (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260909/pete-ke-mao-danh-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260909/pete-ke-mao-danh-phan-2-thumb.webp",
+      "year": 2018,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -782,6 +774,39 @@
       ]
     },
     {
+      "id": "sneaky-pete-season-1-2015-190db7a0",
+      "source": "phimapi",
+      "slug": "pete-ke-mao-danh-phan-1",
+      "name": "Pete: Kẻ Mạo Danh (Phần 1)",
+      "originName": "Sneaky Pete (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260909/pete-ke-mao-danh-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260909/pete-ke-mao-danh-phan-1-thumb.webp",
+      "year": 2015,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "chop-shop-die-autodiebe-2014-98824669",
       "source": "phimapi",
       "slug": "lo-mo-xe",
@@ -811,25 +836,29 @@
       ]
     },
     {
-      "id": "the-man-who-wasn-t-there-2001-ce519499",
+      "id": "duplicity-2009-5d1396ee",
       "source": "phimapi",
-      "slug": "nguoi-dan-ong-vang-mat",
-      "name": "Người Đàn Ông Vắng Mặt",
-      "originName": "The Man Who Wasn't There",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260821/nguoi-dan-ong-vang-mat-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260821/nguoi-dan-ong-vang-mat-thumb.webp",
-      "year": 2001,
+      "slug": "tro-choi-hai-mat",
+      "name": "Trò Chơi Hai Mặt",
+      "originName": "Duplicity",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260913/tro-choi-hai-mat-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260913/tro-choi-hai-mat-thumb.webp",
+      "year": 2009,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
         },
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
         },
         {
           "name": "Tâm Lý",
@@ -838,38 +867,9 @@
       ],
       "countries": [
         {
-          "name": "Anh",
-          "slug": "anh"
+          "name": "Đức",
+          "slug": "duc"
         },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-pink-panther-1963-4c010570",
-      "source": "phimapi",
-      "slug": "diep-vu-bao-hong-1963",
-      "name": "Điệp Vụ Báo Hồng",
-      "originName": "The Pink Panther",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260822/diep-vu-bao-hong-1963-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/diep-vu-bao-hong-1963-thumb.webp",
-      "year": 1963,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        }
-      ],
-      "countries": [
         {
           "name": "Âu Mỹ",
           "slug": "au-my"

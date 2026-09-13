@@ -1,0 +1,55 @@
+{
+  "id": "sana-2023-d461c412",
+  "source": "phimapi",
+  "slug": "kinh-cau-ma",
+  "name": "Kinh Cầu Ma",
+  "originName": "Sana",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260907/kinh-cau-ma-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260907/kinh-cau-ma-thumb.webp",
+  "year": 2023,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    },
+    {
+      "name": "Bí Ẩn",
+      "slug": "bi-an"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Bậc thầy từng lan truyền nỗi sợ châu Á ra toàn thế giới trở lại với chiếc băng cát-xét phát ra kinh cầu ma, triệu hồi những linh hồn hung ác bước đến thế giới hiện đại nhiều góc khuất.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260907/x5URzuib/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260907/x5URzuib/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "kinh-cau-ma",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

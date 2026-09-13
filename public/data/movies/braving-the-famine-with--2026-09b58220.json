@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260831/muon-dam-giang-son-cho-ta-khai-pha-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 19",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (24/24)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -189,13 +189,53 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260906/JtXhoA6s/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260906/JtXhoA6s/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260907/S0qs7VZj/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260907/S0qs7VZj/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260908/GyPdnLu6/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260908/GyPdnLu6/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260909/P1CET3II/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260909/P1CET3II/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260911/UW3TjggP/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260911/UW3TjggP/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260911/BfEkVzX6/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260911/BfEkVzX6/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "muon-dam-giang-son-cho-ta-khai-pha",
-      "episodeCount": 19,
+      "episodeCount": 24,
       "priority": 1
     }
   ],

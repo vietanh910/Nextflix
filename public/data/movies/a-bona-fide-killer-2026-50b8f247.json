@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 12",
+  "episodeCurrent": "Tập 13",
   "categories": [
     {
       "name": "Bí Ẩn",
@@ -143,6 +143,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260905/oL6iLtJH/index.m3u8"
     },
     {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260912/Ucz9XEUN/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260912/Ucz9XEUN/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -237,13 +245,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260905/b5jX9hkV/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260905/b5jX9hkV/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260912/h5av5dJU/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260912/h5av5dJU/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "sat-thu-noi-tro-vo-toi-la-sat-thu",
-      "episodeCount": 24,
+      "episodeCount": 26,
       "priority": 1
     }
   ],

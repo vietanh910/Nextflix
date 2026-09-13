@@ -2,16 +2,218 @@
   "slug": "chinh-kich",
   "name": "Chính Kịch",
   "page": 12,
-  "totalPages": 13,
+  "totalPages": 14,
   "items": [
     {
-      "id": "poltergeist-2015-75f6c3a5",
+      "id": "doctor-x-surgeon-michiko-2016-086f8e10",
       "source": "phimapi",
-      "slug": "ma-quay-pha-4-yeu-tinh-4",
-      "name": "Ma Quậy Phá 4 / Yêu Tinh 4",
-      "originName": "Poltergeist",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260822/ma-quay-pha-4-yeu-tinh-4-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/ma-quay-pha-4-yeu-tinh-4-thumb.webp",
+      "slug": "bac-si-x-ngoai-khoa-daimon-michiko-phan-4",
+      "name": "Bác Sĩ X Ngoại Khoa: Daimon Michiko (Phần 4)",
+      "originName": "Doctor X Surgeon Michiko Daimon (Season 4)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260909/bac-si-x-ngoai-khoa-daimon-michiko-phan-4-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260909/bac-si-x-ngoai-khoa-daimon-michiko-phan-4-thumb.webp",
+      "year": 2016,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (11/11)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-magnificent-seven-2016-1473f87f",
+      "source": "phimapi",
+      "slug": "bay-tay-sung-huyen-thoai",
+      "name": "Bảy Tay Súng Huyền Thoại",
+      "originName": "The Magnificent Seven",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260828/bay-tay-sung-huyen-thoai-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260828/bay-tay-sung-huyen-thoai-thumb.webp",
+      "year": 2016,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Miền Tây",
+          "slug": "mien-tay"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "sijjin-3-the-forbidden-l-2016-7cfcbc6a",
+      "source": "phimapi",
+      "slug": "loi-nguyen-sijjin-3",
+      "name": "Lời Nguyền Sijjin 3",
+      "originName": "Sijjin 3: The Forbidden Love",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260908/loi-nguyen-sijjin-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260908/loi-nguyen-sijjin-3-thumb.webp",
+      "year": 2016,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thổ Nhĩ Kỳ",
+          "slug": "tho-nhi-ky"
+        }
+      ]
+    },
+    {
+      "id": "impractical-jokers-seaso-2016-2e7acdfb",
+      "source": "phimapi",
+      "slug": "nhung-ke-thich-dua-dai-dot-phan-5",
+      "name": "Những Kẻ Thích Đùa Dại Dột (Phần 5)",
+      "originName": "Impractical Jokers (Season 5)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260905/nhung-ke-thich-dua-dai-dot-phan-5-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260905/nhung-ke-thich-dua-dai-dot-phan-5-thumb.webp",
+      "year": 2016,
+      "type": "tvshow",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (18/18)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "ghost-of-relativity-2015-684c348e",
+      "source": "phimapi",
+      "slug": "choi-voi-ma",
+      "name": "Chơi Với Ma",
+      "originName": "Ghost Of Relativity",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260825/choi-voi-ma-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260825/choi-voi-ma-thumb.webp",
+      "year": 2015,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (28/28)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "the-runner-2015-efd6e976",
+      "source": "phimapi",
+      "slug": "ke-tron-chay",
+      "name": "Kẻ Trốn Chạy",
+      "originName": "The Runner",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260904/ke-tron-chay-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260904/ke-tron-chay-thumb.webp",
+      "year": 2015,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "sijjin-2-2015-79cf3f5d",
+      "source": "phimapi",
+      "slug": "loi-nguyen-sijjin-2",
+      "name": "Lời Nguyền Sijjin 2",
+      "originName": "Sijjin 2",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260908/loi-nguyen-sijjin-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260908/loi-nguyen-sijjin-2-thumb.webp",
       "year": 2015,
       "type": "single",
       "status": "completed",
@@ -32,8 +234,74 @@
       ],
       "countries": [
         {
+          "name": "Thổ Nhĩ Kỳ",
+          "slug": "tho-nhi-ky"
+        }
+      ]
+    },
+    {
+      "id": "sneaky-pete-season-1-2015-190db7a0",
+      "source": "phimapi",
+      "slug": "pete-ke-mao-danh-phan-1",
+      "name": "Pete: Kẻ Mạo Danh (Phần 1)",
+      "originName": "Sneaky Pete (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260909/pete-ke-mao-danh-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260909/pete-ke-mao-danh-phan-1-thumb.webp",
+      "year": 2015,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "doctor-x-surgeon-michiko-2014-8be3e687",
+      "source": "phimapi",
+      "slug": "bac-si-x-ngoai-khoa-daimon-michiko-phan-3",
+      "name": "Bác Sĩ X Ngoại Khoa: Daimon Michiko (Phần 3)",
+      "originName": "Doctor X Surgeon Michiko Daimon (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260909/bac-si-x-ngoai-khoa-daimon-michiko-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260909/bac-si-x-ngoai-khoa-daimon-michiko-phan-3-thumb.webp",
+      "year": 2014,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (11/11)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -107,6 +375,76 @@
       ]
     },
     {
+      "id": "hercules-2014-32e9ce16",
+      "source": "phimapi",
+      "slug": "hercules-cuoc-chien-thanh-thrace-huyen-thoai-hercules",
+      "name": "Hercules: Cuộc Chiến Thành Thrace / Huyền Thoại Hercules",
+      "originName": "Hercules",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260911/hercules-cuoc-chien-thanh-thrace-huyen-thoai-hercules-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260911/hercules-cuoc-chien-thanh-thrace-huyen-thoai-hercules-thumb.webp",
+      "year": 2014,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "sijjin-2014-5ccf184a",
+      "source": "phimapi",
+      "slug": "loi-nguyen-sijjin",
+      "name": "Lời Nguyền Sijjin",
+      "originName": "Sijjin",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260908/loi-nguyen-sijjin-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260908/loi-nguyen-sijjin-thumb.webp",
+      "year": 2014,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thổ Nhĩ Kỳ",
+          "slug": "tho-nhi-ky"
+        }
+      ]
+    },
+    {
       "id": "haven-season-5-2014-b0796bfd",
       "source": "phimapi",
       "slug": "thi-tran-haven-phan-5",
@@ -152,6 +490,39 @@
       ]
     },
     {
+      "id": "doctor-x-surgeon-michiko-2013-21e9c255",
+      "source": "phimapi",
+      "slug": "bac-si-x-ngoai-khoa-daimon-michiko-phan-2",
+      "name": "Bác Sĩ X Ngoại Khoa: Daimon Michiko (Phần 2)",
+      "originName": "Doctor X Surgeon Michiko Daimon (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260909/bac-si-x-ngoai-khoa-daimon-michiko-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260909/bac-si-x-ngoai-khoa-daimon-michiko-phan-2-thumb.webp",
+      "year": 2013,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (9/9)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
       "id": "medical-top-team-2013-8c5158d5",
       "source": "phimapi",
       "slug": "doi-ngu-danh-y",
@@ -181,35 +552,6 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "sudden-2013-0f9fe82b",
-      "source": "phimapi",
-      "slug": "dot-bien",
-      "name": "Đột Biến",
-      "originName": "Sudden",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260821/dot-bien-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260821/dot-bien-thumb.webp",
-      "year": 2013,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (20/20)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Singapore",
-          "slug": "singapore"
         }
       ]
     },
@@ -304,6 +646,72 @@
       ]
     },
     {
+      "id": "doctor-x-surgeon-michiko-2012-8c6f4de9",
+      "source": "phimapi",
+      "slug": "bac-si-x-ngoai-khoa-daimon-michiko-phan-1",
+      "name": "Bác Sĩ X Ngoại Khoa: Daimon Michiko (Phần 1)",
+      "originName": "Doctor X Surgeon Michiko Daimon (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260909/bac-si-x-ngoai-khoa-daimon-michiko-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260909/bac-si-x-ngoai-khoa-daimon-michiko-phan-1-thumb.webp",
+      "year": 2012,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "may-queen-2012-1a0f9d67",
+      "source": "phimapi",
+      "slug": "nu-hoang-thang-5",
+      "name": "Nữ Hoàng Tháng 5",
+      "originName": "May Queen",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260906/nu-hoang-thang-5-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260906/nu-hoang-thang-5-thumb.webp",
+      "year": 2012,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (76/76)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
       "id": "haven-season-3-2012-6cd2dc8b",
       "source": "phimapi",
       "slug": "thi-tran-haven-phan-3",
@@ -345,39 +753,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "lights-and-shadows-2011-0bacb615",
-      "source": "phimapi",
-      "slug": "anh-sang-va-bong-toi-hao-quang-nghiet-nga",
-      "name": "Ánh Sáng Và Bóng Tối / Hào Quang Nghiệt Ngã",
-      "originName": "Lights And Shadows",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260819/anh-sang-va-bong-toi-hao-quang-nghiet-nga-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260819/anh-sang-va-bong-toi-hao-quang-nghiet-nga-thumb.webp",
-      "year": 2011,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (66/66)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
         }
       ]
     },
@@ -427,11 +802,11 @@
       ]
     },
     {
-      "id": "three-steps-above-heaven-2010-18b7bd36",
+      "id": "three-steps-above-heaven-2010-10140f7b",
       "source": "phimapi",
-      "slug": "ba-buoc-len-thien-duong",
-      "name": "Ba Bước Lên Thiên Đường",
-      "originName": "Three Steps Above Heaven",
+      "slug": "ba-buoc-len-thien-duong-3-met-phia-tren-bau-troi",
+      "name": "Ba Bước Lên Thiên Đường / 3 Mét Phía Trên Bầu Trời",
+      "originName": "Three Steps Above Heaven / 3 Meters Above The Sky",
       "posterUrl": "https://phimimg.com/uploads/movies/20260903/ba-buoc-len-thien-duong-poster.webp",
       "thumbUrl": "https://phimimg.com/uploads/movies/20260903/ba-buoc-len-thien-duong-thumb.webp",
       "year": 2010,
@@ -498,397 +873,6 @@
           "name": "Canada",
           "slug": "canada"
         },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "running-man-2010-ca3391d1",
-      "source": "phimapi",
-      "slug": "thu-thach-than-tuong",
-      "name": "Thử Thách Thần Tượng",
-      "originName": "Running Man",
-      "posterUrl": "https://phimimg.com/upload/vod/20241017-1/8ce53643bb316f8fb8dc3dddd955f2ce.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20241017-1/65a22ab2e96e79bfedf8ae96d955f72a.jpg",
-      "year": 2010,
-      "type": "tvshow",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 818",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "magic-mobile-phone-seaso-2008-756d5e1a",
-      "source": "phimapi",
-      "slug": "chiec-dien-thoai-than-ky-phan-1",
-      "name": "Chiếc Điện Thoại Thần Kỳ (Phần 1)",
-      "originName": "Magic Mobile Phone (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260905/chiec-dien-thoai-than-ky-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260905/chiec-dien-thoai-than-ky-phan-1-thumb.webp",
-      "year": 2008,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (42/42)",
-      "categories": [
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "dicey-business-2006-4562b609",
-      "source": "phimapi",
-      "slug": "cam-bay-2006",
-      "name": "Cạm Bẫy",
-      "originName": "Dicey Business",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260825/cam-bay-2006-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260825/cam-bay-2006-thumb.webp",
-      "year": 2006,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (35/35)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
-        }
-      ]
-    },
-    {
-      "id": "inland-empire-2006-76ce4913",
-      "source": "phimapi",
-      "slug": "de-che-noi-dia",
-      "name": "Đế Chế Nội Địa",
-      "originName": "Inland Empire",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260903/de-che-noi-dia-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260903/de-che-noi-dia-thumb.webp",
-      "year": 2006,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Pháp",
-          "slug": "phap"
-        },
-        {
-          "name": "Ba Lan",
-          "slug": "ba-lan"
-        }
-      ]
-    },
-    {
-      "id": "the-hard-corps-2005-2938072f",
-      "source": "phimapi",
-      "slug": "can-ve-cu-khoi",
-      "name": "Cận Vệ Cừ Khôi",
-      "originName": "The Hard Corps",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260904/can-ve-cu-khoi-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260904/can-ve-cu-khoi-thumb.webp",
-      "year": 2005,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Romania",
-          "slug": "romania"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-outsiders-2004-921e385c",
-      "source": "phimapi",
-      "slug": "nhung-nga-re-cuoc-doi-dau-ngu",
-      "name": "Những Ngã Rẽ Cuộc Đời / Đấu Ngư",
-      "originName": "The Outsiders",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260824/nhung-nga-re-cuoc-doi-dau-ngu-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260824/nhung-nga-re-cuoc-doi-dau-ngu-thumb.webp",
-      "year": 2004,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (20/20)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Đài Loan",
-          "slug": "dai-loan"
-        }
-      ]
-    },
-    {
-      "id": "the-man-who-wasn-t-there-2001-ce519499",
-      "source": "phimapi",
-      "slug": "nguoi-dan-ong-vang-mat",
-      "name": "Người Đàn Ông Vắng Mặt",
-      "originName": "The Man Who Wasn't There",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260821/nguoi-dan-ong-vang-mat-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260821/nguoi-dan-ong-vang-mat-thumb.webp",
-      "year": 2001,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-legendary-four-aces-2000-2d755a4b",
-      "source": "phimapi",
-      "slug": "tu-dai-tai-tu",
-      "name": "Tứ Đại Tài Tử",
-      "originName": "The Legendary Four Aces",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-      "year": 2000,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (52/52)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
-        }
-      ]
-    },
-    {
-      "id": "with-or-without-you-1999-a41fe6ea",
-      "source": "phimapi",
-      "slug": "co-hay-khong-co",
-      "name": "Có Hay Không Có",
-      "originName": "With Or Without You",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260903/co-hay-khong-co-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260903/co-hay-khong-co-thumb.webp",
-      "year": 1999,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
-        }
-      ]
-    },
-    {
-      "id": "poltergeist-iii-1988-1521daa0",
-      "source": "phimapi",
-      "slug": "ma-quay-pha-3-yeu-tinh-3",
-      "name": "Ma Quậy Phá 3 / Yêu Tinh 3",
-      "originName": "Poltergeist III",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260822/ma-quay-pha-3-yeu-tinh-3-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/ma-quay-pha-3-yeu-tinh-3-thumb.webp",
-      "year": 1988,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "poltergeist-ii-the-other-1986-71dc51da",
-      "source": "phimapi",
-      "slug": "ma-quay-pha-2-yeu-tinh-2",
-      "name": "Ma Quậy Phá 2 / Yêu Tinh 2",
-      "originName": "Poltergeist II: The Other Side",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260822/ma-quay-pha-2-yeu-tinh-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/ma-quay-pha-2-yeu-tinh-2-thumb.webp",
-      "year": 1986,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
         {
           "name": "Âu Mỹ",
           "slug": "au-my"

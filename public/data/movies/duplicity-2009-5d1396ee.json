@@ -1,0 +1,63 @@
+{
+  "id": "duplicity-2009-5d1396ee",
+  "source": "phimapi",
+  "slug": "tro-choi-hai-mat",
+  "name": "Trò Chơi Hai Mặt",
+  "originName": "Duplicity",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260913/tro-choi-hai-mat-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260913/tro-choi-hai-mat-thumb.webp",
+  "year": 2009,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Đức",
+      "slug": "duc"
+    },
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Một cặp đôi nhân viên công ty – vốn đang có quan hệ tình cảm với nhau – vướng vào cuộc cạnh tranh khốc liệt giữa hai tập đoàn dược phẩm khổng lồ.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260912/6i68LiYc/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260912/6i68LiYc/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "tro-choi-hai-mat",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

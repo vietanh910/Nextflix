@@ -9,7 +9,7 @@
   "year": 2024,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 201",
+  "episodeCurrent": "Tập 202",
   "categories": [
     {
       "name": "Hành Động",
@@ -1641,13 +1641,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260905/WjvPJjlZ/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260905/WjvPJjlZ/index.m3u8"
+    },
+    {
+      "name": "Tập 202",
+      "slug": "tap-202",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260908/ZRpxY9I7/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260908/ZRpxY9I7/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "tuyet-the-chien-hon",
-      "episodeCount": 201,
+      "episodeCount": 202,
       "priority": 1
     }
   ],

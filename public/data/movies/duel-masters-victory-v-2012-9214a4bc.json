@@ -9,7 +9,22 @@
   "year": 2012,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "countries": [],
+  "description": "The 8th Duel Masters series.<br>\n<br>\nThis series continues the adventures of Katsuta Kirifuda, Bucyake and Yohdel throughout the school season. They meet new classmates such as Leo to duel against.",
   "episodes": [],
   "sources": [
     {

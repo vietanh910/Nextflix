@@ -5,88 +5,6 @@
   "totalPages": 5,
   "items": [
     {
-      "id": "ever-night-2026-4a38e640",
-      "source": "phimapi",
-      "slug": "tuong-da-3d",
-      "name": "Tương Dạ 3D",
-      "originName": "Ever Night",
-      "posterUrl": "https://phimimg.com/upload/vod/20260423-1/1f987788a47a6b0e4ade3cff648b996a.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260423-1/950380cf1fa0a107247fefbd2b2e2346.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (19/19)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "welcome-to-demon-school--2026-e1e9be8b",
-      "source": "phimapi",
-      "slug": "vao-ma-gioi-roi-day-irumakun-phan-4",
-      "name": "Vào Ma Giới Rồi Đấy! Iruma-kun (Phần 4)",
-      "originName": "Welcome To Demon School! Iruma-kun (Season 4)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260407-1/c4b0b33444924bf81ca7bfe6081e4ef7.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260407-1/d12a54fa0682e1b66ab4c1b0f147b0ab.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 21",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
       "id": "the-oblivious-saint-can--2026-729a4ef0",
       "source": "phimapi",
       "slug": "vi-thanh-vo-tu-khong-the-kiem-che-suc-manh",
@@ -97,7 +15,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Khoa Học",
@@ -179,7 +97,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -265,7 +183,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -429,7 +347,7 @@
       "year": 2025,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 38",
+      "episodeCurrent": "Tập 39",
       "categories": [
         {
           "name": "Khoa Học",
@@ -530,6 +448,47 @@
       ]
     },
     {
+      "id": "the-fix-2024-c064cfe2",
+      "source": "phimapi",
+      "slug": "lieu-thuoc",
+      "name": "Liều Thuốc",
+      "originName": "The Fix",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260911/lieu-thuoc-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260911/lieu-thuoc-thumb.webp",
+      "year": 2024,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nam Phi",
+          "slug": "nam-phi"
+        }
+      ]
+    },
+    {
       "id": "dark-matter-season-1-2024-12ddeb95",
       "source": "phimapi",
       "slug": "nguoi-chay-xuyen-khong-gian-phan-1",
@@ -567,6 +526,84 @@
       ]
     },
     {
+      "id": "the-edge-of-sleep-2024-6fe13647",
+      "source": "phimapi",
+      "slug": "ranh-gioi-cua-giac-ngu",
+      "name": "Ranh Giới Của Giấc Ngủ",
+      "originName": "The Edge Of Sleep",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260909/ranh-gioi-cua-giac-ngu-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260909/ranh-gioi-cua-giac-ngu-thumb.webp",
+      "year": 2024,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (6/6)",
+      "categories": [
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "fantastic-doctors-2023-cb9c7bb8",
+      "source": "phimapi",
+      "slug": "bac-si-phi-pham",
+      "name": "Bác Sĩ Phi Phàm",
+      "originName": "Fantastic Doctors",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260908/bac-si-phi-pham-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260908/bac-si-phi-pham-thumb.webp",
+      "year": 2023,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (16/16)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "the-great-ruler-2023-d5efc3bf",
       "source": "phimapi",
       "slug": "dai-chua-te-3d",
@@ -577,7 +614,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 89",
+      "episodeCurrent": "Tập 90",
       "categories": [
         {
           "name": "Hành Động",
@@ -618,7 +655,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 374",
+      "episodeCurrent": "Tập 376",
       "categories": [
         {
           "name": "Hành Động",
@@ -655,7 +692,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 53",
+      "episodeCurrent": "Tập 54",
       "categories": [
         {
           "name": "Hành Động",
@@ -696,7 +733,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 157",
+      "episodeCurrent": "Tập 158",
       "categories": [
         {
           "name": "Hài Hước",
@@ -719,21 +756,21 @@
       ]
     },
     {
-      "id": "monkey-wrench-2022-559b81fe",
+      "id": "margaux-2022-f5ad04c4",
       "source": "phimapi",
-      "slug": "monkey-wrench",
-      "name": "Monkey Wrench",
-      "originName": "Monkey Wrench",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260821/monkey-wrench-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260821/monkey-wrench-thumb.webp",
+      "slug": "ngoi-nha-sat-nhan",
+      "name": "Ngôi Nhà Sát Nhân",
+      "originName": "Margaux",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260912/ngoi-nha-sat-nhan-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260912/ngoi-nha-sat-nhan-thumb.webp",
       "year": 2022,
-      "type": "anime",
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (5/5)",
+      "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
         },
         {
           "name": "Khoa Học",
@@ -744,26 +781,22 @@
           "slug": "vien-tuong"
         },
         {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
           "name": "Tâm Lý",
           "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
-          "name": "Mỹ",
-          "slug": "my"
+          "name": "Canada",
+          "slug": "canada"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -815,7 +848,7 @@
       "year": 2021,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 285",
+      "episodeCurrent": "Tập 286",
       "categories": [
         {
           "name": "Khoa Học",
@@ -848,7 +881,7 @@
       "year": 2021,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 480",
+      "episodeCurrent": "Tập 482",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -889,7 +922,7 @@
       "year": 2020,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 239",
+      "episodeCurrent": "Tập 240",
       "categories": [
         {
           "name": "Hành Động",
@@ -912,43 +945,6 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "the-society-2019-e2dc1145",
-      "source": "phimapi",
-      "slug": "xa-hoi",
-      "name": "Xã Hội",
-      "originName": "The Society",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260822/xa-hoi-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/xa-hoi-thumb.webp",
-      "year": 2019,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     }

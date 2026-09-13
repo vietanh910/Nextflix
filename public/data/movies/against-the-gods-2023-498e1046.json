@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 53",
+  "episodeCurrent": "Tập 54",
   "categories": [
     {
       "name": "Hành Động",
@@ -465,13 +465,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260903/B4JJG2WT/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260903/B4JJG2WT/index.m3u8"
+    },
+    {
+      "name": "Tập 54",
+      "slug": "tap-54",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260909/bOZKerUe/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260909/bOZKerUe/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nghich-thien-ta-than",
-      "episodeCount": 53,
+      "episodeCount": 54,
       "priority": 1
     }
   ],

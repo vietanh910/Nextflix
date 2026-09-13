@@ -9,7 +9,22 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "countries": [],
+  "description": "Fifteen years before the events of Magi, a brave and handsome young man named Sinbad set sail and started his adventure. The future High King of Seven Seas gradually matured through various encounters and farewells, taking him towards kingship step by step.<br>\n<br>\n(Source: Anime News Network)",
   "episodes": [],
   "sources": [
     {
