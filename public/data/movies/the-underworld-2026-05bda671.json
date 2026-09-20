@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260904/nguoi-quyet-dinh-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 22",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (26/26)",
   "categories": [
     {
       "name": "Hình Sự",
@@ -213,13 +213,45 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260911/yqooKDWR/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260911/yqooKDWR/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260913/QaRDhQqZ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260913/QaRDhQqZ/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260913/G80KJHa7/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260913/G80KJHa7/index.m3u8"
+    },
+    {
+      "name": "Tập 25",
+      "slug": "tap-25",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260914/gXeJchDX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260914/gXeJchDX/index.m3u8"
+    },
+    {
+      "name": "Tập 26",
+      "slug": "tap-26",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260915/IPtfRKgs/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260915/IPtfRKgs/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nguoi-quyet-dinh",
-      "episodeCount": 22,
+      "episodeCount": 26,
       "priority": 1
     }
   ],

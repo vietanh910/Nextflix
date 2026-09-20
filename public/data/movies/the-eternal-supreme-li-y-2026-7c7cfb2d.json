@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 17",
+  "episodeCurrent": "Tập 20",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -169,13 +169,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260907/lInljTwf/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260907/lInljTwf/index.m3u8"
+    },
+    {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260914/KBHSeJnV/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260914/KBHSeJnV/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260919/Sef8tMK7/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260919/Sef8tMK7/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260919/pbhr9pwr/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260919/pbhr9pwr/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "van-co-chi-ton-ly-van-tieu-truyen",
-      "episodeCount": 17,
+      "episodeCount": 20,
       "priority": 1
     }
   ],

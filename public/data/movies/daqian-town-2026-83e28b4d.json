@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 11",
+  "episodeCurrent": "Tập 17",
   "categories": [
     {
       "name": "Phiêu Lưu",
@@ -117,13 +117,61 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260828/VosgXsD5/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260828/VosgXsD5/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260916/cyBcTyTj/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260916/cyBcTyTj/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260916/3Cb13phG/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260916/3Cb13phG/index.m3u8"
+    },
+    {
+      "name": "Tập 14",
+      "slug": "tap-14",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260916/jlyeMrQZ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260916/jlyeMrQZ/index.m3u8"
+    },
+    {
+      "name": "Tập 15",
+      "slug": "tap-15",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260916/1de2HmnZ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260916/1de2HmnZ/index.m3u8"
+    },
+    {
+      "name": "Tập 16",
+      "slug": "tap-16",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260918/acMCcqIl/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260918/acMCcqIl/index.m3u8"
+    },
+    {
+      "name": "Tập 17",
+      "slug": "tap-17",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260918/HaDX2BTn/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260918/HaDX2BTn/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "dai-thien-tieu-tran",
-      "episodeCount": 11,
+      "episodeCount": 17,
       "priority": 1
     }
   ],

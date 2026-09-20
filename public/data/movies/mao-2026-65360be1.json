@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260407-1/e848f6fcf159dd1ba4b6865bbc46616b.jpg",
   "year": 2026,
   "type": "anime",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 23",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (24/24)",
   "categories": [
     {
       "name": "Hành Động",
@@ -225,13 +225,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260907/rMNP79ZF/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260907/rMNP79ZF/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260914/xEJT3DQe/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260914/xEJT3DQe/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "mao",
-      "episodeCount": 23,
+      "episodeCount": 24,
       "priority": 1
     }
   ],

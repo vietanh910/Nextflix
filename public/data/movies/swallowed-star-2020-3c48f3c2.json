@@ -9,7 +9,7 @@
   "year": 2020,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 240",
+  "episodeCurrent": "Tập 241",
   "categories": [
     {
       "name": "Hành Động",
@@ -1957,13 +1957,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260907/wdB91e2v/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260907/wdB91e2v/index.m3u8"
+    },
+    {
+      "name": "Tập 241",
+      "slug": "tap-241",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260914/re9lUryk/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260914/re9lUryk/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "thon-phe-tinh-khong",
-      "episodeCount": 240,
+      "episodeCount": 241,
       "priority": 1
     }
   ],

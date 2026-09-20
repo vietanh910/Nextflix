@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 12",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -109,13 +109,45 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260830/K2dum3tX/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260830/K2dum3tX/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260914/Q7nnyaDt/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260914/Q7nnyaDt/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260914/On1ghhcE/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260914/On1ghhcE/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260912/DWVuNUZK/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260912/DWVuNUZK/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260919/aeNerdBQ/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260919/aeNerdBQ/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "kabushikigaisha-magi-lumiere-ss2",
-      "episodeCount": 8,
+      "episodeCount": 12,
       "priority": 1
     }
   ],

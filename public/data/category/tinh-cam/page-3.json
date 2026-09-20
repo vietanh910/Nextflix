@@ -2,54 +2,17 @@
   "slug": "tinh-cam",
   "name": "Tình Cảm",
   "page": 3,
-  "totalPages": 3,
+  "totalPages": 4,
   "items": [
     {
-      "id": "romance-in-the-alley-2024-02bf1f5c",
+      "id": "kill-lover-2025-57c96950",
       "source": "phimapi",
-      "slug": "nguoi-trong-ngo-nho-tieu-hang-nhan-gia",
-      "name": "Người Trong Ngõ Nhỏ / Tiểu Hạng Nhân Gia",
-      "originName": "Romance In The Alley",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260826/nguoi-trong-ngo-nho-tieu-hang-nhan-gia-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260826/nguoi-trong-ngo-nho-tieu-hang-nhan-gia-thumb.webp",
-      "year": 2024,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (40/40)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "beauty-in-black-season-1-2024-a3b737cb",
-      "source": "phimapi",
-      "slug": "sac-den-huyen-dieu-phan-1",
-      "name": "Sắc Đen Huyền Diệu (Phần 1)",
-      "originName": "Beauty In Black (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20250308-1/f4a3c0da21ede09ca7c7c49535d49ba7.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250308-1/8ca769a25825dcafd1663e7753082b22.jpg",
-      "year": 2024,
+      "slug": "tinh-yeu-gia-tao",
+      "name": "Tình Yêu Giả Tạo",
+      "originName": "Kill Lover",
+      "posterUrl": "https://phimimg.com/upload/vod/20250504-1/3c1b0e320bdb203d97700b3e2da43a9c.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250504-1/936cc301de56a847852f406c9a94187a.jpg",
+      "year": 2025,
       "type": "series",
       "status": "completed",
       "episodeCurrent": "Hoàn Tất (16/16)",
@@ -69,8 +32,132 @@
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "strobe-edge-season-1-2025-31a14849",
+      "source": "phimapi",
+      "slug": "tinh-yeu-lap-lanh-phan-1",
+      "name": "Tình Yêu Lấp Lánh (Phần 1)",
+      "originName": "Strobe Edge (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260909/tinh-yeu-lap-lanh-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260909/tinh-yeu-lap-lanh-phan-1-thumb.webp",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (6/6)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-earliest-spring-in-t-2025-f6fd007a",
+      "source": "phimapi",
+      "slug": "ve-lai-thanh-xuan",
+      "name": "Vẽ Lại Thanh Xuân",
+      "originName": "The Earliest Spring In The World / Drawing From Your Memory",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260918/ve-lai-thanh-xuan-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260918/ve-lai-thanh-xuan-thumb.webp",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (9/9)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "you-want-me-to-steal-you-2023-1233cb43",
+      "source": "phimapi",
+      "slug": "cam-do-noi-cong-so",
+      "name": "Cám Dỗ Nơi Công Sở",
+      "originName": "You Want Me To Steal You",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260917/cam-do-noi-cong-so-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260917/cam-do-noi-cong-so-thumb.webp",
+      "year": 2023,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (7/7)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "lust-stories-2-2023-b5e98a0e",
+      "source": "phimapi",
+      "slug": "chuyen-duc-vong-2",
+      "name": "Chuyện Dục Vọng 2",
+      "originName": "Lust Stories 2",
+      "posterUrl": "https://phimimg.com/upload/vod/20251205-1/494f520be16d70534a99eed0d05c2c58.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251205-1/a07f16238c1b8929bd54e7e2d746998e.jpg",
+      "year": 2023,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ấn Độ",
+          "slug": "an-do"
         }
       ]
     },
@@ -174,25 +261,29 @@
       ]
     },
     {
-      "id": "love-class-season-1-2022-57df0820",
+      "id": "soulmate-2023-54a1004a",
       "source": "phimapi",
-      "slug": "lop-hoc-tinh-yeu-phan-1",
-      "name": "Lớp Học Tình Yêu (Phần 1)",
-      "originName": "Love Class (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20240118-1/c56d16b4e146eaa95814058b2e12be8f.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20240118-1/1a7987beb452d20d3c44279f25f12238.jpg",
-      "year": 2022,
-      "type": "series",
+      "slug": "tri-ky",
+      "name": "Tri Kỷ",
+      "originName": "Soulmate",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260919/tri-ky-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260919/tri-ky-thumb.webp",
+      "year": 2023,
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (6/6)",
+      "episodeCurrent": "Full",
       "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
         {
           "name": "Tình Cảm",
           "slug": "tinh-cam"
         },
         {
-          "name": "Học Đường",
-          "slug": "hoc-duong"
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
@@ -273,6 +364,72 @@
       ]
     },
     {
+      "id": "love-under-the-moon-2021-c656bf39",
+      "source": "phimapi",
+      "slug": "anh-trang-khong-hieu-long-toi",
+      "name": "Ánh Trăng Không Hiểu Lòng Tôi",
+      "originName": "Love Under The Moon",
+      "posterUrl": "https://phimimg.com/upload/vod/20240615-1/c72b8069ded9afa6fb5160021364f0d3.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240615-1/540037563675820dcc798c47f6e829d6.jpg",
+      "year": 2021,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (48/48)",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "my-fated-boy-2021-68562b3e",
+      "source": "phimapi",
+      "slug": "hang-xom-cua-toi-khong-chiu-lon",
+      "name": "Hàng Xóm Của Tôi Không Chịu Lớn",
+      "originName": "My Fated Boy",
+      "posterUrl": "https://phimimg.com/upload/vod/20250505-1/dea27cef88786f7cb0b8dabace16754e.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250505-1/08ec60d3ad37019754a8af97f0d1dddf.jpg",
+      "year": 2021,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (29/29)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "shuke-and-peach-blossom-2021-92dbd76e",
       "source": "phimapi",
       "slug": "so-dao-hoa-cua-thu-khac",
@@ -335,95 +492,21 @@
       ]
     },
     {
-      "id": "well-intended-love-seaso-2020-25abe135",
+      "id": "lust-stories-2018-d6cbcaaf",
       "source": "phimapi",
-      "slug": "tai-sao-boss-muon-cuoi-toi-phan-2",
-      "name": "Tại Sao Boss Muốn Cưới Tôi (Phần 2)",
-      "originName": "Well Intended Love (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260826/tai-sao-boss-muon-cuoi-toi-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260826/tai-sao-boss-muon-cuoi-toi-phan-2-thumb.webp",
-      "year": 2020,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (16/16)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "your-eyes-tell-2020-82b93e85",
-      "source": "phimapi",
-      "slug": "thanh-am-trong-mat-em",
-      "name": "Thanh Âm Trong Mắt Em",
-      "originName": "Your Eyes Tell",
-      "posterUrl": "https://phimimg.com/upload/vod/20231130-1/03c8816901569100cce9a7bb2a9a6707.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20231130-1/3f091051b361668db0fc41b5b16c3572.jpg",
-      "year": 2020,
+      "slug": "chuyen-duc-vong",
+      "name": "Chuyện Dục Vọng",
+      "originName": "Lust Stories",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260918/chuyen-duc-vong-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260918/chuyen-duc-vong-thumb.webp",
+      "year": 2018,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "well-intended-love-seaso-2019-84c000d4",
-      "source": "phimapi",
-      "slug": "tai-sao-boss-muon-cuoi-toi-phan-1",
-      "name": "Tại Sao Boss Muốn Cưới Tôi (Phần 1)",
-      "originName": "Well Intended Love (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260826/tai-sao-boss-muon-cuoi-toi-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260826/tai-sao-boss-muon-cuoi-toi-phan-1-thumb.webp",
-      "year": 2019,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (20/20)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
         },
         {
           "name": "Tình Cảm",
@@ -432,8 +515,8 @@
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Ấn Độ",
+          "slug": "an-do"
         }
       ]
     },
@@ -660,47 +743,14 @@
       ]
     },
     {
-      "id": "the-outsiders-2004-921e385c",
+      "id": "closer-to-heaven-2009-00a9f7d0",
       "source": "phimapi",
-      "slug": "nhung-nga-re-cuoc-doi-dau-ngu",
-      "name": "Những Ngã Rẽ Cuộc Đời / Đấu Ngư",
-      "originName": "The Outsiders",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260824/nhung-nga-re-cuoc-doi-dau-ngu-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260824/nhung-nga-re-cuoc-doi-dau-ngu-thumb.webp",
-      "year": 2004,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (20/20)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Đài Loan",
-          "slug": "dai-loan"
-        }
-      ]
-    },
-    {
-      "id": "with-or-without-you-1999-a41fe6ea",
-      "source": "phimapi",
-      "slug": "co-hay-khong-co",
-      "name": "Có Hay Không Có",
-      "originName": "With Or Without You",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260903/co-hay-khong-co-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260903/co-hay-khong-co-thumb.webp",
-      "year": 1999,
+      "slug": "vuon-toi-thien-dang",
+      "name": "Vươn Tới Thiên Đàng",
+      "originName": "Closer To Heaven",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260915/vuon-toi-thien-dang-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260915/vuon-toi-thien-dang-thumb.webp",
+      "year": 2009,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
@@ -720,20 +770,20 @@
       ],
       "countries": [
         {
-          "name": "Anh",
-          "slug": "anh"
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
     {
-      "id": "tricky-brains-1991-3a95483f",
+      "id": "sad-movie-2005-4265ec97",
       "source": "phimapi",
-      "slug": "chuyen-gia-xao-quyet",
-      "name": "Chuyên Gia Xảo Quyệt",
-      "originName": "Tricky Brains",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260713/chuyen-gia-xao-quyet-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260713/chuyen-gia-xao-quyet-thumb.webp",
-      "year": 1991,
+      "slug": "chuyen-tinh-buon",
+      "name": "Chuyện Tình Buồn",
+      "originName": "Sad Movie",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260915/chuyen-tinh-buon-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260915/chuyen-tinh-buon-thumb.webp",
+      "year": 2005,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
@@ -743,8 +793,8 @@
           "slug": "hai-huoc"
         },
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Tình Cảm",
@@ -753,49 +803,8 @@
       ],
       "countries": [
         {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
-        }
-      ]
-    },
-    {
-      "id": "weird-science-1985-d361697e",
-      "source": "phimapi",
-      "slug": "khoa-hoc-ky-quai",
-      "name": "Khoa Học Kỳ Quái",
-      "originName": "Weird Science",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260829/khoa-hoc-ky-quai-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260829/khoa-hoc-ky-quai-thumb.webp",
-      "year": 1985,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     }

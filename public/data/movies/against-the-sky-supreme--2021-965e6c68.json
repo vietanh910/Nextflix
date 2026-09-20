@@ -9,7 +9,7 @@
   "year": 2021,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 547",
+  "episodeCurrent": "Tập 550",
   "categories": [
     {
       "name": "Cổ Trang",
@@ -4369,13 +4369,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260907/fXHDwYm4/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260907/fXHDwYm4/index.m3u8"
+    },
+    {
+      "name": "Tập 548",
+      "slug": "tap-548",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260911/RhZrtVkL/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260911/RhZrtVkL/index.m3u8"
+    },
+    {
+      "name": "Tập 549",
+      "slug": "tap-549",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260914/O64KBIKb/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260914/O64KBIKb/index.m3u8"
+    },
+    {
+      "name": "Tập 550",
+      "slug": "tap-550",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260918/XoRdKU2V/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260918/XoRdKU2V/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nghich-thien-chi-ton",
-      "episodeCount": 542,
+      "episodeCount": 545,
       "priority": 1
     }
   ],

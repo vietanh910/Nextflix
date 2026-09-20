@@ -1,0 +1,51 @@
+{
+  "id": "the-mongoose-2026-d2e24548",
+  "source": "phimapi",
+  "slug": "cay-mangut",
+  "name": "Cầy Mangut",
+  "originName": "The Mongoose",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260914/cay-mangut-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260914/cay-mangut-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Một anh hùng chiến tranh bị buộc tội sai và không còn gì để mất đã dẫn cảnh sát vào một cuộc rượt đuổi bằng ô tô xuyên quốc gia trên truyền hình hoành tráng, được các thành viên trong tiểu đoàn Quân đội Lực lượng Đặc biệt cũ của anh ta giúp đỡ và được theo dõi chặt chẽ bởi một cộng đồng mê mẩn tìm kiếm nơi nghỉ ngơi an toàn cho anh ta.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260914/yAAQbzCl/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260914/yAAQbzCl/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "cay-mangut",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

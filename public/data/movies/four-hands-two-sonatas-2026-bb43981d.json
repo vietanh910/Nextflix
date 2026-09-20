@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 7",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -69,13 +69,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260912/EqOVkLLz/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260912/EqOVkLLz/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260913/p4I2oX1M/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260913/p4I2oX1M/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260919/lYvf0FFn/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260919/lYvf0FFn/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "bon-ban-tay-hai-ban-sonata",
-      "episodeCount": 5,
+      "episodeCount": 7,
       "priority": 1
     }
   ],

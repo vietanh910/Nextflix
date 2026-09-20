@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 157",
+  "episodeCurrent": "Tập 158",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -1295,6 +1295,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260906/0g7dq1s2/index.m3u8"
     },
     {
+      "name": "Tập 158",
+      "slug": "tap-158",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260914/vDxAVFdr/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260914/vDxAVFdr/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -2155,7 +2163,7 @@
     {
       "source": "phimapi",
       "slug": "tien-nghich",
-      "episodeCount": 264,
+      "episodeCount": 265,
       "priority": 1
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 21",
+  "episodeCurrent": "Tập 22",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -147,8 +147,8 @@
       "slug": "tap-14",
       "serverName": "Vietsub",
       "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260719/AV95CADY/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260719/AV95CADY/index.m3u8"
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260913/5f8yH41J/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260913/5f8yH41J/index.m3u8"
     },
     {
       "name": "Tập 15",
@@ -205,13 +205,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260912/lhFS0hwF/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260912/lhFS0hwF/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260919/0n58GuEp/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260919/0n58GuEp/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "co-nang-mot-sach",
-      "episodeCount": 21,
+      "episodeCount": 22,
       "priority": 1
     }
   ],

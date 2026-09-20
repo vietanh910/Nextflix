@@ -9,7 +9,7 @@
   "year": 2024,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 211",
+  "episodeCurrent": "Tập 215",
   "categories": [
     {
       "name": "Hành Động",
@@ -1725,13 +1725,45 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260901/4TQJpj1m/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260901/4TQJpj1m/index.m3u8"
+    },
+    {
+      "name": "Tập 212",
+      "slug": "tap-212",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260913/Ks8xW845/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260913/Ks8xW845/index.m3u8"
+    },
+    {
+      "name": "Tập 213",
+      "slug": "tap-213",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260913/smUpP0Qu/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260913/smUpP0Qu/index.m3u8"
+    },
+    {
+      "name": "Tập 214",
+      "slug": "tap-214",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260913/JT9jD5K3/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260913/JT9jD5K3/index.m3u8"
+    },
+    {
+      "name": "Tập 215",
+      "slug": "tap-215",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260915/2QD28E0g/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260915/2QD28E0g/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "dai-luc-linh-vo",
-      "episodeCount": 211,
+      "episodeCount": 215,
       "priority": 1
     }
   ],

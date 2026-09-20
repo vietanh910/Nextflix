@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260406-1/5b01bfa978886e99a559d3a0d9b8940e.jpg",
   "year": 2026,
   "type": "anime",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 23",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (24/24)",
   "categories": [
     {
       "name": "Hành Động",
@@ -227,6 +227,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260912/czg8jXTC/index.m3u8"
     },
     {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260919/MS8yt1Oo/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260919/MS8yt1Oo/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Lồng Tiếng",
@@ -345,13 +353,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260912/uMgYQaVs/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260912/uMgYQaVs/index.m3u8"
+    },
+    {
+      "name": "Tập 16",
+      "slug": "tap-16",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260919/OEv6ejeQ/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260919/OEv6ejeQ/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "song-menh-coi-hoang-tuyen",
-      "episodeCount": 38,
+      "episodeCount": 40,
       "priority": 1
     }
   ],

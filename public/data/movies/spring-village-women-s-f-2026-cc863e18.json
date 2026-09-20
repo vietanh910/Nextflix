@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 6",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -61,13 +61,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260911/p5vylLvO/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260911/p5vylLvO/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260917/D7dbiVdH/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260917/D7dbiVdH/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260918/tEwE7b3K/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260918/tEwE7b3K/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "doi-bong-nu-lang-xuan",
-      "episodeCount": 4,
+      "episodeCount": 6,
       "priority": 1
     }
   ],

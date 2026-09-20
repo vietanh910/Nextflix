@@ -1,0 +1,55 @@
+{
+  "id": "beautiful-2008-7558f184",
+  "source": "phimapi",
+  "slug": "dep",
+  "name": "Đẹp",
+  "originName": "Beautiful",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260915/dep-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260915/dep-thumb.webp",
+  "year": 2008,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Bí Ẩn",
+      "slug": "bi-an"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "<p>Eun-young là một người phụ nữ mang bi kịch từ chính nhan sắc tuyệt mỹ của mình. Dù đi đến đâu, cô cũng phải chịu đựng những ánh nhìn si mê không mong muốn từ đàn ông và sự đố kỵ, ganh ghét từ phụ nữ. Cho đến một ngày, một kẻ bám đuôi biến thái đã đột nhập và xâm hại không gian riêng tư của cô.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260915/7qfEUxj1/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260915/7qfEUxj1/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "dep",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

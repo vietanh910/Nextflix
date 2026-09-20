@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 22",
+  "episodeCurrent": "Tập 23",
   "categories": [
     {
       "name": "Hài Hước",
@@ -223,6 +223,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260911/alUT63cy/index.m3u8"
     },
     {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260918/kG9z7OrQ/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260918/kG9z7OrQ/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Lồng Tiếng",
@@ -325,13 +333,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260911/66W12pfP/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260911/66W12pfP/index.m3u8"
+    },
+    {
+      "name": "Tập 14",
+      "slug": "tap-14",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260918/Ttwf052L/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260918/Ttwf052L/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4",
-      "episodeCount": 35,
+      "episodeCount": 37,
       "priority": 1
     }
   ],

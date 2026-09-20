@@ -1,0 +1,55 @@
+{
+  "id": "301-302-1995-9b41814d",
+  "source": "phimapi",
+  "slug": "phong-301-302",
+  "name": "Phòng 301, 302",
+  "originName": "301/302",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260915/phong-301-302-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260915/phong-301-302-thumb.webp",
+  "year": 1995,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    },
+    {
+      "name": "Bí Ẩn",
+      "slug": "bi-an"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "<p>Hai người phụ nữ mắc chứng rối loạn ám ảnh cưỡng chế — một nữ đầu bếp cuồng ăn và một nhà văn mắc chứng biếng ăn — sống đối diện nhau trong cùng một chung cư. Người phụ nữ ở phòng 301 liên tục chế biến những món ăn thịnh soạn nhằm dụ dỗ người hàng xóm ăn uống. Ngược lại, nhà văn ở phòng 302 kiên quyết từ chối thực phẩm, và sự cự tuyệt này khởi đầu cho một mối quan hệ đầy sóng gió, buộc cả hai phải đối mặt với những quá khứ đau thương, bị chôn giấu của mình.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260915/1pQ15O82/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260915/1pQ15O82/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "phong-301-302",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

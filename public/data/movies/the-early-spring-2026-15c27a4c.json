@@ -393,13 +393,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260910/PdZ85hGj/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260910/PdZ85hGj/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260914/TlO9MhMm/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260914/TlO9MhMm/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260914/b1YAFhCk/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260914/b1YAFhCk/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260915/rXQklQ17/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260915/rXQklQ17/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "dau-xuan-tuoi-sang",
-      "episodeCount": 45,
+      "episodeCount": 48,
       "priority": 1
     }
   ],

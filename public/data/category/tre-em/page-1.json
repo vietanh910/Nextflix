@@ -5,43 +5,6 @@
   "totalPages": 1,
   "items": [
     {
-      "id": "danny-go-season-2-2026-2cb69c07",
-      "source": "phimapi",
-      "slug": "danny-go-phan-2",
-      "name": "Danny Go! (Phần 2)",
-      "originName": "Danny Go! (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260831/danny-go-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260831/danny-go-phan-2-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (6/6)",
-      "categories": [
-        {
-          "name": "Trẻ Em",
-          "slug": "tre-em"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "star-detective-precure-2026-99cb3f38",
       "source": "phimapi",
       "slug": "meitantei-precure",
@@ -52,7 +15,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 32",
+      "episodeCurrent": "Tập 33",
       "categories": [
         {
           "name": "Hài Hước",
@@ -138,7 +101,7 @@
       "year": 2025,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 45",
+      "episodeCurrent": "Tập 46",
       "categories": [
         {
           "name": "Hành Động",
@@ -165,6 +128,47 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "dog-man-2025-948a3b27",
+      "source": "phimapi",
+      "slug": "sieu-canh-khuyen",
+      "name": "Siêu Cảnh Khuyển",
+      "originName": "Dog Man",
+      "posterUrl": "https://phimimg.com/upload/vod/20250512-1/8fc7e83b01f3513e1a4221f1209377ac.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250512-1/0b3b6767532eda0429ba8fc48c4b81b9.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -445,39 +449,6 @@
         {
           "name": "Anh",
           "slug": "anh"
-        }
-      ]
-    },
-    {
-      "id": "danny-go-season-1-2019-c6e8d0a5",
-      "source": "phimapi",
-      "slug": "danny-go-phan-1",
-      "name": "Danny Go! (Phần 1)",
-      "originName": "Danny Go! (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260831/danny-go-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260406-1/9ec2a74b05058fb3980e7f0419585bae.jpg",
-      "year": 2019,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (5/5)",
-      "categories": [
-        {
-          "name": "Trẻ Em",
-          "slug": "tre-em"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     },

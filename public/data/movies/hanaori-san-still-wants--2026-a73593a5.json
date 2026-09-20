@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 10",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -101,13 +101,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260901/dcnoMVlJ/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260901/dcnoMVlJ/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260914/3clQlrl2/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260914/3clQlrl2/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260914/0mdB72H3/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260914/0mdB72H3/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "hanaori-san-wa-tensei-shitemo-kenka-ga-shitai",
-      "episodeCount": 8,
+      "episodeCount": 10,
       "priority": 1
     }
   ],

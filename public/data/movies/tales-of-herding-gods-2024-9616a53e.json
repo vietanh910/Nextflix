@@ -9,7 +9,7 @@
   "year": 2024,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 99",
+  "episodeCurrent": "Tập 100",
   "categories": [
     {
       "name": "Phiêu Lưu",
@@ -823,6 +823,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260906/DxTpMq1T/index.m3u8"
     },
     {
+      "name": "Tập 100",
+      "slug": "tap-100",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260913/x4R1HAQ7/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260913/x4R1HAQ7/index.m3u8"
+    },
+    {
       "name": "Tập 1",
       "slug": "tap-1",
       "serverName": "Thuyết Minh",
@@ -1555,7 +1563,7 @@
     {
       "source": "phimapi",
       "slug": "muc-than-ky",
-      "episodeCount": 190,
+      "episodeCount": 191,
       "priority": 1
     }
   ],

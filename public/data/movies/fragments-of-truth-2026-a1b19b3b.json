@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 10",
   "categories": [
     {
       "name": "Hình Sự",
@@ -75,6 +75,46 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260910/ZD8S3PEK/index.m3u8"
     },
     {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260916/dW5t5VdM/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260916/dW5t5VdM/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260916/EkSBABRk/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260916/EkSBABRk/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260916/M596bxck/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260916/M596bxck/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260916/3SkfgCdd/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260916/3SkfgCdd/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260916/0WpkhRC4/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260916/0WpkhRC4/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -95,7 +135,7 @@
     {
       "source": "phimapi",
       "slug": "hien-truong-san-an",
-      "episodeCount": 7,
+      "episodeCount": 12,
       "priority": 1
     }
   ],

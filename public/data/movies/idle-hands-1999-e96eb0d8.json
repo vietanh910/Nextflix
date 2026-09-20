@@ -1,0 +1,59 @@
+{
+  "id": "idle-hands-1999-e96eb0d8",
+  "source": "phimapi",
+  "slug": "ban-tay-quy",
+  "name": "Bàn Tay Quỷ",
+  "originName": "Idle Hands",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260914/ban-tay-quy-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260914/ban-tay-quy-thumb.webp",
+  "year": 1999,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Anton là một cậu thiếu niên 17 tuổi lười biếng, hài hước nhưng hoàn toàn không có chút tham vọng nào. Cuộc sống của cậu chỉ xoay quanh việc phê cần, xem truyền hình và thầm thương tơ tưởng Molly — cô bạn nhà bên xinh đẹp. Tuy nhiên, hóa ra câu ngạn ngữ cổ \"nhàn cư vi bất thiện\" (bàn tay rảnh rỗi là nơi quỷ dữ dạo chơi) lại ẩn chứa một phần sự thật kinh hoàng.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260914/w7yc7lyM/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260914/w7yc7lyM/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "ban-tay-quy",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

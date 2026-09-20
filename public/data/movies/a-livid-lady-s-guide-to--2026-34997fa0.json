@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 10",
+  "episodeCurrent": "Tập 11",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -125,13 +125,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260907/pZTepFws/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260907/pZTepFws/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260915/MO9895oF/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260915/MO9895oF/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "huong-dan-tra-thu-cua-mot-quy-ba-tuc-gian",
-      "episodeCount": 10,
+      "episodeCount": 11,
       "priority": 1
     }
   ],

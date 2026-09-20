@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260907/quan-san-yeu-cuu-pham-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 16",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (24/24)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -161,13 +161,77 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260912/cCqnUR9i/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260912/cCqnUR9i/index.m3u8"
+    },
+    {
+      "name": "Tập 17",
+      "slug": "tap-17",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260913/XwDv3AoD/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260913/XwDv3AoD/index.m3u8"
+    },
+    {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260913/EnSZrSiR/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260913/EnSZrSiR/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260914/6excWViU/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260914/6excWViU/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260915/tELS4oOC/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260915/tELS4oOC/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260917/5H70DLX0/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260917/5H70DLX0/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260917/ioT9S8OU/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260917/ioT9S8OU/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260918/MNS6rlih/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260918/MNS6rlih/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260919/FMa38bOb/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260919/FMa38bOb/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "quan-san-yeu-cuu-pham",
-      "episodeCount": 16,
+      "episodeCount": 24,
       "priority": 1
     }
   ],

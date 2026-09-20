@@ -211,24 +211,24 @@
       "slug": "tap-22",
       "serverName": "Vietsub",
       "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260912/dutWQu56/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260912/dutWQu56/index.m3u8"
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260914/4o7kG3e8/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260914/4o7kG3e8/index.m3u8"
     },
     {
       "name": "Tập 23",
       "slug": "tap-23",
       "serverName": "Vietsub",
       "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260912/QQjxDFyX/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260912/QQjxDFyX/index.m3u8"
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260914/rNpa68Wr/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260914/rNpa68Wr/index.m3u8"
     },
     {
       "name": "Tập 24",
       "slug": "tap-24",
       "serverName": "Vietsub",
       "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260912/Qs6NKEmM/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260912/Qs6NKEmM/index.m3u8"
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260915/ixFGC4Jo/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260915/ixFGC4Jo/index.m3u8"
     },
     {
       "name": "Tập 01",
@@ -397,13 +397,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260912/wocaQolF/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260912/wocaQolF/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260914/4CtmuAVz/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260914/4CtmuAVz/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260914/uu6RmvZ0/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260914/uu6RmvZ0/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260915/1hSYYUJb/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260915/1hSYYUJb/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "bay-vao-trai-tim-anh-bay-vao-tim-anh",
-      "episodeCount": 45,
+      "episodeCount": 48,
       "priority": 1
     }
   ],

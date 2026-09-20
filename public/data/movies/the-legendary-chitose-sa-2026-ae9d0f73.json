@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260825/pho-ma-tieu-ngo-tac-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 37",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (43/43)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -331,6 +331,54 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260910/foNyVcud/index.m3u8"
     },
     {
+      "name": "Tập 38",
+      "slug": "tap-38",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260914/Z168VLpS/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260914/Z168VLpS/index.m3u8"
+    },
+    {
+      "name": "Tập 39",
+      "slug": "tap-39",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260914/6EzuReY0/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260914/6EzuReY0/index.m3u8"
+    },
+    {
+      "name": "Tập 40",
+      "slug": "tap-40",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260915/wjPluxXT/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260915/wjPluxXT/index.m3u8"
+    },
+    {
+      "name": "Tập 41",
+      "slug": "tap-41",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260915/LShdiaX7/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260915/LShdiaX7/index.m3u8"
+    },
+    {
+      "name": "Tập 42",
+      "slug": "tap-42",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260916/FO2h4hWF/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260916/FO2h4hWF/index.m3u8"
+    },
+    {
+      "name": "Tập 43",
+      "slug": "tap-43",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260916/NFDdnp5D/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260916/NFDdnp5D/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -625,13 +673,61 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260910/4u5TSQ7c/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260910/4u5TSQ7c/index.m3u8"
+    },
+    {
+      "name": "Tập 38",
+      "slug": "tap-38",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260914/wggYX4Ju/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260914/wggYX4Ju/index.m3u8"
+    },
+    {
+      "name": "Tập 39",
+      "slug": "tap-39",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260914/g80unxxO/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260914/g80unxxO/index.m3u8"
+    },
+    {
+      "name": "Tập 40",
+      "slug": "tap-40",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260915/GY7HB44J/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260915/GY7HB44J/index.m3u8"
+    },
+    {
+      "name": "Tập 41",
+      "slug": "tap-41",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260915/bKTFXQES/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260915/bKTFXQES/index.m3u8"
+    },
+    {
+      "name": "Tập 42",
+      "slug": "tap-42",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260916/O7cG5BGA/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260916/O7cG5BGA/index.m3u8"
+    },
+    {
+      "name": "Tập 43",
+      "slug": "tap-43",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260916/VFteMtr0/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260916/VFteMtr0/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "pho-ma-tieu-ngo-tac",
-      "episodeCount": 74,
+      "episodeCount": 86,
       "priority": 1
     }
   ],

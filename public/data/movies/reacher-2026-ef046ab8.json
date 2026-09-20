@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260817/phat-sung-cuoi-cung-phan-4-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (8/8)",
   "categories": [
     {
       "name": "Hành Động",
@@ -91,6 +91,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260904/9il2PhJj/index.m3u8"
     },
     {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260917/eeWW1pD1/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260917/eeWW1pD1/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260917/cXHkYkVD/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260917/cXHkYkVD/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -135,7 +151,7 @@
     {
       "source": "phimapi",
       "slug": "phat-sung-cuoi-cung-phan-4",
-      "episodeCount": 11,
+      "episodeCount": 13,
       "priority": 1
     }
   ],

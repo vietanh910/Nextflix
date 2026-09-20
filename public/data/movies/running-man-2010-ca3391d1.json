@@ -9,7 +9,7 @@
   "year": 2010,
   "type": "tvshow",
   "status": "ongoing",
-  "episodeCurrent": "Tập 819",
+  "episodeCurrent": "Tập 820",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -5277,13 +5277,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260908/9lLi4iaR/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260908/9lLi4iaR/index.m3u8"
+    },
+    {
+      "name": "Tập 820",
+      "slug": "tap-820",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260916/rxokkVJr/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260916/rxokkVJr/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "thu-thach-than-tuong",
-      "episodeCount": 656,
+      "episodeCount": 657,
       "priority": 1
     }
   ],

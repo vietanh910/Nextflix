@@ -1,0 +1,55 @@
+{
+  "id": "the-witness-2018-b97d2c9c",
+  "source": "phimapi",
+  "slug": "nguoi-chung-kien",
+  "name": "Người Chứng Kiến",
+  "originName": "The Witness",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260915/nguoi-chung-kien-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260915/nguoi-chung-kien-thumb.webp",
+  "year": 2018,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "<p>Sang-hoon, một người đàn ông bình thường vừa mua được căn hộ cao cấp tại một khu chung cư mới để ổn định cuộc sống cho gia đình. Một đêm nọ, anh vô tình nghe thấy tiếng động và nhìn qua ban công, chứng kiến cảnh một kẻ sát nhân máu lạnh đang tàn nhẫn ra tay sát hại một phụ nữ ngay tại sân chung cư.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260915/lppAL17j/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260915/lppAL17j/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "nguoi-chung-kien",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260904/phu-sinh-bach-xa-tien-duyen-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 19",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (24/24)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -177,13 +177,53 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260912/NilMzA7V/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260912/NilMzA7V/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260913/cY5WGF8H/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260913/cY5WGF8H/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260914/QRETcu6u/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260914/QRETcu6u/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260915/zZ6a4JSx/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260915/zZ6a4JSx/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260917/ccpMOBzw/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260917/ccpMOBzw/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260917/sttOnfTv/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260917/sttOnfTv/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "phu-sinh-bach-xa-tien-duyen",
-      "episodeCount": 19,
+      "episodeCount": 24,
       "priority": 1
     }
   ],

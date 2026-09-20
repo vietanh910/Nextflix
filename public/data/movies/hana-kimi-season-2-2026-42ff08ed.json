@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260705-1/a08c40145f765c8bd186e77ef8da67e6.jpg",
   "year": 2026,
   "type": "anime",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 11",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (13/13)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -121,13 +121,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260903/Ejcr98f1/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260903/Ejcr98f1/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260913/odI3CvwR/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260913/odI3CvwR/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260917/7KXwtjxp/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260917/7KXwtjxp/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "hanakimi-phan-2",
-      "episodeCount": 11,
+      "episodeCount": 13,
       "priority": 1
     }
   ],

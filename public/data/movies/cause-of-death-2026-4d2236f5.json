@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 10",
   "categories": [
     {
       "name": "Bí Ẩn",
@@ -73,13 +73,53 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260911/QpXidKfB/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260911/QpXidKfB/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260914/yY61OQFs/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260914/yY61OQFs/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260915/sY5NpCda/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260915/sY5NpCda/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260916/Tte56stm/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260916/Tte56stm/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260917/1wVWAVSm/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260917/1wVWAVSm/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260918/Sik9XU4E/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260918/Sik9XU4E/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "doi-chung",
-      "episodeCount": 5,
+      "episodeCount": 10,
       "priority": 1
     }
   ],

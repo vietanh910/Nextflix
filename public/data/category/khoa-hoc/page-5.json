@@ -5,6 +5,125 @@
   "totalPages": 5,
   "items": [
     {
+      "id": "station-eleven-2021-309c64f0",
+      "source": "phimapi",
+      "slug": "tram-muoi-mot",
+      "name": "Trạm Mười Một",
+      "originName": "Station Eleven",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260914/tram-muoi-mot-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260914/tram-muoi-mot-thumb.webp",
+      "year": 2021,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "ten-thousand-worlds-2021-5ac3d906",
+      "source": "phimapi",
+      "slug": "van-gioi-doc-ton",
+      "name": "Vạn Giới Độc Tôn",
+      "originName": "Ten Thousand Worlds",
+      "posterUrl": "https://phimimg.com/upload/vod/20250308-1/25c9c7486b5de820475bd8fe0ccb316e.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250308-1/4b81238b9844aa16e3f7e9ee8afdbc94.jpg",
+      "year": 2021,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 484",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "swallowed-star-2020-3c48f3c2",
+      "source": "phimapi",
+      "slug": "thon-phe-tinh-khong",
+      "name": "Thôn Phệ Tinh Không",
+      "originName": "Swallowed Star",
+      "posterUrl": "https://phimimg.com/upload/vod/20240821-1/a651652396e9f53c09cd88d28700d5c4.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240821-1/22c49ba9590b0e5f3d126696c0bfbecf.jpg",
+      "year": 2020,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 241",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "fights-break-sphere-2018-0d3f92b8",
       "source": "phimapi",
       "slug": "dau-pha-thuong-khung",
@@ -50,22 +169,18 @@
       ]
     },
     {
-      "id": "natsume-s-book-of-friend-2017-008d6a47",
+      "id": "continuum-season-4-2015-4a9b9ca0",
       "source": "phimapi",
-      "slug": "huu-nhan-so-phan-6",
-      "name": "Hữu Nhân Sổ (Phần 6)",
-      "originName": "Natsume's Book Of Friends (Season 6)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260827/huu-nhan-so-phan-6-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260827/huu-nhan-so-phan-6-thumb.webp",
-      "year": 2017,
-      "type": "anime",
+      "slug": "cong-thoi-gian-phan-4",
+      "name": "Cổng Thời Gian (Phần 4)",
+      "originName": "Continuum (Season 4)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260918/cong-thoi-gian-phan-4-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260918/cong-thoi-gian-phan-4-thumb.webp",
+      "year": 2015,
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (11/11)",
+      "episodeCurrent": "Hoàn Tất (6/6)",
       "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
         {
           "name": "Khoa Học",
           "slug": "khoa-hoc"
@@ -75,14 +190,34 @@
           "slug": "vien-tuong"
         },
         {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
           "name": "Tâm Lý",
           "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
+          "name": "Canada",
+          "slug": "canada"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Bỉ",
+          "slug": "bi"
         }
       ]
     },
@@ -128,22 +263,18 @@
       ]
     },
     {
-      "id": "haven-season-5-2014-b0796bfd",
+      "id": "continuum-season-3-2014-565cc865",
       "source": "phimapi",
-      "slug": "thi-tran-haven-phan-5",
-      "name": "Thị Trấn Haven (Phần 5)",
-      "originName": "Haven (Season 5)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260826/thi-tran-haven-phan-5-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260826/thi-tran-haven-phan-5-thumb.webp",
+      "slug": "cong-thoi-gian-phan-3",
+      "name": "Cổng Thời Gian (Phần 3)",
+      "originName": "Continuum (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260918/cong-thoi-gian-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260918/cong-thoi-gian-phan-3-thumb.webp",
       "year": 2014,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (26/26)",
+      "episodeCurrent": "Hoàn Tất (13/13)",
       "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
         {
           "name": "Khoa Học",
           "slug": "khoa-hoc"
@@ -153,8 +284,16 @@
           "slug": "vien-tuong"
         },
         {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Tâm Lý",
@@ -169,6 +308,108 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        },
+        {
+          "name": "Bỉ",
+          "slug": "bi"
+        }
+      ]
+    },
+    {
+      "id": "parasyte-the-maxim-2014-935b5d34",
+      "source": "phimapi",
+      "slug": "ky-sinh-thu",
+      "name": "Ký Sinh Thú",
+      "originName": "Parasyte: The Maxim",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260917/ky-sinh-thu-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260917/ky-sinh-thu-thumb.webp",
+      "year": 2014,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "continuum-season-2-2013-f650bfa6",
+      "source": "phimapi",
+      "slug": "cong-thoi-gian-phan-2",
+      "name": "Cổng Thời Gian (Phần 2)",
+      "originName": "Continuum (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260918/cong-thoi-gian-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260918/cong-thoi-gian-phan-2-thumb.webp",
+      "year": 2013,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Bỉ",
+          "slug": "bi"
         }
       ]
     },
@@ -218,67 +459,18 @@
       ]
     },
     {
-      "id": "haven-season-4-2013-3407a048",
+      "id": "continuum-season-1-2012-8b251628",
       "source": "phimapi",
-      "slug": "thi-tran-haven-phan-4",
-      "name": "Thị Trấn Haven (Phần 4)",
-      "originName": "Haven (Season 4)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260826/thi-tran-haven-phan-4-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260826/thi-tran-haven-phan-4-thumb.webp",
-      "year": 2013,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Canada",
-          "slug": "canada"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "haven-season-3-2012-6cd2dc8b",
-      "source": "phimapi",
-      "slug": "thi-tran-haven-phan-3",
-      "name": "Thị Trấn Haven (Phần 3)",
-      "originName": "Haven (Season 3)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260826/thi-tran-haven-phan-3-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260826/thi-tran-haven-phan-3-thumb.webp",
+      "slug": "cong-thoi-gian-phan-1",
+      "name": "Cổng Thời Gian (Phần 1)",
+      "originName": "Continuum (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260918/cong-thoi-gian-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260918/cong-thoi-gian-phan-1-thumb.webp",
       "year": 2012,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
+      "episodeCurrent": "Hoàn Tất (10/10)",
       "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
         {
           "name": "Khoa Học",
           "slug": "khoa-hoc"
@@ -288,8 +480,16 @@
           "slug": "vien-tuong"
         },
         {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Tâm Lý",
@@ -304,96 +504,10 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "haven-season-2-2011-cc552cfc",
-      "source": "phimapi",
-      "slug": "thi-tran-haven-phan-2",
-      "name": "Thị Trấn Haven (Phần 2)",
-      "originName": "Haven (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260826/thi-tran-haven-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260826/thi-tran-haven-phan-2-thumb.webp",
-      "year": 2011,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
         },
         {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Canada",
-          "slug": "canada"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "haven-season-1-2010-6af09799",
-      "source": "phimapi",
-      "slug": "thi-tran-haven-phan-1",
-      "name": "Thị Trấn Haven (Phần 1)",
-      "originName": "Haven (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260826/thi-tran-haven-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260826/thi-tran-haven-phan-1-thumb.webp",
-      "year": 2010,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Canada",
-          "slug": "canada"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Bỉ",
+          "slug": "bi"
         }
       ]
     },
@@ -664,29 +778,62 @@
       ]
     },
     {
-      "id": "dude-where-s-my-car-2000-a3dbdeba",
+      "id": "the-faculty-1998-4b092aeb",
       "source": "phimapi",
-      "slug": "anh-ban-xe-toi-dau",
-      "name": "Anh Bạn, Xe Tôi Đâu?",
-      "originName": "Dude, Where's My Car?",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260825/anh-ban-xe-toi-dau-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260825/anh-ban-xe-toi-dau-thumb.webp",
-      "year": 2000,
+      "slug": "ky-sinh-trung-ngoai-hanh-tinh",
+      "name": "Ký Sinh Trùng Ngoài Hành Tinh",
+      "originName": "The Faculty",
+      "posterUrl": "https://phimimg.com/upload/vod/20231106-1/522a75174b760b2cd90ddfea1340a0be.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20231106-1/b2125bc43bcc09c05a02e87de18cca9d.jpg",
+      "year": 1998,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
         },
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
         },
         {
           "name": "Bí Ẩn",
           "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "ticks-1993-787e6f1c",
+      "source": "phimapi",
+      "slug": "ve-hut-mau",
+      "name": "Ve Hút Máu",
+      "originName": "Ticks",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260917/ve-hut-mau-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260917/ve-hut-mau-thumb.webp",
+      "year": 1993,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
         },
         {
           "name": "Khoa Học",
@@ -699,6 +846,10 @@
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
@@ -746,14 +897,14 @@
       ]
     },
     {
-      "id": "night-of-the-creeps-1986-daed1171",
+      "id": "the-stuff-1985-ead0d6c3",
       "source": "phimapi",
-      "slug": "dem-cua-nhung-ke-rung-ron",
-      "name": "Đêm Của Những Kẻ Rùng Rợn",
-      "originName": "Night Of The Creeps",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260829/dem-cua-nhung-ke-rung-ron-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260829/dem-cua-nhung-ke-rung-ron-thumb.webp",
-      "year": 1986,
+      "slug": "quai-vat-kem",
+      "name": "Quái Vật Kem",
+      "originName": "The Stuff",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260914/quai-vat-kem-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260914/quai-vat-kem-thumb.webp",
+      "year": 1985,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
@@ -763,16 +914,20 @@
           "slug": "kinh-di"
         },
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
           "name": "Khoa Học",
           "slug": "khoa-hoc"
         },
         {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
@@ -783,33 +938,29 @@
       ]
     },
     {
-      "id": "weird-science-1985-d361697e",
+      "id": "forbidden-world-1982-b6a771bc",
       "source": "phimapi",
-      "slug": "khoa-hoc-ky-quai",
-      "name": "Khoa Học Kỳ Quái",
-      "originName": "Weird Science",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260829/khoa-hoc-ky-quai-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260829/khoa-hoc-ky-quai-thumb.webp",
-      "year": 1985,
+      "slug": "the-gioi-cam",
+      "name": "Thế Giới Cấm",
+      "originName": "Forbidden World",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260917/the-gioi-cam-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260917/the-gioi-cam-thumb.webp",
+      "year": 1982,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
         },
         {
           "name": "Khoa Học",
           "slug": "khoa-hoc"
         },
         {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
         },
         {
           "name": "Tâm Lý",

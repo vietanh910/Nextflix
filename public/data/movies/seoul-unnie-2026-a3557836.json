@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260905/seoul-unnie-thumb.webp",
   "year": 2026,
   "type": "tvshow",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (3/3)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -49,13 +49,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260911/aclenNEU/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260911/aclenNEU/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260918/kWlhJHTM/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260918/kWlhJHTM/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "seoul-unnie",
-      "episodeCount": 2,
+      "episodeCount": 3,
       "priority": 1
     }
   ],

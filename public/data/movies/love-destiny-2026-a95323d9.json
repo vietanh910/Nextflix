@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260715/nhan-duyen-tien-dinh-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 9",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (10/10)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -109,13 +109,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260908/gXnBRNlf/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260908/gXnBRNlf/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260915/M84KPvDU/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260915/M84KPvDU/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nhan-duyen-tien-dinh-2026",
-      "episodeCount": 9,
+      "episodeCount": 10,
       "priority": 1
     }
   ],

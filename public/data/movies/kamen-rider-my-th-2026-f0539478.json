@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 1",
+  "episodeCurrent": "Tập 2",
   "categories": [
     {
       "name": "Hành Động",
@@ -47,19 +47,35 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260906/b6OTh9Cb/index.m3u8"
     },
     {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260916/9ZIgpYzR/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260916/9ZIgpYzR/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Lồng Tiếng",
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260906/qPIaNYkS/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260906/qPIaNYkS/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260916/ee53OLYV/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260916/ee53OLYV/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "hiep-si-mat-na-my-th",
-      "episodeCount": 2,
+      "episodeCount": 4,
       "priority": 1
     }
   ],

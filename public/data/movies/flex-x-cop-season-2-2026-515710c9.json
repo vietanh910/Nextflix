@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 11",
+  "episodeCurrent": "Tập 13",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -131,6 +131,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260912/DIEm0X9f/index.m3u8"
     },
     {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260913/iPjaGHZX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260913/iPjaGHZX/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260918/RdOPVp6W/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260918/RdOPVp6W/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -183,7 +199,7 @@
     {
       "source": "phimapi",
       "slug": "tai-phiet-va-canh-sat-phan-2",
-      "episodeCount": 17,
+      "episodeCount": 19,
       "priority": 1
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 19",
+  "episodeCurrent": "Tập 21",
   "categories": [
     {
       "name": "Viễn Tưởng",
@@ -181,13 +181,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260909/aryGuTrc/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260909/aryGuTrc/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260916/pea6Mpo3/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260916/pea6Mpo3/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260916/zuIaoWgn/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260916/zuIaoWgn/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "huyen-huyen-ta-thien-menh-trum-phan-dien",
-      "episodeCount": 19,
+      "episodeCount": 21,
       "priority": 1
     }
   ],

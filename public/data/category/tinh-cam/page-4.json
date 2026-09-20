@@ -5,29 +5,21 @@
   "totalPages": 4,
   "items": [
     {
-      "id": "weird-science-1985-d361697e",
+      "id": "with-or-without-you-1999-a41fe6ea",
       "source": "phimapi",
-      "slug": "khoa-hoc-ky-quai",
-      "name": "Khoa Học Kỳ Quái",
-      "originName": "Weird Science",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260829/khoa-hoc-ky-quai-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260829/khoa-hoc-ky-quai-thumb.webp",
-      "year": 1985,
+      "slug": "co-hay-khong-co",
+      "name": "Có Hay Không Có",
+      "originName": "With Or Without You",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260903/co-hay-khong-co-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260903/co-hay-khong-co-thumb.webp",
+      "year": 1999,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Tình Cảm",
@@ -40,20 +32,53 @@
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Anh",
+          "slug": "anh"
         }
       ]
     },
     {
-      "id": "the-red-shoes-1948-0ba6ad84",
+      "id": "tricky-brains-1991-3a95483f",
       "source": "phimapi",
-      "slug": "doi-giay-do",
-      "name": "Đôi Giày Đỏ",
-      "originName": "The Red Shoes",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260818/doi-giay-do-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260818/doi-giay-do-thumb.webp",
-      "year": 1948,
+      "slug": "chuyen-gia-xao-quyet",
+      "name": "Chuyên Gia Xảo Quyệt",
+      "originName": "Tricky Brains",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260713/chuyen-gia-xao-quyet-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260713/chuyen-gia-xao-quyet-thumb.webp",
+      "year": 1991,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "a-short-love-affair-love-1990-3576246f",
+      "source": "phimapi",
+      "slug": "tinh-yeu-o-woomukbaemi",
+      "name": "Tình Yêu Ở Woomukbaemi",
+      "originName": "A Short Love Affair / Lovers In Woomukbaemi",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260915/tinh-yeu-o-woomukbaemi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260915/tinh-yeu-o-woomukbaemi-thumb.webp",
+      "year": 1990,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
@@ -65,12 +90,16 @@
         {
           "name": "Tình Cảm",
           "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Anh",
-          "slug": "anh"
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     }

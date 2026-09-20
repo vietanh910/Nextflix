@@ -9,7 +9,30 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Sci-Fi",
+      "slug": "sci-fi"
+    }
+  ],
+  "countries": [],
+  "description": "KINGSGLAIVE is told through the eyes of King Regis, while FINAL FANTASY XV follows the journey of Prince Noctis. The two tales entwine to weave a stirring story of father and son. The film also sheds light onto deeper discoveries of the game world.<br>\n<br>\n(Source: Official Site)",
   "episodes": [],
   "sources": [
     {

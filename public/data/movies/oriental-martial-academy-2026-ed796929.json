@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 10",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -101,13 +101,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260827/rpY8UvZa/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260827/rpY8UvZa/index.m3u8"
+    },
+    {
+      "name": "Tập 08.2",
+      "slug": "tap-08-2",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260917/79pCXD7A/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260917/79pCXD7A/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260917/XAZsPXRo/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260917/XAZsPXRo/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260917/3GmYTd3U/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260917/3GmYTd3U/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "hoc-vien-cao-vo-dong-dai",
-      "episodeCount": 8,
+      "episodeCount": 11,
       "priority": 1
     }
   ],

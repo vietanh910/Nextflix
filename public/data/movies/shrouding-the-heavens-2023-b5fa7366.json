@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 180",
+  "episodeCurrent": "Tập 181",
   "categories": [
     {
       "name": "Cổ Trang",
@@ -1477,13 +1477,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260908/LBrC2vMt/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260908/LBrC2vMt/index.m3u8"
+    },
+    {
+      "name": "Tập 181",
+      "slug": "tap-181",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260915/SmQuFR7M/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260915/SmQuFR7M/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "gia-thien",
-      "episodeCount": 180,
+      "episodeCount": 181,
       "priority": 1
     }
   ],
