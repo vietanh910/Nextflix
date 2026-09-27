@@ -1,0 +1,59 @@
+{
+  "id": "youth-season-1-2026-f3fc8978",
+  "source": "phimapi",
+  "slug": "tuoi-tre-phan-1",
+  "name": "Tuổi Trẻ (Phần 1)",
+  "originName": "Youth (Season 1)",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260922/tuoi-tre-phan-1-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260922/tuoi-tre-phan-1-thumb.webp",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Anh",
+      "slug": "anh"
+    }
+  ],
+  "description": "<p>Xoay quanh cuộc sống đầy náo nhiệt, những trò quậy phá siêu lầy lội và những rung động đầu đời trong sáng của nhóm học sinh tại một trường học ở địa phương.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260921/txtwUQdG/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260921/txtwUQdG/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260921/BmQNHtLz/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260921/BmQNHtLz/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "tuoi-tre-phan-1",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

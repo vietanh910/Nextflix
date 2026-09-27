@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260809/gelboys-phan-2-thumb.webp",
   "year": 2025,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (8/8)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -85,13 +85,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260919/fZFxYrn9/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20260919/fZFxYrn9/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260926/XLIMYZZg/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260926/XLIMYZZg/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "gelboys-phan-2",
-      "episodeCount": 7,
+      "episodeCount": 8,
       "priority": 1
     }
   ],

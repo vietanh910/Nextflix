@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 19",
+  "episodeCurrent": "Tập 22",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -191,6 +191,30 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260916/W8reJpzv/index.m3u8"
     },
     {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260925/04EQEsFX/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260925/04EQEsFX/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260925/Lc6il3PM/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260925/Lc6il3PM/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260925/fmMgHMg8/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260925/fmMgHMg8/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -301,13 +325,77 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260904/6xbb7LTK/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260904/6xbb7LTK/index.m3u8"
+    },
+    {
+      "name": "Tập 15",
+      "slug": "tap-15",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260925/Vm0AThtg/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260925/Vm0AThtg/index.m3u8"
+    },
+    {
+      "name": "Tập 16",
+      "slug": "tap-16",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260925/QY313Tmn/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260925/QY313Tmn/index.m3u8"
+    },
+    {
+      "name": "Tập 17",
+      "slug": "tap-17",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260925/464CDOo3/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260925/464CDOo3/index.m3u8"
+    },
+    {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260925/cwRTqmyO/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260925/cwRTqmyO/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260925/0o6lJmnU/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260925/0o6lJmnU/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260925/JSxrQQkI/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260925/JSxrQQkI/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260925/mxqo17P4/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260925/mxqo17P4/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260925/GAP6LI4y/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260925/GAP6LI4y/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "son-hai-kinh-thiet-lap-lai-trat-tu",
-      "episodeCount": 33,
+      "episodeCount": 44,
       "priority": 1
     }
   ],

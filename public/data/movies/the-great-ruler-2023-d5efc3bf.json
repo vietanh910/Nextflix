@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 91",
+  "episodeCurrent": "Tập 92",
   "categories": [
     {
       "name": "Hành Động",
@@ -769,13 +769,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260917/RZTE03Ry/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260917/RZTE03Ry/index.m3u8"
+    },
+    {
+      "name": "Tập 92",
+      "slug": "tap-92",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260924/Ps7nT9wV/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260924/Ps7nT9wV/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "dai-chua-te-3d",
-      "episodeCount": 91,
+      "episodeCount": 92,
       "priority": 1
     }
   ],

@@ -7,8 +7,8 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20260907/kaiju-no-8-ngay-di-lam-cua-narumi-poster.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 3",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (4/4)",
   "categories": [
     {
       "name": "Viễn Tưởng",
@@ -52,13 +52,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260919/a82v8N3T/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20260919/a82v8N3T/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260926/Ako6qpP0/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260926/Ako6qpP0/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "kaiju-no-8-ngay-di-lam-cua-narumi",
-      "episodeCount": 3,
+      "episodeCount": 4,
       "priority": 1
     }
   ],

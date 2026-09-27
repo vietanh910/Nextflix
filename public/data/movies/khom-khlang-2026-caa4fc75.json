@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 3",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -43,15 +43,23 @@
       "slug": "tap-02",
       "serverName": "Vietsub",
       "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260915/Zf3whutk/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260915/Zf3whutk/index.m3u8"
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260922/lgp5Pr20/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260922/lgp5Pr20/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260922/DDVAqRNn/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260922/DDVAqRNn/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "bua-ngai-troi-buoc",
-      "episodeCount": 2,
+      "episodeCount": 3,
       "priority": 1
     }
   ],

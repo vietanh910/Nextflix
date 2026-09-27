@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260702-1/9038bb3c768ce91b1cde47eda45c6fc8.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 12",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (13/13)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -125,13 +125,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260915/mqOMUQru/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260915/mqOMUQru/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260921/9tT9ka75/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260921/9tT9ka75/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "ca-the-gioi-dang-nhay-mua",
-      "episodeCount": 12,
+      "episodeCount": 13,
       "priority": 1
     }
   ],

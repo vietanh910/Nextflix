@@ -1,0 +1,51 @@
+{
+  "id": "the-fix-2026-53c820ee",
+  "source": "phimapi",
+  "slug": "phi-vu-sua-sai",
+  "name": "Phi Vụ Sửa Sai",
+  "originName": "The Fix",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260923/phi-vu-sua-sai-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260923/phi-vu-sua-sai-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Sau một nhiệm vụ giải cứu thất bại ở Afghanistan, một nhóm cựu đặc vụ CIA mang trong mình cảm giác tội lỗi và thất bại. Khi người chỉ huy Larry tiết lộ bí mật về 25 triệu USD được cất giấu tại Tehran, Tucker tập hợp cả nhóm trở lại Iran, vừa nhằm kiếm một khoản tiền khổng lồ, vừa tìm cách chuộc lại những sai lầm trong quá khứ. Nhưng nhiệm vụ nhanh chóng biến thành một cuộc giải cứu nguy hiểm với những âm mưu, phản bội và bí mật tình báo bị che giấu suốt nhiều năm.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260922/PcswunbO/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260922/PcswunbO/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "phi-vu-sua-sai",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

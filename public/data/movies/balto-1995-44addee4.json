@@ -1,0 +1,75 @@
+{
+  "id": "balto-1995-44addee4",
+  "source": "phimapi",
+  "slug": "chu-soi-balto",
+  "name": "Chú Sói Balto",
+  "originName": "Balto",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260921/chu-soi-balto-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260921/chu-soi-balto-thumb.webp",
+  "year": 1995,
+  "type": "anime",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Hoạt Hình",
+      "slug": "hoat-hinh"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Gia Đình",
+      "slug": "gia-dinh"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Anh",
+      "slug": "anh"
+    }
+  ],
+  "description": "<p>Phim kể về Balto, một chú chó lai sói sống cô đơn và bị kỳ thị ở thị trấn Nome, Alaska. Khi dịch bạch hầu bùng phát và trẻ em trong thị trấn lâm nguy, Balto đã dẫn đầu đoàn chó kéo xe vượt qua bão tuyết khắc nghiệt để mang thuốc kháng sinh về cứu người. Hành trình của Balto không chỉ là cuộc đua với thời gian mà còn là hành trình vượt qua định kiến và chứng minh giá trị bản thân.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub + Thuyết Minh",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260920/M9pqBKXR/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260920/M9pqBKXR/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260920/B63mvjgJ/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260920/B63mvjgJ/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "chu-soi-balto",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

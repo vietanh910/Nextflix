@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 12",
+  "episodeCurrent": "Tập 13",
   "categories": [
     {
       "name": "Hành Động",
@@ -137,13 +137,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260917/z9eeL7Sn/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260917/z9eeL7Sn/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260925/58s0F93z/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260925/58s0F93z/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "trong-giap-hiep-si-chuyen-sinh-bi-luu-day-tro-nen-vo-dich-nho-kien-thuc-ve-game",
-      "episodeCount": 12,
+      "episodeCount": 13,
       "priority": 1
     }
   ],

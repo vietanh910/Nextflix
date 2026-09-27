@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 18",
+  "episodeCurrent": "Tập 20",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -177,13 +177,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260917/GGQ7JIzl/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260917/GGQ7JIzl/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260920/v7XVtR6J/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260920/v7XVtR6J/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260924/sS724RIx/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260924/sS724RIx/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "thai-co-than-ton",
-      "episodeCount": 18,
+      "episodeCount": 20,
       "priority": 1
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -99,6 +99,14 @@
       "m3u8Url": "https://a.kvp726.com/20260918/6zXR7MlC/index.m3u8"
     },
     {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260926/s6XBHT6q/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260926/s6XBHT6q/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -153,13 +161,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260918/5GsiAp35/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20260918/5GsiAp35/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260926/44Zic758/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260926/44Zic758/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "tan-thuoc",
-      "episodeCount": 14,
+      "episodeCount": 16,
       "priority": 1
     }
   ],

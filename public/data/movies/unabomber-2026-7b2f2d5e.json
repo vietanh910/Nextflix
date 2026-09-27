@@ -1,0 +1,55 @@
+{
+  "id": "unabomber-2026-7b2f2d5e",
+  "source": "phimapi",
+  "slug": "unabomber",
+  "name": "UNABOMBER",
+  "originName": "UNABOMBER",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260925/unabomber-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260925/unabomber-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Lịch Sử",
+      "slug": "lich-su"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Lấy cảm hứng từ sự kiện có thật, bộ phim chính kịch này kể về hành trình Ted Kaczynski từ thần đồng Harvard và đối tượng thí nghiệm trở thành Unabomber giữa lúc bị FBI truy lùng.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260925/3rLCcglR/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260925/3rLCcglR/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "unabomber",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

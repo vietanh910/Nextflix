@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260705-1/6aba22327663c3122b8e9184764e375d.jpg",
   "year": 2026,
   "type": "anime",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 11",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (12/12)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -121,13 +121,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260918/6iXEJivJ/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20260918/6iXEJivJ/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260925/UtFkplnK/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260925/UtFkplnK/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "ve-xong-di-roi-hay-chet",
-      "episodeCount": 11,
+      "episodeCount": 12,
       "priority": 1
     }
   ],

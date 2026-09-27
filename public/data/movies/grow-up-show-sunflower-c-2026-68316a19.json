@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260708/rap-xiec-hoa-huong-duong-thumb.webp",
   "year": 2026,
   "type": "anime",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 12",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (13/13)",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -129,13 +129,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260919/aXLbIY7l/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20260919/aXLbIY7l/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260927/4qqGokVV/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260927/4qqGokVV/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "rap-xiec-hoa-huong-duong",
-      "episodeCount": 12,
+      "episodeCount": 13,
       "priority": 1
     }
   ],

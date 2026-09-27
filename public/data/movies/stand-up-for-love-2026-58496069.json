@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 10",
+  "episodeCurrent": "Tập 20",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -109,13 +109,93 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260919/3rENsEOG/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20260919/3rENsEOG/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260920/zJBwMAjD/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260920/zJBwMAjD/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260920/PTfZweEn/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260920/PTfZweEn/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260921/t7GPBQnL/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260921/t7GPBQnL/index.m3u8"
+    },
+    {
+      "name": "Tập 14",
+      "slug": "tap-14",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260921/cNtgbYRD/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260921/cNtgbYRD/index.m3u8"
+    },
+    {
+      "name": "Tập 15",
+      "slug": "tap-15",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260922/NlykbI6n/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260922/NlykbI6n/index.m3u8"
+    },
+    {
+      "name": "Tập 16",
+      "slug": "tap-16",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260922/3jFWVKNv/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260922/3jFWVKNv/index.m3u8"
+    },
+    {
+      "name": "Tập 17",
+      "slug": "tap-17",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260923/12H3Qke5/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260923/12H3Qke5/index.m3u8"
+    },
+    {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260924/QNikn3uD/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260924/QNikn3uD/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260925/1HAgS2Ih/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260925/1HAgS2Ih/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260926/ywBYEs6r/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260926/ywBYEs6r/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "vi-yeu-xung-danh",
-      "episodeCount": 10,
+      "episodeCount": 20,
       "priority": 1
     }
   ],

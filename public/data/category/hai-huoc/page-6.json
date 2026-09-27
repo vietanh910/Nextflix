@@ -5,33 +5,206 @@
   "totalPages": 6,
   "items": [
     {
-      "id": "dude-where-s-my-car-2000-a3dbdeba",
+      "id": "hot-fuzz-2007-d5e2b88d",
       "source": "phimapi",
-      "slug": "anh-ban-xe-toi-dau",
-      "name": "Anh Bạn, Xe Tôi Đâu?",
-      "originName": "Dude, Where's My Car?",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260825/anh-ban-xe-toi-dau-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260825/anh-ban-xe-toi-dau-thumb.webp",
-      "year": 2000,
+      "slug": "sieu-com",
+      "name": "Siêu Cớm",
+      "originName": "Hot Fuzz",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260921/sieu-com-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260921/sieu-com-thumb.webp",
+      "year": 2007,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
         },
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
         },
         {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
         },
         {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "man-of-the-house-2005-cb60b24d",
+      "source": "phimapi",
+      "slug": "canh-sat-bao-ve",
+      "name": "Cảnh sát bảo vệ",
+      "originName": "Man of the House",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260917/canh-sat-bao-ve-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260917/canh-sat-bao-ve-thumb.webp",
+      "year": 2005,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "sad-movie-2005-4265ec97",
+      "source": "phimapi",
+      "slug": "chuyen-tinh-buon",
+      "name": "Chuyện Tình Buồn",
+      "originName": "Sad Movie",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260915/chuyen-tinh-buon-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260915/chuyen-tinh-buon-thumb.webp",
+      "year": 2005,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "intolerable-cruelty-2003-56da96e3",
+      "source": "phimapi",
+      "slug": "hop-dong-hon-nhan",
+      "name": "Hợp Đồng Hôn Nhân",
+      "originName": "Intolerable Cruelty",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260921/hop-dong-hon-nhan-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260921/hop-dong-hon-nhan-thumb.webp",
+      "year": 2003,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-brothers-2001-1e4fcdff",
+      "source": "phimapi",
+      "slug": "bon-chang-tim-yeu",
+      "name": "Bốn Chàng Tìm Yêu",
+      "originName": "The Brothers",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260922/bon-chang-tim-yeu-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260922/bon-chang-tim-yeu-thumb.webp",
+      "year": 2001,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "idle-hands-1999-e96eb0d8",
+      "source": "phimapi",
+      "slug": "ban-tay-quy",
+      "name": "Bàn Tay Quỷ",
+      "originName": "Idle Hands",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260914/ban-tay-quy-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260914/ban-tay-quy-thumb.webp",
+      "year": 1999,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
         },
         {
           "name": "Viễn Tưởng",
@@ -50,76 +223,35 @@
       ]
     },
     {
-      "id": "marsupilami-2000-271dc1d6",
+      "id": "bowfinger-1999-af4d5177",
       "source": "phimapi",
-      "slug": "ban-toi-la-marsupilami",
-      "name": "Bạn Tôi Là Marsupilami",
-      "originName": "Marsupilami",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-thumb.webp",
-      "year": 2000,
-      "type": "anime",
+      "slug": "dao-dien-bat-dac-di",
+      "name": "Đạo Diễn Bất Đắc Dĩ",
+      "originName": "Bowfinger",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260921/dao-dien-bat-dac-di-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260921/dao-dien-bat-dac-di-thumb.webp",
+      "year": 1999,
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (41/41)",
+      "episodeCurrent": "Full",
       "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
         },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Pháp",
-          "slug": "phap"
-        },
-        {
-          "name": "Đức",
-          "slug": "duc"
-        }
-      ]
-    },
-    {
-      "id": "the-legendary-four-aces-2000-2d755a4b",
-      "source": "phimapi",
-      "slug": "tu-dai-tai-tu",
-      "name": "Tứ Đại Tài Tử",
-      "originName": "The Legendary Four Aces",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-      "year": 2000,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (52/52)",
-      "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        },
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
         }
       ],
       "countries": [
         {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -134,7 +266,7 @@
       "year": 1999,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 1175",
+      "episodeCurrent": "Tập 1179",
       "categories": [
         {
           "name": "Hài Hước",
@@ -157,33 +289,29 @@
       ]
     },
     {
-      "id": "practical-magic-1998-b8c09600",
+      "id": "jack-frost-1997-d76df73c",
       "source": "phimapi",
-      "slug": "ma-thuat-thuc-hanh",
-      "name": "Ma Thuật Thực Hành",
-      "originName": "Practical Magic",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260819/ma-thuat-thuc-hanh-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260819/ma-thuat-thuc-hanh-thumb.webp",
-      "year": 1998,
+      "slug": "nguoi-tuyet-sat-nhan",
+      "name": "Người Tuyết Sát Nhân",
+      "originName": "Jack Frost",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260927/nguoi-tuyet-sat-nhan-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260927/nguoi-tuyet-sat-nhan-thumb.webp",
+      "year": 1997,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
         },
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
         },
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
           "name": "Tâm Lý",
@@ -208,7 +336,7 @@
       "year": 1996,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 1211",
+      "episodeCurrent": "Tập 1214",
       "categories": [
         {
           "name": "Bí Ẩn",
@@ -227,22 +355,55 @@
       ]
     },
     {
-      "id": "little-shop-of-horrors-1986-04b7eaf4",
+      "id": "the-little-rascals-1994-1f396ad2",
       "source": "phimapi",
-      "slug": "cua-hang-kinh-di-nho",
-      "name": "Cửa Hàng Kinh Dị Nhỏ",
-      "originName": "Little Shop Of Horrors",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260829/cua-hang-kinh-di-nho-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260829/cua-hang-kinh-di-nho-thumb.webp",
-      "year": 1986,
+      "slug": "nhung-dua-tre-tinh-nghich",
+      "name": "Những Đứa Trẻ Tinh Nghịch",
+      "originName": "The Little Rascals",
+      "posterUrl": "https://phimimg.com/upload/vod/20250424-1/4431e118677ce49c0d1e8567fb5bc472.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250424-1/61908da01214b0f3d3f0c91e07971707.jpg",
+      "year": 1994,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
         },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "tricky-brains-1991-3a95483f",
+      "source": "phimapi",
+      "slug": "chuyen-gia-xao-quyet",
+      "name": "Chuyên Gia Xảo Quyệt",
+      "originName": "Tricky Brains",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260713/chuyen-gia-xao-quyet-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260713/chuyen-gia-xao-quyet-thumb.webp",
+      "year": 1991,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
@@ -250,61 +411,28 @@
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
         }
       ]
     },
     {
-      "id": "night-of-the-creeps-1986-daed1171",
+      "id": "bird-on-a-wire-1990-ced174d1",
       "source": "phimapi",
-      "slug": "dem-cua-nhung-ke-rung-ron",
-      "name": "Đêm Của Những Kẻ Rùng Rợn",
-      "originName": "Night Of The Creeps",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260829/dem-cua-nhung-ke-rung-ron-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260829/dem-cua-nhung-ke-rung-ron-thumb.webp",
-      "year": 1986,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "weird-science-1985-d361697e",
-      "source": "phimapi",
-      "slug": "khoa-hoc-ky-quai",
-      "name": "Khoa Học Kỳ Quái",
-      "originName": "Weird Science",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260829/khoa-hoc-ky-quai-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260829/khoa-hoc-ky-quai-thumb.webp",
-      "year": 1985,
+      "slug": "chu-chim-tren-day",
+      "name": "Chú Chim Trên Dây",
+      "originName": "Bird On A Wire",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260921/chu-chim-tren-day-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260921/chu-chim-tren-day-thumb.webp",
+      "year": 1990,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
@@ -312,20 +440,20 @@
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
         },
         {
           "name": "Tình Cảm",
           "slug": "tinh-cam"
         },
         {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
           "name": "Tâm Lý",
           "slug": "tam-ly"
         }
@@ -338,14 +466,14 @@
       ]
     },
     {
-      "id": "zapped-1982-8da8235a",
+      "id": "parenthood-1989-65941d7d",
       "source": "phimapi",
-      "slug": "zapped",
-      "name": "Zapped!",
-      "originName": "Zapped!",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260822/zapped-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/zapped-thumb.webp",
-      "year": 1982,
+      "slug": "lam-cha-lam-me-1989",
+      "name": "Làm Cha Làm Mẹ",
+      "originName": "Parenthood",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260921/lam-cha-lam-me-1989-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260921/lam-cha-lam-me-1989-thumb.webp",
+      "year": 1989,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
@@ -371,29 +499,70 @@
       ]
     },
     {
-      "id": "it-s-the-great-pumpkin-c-1966-a97cdb50",
+      "id": "cheerleader-camp-1988-b4c20784",
       "source": "phimapi",
-      "slug": "do-la-sieu-bi-ngo-charlie-brown",
-      "name": "Đó Là Siêu Bí Ngô, Charlie Brown",
-      "originName": "It's The Great Pumpkin, Charlie Brown",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260822/do-la-sieu-bi-ngo-charlie-brown-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/do-la-sieu-bi-ngo-charlie-brown-thumb.webp",
-      "year": 1966,
-      "type": "anime",
+      "slug": "trai-co-vu",
+      "name": "Trại Cổ Vũ",
+      "originName": "Cheerleader Camp",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260919/trai-co-vu-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260919/trai-co-vu-thumb.webp",
+      "year": 1988,
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (1/1)",
+      "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
         },
         {
-          "name": "TV Shows",
-          "slug": "tv-shows"
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-stuff-1985-ead0d6c3",
+      "source": "phimapi",
+      "slug": "quai-vat-kem",
+      "name": "Quái Vật Kem",
+      "originName": "The Stuff",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260914/quai-vat-kem-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260914/quai-vat-kem-thumb.webp",
+      "year": 1985,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
         },
         {
           "name": "Hài Hước",
@@ -412,14 +581,14 @@
       ]
     },
     {
-      "id": "the-pink-panther-1963-4c010570",
+      "id": "fletch-1985-aef6e896",
       "source": "phimapi",
-      "slug": "diep-vu-bao-hong-1963",
-      "name": "Điệp Vụ Báo Hồng",
-      "originName": "The Pink Panther",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260822/diep-vu-bao-hong-1963-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/diep-vu-bao-hong-1963-thumb.webp",
-      "year": 1963,
+      "slug": "sieu-nha-bao",
+      "name": "Siêu Nhà Báo",
+      "originName": "Fletch",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260921/sieu-nha-bao-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260921/sieu-nha-bao-thumb.webp",
+      "year": 1985,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
@@ -431,6 +600,51 @@
         {
           "name": "Hình Sự",
           "slug": "hinh-su"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-jerk-1979-1b9f78bf",
+      "source": "phimapi",
+      "slug": "chuyen-mot-ga-kho",
+      "name": "Chuyện Một Gã Khờ",
+      "originName": "The Jerk",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260921/chuyen-mot-ga-kho-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260921/chuyen-mot-ga-kho-thumb.webp",
+      "year": 1979,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [

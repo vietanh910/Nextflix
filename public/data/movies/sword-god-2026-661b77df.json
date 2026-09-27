@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260912/doc-kiem-cuu-thien-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 20",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (27/27)",
   "categories": [
     {
       "name": "Khoa Học",
@@ -193,13 +193,69 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260919/zCiGC80d/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20260919/zCiGC80d/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260920/BTNn80Qp/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260920/BTNn80Qp/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260921/HzCX1mtk/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260921/HzCX1mtk/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260922/jEYdD3mv/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260922/jEYdD3mv/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260923/jdKWaw9j/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260923/jdKWaw9j/index.m3u8"
+    },
+    {
+      "name": "Tập 25",
+      "slug": "tap-25",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260924/UVVmRzAb/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260924/UVVmRzAb/index.m3u8"
+    },
+    {
+      "name": "Tập 26",
+      "slug": "tap-26",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260925/jPOrbaB4/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260925/jPOrbaB4/index.m3u8"
+    },
+    {
+      "name": "Tập 27",
+      "slug": "tap-27",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260926/Akmwig2P/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260926/Akmwig2P/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "doc-kiem-cuu-thien",
-      "episodeCount": 20,
+      "episodeCount": 27,
       "priority": 1
     }
   ],

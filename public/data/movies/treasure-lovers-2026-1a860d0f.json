@@ -8,7 +8,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 10",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -96,13 +96,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260917/90mgHwzB/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260917/90mgHwzB/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260923/YaZz6f3R/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260923/YaZz6f3R/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260924/Ftr9wq9O/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260924/Ftr9wq9O/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "chuyen-tinh-dao-thien-duong",
-      "episodeCount": 8,
+      "episodeCount": 10,
       "priority": 1
     }
   ],

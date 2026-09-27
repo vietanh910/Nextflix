@@ -2,14 +2,14 @@
   "id": "four-hands-two-sonatas-2026-bb43981d",
   "source": "phimapi",
   "slug": "bon-ban-tay-hai-ban-sonata",
-  "name": "Bốn bàn tay, hai bản sonata",
+  "name": "Bốn Bàn Tay, Hai Bản Sonata",
   "originName": "Four Hands, Two Sonatas",
   "posterUrl": "https://phimimg.com/uploads/movies/20260829/bon-ban-tay-hai-ban-sonata-poster.webp",
   "thumbUrl": "https://phimimg.com/uploads/movies/20260829/bon-ban-tay-hai-ban-sonata-thumb.webp",
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -85,13 +85,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260919/lYvf0FFn/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20260919/lYvf0FFn/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260920/BaPr0519/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260920/BaPr0519/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260926/IRAbg9na/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260926/IRAbg9na/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "bon-ban-tay-hai-ban-sonata",
-      "episodeCount": 7,
+      "episodeCount": 9,
       "priority": 1
     }
   ],

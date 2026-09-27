@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260910/te-cong-hang-long-tru-yeu-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 21",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (24/24)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -201,13 +201,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260919/U31Bklc6/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20260919/U31Bklc6/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260920/rIeIO8mQ/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260920/rIeIO8mQ/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260921/RwuDQzlR/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260921/RwuDQzlR/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260922/f5PGELcQ/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260922/f5PGELcQ/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "te-cong-hang-long-tru-yeu",
-      "episodeCount": 21,
+      "episodeCount": 24,
       "priority": 1
     }
   ],

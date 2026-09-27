@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260805/lau-dai-tham-vong-ban-thai-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 14",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (16/16)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -147,6 +147,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260915/ukYr85OO/index.m3u8"
     },
     {
+      "name": "Tập 15",
+      "slug": "tap-15",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260921/MdGoS0Oe/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260921/MdGoS0Oe/index.m3u8"
+    },
+    {
+      "name": "Tập 16",
+      "slug": "tap-16",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260922/TBEEu4TB/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260922/TBEEu4TB/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -257,13 +273,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260915/7yCg73OJ/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260915/7yCg73OJ/index.m3u8"
+    },
+    {
+      "name": "Tập 15",
+      "slug": "tap-15",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260921/kXjMoVqE/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260921/kXjMoVqE/index.m3u8"
+    },
+    {
+      "name": "Tập 16",
+      "slug": "tap-16",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260922/Y2oLGFfy/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260922/Y2oLGFfy/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "lau-dai-tham-vong-ban-thai",
-      "episodeCount": 28,
+      "episodeCount": 32,
       "priority": 1
     }
   ],

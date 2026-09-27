@@ -9,7 +9,7 @@
   "year": 2021,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 550",
+  "episodeCurrent": "Tập 552",
   "categories": [
     {
       "name": "Cổ Trang",
@@ -4393,13 +4393,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260918/XoRdKU2V/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260918/XoRdKU2V/index.m3u8"
+    },
+    {
+      "name": "Tập 551",
+      "slug": "tap-551",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260921/ycOGyobK/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260921/ycOGyobK/index.m3u8"
+    },
+    {
+      "name": "Tập 552",
+      "slug": "tap-552",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260925/OhPVbVCT/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260925/OhPVbVCT/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nghich-thien-chi-ton",
-      "episodeCount": 545,
+      "episodeCount": 547,
       "priority": 1
     }
   ],

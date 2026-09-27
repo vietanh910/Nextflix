@@ -1,0 +1,63 @@
+{
+  "id": "fletch-1985-aef6e896",
+  "source": "phimapi",
+  "slug": "sieu-nha-bao",
+  "name": "Siêu Nhà Báo",
+  "originName": "Fletch",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260921/sieu-nha-bao-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260921/sieu-nha-bao-thumb.webp",
+  "year": 1985,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Bí Ẩn",
+      "slug": "bi-an"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Irwin “Fletch” Fletcher là một phóng viên điều tra chuyên cải trang để bí mật thu thập thông tin cho các vụ án. Trong lúc điều tra một đường dây ma túy, anh bất ngờ được một doanh nhân giàu có thuê giết mình để vợ có thể thừa hưởng tài sản. Nghi ngờ lời đề nghị kỳ quặc, Fletch giả vờ nhận nhiệm vụ rồi âm thầm điều tra thân phận và động cơ của người thuê. Càng tìm hiểu, anh càng phát hiện nhiều bí mật và dấu hiệu cho thấy mình đang bị cuốn vào một âm mưu nguy hiểm.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260920/9tkMnmpP/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260920/9tkMnmpP/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "sieu-nha-bao",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

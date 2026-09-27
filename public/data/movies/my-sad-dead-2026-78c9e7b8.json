@@ -1,0 +1,78 @@
+{
+  "id": "my-sad-dead-2026-78c9e7b8",
+  "source": "phimapi",
+  "slug": "bong-ma-buon-ba",
+  "name": "Bóng ma buồn bã",
+  "originName": "My Sad Dead",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260924/bong-ma-buon-ba-poster.webp",
+  "year": 2026,
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (4/4)",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Bí Ẩn",
+      "slug": "bi-an"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Argentina",
+      "slug": "argentina"
+    },
+    {
+      "name": "Chile",
+      "slug": "chile"
+    }
+  ],
+  "description": "<p>Emma có thể nhìn thấy người đã khuất. Nhưng khi cháu gái cô xuất hiện, hàng ngàn sinh mạng bị chấn động trong loạt phim ngắn lạnh gáy dựa trên tác phẩm của Mariana Enriquez.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260924/eKNyhOT3/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260924/eKNyhOT3/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260924/Im7YSLJa/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260924/Im7YSLJa/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260924/WmY9Z9au/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260924/WmY9Z9au/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260924/1N7fzRUl/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260924/1N7fzRUl/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "bong-ma-buon-ba",
+      "episodeCount": 4,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

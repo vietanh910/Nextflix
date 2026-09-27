@@ -9,7 +9,7 @@
   "year": 2025,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 46",
+  "episodeCurrent": "Tập 47",
   "categories": [
     {
       "name": "Hành Động",
@@ -409,13 +409,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260914/1vsEhwQq/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260914/1vsEhwQq/index.m3u8"
+    },
+    {
+      "name": "Tập 47",
+      "slug": "tap-47",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260921/2UDOOszq/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260921/2UDOOszq/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "digimon-beatbreak",
-      "episodeCount": 46,
+      "episodeCount": 47,
       "priority": 1
     }
   ],

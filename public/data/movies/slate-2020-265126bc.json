@@ -1,0 +1,55 @@
+{
+  "id": "slate-2020-265126bc",
+  "source": "phimapi",
+  "slug": "chuyen-canh-xuyen-khong",
+  "name": "Chuyển Cảnh! Xuyên Không",
+  "originName": "Slate",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260925/chuyen-canh-xuyen-khong-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260925/chuyen-canh-xuyen-khong-thumb.webp",
+  "year": 2020,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "<p>Yeon Hee, cô gái mê hành động với kiếm thuật đáng kinh ngạc, bất ngờ bị hút vào thế giới song song vô luật pháp khi đang đóng thế. Được tôn làm người bảo hộ, cô hóa nữ anh hùng, chống lại cái ác.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260925/zS0NwNmM/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260925/zS0NwNmM/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "chuyen-canh-xuyen-khong",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

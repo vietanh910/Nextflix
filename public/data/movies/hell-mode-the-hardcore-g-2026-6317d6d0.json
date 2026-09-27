@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260705-1/eb633393851788cf7a7665e245c43438.jpg",
   "year": 2026,
   "type": "anime",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 12",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (13/13)",
   "categories": [
     {
       "name": "Hành Động",
@@ -137,13 +137,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260918/buAEyBuO/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20260918/buAEyBuO/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260926/4hm2il1E/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260926/4hm2il1E/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "hell-mode-game-thu-xuat-chung-tung-hoanh-chon-di-gioi-hon-nguyen-phan-2",
-      "episodeCount": 12,
+      "episodeCount": 13,
       "priority": 1
     }
   ],

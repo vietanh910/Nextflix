@@ -1,0 +1,63 @@
+{
+  "id": "hot-fuzz-2007-d5e2b88d",
+  "source": "phimapi",
+  "slug": "sieu-com",
+  "name": "Siêu Cớm",
+  "originName": "Hot Fuzz",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260921/sieu-com-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260921/sieu-com-thumb.webp",
+  "year": 2007,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Pháp",
+      "slug": "phap"
+    },
+    {
+      "name": "Anh",
+      "slug": "anh"
+    }
+  ],
+  "description": "<p>Nicholas Angel là một cảnh sát giỏi nhất Luân Đôn từ trước đến nay với kỷ lục các vụ bắt giữ lên đến 400% nhiều hơn bất kỳ đồng nghiệp nào! Giỏi đến thế thì bị ghen ghét là chuyện thường nên các sếp đã ký quyết định đày ải Nicholas đến ngôi làng Sandford bình yên. Tại đây, anh gặp đồng đội mê ăn Danny Butterman vốn là con của cảnh sát trưởng đáng kính Frank Butterman.  Danny là một người ghiền phim hành động do đó tin tưởng người đồng nghiệp mới có thể sẽ đưa anh vào những cuộc phiêu lưu, cơ hội để tham gia các trận đấu súng và những pha rượt đuổi nghẹt thở từng ao ướt. Tuy nhiên, Nicholas sớm tẩy não cái ý tưởng trẻ con của Danny. Chẳng bao lâu sau khi Nicholas phát hiện ngôi làng Sandford không yên ổn như mọi người vẫn tưởng sau một loạt tai nạn chấn động. Anh biết rằng mình sắp phải ra tay chấn chỉnh kỷ cương trong khi Danny thì vui mừng với giấc mơ sắp trở thành hiện thật. Đã đến lúc bộ đôi Nicholas - Danny thực hiện sứ mệnh đem lại sự bình yên cho Sandford...</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260920/10msDUU1/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260920/10msDUU1/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "sieu-com",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

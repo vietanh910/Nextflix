@@ -361,13 +361,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260919/OEv6ejeQ/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20260919/OEv6ejeQ/index.m3u8"
+    },
+    {
+      "name": "Tập 17",
+      "slug": "tap-17",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260926/9jIO62rQ/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260926/9jIO62rQ/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "song-menh-coi-hoang-tuyen",
-      "episodeCount": 40,
+      "episodeCount": 41,
       "priority": 1
     }
   ],

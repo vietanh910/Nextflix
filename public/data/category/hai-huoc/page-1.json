@@ -2,7 +2,7 @@
   "slug": "hai-huoc",
   "name": "Hài Hước",
   "page": 1,
-  "totalPages": 5,
+  "totalPages": 6,
   "items": [
     {
       "id": "the-100-girlfriends-who--2026-dd568c5e",
@@ -14,8 +14,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20260707/100-co-ban-gai-yeu-ban-rat-rat-rat-rat-rat-nhieu-phan-3-thumb.webp",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -81,7 +81,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -159,7 +159,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -191,8 +191,8 @@
       "thumbUrl": "https://phimimg.com/upload/vod/20260704-1/29a589ed48f54ae69bc0e4f64aa5e4c7.jpg",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 13",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -207,39 +207,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "mayday-2026-3b530966",
-      "source": "phimapi",
-      "slug": "bao-dong-mayday",
-      "name": "Báo Động Mayday",
-      "originName": "Mayday",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260906/bao-dong-mayday-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260906/bao-dong-mayday-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chiến Tranh",
-          "slug": "chien-tranh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     },
@@ -356,8 +323,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20260817/ca-the-gioi-chi-co-anh-ket-noi-duoc-voi-toi-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 12",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -421,6 +388,39 @@
       ]
     },
     {
+      "id": "chat-2026-f8c458ca",
+      "source": "phimapi",
+      "slug": "chat",
+      "name": "CHAT",
+      "originName": "CHAT",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260922/chat-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260922/chat-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "kisah-bawah-tanah-2026-554c6dd3",
       "source": "phimapi",
       "slug": "chuyen-rung-ron-the-gioi-ngam",
@@ -471,8 +471,8 @@
       "thumbUrl": "https://phimimg.com/upload/vod/20260704-1/6c5f0e9b16af21b8611eebd1a11199d9.jpg",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -532,6 +532,43 @@
       ]
     },
     {
+      "id": "the-drama-2026-2caed189",
+      "source": "phimapi",
+      "slug": "cu-soc",
+      "name": "Cú Sốc",
+      "originName": "The Drama",
+      "posterUrl": "https://phimimg.com/upload/vod/20260505-1/aa5419bddec64990d591f77262fc2e42.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260505-1/8d2f42eb4d2a2db443d7ad863d83ba51.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "the-insipid-prince-s-fur-2026-2e51d8af",
       "source": "phimapi",
       "slug": "cuoc-gianh-ngai-vang-len-lut-cua-hoang-tu-nhat-nheo",
@@ -541,8 +578,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20260707/cuoc-gianh-ngai-vang-len-lut-cua-hoang-tu-nhat-nheo-thumb.webp",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -586,8 +623,8 @@
       "thumbUrl": "https://phimimg.com/upload/vod/20260703-1/70c74fd95e4902512ea412da15873c26.jpg",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 12",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -730,8 +767,8 @@
       "thumbUrl": "https://phimimg.com/upload/vod/20260706-1/b2bd6336d4e6266a9d3ac3b01c2f7cc6.jpg",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -791,72 +828,27 @@
       ]
     },
     {
-      "id": "flaming-dodgeball-girl-d-2026-728f3ddb",
+      "id": "best-of-the-best-2026-9f9a5bfc",
       "source": "phimapi",
-      "slug": "flaming-dodgeball-girl-danko",
-      "name": "Flaming Dodgeball Girl Danko",
-      "originName": "Flaming Dodgeball Girl Danko",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260711/flaming-dodgeball-girl-danko-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260711/flaming-dodgeball-girl-danko-thumb.webp",
+      "slug": "doi-nhay-xuat-sac-nhat-doi-nhay-so-mot",
+      "name": "Đội nhảy xuất sắc nhất / Đội nhảy số một",
+      "originName": "Best of the Best",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260921/doi-nhay-xuat-sac-nhat-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260921/doi-nhay-xuat-sac-nhat-thumb.webp",
       "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 11",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "chumbak-2026-a2685097",
-      "source": "phimapi",
-      "slug": "gan-ket",
-      "name": "Gắn Kết",
-      "originName": "Chumbak",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260910/gan-ket-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260910/gan-ket-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Ấn Độ",
-          "slug": "an-do"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     }

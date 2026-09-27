@@ -1,0 +1,59 @@
+{
+  "id": "tourist-trap-1979-f6d7d0fa",
+  "source": "phimapi",
+  "slug": "bay-du-khach",
+  "name": "Bẫy Du Khách",
+  "originName": "Tourist Trap",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260922/bay-du-khach-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260922/bay-du-khach-thumb.webp",
+  "year": 1979,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Sau khi xe bị hỏng, một nhóm du khách trẻ tuổi thấy mình bị mắc kẹt tại một bảo tàng ven đường do ông Slausen bí ẩn quản lý, nơi trưng bày bộ sưu tập những hình người bằng sáp sống động như thật.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260922/RTJ3JRzX/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260922/RTJ3JRzX/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "bay-du-khach",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 159",
+  "episodeCurrent": "Tập 160",
   "categories": [
     {
       "name": "Hài Hước",
@@ -1305,13 +1305,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260916/YSuSbppK/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260916/YSuSbppK/index.m3u8"
+    },
+    {
+      "name": "Tập 160",
+      "slug": "tap-160",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260923/BDneiCqA/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260923/BDneiCqA/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "su-huynh-a-su-huynh",
-      "episodeCount": 159,
+      "episodeCount": 160,
       "priority": 1
     }
   ],

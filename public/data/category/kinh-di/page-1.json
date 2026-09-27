@@ -5,6 +5,101 @@
   "totalPages": 2,
   "items": [
     {
+      "id": "shark-frenzy-2026-dc4bce6e",
+      "source": "phimapi",
+      "slug": "ca-map-cuong-no",
+      "name": "Cá Mập Cuồng Nộ",
+      "originName": "Shark Frenzy",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260922/ca-map-cuong-no-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260922/ca-map-cuong-no-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Mỹ",
+          "slug": "my"
+        }
+      ]
+    },
+    {
+      "id": "chat-2026-f8c458ca",
+      "source": "phimapi",
+      "slug": "chat",
+      "name": "CHAT",
+      "originName": "CHAT",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260922/chat-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260922/chat-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "maxo-forbidden-ritual-2026-317774fb",
+      "source": "phimapi",
+      "slug": "ma-xo",
+      "name": "Ma Xó",
+      "originName": "Maxo: Forbidden Ritual",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260924/ma-xo-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260924/ma-xo-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Việt Nam",
+          "slug": "viet-nam"
+        }
+      ]
+    },
+    {
       "id": "strange-tales-of-huangqu-2026-3a8ab742",
       "source": "phimapi",
       "slug": "su-quy-ky-thon-hoang-tuyen",
@@ -30,6 +125,43 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "teenage-sex-and-death-at-2026-11bb5511",
+      "source": "phimapi",
+      "slug": "tinh-duc-tuoi-teen-va-cai-chet-tai-trai-miasma",
+      "name": "Tình Dục Tuổi Teen Và Cái Chết Tại Trại Miasma",
+      "originName": "Teenage Sex and Death at Camp Miasma",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260922/tinh-duc-tuoi-teen-va-cai-chet-tai-trai-miasma-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260922/tinh-duc-tuoi-teen-va-cai-chet-tai-trai-miasma-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -170,39 +302,6 @@
       ]
     },
     {
-      "id": "sana-2023-d461c412",
-      "source": "phimapi",
-      "slug": "kinh-cau-ma",
-      "name": "Kinh Cầu Ma",
-      "originName": "Sana",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260907/kinh-cau-ma-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260907/kinh-cau-ma-thumb.webp",
-      "year": 2023,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
       "id": "sijjin-2023-84a16e9f",
       "source": "phimapi",
       "slug": "sijjin",
@@ -232,6 +331,35 @@
         {
           "name": "Indonesia",
           "slug": "indonesia"
+        }
+      ]
+    },
+    {
+      "id": "the-blue-drum-2022-7dfd3c70",
+      "source": "phimapi",
+      "slug": "chiec-trong-xanh",
+      "name": "Chiếc Trống Xanh",
+      "originName": "The Blue Drum",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260921/chiec-trong-xanh-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260921/chiec-trong-xanh-thumb.webp",
+      "year": 2022,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -384,43 +512,6 @@
       ]
     },
     {
-      "id": "the-whispering-2018-8f7b79bd",
-      "source": "phimapi",
-      "slug": "loi-thi-tham",
-      "name": "Lời Thì Thầm",
-      "originName": "The Whispering",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260904/loi-thi-tham-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260904/loi-thi-tham-thumb.webp",
-      "year": 2018,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
       "id": "sijjin-4-2017-e6e0008f",
       "source": "phimapi",
       "slug": "loi-nguyen-sijjin-4",
@@ -553,13 +644,13 @@
       ]
     },
     {
-      "id": "lake-placid-the-final-ch-2013-a570ce0e",
+      "id": "mama-2013-9f43b59f",
       "source": "phimapi",
-      "slug": "ho-ca-sau-chuong-cuoi",
-      "name": "Hồ Cá Sấu: Chương Cuối",
-      "originName": "Lake Placid: The Final Chapter",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260906/ho-ca-sau-chuong-cuoi-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260906/ho-ca-sau-chuong-cuoi-thumb.webp",
+      "slug": "me-ma",
+      "name": "Mẹ Ma",
+      "originName": "Mama",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260921/me-ma-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260921/me-ma-thumb.webp",
       "year": 2013,
       "type": "single",
       "status": "completed",
@@ -570,30 +661,22 @@
           "slug": "kinh-di"
         },
         {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Canada",
+          "slug": "canada"
         },
         {
-          "name": "Bulgaria",
-          "slug": "bulgaria"
+          "name": "Tây Ban Nha",
+          "slug": "tay-ban-nha"
         }
       ]
     },
@@ -627,137 +710,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "anacondas-trail-of-blood-2009-f4311768",
-      "source": "phimapi",
-      "slug": "tran-khong-lo-4",
-      "name": "Trăn Khổng Lồ 4",
-      "originName": "Anacondas: Trail Of Blood",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260903/tran-khong-lo-4-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260903/tran-khong-lo-4-thumb.webp",
-      "year": 2009,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Romania",
-          "slug": "romania"
-        }
-      ]
-    },
-    {
-      "id": "lake-placid-2-2007-3d183220",
-      "source": "phimapi",
-      "slug": "ho-ca-sau-2",
-      "name": "Hồ Cá Sấu 2",
-      "originName": "Lake Placid 2",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260906/ho-ca-sau-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260906/ho-ca-sau-2-thumb.webp",
-      "year": 2007,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Canada",
-          "slug": "canada"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Bulgaria",
-          "slug": "bulgaria"
-        }
-      ]
-    },
-    {
-      "id": "inland-empire-2006-76ce4913",
-      "source": "phimapi",
-      "slug": "de-che-noi-dia",
-      "name": "Đế Chế Nội Địa",
-      "originName": "Inland Empire",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260903/de-che-noi-dia-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260903/de-che-noi-dia-thumb.webp",
-      "year": 2006,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Pháp",
-          "slug": "phap"
-        },
-        {
-          "name": "Ba Lan",
-          "slug": "ba-lan"
         }
       ]
     },
@@ -840,25 +792,29 @@
       ]
     },
     {
-      "id": "301-302-1995-9b41814d",
+      "id": "jack-frost-1997-d76df73c",
       "source": "phimapi",
-      "slug": "phong-301-302",
-      "name": "Phòng 301, 302",
-      "originName": "301/302",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260915/phong-301-302-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260915/phong-301-302-thumb.webp",
-      "year": 1995,
+      "slug": "nguoi-tuyet-sat-nhan",
+      "name": "Người Tuyết Sát Nhân",
+      "originName": "Jack Frost",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260927/nguoi-tuyet-sat-nhan-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260927/nguoi-tuyet-sat-nhan-thumb.webp",
+      "year": 1997,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
           "name": "Kinh Dị",
           "slug": "kinh-di"
         },
         {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
           "name": "Tâm Lý",
@@ -867,8 +823,8 @@
       ],
       "countries": [
         {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     }

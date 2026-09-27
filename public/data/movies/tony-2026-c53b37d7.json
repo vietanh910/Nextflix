@@ -1,0 +1,59 @@
+{
+  "id": "tony-2026-c53b37d7",
+  "source": "phimapi",
+  "slug": "tony",
+  "name": "Tony",
+  "originName": "Tony",
+  "posterUrl": "https://phimimg.com/uploads/movies/20260923/tony-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20260923/tony-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Canada",
+      "slug": "canada"
+    }
+  ],
+  "description": "<p>Bộ phim tái hiện thời thanh xuân năm 19 tuổi của cố đầu bếp, nhà văn và đầu bếp truyền hình lừng danh thế giới Anthony Bourdain.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260922/rNpYL0FE/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260922/rNpYL0FE/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "tony",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

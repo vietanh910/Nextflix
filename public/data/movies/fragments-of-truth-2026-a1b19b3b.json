@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 10",
+  "episodeCurrent": "Tập 16",
   "categories": [
     {
       "name": "Hình Sự",
@@ -115,6 +115,54 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260916/0WpkhRC4/index.m3u8"
     },
     {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260920/kbEcfz1Z/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260920/kbEcfz1Z/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260920/LBcaROvo/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260920/LBcaROvo/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260920/K484dJCR/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260920/K484dJCR/index.m3u8"
+    },
+    {
+      "name": "Tập 14",
+      "slug": "tap-14",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260920/RhBVzHjR/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260920/RhBVzHjR/index.m3u8"
+    },
+    {
+      "name": "Tập 15",
+      "slug": "tap-15",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260920/qUxheb1g/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260920/qUxheb1g/index.m3u8"
+    },
+    {
+      "name": "Tập 16",
+      "slug": "tap-16",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260920/1RyGgt26/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260920/1RyGgt26/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -135,7 +183,7 @@
     {
       "source": "phimapi",
       "slug": "hien-truong-san-an",
-      "episodeCount": 12,
+      "episodeCount": 18,
       "priority": 1
     }
   ],

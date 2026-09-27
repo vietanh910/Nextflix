@@ -5,33 +5,29 @@
   "totalPages": 1,
   "items": [
     {
-      "id": "the-alto-knights-2025-8a92ce58",
+      "id": "unabomber-2026-7b2f2d5e",
       "source": "phimapi",
-      "slug": "nhung-hiep-si-alto",
-      "name": "Những Hiệp Sĩ Alto",
-      "originName": "The Alto Knights",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260906/nhung-hiep-si-alto-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260906/nhung-hiep-si-alto-thumb.webp",
-      "year": 2025,
+      "slug": "unabomber",
+      "name": "UNABOMBER",
+      "originName": "UNABOMBER",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260925/unabomber-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260925/unabomber-thumb.webp",
+      "year": 2026,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
           "name": "Hình Sự",
           "slug": "hinh-su"
         },
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
           "name": "Lịch Sử",
           "slug": "lich-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
         }
       ],
       "countries": [
@@ -79,6 +75,76 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-33-2015-c7cf3be1",
+      "source": "phimapi",
+      "slug": "33-nguoi-tho-mo",
+      "name": "33 Người Thợ Mỏ",
+      "originName": "The 33",
+      "posterUrl": "https://phimimg.com/upload/vod/20231113-1/bcd21adf3bfd735e07f5a2e2b9513743.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20231113-1/ec71d9355de928b95d433bafbf280f88.jpg",
+      "year": 2015,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Lịch Sử",
+          "slug": "lich-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-other-boleyn-girl-2008-29797087",
+      "source": "phimapi",
+      "slug": "nguoi-tinh-dai-de",
+      "name": "Người Tình Đại Đế",
+      "originName": "The Other Boleyn Girl",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260921/nguoi-tinh-dai-de-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260921/nguoi-tinh-dai-de-thumb.webp",
+      "year": 2008,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Lịch Sử",
+          "slug": "lich-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     }
