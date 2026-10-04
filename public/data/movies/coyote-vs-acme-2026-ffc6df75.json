@@ -1,0 +1,59 @@
+{
+  "id": "coyote-vs-acme-2026-ffc6df75",
+  "source": "phimapi",
+  "slug": "coyote-dau-voi-acme",
+  "name": "Coyote Đấu Với Acme",
+  "originName": "Coyote vs. Acme",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261002/coyote-dau-voi-acme-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261002/coyote-dau-voi-acme-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Gia Đình",
+      "slug": "gia-dinh"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Sau quá nhiều lần thất bại vì những món hàng lỗi của công ty Acme trong cuộc săn đuổi không ngừng nghỉ chú chim Roadrunner, Wile E. Coyote quyết định thuê một luật sư… từ biển quảng cáo, để kiện tập đoàn Acme ra tòa.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261002/EnY4YvZv/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261002/EnY4YvZv/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "coyote-dau-voi-acme",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

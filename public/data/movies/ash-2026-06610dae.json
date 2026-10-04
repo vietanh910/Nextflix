@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (9/9)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -107,6 +107,14 @@
       "m3u8Url": "https://a.kvp726.com/20260926/s6XBHT6q/index.m3u8"
     },
     {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261002/GNV8Fppg/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261002/GNV8Fppg/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -169,13 +177,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260926/44Zic758/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20260926/44Zic758/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261002/CsqZO9KD/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261002/CsqZO9KD/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "tan-thuoc",
-      "episodeCount": 16,
+      "episodeCount": 18,
       "priority": 1
     }
   ],

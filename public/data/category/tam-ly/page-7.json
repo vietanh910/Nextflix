@@ -5,6 +5,129 @@
   "totalPages": 15,
   "items": [
     {
+      "id": "suikoden-the-anime-2026-236d253d",
+      "source": "phimapi",
+      "slug": "suikoden-the-anime",
+      "name": "Suikoden: The Anime",
+      "originName": "Suikoden: The Anime",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261004/suikoden-the-anime-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261004/suikoden-the-anime-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 1",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "goodbye-lara-2026-09883649",
+      "source": "phimapi",
+      "slug": "tam-biet-lara",
+      "name": "Tạm Biệt, Lara",
+      "originName": "Goodbye, Lara",
+      "posterUrl": "https://phimimg.com/upload/vod/20260706-1/921417e1ad5a13789142b510a53cf56e.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260706-1/a58d4995de5cca37d9a5505d0f7ca237.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "ash-2026-06610dae",
+      "source": "phimapi",
+      "slug": "tan-thuoc",
+      "name": "Tàn Thuốc",
+      "originName": "Ash",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (9/9)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
       "id": "saga-of-tanya-the-evil-s-2026-ec20437b",
       "source": "phimapi",
       "slug": "tanya-chien-ky-phan-2",
@@ -42,29 +165,20 @@
       ]
     },
     {
-      "id": "the-monkey-hero-2026-067c93cb",
+      "id": "the-furious-pertaruhan-m-2026-7d453cc9",
       "source": "phimapi",
-      "slug": "tay-du-ky-dai-nao",
-      "name": "Tây Du Ký Đại Náo",
-      "originName": "The Monkey Hero",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260910/tay-du-ky-dai-nao-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260910/tay-du-ky-dai-nao-thumb.webp",
+      "slug": "tay-dam-cuong-no-danh-cuoc-danh-du",
+      "name": "Tay Đấm Cuồng Nộ Đánh Cược Danh Dự",
+      "originName": "The Furious: Pertaruhan Maruah",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261002/tay-dam-cuong-no-danh-cuoc-danh-du-poster.webp",
       "year": 2026,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
         },
         {
           "name": "Chính Kịch",
@@ -77,8 +191,8 @@
       ],
       "countries": [
         {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
+          "name": "Malaysia",
+          "slug": "malaysia"
         }
       ]
     },
@@ -126,7 +240,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 20",
+      "episodeCurrent": "Tập 22",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -135,39 +249,6 @@
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "abyss-2026-9485ddab",
-      "source": "phimapi",
-      "slug": "tham-uyen-vo-gian",
-      "name": "Thâm Uyên Vô Gian",
-      "originName": "Abyss",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260910/tham-uyen-vo-gian-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260910/tham-uyen-vo-gian-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (16/16)",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
         },
         {
           "name": "Tâm Lý",
@@ -192,7 +273,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -262,7 +343,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -324,7 +405,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 13",
+      "episodeCurrent": "Tập 14",
       "categories": [
         {
           "name": "Hành Động",
@@ -364,8 +445,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20260721/thay-giao-vi-dai-onizuka-ban-2026-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (11/11)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -421,6 +502,51 @@
       ]
     },
     {
+      "id": "black-clover-season-2-2026-d876a0f0",
+      "source": "phimapi",
+      "slug": "the-gioi-phep-thuat-phan-2",
+      "name": "Thế Giới Phép Thuật (Phần 2)",
+      "originName": "Black Clover (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261004/the-gioi-phep-thuat-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261004/the-gioi-phep-thuat-phan-2-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 1",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
       "id": "revenge-from-a-wife-2026-50a60ab7",
       "source": "phimapi",
       "slug": "thiep-von-chi-la-co-rac",
@@ -430,8 +556,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20260920/thiep-von-chi-la-co-rac-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 24",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (30/30)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -463,8 +589,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20260719/thieu-chu-gioi-chay-tron-phan-2-thumb.webp",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -569,6 +695,55 @@
       ]
     },
     {
+      "id": "overgeared-2026-f10732c7",
+      "source": "phimapi",
+      "slug": "tho-ren-huyen-thoai",
+      "name": "Thợ Rèn Huyền Thoại",
+      "originName": "Overgeared",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261004/tho-ren-huyen-thoai-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261004/tho-ren-huyen-thoai-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 1",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        },
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
       "id": "kakuseihunter-omegahorn-2026-b89e8402",
       "source": "phimapi",
       "slug": "tho-san-giac-thu-omegahorn",
@@ -579,7 +754,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -612,7 +787,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -645,7 +820,7 @@
       "year": 2026,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
+      "episodeCurrent": "Hoàn Tất (13/13)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -682,7 +857,7 @@
       "year": 2026,
       "type": "tvshow",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -697,146 +872,6 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "young-ladies-don-t-play--2026-70d67584",
-      "source": "phimapi",
-      "slug": "tieu-thu-khong-choi-game-doi-khang",
-      "name": "Tiểu Thư Không Chơi Game Đối Kháng",
-      "originName": "Young Ladies Don't Play Fighting Games",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260708/tieu-thu-khong-choi-game-doi-khang-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260708/tieu-thu-khong-choi-game-doi-khang-thumb.webp",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "badly-in-love-season-2-2026-195b027e",
-      "source": "phimapi",
-      "slug": "tinh-yeu-noi-loan-phan-2",
-      "name": "Tình Yêu Nổi Loạn (Phần 2)",
-      "originName": "Badly In Love (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260807/tinh-yeu-noi-loan-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260807/tinh-yeu-noi-loan-phan-2-thumb.webp",
-      "year": 2026,
-      "type": "tvshow",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (20/20)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "love-on-the-menu-2026-1912ac5a",
-      "source": "phimapi",
-      "slug": "tinh-yeu-tren-thuc-don",
-      "name": "Tình Yêu Trên Thực Đơn",
-      "originName": "Love On The Menu",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260918/tinh-yeu-tren-thuc-don-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260918/tinh-yeu-tren-thuc-don-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 8",
-      "categories": [
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "love-unseen-beneath-the--2026-e8c34cd1",
-      "source": "phimapi",
-      "slug": "tinh-yeu-vo-hinh-noi-man-dem-trong-vat",
-      "name": "Tình Yêu Vô Hình Nơi Màn Đêm Trong Vắt",
-      "originName": "Love Unseen Beneath The Clear Night Sky",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260708/tinh-yeu-vo-hinh-noi-man-dem-trong-vat-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260708/tinh-yeu-vo-hinh-noi-man-dem-trong-vat-thumb.webp",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
         }
       ]
     }

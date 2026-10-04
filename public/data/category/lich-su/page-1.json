@@ -5,6 +5,43 @@
   "totalPages": 1,
   "items": [
     {
+      "id": "the-uprising-2026-56169f37",
+      "source": "phimapi",
+      "slug": "tro-tan-vung-len",
+      "name": "Tro Tàn Vùng Lên",
+      "originName": "The Uprising",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261001/tro-tan-vung-len-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261001/tro-tan-vung-len-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Lịch Sử",
+          "slug": "lich-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Đức",
+          "slug": "duc"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "unabomber-2026-7b2f2d5e",
       "source": "phimapi",
       "slug": "unabomber",
@@ -34,47 +71,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-princess-and-the-mat-2018-5601119e",
-      "source": "phimapi",
-      "slug": "cong-chua-va-chang-mai",
-      "name": "Công Chúa Và Chàng Mai",
-      "originName": "The Princess And The Matchmaker",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260910/cong-chua-va-chang-mai-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260910/cong-chua-va-chang-mai-thumb.webp",
-      "year": 2018,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Lịch Sử",
-          "slug": "lich-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
         }
       ]
     },

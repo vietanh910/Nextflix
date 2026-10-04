@@ -5,6 +5,154 @@
   "totalPages": 15,
   "items": [
     {
+      "id": "renegade-immortal-battle-2026-b756dafc",
+      "source": "phimapi",
+      "slug": "tien-nghich-movie-thi-tien-chi-chien",
+      "name": "Tiên Nghịch Movie: Thí Tiên Chi Chiến",
+      "originName": "Renegade Immortal: Battle of the Immortal Slayer",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261002/tien-nghich-movie-thi-tien-chi-chien-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261002/tien-nghich-movie-thi-tien-chi-chien-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "young-ladies-don-t-play--2026-70d67584",
+      "source": "phimapi",
+      "slug": "tieu-thu-khong-choi-game-doi-khang",
+      "name": "Tiểu Thư Không Chơi Game Đối Kháng",
+      "originName": "Young Ladies Don't Play Fighting Games",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260708/tieu-thu-khong-choi-game-doi-khang-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260708/tieu-thu-khong-choi-game-doi-khang-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "love-on-the-menu-2026-1912ac5a",
+      "source": "phimapi",
+      "slug": "tinh-yeu-tren-thuc-don",
+      "name": "Tình Yêu Trên Thực Đơn",
+      "originName": "Love On The Menu",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260918/tinh-yeu-tren-thuc-don-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260918/tinh-yeu-tren-thuc-don-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 8",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "love-unseen-beneath-the--2026-e8c34cd1",
+      "source": "phimapi",
+      "slug": "tinh-yeu-vo-hinh-noi-man-dem-trong-vat",
+      "name": "Tình Yêu Vô Hình Nơi Màn Đêm Trong Vắt",
+      "originName": "Love Unseen Beneath The Clear Night Sky",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260708/tinh-yeu-vo-hinh-noi-man-dem-trong-vat-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260708/tinh-yeu-vo-hinh-noi-man-dem-trong-vat-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
       "id": "i-became-a-legend-after--2026-e4136c78",
       "source": "phimapi",
       "slug": "toi-tro-thanh-huyen-thoai-sau-tran-chien-cuoi-cung-keo-dai-10-nam",
@@ -55,8 +203,8 @@
       "thumbUrl": "https://phimimg.com/upload/vod/20260411-1/49af586eff3cd03a5f3e5558aa451f58.jpg",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 25",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (26/26)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -122,48 +270,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 13",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "from-overshadowed-to-ove-2026-1c123e5e",
-      "source": "phimapi",
-      "slug": "tu-bi-lu-mo-den-ap-dao",
-      "name": "Từ Bị Lu Mờ Đến Áp Đảo",
-      "originName": "From Overshadowed To Overpowered: Second Reincarnation Of A Talentless Sage",
-      "posterUrl": "https://phimimg.com/upload/vod/20260627-1/9666857e1a0a2ed9de5fc5bb07691193.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260627-1/abd77cee9d652ac7687193990c84d18b.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
+      "episodeCurrent": "Tập 14",
       "categories": [
         {
           "name": "Hành Động",
@@ -306,8 +413,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20260726/van-co-chi-ton-ly-van-tieu-truyen-thumb.webp",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 22",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -326,6 +433,43 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "mrs-revenge-2026-bc393937",
+      "source": "phimapi",
+      "slug": "van-co-hon-nhan",
+      "name": "Ván Cờ Hôn Nhân",
+      "originName": "Mrs. Revenge",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260929/van-co-hon-nhan-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260929/van-co-hon-nhan-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (25/25)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
         }
       ]
     },
@@ -381,7 +525,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 29",
+      "episodeCurrent": "Tập 38",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -657,7 +801,7 @@
       "year": 2026,
       "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
+      "episodeCurrent": "Hoàn Tất (13/13)",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -713,154 +857,6 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "police-in-love-2026-09378fd9",
-      "source": "phimapi",
-      "slug": "yeu-nham-canh-sat-thanh-tra-theer-yeu-dau-vo-sap-cuoi-cua-thanh-tra",
-      "name": "Yêu Nhầm Cảnh Sát / Thanh Tra Theer Yêu Dấu / Vợ Sắp Cưới Của Thanh Tra",
-      "originName": "Police In Love",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260915/yeu-nham-canh-sat-thanh-tra-theer-yeu-dau-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260915/yeu-nham-canh-sat-thanh-tra-theer-yeu-dau-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 3",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "i-want-to-love-you-till--2026-3f837415",
-      "source": "phimapi",
-      "slug": "yeu-nhau-den-tan-ngay-cau-bien-mat",
-      "name": "Yêu Nhau Đến Tận Ngày Cậu Biến Mất",
-      "originName": "I Want To Love You Till Your Dying Day",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260708/yeu-nhau-den-tan-ngay-cau-bien-mat-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260708/yeu-nhau-den-tan-ngay-cau-bien-mat-thumb.webp",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 12",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "shark-the-storm-2025-4a68f047",
-      "source": "phimapi",
-      "slug": "ca-map-con-bao",
-      "name": "Cá Mập: Cơn Bão",
-      "originName": "Shark: The Storm",
-      "posterUrl": "https://phimimg.com/upload/vod/20250516-1/9b78cc6a0d6205f2b5f156a4976c63f3.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250516-1/573f2ef62b3ee2fa4fcd5f68f350f78f.jpg",
-      "year": 2025,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (6/6)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "under-fire-2025-e76bf7f0",
-      "source": "phimapi",
-      "slug": "duoi-lan-lua-dan",
-      "name": "Dưới Làn Lửa Đạn",
-      "originName": "Under Fire",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260911/duoi-lan-lua-dan-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260911/duoi-lan-lua-dan-thumb.webp",
-      "year": 2025,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     }

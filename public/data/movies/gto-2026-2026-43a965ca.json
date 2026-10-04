@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260721/thay-giao-vi-dai-onizuka-ban-2026-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 10",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (11/11)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -113,13 +113,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260921/0aNqokWU/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20260921/0aNqokWU/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260928/ubwgZv3E/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260928/ubwgZv3E/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "thay-giao-vi-dai-onizuka-ban-2026",
-      "episodeCount": 10,
+      "episodeCount": 11,
       "priority": 1
     }
   ],

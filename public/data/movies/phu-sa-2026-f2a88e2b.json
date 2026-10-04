@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 25",
+  "episodeCurrent": "Tập 29",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -233,13 +233,45 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260925/wSnWzgnp/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20260925/wSnWzgnp/index.m3u8"
+    },
+    {
+      "name": "Tập 26",
+      "slug": "tap-26",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260928/VIcdL5Rm/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260928/VIcdL5Rm/index.m3u8"
+    },
+    {
+      "name": "Tập 27",
+      "slug": "tap-27",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260928/CWpFdttz/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260928/CWpFdttz/index.m3u8"
+    },
+    {
+      "name": "Tập 28",
+      "slug": "tap-28",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260929/JvQasWV3/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260929/JvQasWV3/index.m3u8"
+    },
+    {
+      "name": "Tập 29",
+      "slug": "tap-29",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260930/qeskJ3rq/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260930/qeskJ3rq/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "phu-sa",
-      "episodeCount": 25,
+      "episodeCount": 29,
       "priority": 1
     }
   ],

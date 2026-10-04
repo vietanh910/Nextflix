@@ -5,13 +5,50 @@
   "totalPages": 3,
   "items": [
     {
-      "id": "ajin-demi-human-season-2-2016-9bdda3e7",
+      "id": "super-troopers-2-2018-4d34f673",
       "source": "phimapi",
-      "slug": "a-nhan-phan-2",
-      "name": "Á Nhân (Phần 2)",
-      "originName": "AJIN: Demi-Human (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260920/a-nhan-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260920/a-nhan-phan-2-thumb.webp",
+      "slug": "don-canh-sat-nhi-nho-2",
+      "name": "Đồn Cảnh Sát Nhí Nhố 2",
+      "originName": "Super Troopers 2",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261002/don-canh-sat-nhi-nho-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261002/don-canh-sat-nhi-nho-2-thumb.webp",
+      "year": 2018,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "ajin-demi-human-season-1-2016-30c3db7f",
+      "source": "phimapi",
+      "slug": "a-nhan-phan-1",
+      "name": "Á Nhân (Phần 1)",
+      "originName": "AJIN: Demi-Human (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260920/a-nhan-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260920/a-nhan-phan-1-thumb.webp",
       "year": 2016,
       "type": "anime",
       "status": "completed",
@@ -46,54 +83,29 @@
       ]
     },
     {
-      "id": "doctor-x-surgeon-michiko-2016-086f8e10",
+      "id": "ajin-demi-human-season-2-2016-9bdda3e7",
       "source": "phimapi",
-      "slug": "bac-si-x-ngoai-khoa-daimon-michiko-phan-4",
-      "name": "Bác Sĩ X Ngoại Khoa: Daimon Michiko (Phần 4)",
-      "originName": "Doctor X Surgeon Michiko Daimon (Season 4)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260909/bac-si-x-ngoai-khoa-daimon-michiko-phan-4-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260909/bac-si-x-ngoai-khoa-daimon-michiko-phan-4-thumb.webp",
+      "slug": "a-nhan-phan-2",
+      "name": "Á Nhân (Phần 2)",
+      "originName": "AJIN: Demi-Human (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260920/a-nhan-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260920/a-nhan-phan-2-thumb.webp",
       "year": 2016,
-      "type": "series",
+      "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (11/11)",
+      "episodeCurrent": "Hoàn Tất (13/13)",
       "categories": [
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
         },
         {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
         },
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "doctor-x-surgeon-michiko-2014-8be3e687",
-      "source": "phimapi",
-      "slug": "bac-si-x-ngoai-khoa-daimon-michiko-phan-3",
-      "name": "Bác Sĩ X Ngoại Khoa: Daimon Michiko (Phần 3)",
-      "originName": "Doctor X Surgeon Michiko Daimon (Season 3)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260909/bac-si-x-ngoai-khoa-daimon-michiko-phan-3-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260909/bac-si-x-ngoai-khoa-daimon-michiko-phan-3-thumb.webp",
-      "year": 2014,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (11/11)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
         },
         {
           "name": "Bí Ẩn",
@@ -149,39 +161,6 @@
       ]
     },
     {
-      "id": "doctor-x-surgeon-michiko-2013-21e9c255",
-      "source": "phimapi",
-      "slug": "bac-si-x-ngoai-khoa-daimon-michiko-phan-2",
-      "name": "Bác Sĩ X Ngoại Khoa: Daimon Michiko (Phần 2)",
-      "originName": "Doctor X Surgeon Michiko Daimon (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260909/bac-si-x-ngoai-khoa-daimon-michiko-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260909/bac-si-x-ngoai-khoa-daimon-michiko-phan-2-thumb.webp",
-      "year": 2013,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (9/9)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
       "id": "revenge-season-3-2013-68aff8ef",
       "source": "phimapi",
       "slug": "bao-thu-phan-3",
@@ -215,39 +194,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "doctor-x-surgeon-michiko-2012-8c6f4de9",
-      "source": "phimapi",
-      "slug": "bac-si-x-ngoai-khoa-daimon-michiko-phan-1",
-      "name": "Bác Sĩ X Ngoại Khoa: Daimon Michiko (Phần 1)",
-      "originName": "Doctor X Surgeon Michiko Daimon (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260909/bac-si-x-ngoai-khoa-daimon-michiko-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260909/bac-si-x-ngoai-khoa-daimon-michiko-phan-1-thumb.webp",
-      "year": 2012,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
         }
       ]
     },
@@ -392,6 +338,43 @@
         {
           "name": "Hồng Kông",
           "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "super-troopers-2001-f43e5acb",
+      "source": "phimapi",
+      "slug": "don-canh-sat-nhi-nho",
+      "name": "Đồn Cảnh Sát Nhí Nhố",
+      "originName": "Super Troopers",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261002/don-canh-sat-nhi-nho-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261002/don-canh-sat-nhi-nho-thumb.webp",
+      "year": 2001,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },

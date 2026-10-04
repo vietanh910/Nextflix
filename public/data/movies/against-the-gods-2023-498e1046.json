@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 56",
+  "episodeCurrent": "Tập 57",
   "categories": [
     {
       "name": "Hành Động",
@@ -489,13 +489,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260924/391ztI9J/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20260924/391ztI9J/index.m3u8"
+    },
+    {
+      "name": "Tập 57",
+      "slug": "tap-57",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261001/YezOzZGV/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261001/YezOzZGV/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nghich-thien-ta-than",
-      "episodeCount": 56,
+      "episodeCount": 57,
       "priority": 1
     }
   ],

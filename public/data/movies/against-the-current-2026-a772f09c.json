@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 34",
+  "episodeCurrent": "Tập 41",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -307,15 +307,71 @@
       "slug": "tap-34",
       "serverName": "Vietsub",
       "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260926/IkYNX4Qx/index.m3u8",
-      "m3u8Url": "https://a.kvp726.com/20260926/IkYNX4Qx/index.m3u8"
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260927/EXGdfGKk/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260927/EXGdfGKk/index.m3u8"
+    },
+    {
+      "name": "Tập 35",
+      "slug": "tap-35",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260927/QUURPQil/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260927/QUURPQil/index.m3u8"
+    },
+    {
+      "name": "Tập 36",
+      "slug": "tap-36",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260928/0rQHcw9m/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260928/0rQHcw9m/index.m3u8"
+    },
+    {
+      "name": "Tập 37",
+      "slug": "tap-37",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260928/9N8BtbOC/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260928/9N8BtbOC/index.m3u8"
+    },
+    {
+      "name": "Tập 38",
+      "slug": "tap-38",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260929/I1ESVBJx/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260929/I1ESVBJx/index.m3u8"
+    },
+    {
+      "name": "Tập 39",
+      "slug": "tap-39",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261001/pRE9Bzh5/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261001/pRE9Bzh5/index.m3u8"
+    },
+    {
+      "name": "Tập 40",
+      "slug": "tap-40",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261002/1la4s6EC/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261002/1la4s6EC/index.m3u8"
+    },
+    {
+      "name": "Tập 41",
+      "slug": "tap-41",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261003/gSMO0jMj/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261003/gSMO0jMj/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "lan-huong-nhu-co",
-      "episodeCount": 34,
+      "episodeCount": 41,
       "priority": 1
     }
   ],

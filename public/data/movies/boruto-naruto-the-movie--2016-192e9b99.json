@@ -9,7 +9,18 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "countries": [],
+  "description": "Bundled with the perfect limited edition DVD/BD Boruto: Naruto the Movie.",
   "episodes": [],
   "sources": [
     {

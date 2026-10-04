@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 15",
+  "episodeCurrent": "Tập 20",
   "categories": [
     {
       "name": "Bí Ẩn",
@@ -153,13 +153,53 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260925/dIrW4P6O/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20260925/dIrW4P6O/index.m3u8"
+    },
+    {
+      "name": "Tập 16",
+      "slug": "tap-16",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260928/M8Qzlvln/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260928/M8Qzlvln/index.m3u8"
+    },
+    {
+      "name": "Tập 17",
+      "slug": "tap-17",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260929/xEwVzSeH/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260929/xEwVzSeH/index.m3u8"
+    },
+    {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260930/Wd0fC7dy/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260930/Wd0fC7dy/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261001/4iD65cQc/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261001/4iD65cQc/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261002/VuO4sP9N/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261002/VuO4sP9N/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "doi-chung",
-      "episodeCount": 15,
+      "episodeCount": 20,
       "priority": 1
     }
   ],

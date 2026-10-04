@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260413-1/123b7a5cfa19c587ac0fb3395cd828f0.jpg",
   "year": 2026,
   "type": "anime",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 23",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (24/24)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -221,13 +221,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260926/cSnAtaHX/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20260926/cSnAtaHX/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261003/aG3GoRjo/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261003/aG3GoRjo/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "co-nang-mot-sach",
-      "episodeCount": 23,
+      "episodeCount": 24,
       "priority": 1
     }
   ],

@@ -9,7 +9,22 @@
   "year": 2015,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Slice of Life",
+      "slug": "slice-of-life"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "countries": [],
+  "description": "Original short anime bundled with the seventh Blu-ray and DVD volume of Sora no Method.",
   "episodes": [],
   "sources": [
     {

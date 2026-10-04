@@ -5,6 +5,35 @@
   "totalPages": 14,
   "items": [
     {
+      "id": "love-2026-85c5d36e",
+      "source": "phimapi",
+      "slug": "yeu-2026",
+      "name": "#Yêu",
+      "originName": "#Love",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261004/yeu-2026-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261004/yeu-2026-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (6/6)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ấn Độ",
+          "slug": "an-do"
+        }
+      ]
+    },
+    {
       "id": "though-i-am-an-inept-vil-2026-40c3d84e",
       "source": "phimapi",
       "slug": "ac-nu-nua-voi-truyen-ki-hoan-hon-doi-xac",
@@ -46,39 +75,6 @@
       ]
     },
     {
-      "id": "i-want-your-sex-2026-42d4ffd3",
-      "source": "phimapi",
-      "slug": "anh-muon-yeu-voi-em",
-      "name": "Anh Muốn \"Yêu\" Với Em",
-      "originName": "I Want Your Sex",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260908/anh-muon-yeu-voi-em-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260908/anh-muon-yeu-voi-em-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "your-third-2026-d513cecb",
       "source": "phimapi",
       "slug": "anh-sam-cua-em",
@@ -89,7 +85,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -229,7 +225,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hình Sự",
@@ -262,7 +258,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -291,7 +287,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -356,7 +352,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -371,6 +367,72 @@
         {
           "name": "Thái Lan",
           "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "the-ramparts-of-ice-seas-2026-3ff256b9",
+      "source": "phimapi",
+      "slug": "buc-tuong-bang-phan-1",
+      "name": "Bức Tường Băng (Phần 1)",
+      "originName": "The Ramparts Of Ice (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260404-1/26f579bccac331f2d8f665e7f351f741.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260404-1/e1b14c45500af93e16f521d03f92f071.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-ramparts-of-ice-seas-2026-b4d4cc1f",
+      "source": "phimapi",
+      "slug": "buc-tuong-bang-phan-2",
+      "name": "Bức Tường Băng (Phần 2)",
+      "originName": "The Ramparts Of Ice (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261002/buc-tuong-bang-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261002/buc-tuong-bang-phan-2-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 1",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -396,39 +458,6 @@
         {
           "name": "Ba Lan",
           "slug": "ba-lan"
-        }
-      ]
-    },
-    {
-      "id": "go-team-2026-d3c10b89",
-      "source": "phimapi",
-      "slug": "ca-doi-co-len",
-      "name": "Cả Đội Cố Lên",
-      "originName": "Go Team!",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260912/ca-doi-co-len-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260912/ca-doi-co-len-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Tây Ban Nha",
-          "slug": "tay-ban-nha"
         }
       ]
     },
@@ -546,7 +575,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "episodeCurrent": "Tập 12",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -579,7 +608,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -631,6 +660,84 @@
       ]
     },
     {
+      "id": "fx-fighter-kurumi-chan-2026-fcd32bab",
+      "source": "phimapi",
+      "slug": "chien-binh-ngoai-hoi-kurumi-chan",
+      "name": "Chiến Binh Ngoại Hối Kurumi-Chan",
+      "originName": "FX Fighter Kurumi-chan",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261002/chien-binh-ngoai-hoi-kurumi-chan-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261002/chien-binh-ngoai-hoi-kurumi-chan-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 1",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "dive-into-you-season-1-2026-3e394197",
+      "source": "phimapi",
+      "slug": "chim-vao-mat-em-phan-1",
+      "name": "Chìm Vào Mắt Em (Phần 1)",
+      "originName": "Dive into You (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260927/chim-vao-mat-em-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260927/chim-vao-mat-em-phan-1-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 2",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        },
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
       "id": "a-good-day-to-ascend-2026-ea311ea6",
       "source": "phimapi",
       "slug": "chon-ngay-phi-thang",
@@ -641,7 +748,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 13",
+      "episodeCurrent": "Tập 14",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -693,104 +800,6 @@
         {
           "name": "Ấn Độ",
           "slug": "an-do"
-        }
-      ]
-    },
-    {
-      "id": "treasure-lovers-2026-1a860d0f",
-      "source": "phimapi",
-      "slug": "chuyen-tinh-dao-thien-duong",
-      "name": "Chuyện Tình Đảo Thiên Đường",
-      "originName": "Treasure Lovers",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260827/chuyen-tinh-dao-thien-duong-poster.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 10",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "the-ogre-s-bride-2026-b358caf3",
-      "source": "phimapi",
-      "slug": "co-dau-cua-quy",
-      "name": "Cô Dâu Của Quỷ",
-      "originName": "The Ogre's Bride",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260707/co-dau-cua-quy-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260707/co-dau-cua-quy-thumb.webp",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "crew-girl-2026-b1863991",
-      "source": "phimapi",
-      "slug": "co-gai-doi-rowing",
-      "name": "Cô Gái Đội Rowing",
-      "originName": "Crew Girl",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260910/co-gai-doi-rowing-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260910/co-gai-doi-rowing-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Canada",
-          "slug": "canada"
         }
       ]
     }

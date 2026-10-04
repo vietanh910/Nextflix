@@ -9,7 +9,7 @@
   "year": 2024,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 10",
+  "episodeCurrent": "Tập 11",
   "categories": [
     {
       "name": "Gia Đình",
@@ -115,6 +115,14 @@
       "m3u8Url": "https://a.kvp726.com/20260925/4A7WzoIz/index.m3u8"
     },
     {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260929/VgF1OSdz/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260929/VgF1OSdz/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -193,13 +201,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260925/5vWOjSyo/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20260925/5vWOjSyo/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260929/PlzrYnO9/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260929/PlzrYnO9/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "khoi-dau-cua-bien-ca-noi-bien-bat-dau",
-      "episodeCount": 20,
+      "episodeCount": 22,
       "priority": 1
     }
   ],

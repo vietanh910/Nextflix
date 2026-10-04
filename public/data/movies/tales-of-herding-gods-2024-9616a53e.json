@@ -9,7 +9,7 @@
   "year": 2024,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 101",
+  "episodeCurrent": "Tập 102",
   "categories": [
     {
       "name": "Phiêu Lưu",
@@ -839,6 +839,14 @@
       "m3u8Url": "https://a.kvp726.com/20260920/CN7wWQeI/index.m3u8"
     },
     {
+      "name": "Tập 102",
+      "slug": "tap-102",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260927/m1k83HJW/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260927/m1k83HJW/index.m3u8"
+    },
+    {
       "name": "Tập 1",
       "slug": "tap-1",
       "serverName": "Thuyết Minh",
@@ -1571,7 +1579,7 @@
     {
       "source": "phimapi",
       "slug": "muc-than-ky",
-      "episodeCount": 192,
+      "episodeCount": 193,
       "priority": 1
     }
   ],

@@ -1,0 +1,59 @@
+{
+  "id": "the-uprising-2026-56169f37",
+  "source": "phimapi",
+  "slug": "tro-tan-vung-len",
+  "name": "Tro Tàn Vùng Lên",
+  "originName": "The Uprising",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261001/tro-tan-vung-len-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261001/tro-tan-vung-len-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Lịch Sử",
+      "slug": "lich-su"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Đức",
+      "slug": "duc"
+    },
+    {
+      "name": "Anh",
+      "slug": "anh"
+    },
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Giữa nước Anh thế kỷ 14 bị dịch bệnh tàn phá, một người nông dân nghèo vô tình châm ngòi cho làn sóng phản kháng chống lại Vua Richard II. Từ một kẻ vô danh dưới đáy xã hội, ông trở thành huyền thoại của những con người không còn gì để mất.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261001/XEsJsJ3H/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261001/XEsJsJ3H/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "tro-tan-vung-len",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 11",
+  "episodeCurrent": "Tập 12",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -133,13 +133,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260924/086A1l7e/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20260924/086A1l7e/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261001/D8gFobYN/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261001/D8gFobYN/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "hoc-vien-cao-vo-dong-dai",
-      "episodeCount": 12,
+      "episodeCount": 13,
       "priority": 1
     }
   ],

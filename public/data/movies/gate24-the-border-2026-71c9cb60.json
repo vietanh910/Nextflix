@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260803/dai-khong-cang-gate24-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (9/9)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -97,13 +97,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260920/Iu03N81Q/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20260920/Iu03N81Q/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260927/z4KjWNBA/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260927/z4KjWNBA/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "dai-khong-cang-gate24",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 1
     }
   ],

@@ -5,68 +5,6 @@
   "totalPages": 4,
   "items": [
     {
-      "id": "one-night-only-2026-ea78026b",
-      "source": "phimapi",
-      "slug": "mot-dem-duy-nhat",
-      "name": "Một Đêm Duy Nhất",
-      "originName": "One Night Only",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260914/mot-dem-duy-nhat-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260914/mot-dem-duy-nhat-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "that-summer-2026-f945622e",
-      "source": "phimapi",
-      "slug": "mua-he-nam-ay-2026",
-      "name": "Mùa Hè Năm Ấy",
-      "originName": "That Summer",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260808/mua-he-nam-ay-2026-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260808/mua-he-nam-ay-2026-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 21",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Việt Nam",
-          "slug": "viet-nam"
-        }
-      ]
-    },
-    {
       "id": "your-sky-hare-nochi-koi-2026-5730376e",
       "source": "phimapi",
       "slug": "muon-ngan-troi-may-ban-nhat",
@@ -76,8 +14,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20260917/muon-ngan-troi-may-ban-nhat-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (9/9)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -139,7 +77,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 17",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -168,7 +106,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 25",
+      "episodeCurrent": "Tập 29",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -224,6 +162,35 @@
       ]
     },
     {
+      "id": "doing-life-2026-c8d4ae3a",
+      "source": "phimapi",
+      "slug": "song-doi",
+      "name": "Sống Đời",
+      "originName": "Doing Life",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261004/song-doi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261004/song-doi-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "double-couple-trouble-2026-2a54a90f",
       "source": "phimapi",
       "slug": "song-hy-lam-nguy",
@@ -265,53 +232,16 @@
       ]
     },
     {
-      "id": "why-did-i-get-married-ag-2026-ccbc0dc1",
+      "id": "unsoiled-starlight-2026-9d089a45",
       "source": "phimapi",
-      "slug": "tai-sao-toi-lai-ket-hon-nua",
-      "name": "Tại Sao Tôi Lại Kết Hôn Nữa?",
-      "originName": "Why Did I Get Married Again?",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260910/tai-sao-toi-lai-ket-hon-nua-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260910/tai-sao-toi-lai-ket-hon-nua-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "unsoiled-starlight-seaso-2026-ab60cea0",
-      "source": "phimapi",
-      "slug": "thien-vi-rieng-em-phan-1",
-      "name": "Thiên Vị Riêng Em (Phần 1)",
-      "originName": "Unsoiled Starlight (Season 1)",
+      "slug": "thien-vi-rieng-em",
+      "name": "Thiên Vị Riêng Em",
+      "originName": "Unsoiled Starlight",
       "posterUrl": "https://phimimg.com/uploads/movies/20260924/thien-vi-rieng-em-phan-1-poster.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 22",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (40/40)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -363,68 +293,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "strobe-edge-2026-6a42b3b2",
-      "source": "phimapi",
-      "slug": "tinh-yeu-lap-lanh-phan-2",
-      "name": "Tình Yêu Lấp Lánh (Phần 2)",
-      "originName": "Strobe Edge",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260914/tinh-yeu-lap-lanh-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260914/tinh-yeu-lap-lanh-phan-2-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (6/6)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "badly-in-love-season-2-2026-195b027e",
-      "source": "phimapi",
-      "slug": "tinh-yeu-noi-loan-phan-2",
-      "name": "Tình Yêu Nổi Loạn (Phần 2)",
-      "originName": "Badly In Love (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260807/tinh-yeu-noi-loan-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260807/tinh-yeu-noi-loan-phan-2-thumb.webp",
-      "year": 2026,
-      "type": "tvshow",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (20/20)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
         }
       ]
     },
@@ -513,7 +381,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 15",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -542,7 +410,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 15",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -598,6 +466,43 @@
       ]
     },
     {
+      "id": "mrs-revenge-2026-bc393937",
+      "source": "phimapi",
+      "slug": "van-co-hon-nhan",
+      "name": "Ván Cờ Hôn Nhân",
+      "originName": "Mrs. Revenge",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260929/van-co-hon-nhan-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260929/van-co-hon-nhan-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (25/25)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
       "id": "the-legend-of-rosy-cloud-2026-0d9740fb",
       "source": "phimapi",
       "slug": "van-tu-hanh",
@@ -649,7 +554,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 20",
+      "episodeCurrent": "Tập 24",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -711,7 +616,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -792,6 +697,117 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "police-in-love-2026-09378fd9",
+      "source": "phimapi",
+      "slug": "yeu-nham-canh-sat-thanh-tra-theer-yeu-dau-vo-sap-cuoi-cua-thanh-tra",
+      "name": "Yêu Nhầm Cảnh Sát / Thanh Tra Theer Yêu Dấu / Vợ Sắp Cưới Của Thanh Tra",
+      "originName": "Police In Love",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260915/yeu-nham-canh-sat-thanh-tra-theer-yeu-dau-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260915/yeu-nham-canh-sat-thanh-tra-theer-yeu-dau-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 4",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "i-mperfect-2025-314e81d9",
+      "source": "phimapi",
+      "slug": "i-mperfect",
+      "name": "I'mPerfect",
+      "originName": "I'mPerfect",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260923/i-mperfect-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260923/i-mperfect-thumb.webp",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Philippines",
+          "slug": "philippines"
+        }
+      ]
+    },
+    {
+      "id": "luminosity-behind-the-pa-2025-059b4da7",
+      "source": "phimapi",
+      "slug": "man-dinh-phuong",
+      "name": "Mãn Đình Phương",
+      "originName": "Luminosity Behind The Palace",
+      "posterUrl": "https://phimimg.com/upload/vod/20250821-1/1fe84773c6972724aaaf5ec440a6bb5b.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250821-1/c5c49f11545a856e538f5aa6591cfab1.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (16/16)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     }

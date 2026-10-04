@@ -9,7 +9,7 @@
   "year": 2021,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 486",
+  "episodeCurrent": "Tập 488",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -3905,13 +3905,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260926/spqWU0QR/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20260926/spqWU0QR/index.m3u8"
+    },
+    {
+      "name": "Tập 487",
+      "slug": "tap-487",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260929/lRxMB70m/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260929/lRxMB70m/index.m3u8"
+    },
+    {
+      "name": "Tập 488",
+      "slug": "tap-488",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261003/IyMBSCP8/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261003/IyMBSCP8/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "van-gioi-doc-ton",
-      "episodeCount": 483,
+      "episodeCount": 485,
       "priority": 1
     }
   ],

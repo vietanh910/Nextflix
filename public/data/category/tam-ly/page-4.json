@@ -5,17 +5,46 @@
   "totalPages": 15,
   "items": [
     {
-      "id": "call-my-agent-the-movie-2026-f7aee5bd",
+      "id": "spark-of-the-long-march-2026-0e47e0db",
       "source": "phimapi",
-      "slug": "hay-goi-quan-ly-cua-toi-phim-dien-anh",
-      "name": "Hãy Gọi Quản Lý Của Tôi! - Phim Điện Ảnh",
-      "originName": "Call My Agent! The Movie",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260910/hay-goi-quan-ly-cua-toi-phim-dien-anh-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260910/hay-goi-quan-ly-cua-toi-phim-dien-anh-thumb.webp",
+      "slug": "hanh-trinh-2026",
+      "name": "Hành Trình",
+      "originName": "Spark Of The Long March",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260929/hanh-trinh-2026-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260929/hanh-trinh-2026-thumb.webp",
       "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 16",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "see-you-later-maybe-2026-1a1443fe",
+      "source": "phimapi",
+      "slug": "hanh-trinh-tap-duot-chia-tay",
+      "name": "Hành Trình Tập Dượt Chia Tay",
+      "originName": "See You Later... Maybe",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260902/hanh-trinh-tap-duot-chia-tay-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260902/hanh-trinh-tap-duot-chia-tay-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 15",
       "categories": [
         {
           "name": "Hài Hước",
@@ -32,8 +61,53 @@
       ],
       "countries": [
         {
-          "name": "Pháp",
-          "slug": "phap"
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-world-s-strongest-re-2026-7d7c6d1f",
+      "source": "phimapi",
+      "slug": "hau-phuong-manh-nhat-the-gioi-nha-khai-pha-tan-binh-cua-vuong-quoc-me-cung",
+      "name": "Hậu Phương Mạnh Nhất Thế Giới - Nhà Khai Phá Tân Binh Của Vương Quốc Mê Cung",
+      "originName": "The World's Strongest Rearguard",
+      "posterUrl": "https://phimimg.com/upload/vod/20260706-1/77db63f704e93279e6a31c668daf3c32.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260706-1/f71f0f1d25c2cf1dbee49f48d2c10b65.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        },
+        {
+          "name": "Đài Loan",
+          "slug": "dai-loan"
         }
       ]
     },
@@ -200,7 +274,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "episodeCurrent": "Tập 12",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -260,39 +334,6 @@
       ]
     },
     {
-      "id": "class-crush-crisis-2026-b8532819",
-      "source": "phimapi",
-      "slug": "hoi-chung-me-ban-cung-lop",
-      "name": "Hội Chứng Mê Bạn Cùng Lớp",
-      "originName": "Class Crush Crisis",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260726/hoi-chung-me-ban-cung-lop-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260726/hoi-chung-me-ban-cung-lop-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
       "id": "hope-2026-1e611df1",
       "source": "phimapi",
       "slug": "hope-vung-tu-dia",
@@ -348,7 +389,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -426,7 +467,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -490,6 +531,47 @@
       ]
     },
     {
+      "id": "tougen-anki-season-2-2026-dfd6334d",
+      "source": "phimapi",
+      "slug": "huyet-quy-hon-chien-phan-2",
+      "name": "Huyết Quỷ Hỗn Chiến (Phần 2)",
+      "originName": "Tougen Anki (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261004/huyet-quy-hon-chien-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261004/huyet-quy-hon-chien-phan-2-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 1",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
       "id": "juliet-juliet-2026-676a1eac",
       "source": "phimapi",
       "slug": "juliet-va-juliet",
@@ -523,88 +605,6 @@
       ]
     },
     {
-      "id": "the-villager-of-level-99-2026-95008b76",
-      "source": "phimapi",
-      "slug": "ke-mang-cap-999-tu-lang-que-dan-lang-cap-999",
-      "name": "Kẻ Mang Cấp 999 Từ Làng Quê (Dân Làng Cấp 999)",
-      "originName": "The Villager Of Level 999",
-      "posterUrl": "https://phimimg.com/upload/vod/20260702-1/d6636feba0735a0b093f8c0cae118f01.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260702-1/371a851fe264aba5ba792e50dbc7e8bd.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "yoroi-shinden-samurai-tr-2026-f78be155",
-      "source": "phimapi",
-      "slug": "khai-giap-chan-truyen",
-      "name": "Khải Giáp Chân Truyền",
-      "originName": "Yoroi-Shinden Samurai Troopers / Yoroi Shin Den Samurai Troopers",
-      "posterUrl": "https://phimimg.com/upload/vod/20260116-1/e3b57ec33c4555307df7c16a441ba08c.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260116-1/ce2cc0cbfbbf8532c8728a38aafdba39.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 22",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
       "id": "not-a-stranger-2026-7e716a85",
       "source": "phimapi",
       "slug": "khong-phai-nguoi-xa-la",
@@ -630,6 +630,79 @@
         {
           "name": "Thổ Nhĩ Kỳ",
           "slug": "tho-nhi-ky"
+        }
+      ]
+    },
+    {
+      "id": "fatal-proximity-to-him-2026-5c841818",
+      "source": "phimapi",
+      "slug": "khong-the-den-gan-anh-ay",
+      "name": "Không Thể Đến Gần Anh Ấy",
+      "originName": "Fatal Proximity To Him",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261002/khong-the-den-gan-anh-ay-poster.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 8",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "shiboyugi-playing-death--2026-f55e7b6f",
+      "source": "phimapi",
+      "slug": "kiem-com-bang-tro-choi-sinh-tu",
+      "name": "Kiếm Cơm Bằng Trò Chơi Sinh Tử",
+      "originName": "SHIBOYUGI: Playing Death Games To Put Food On The Table",
+      "posterUrl": "https://phimimg.com/upload/vod/20260109-1/8e17a3a2b7e35fcad766d407cae71e12.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260109-1/9af90be9dbfa11ed76cc9b1c5a4e7394.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -677,7 +750,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 34",
+      "episodeCurrent": "Tập 41",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -782,87 +855,17 @@
       ]
     },
     {
-      "id": "recommendations-from-iwa-2026-3ef04420",
+      "id": "klueng-season-1-2026-bfa86d3f",
       "source": "phimapi",
-      "slug": "loi-gioi-thieu-cua-tien-boi-iwamoto",
-      "name": "Lời Giới Thiệu Của Tiền Bối Iwamoto",
-      "originName": "Recommendations From Iwamoto-Senpai",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260708/loi-gioi-thieu-cua-tien-boi-iwamoto-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260708/loi-gioi-thieu-cua-tien-boi-iwamoto-thumb.webp",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "the-perfect-lie-2026-a162fabe",
-      "source": "phimapi",
-      "slug": "loi-noi-doi-hoan-hao-2026",
-      "name": "Lời Nói Dối Hoàn Hảo",
-      "originName": "The Perfect Lie",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260910/loi-noi-doi-hoan-hao-2026-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260910/loi-noi-doi-hoan-hao-2026-thumb.webp",
+      "slug": "lieu-phap-chet-nguoi-phan-1",
+      "name": "Liệu Pháp Chết Người (Phần 1)",
+      "originName": "Klueng (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260929/lieu-phap-chet-nguoi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260929/lieu-phap-chet-nguoi-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (7/7)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hà Lan",
-          "slug": "ha-lan"
-        }
-      ]
-    },
-    {
-      "id": "25-years-of-you-2026-21abc7bf",
-      "source": "phimapi",
-      "slug": "loi-thu-nhan-bi-mat-25-nam",
-      "name": "Lời Thú Nhận: Bí Mật 25 Năm",
-      "originName": "25 Years Of You",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260717/loi-thu-nhan-bi-mat-25-nam-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260717/loi-thu-nhan-bi-mat-25-nam-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 2",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -879,8 +882,8 @@
       ],
       "countries": [
         {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
+          "name": "Thái Lan",
+          "slug": "thai-lan"
         }
       ]
     }

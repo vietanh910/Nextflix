@@ -5,31 +5,105 @@
   "totalPages": 2,
   "items": [
     {
-      "id": "the-fearless-duo-1984-f252556d",
-      "source": "ophim",
-      "slug": "thien-su-ky-mon",
-      "name": "Thiên Sư Kỳ Môn",
-      "originName": "The Fearless Duo",
-      "posterUrl": "thien-su-ky-mon-poster.jpg",
-      "thumbUrl": "thien-su-ky-mon-thumb.jpg",
-      "year": 1984,
+      "id": "a-happy-life-season-2-2013-391d9b96",
+      "source": "phimapi",
+      "slug": "tien-kiem-phan-2",
+      "name": "Tiên Kiếm (Phần 2)",
+      "originName": "A Happy Life (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261001/tien-kiem-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261001/tien-kiem-phan-2-thumb.webp",
+      "year": 2013,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (20/20)",
+      "episodeCurrent": "Hoàn Tất (48/48)",
       "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
         {
           "name": "Cổ Trang",
           "slug": "co-trang"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-four-detective-guard-2004-01176ccf",
+      "source": "phimapi",
+      "slug": "tu-dai-danh-bo-hoi-kinh-su",
+      "name": "Tứ Đại Danh Bổ Hội Kinh Sư",
+      "originName": "The Four Detective Guards",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260915/tu-dai-danh-bo-hoi-kinh-su-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260915/tu-dai-danh-bo-hoi-kinh-su-thumb.webp",
+      "year": 2004,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (30/30)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-four-2001-953f844f",
+      "source": "phimapi",
+      "slug": "tu-dai-danh-bo-dau-tuong-quan",
+      "name": "Tứ Đại Danh Bổ Đấu Tướng Quân",
+      "originName": "The Four",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260915/tu-dai-danh-bo-dau-tuong-quan-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260915/tu-dai-danh-bo-dau-tuong-quan-thumb.webp",
+      "year": 2001,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (42/42)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     }

@@ -1,81 +1,81 @@
 {
-  "updatedAt": "2026-09-27T08:50:44.478Z",
+  "updatedAt": "2026-10-04T09:14:03.286Z",
   "totalMovies": 1442,
   "bySource": {
     "phimapi": 479,
     "animapper": 963
   },
   "byType": {
-    "anime": 1098,
-    "single": 124,
-    "series": 207,
-    "tvshow": 13
+    "series": 217,
+    "anime": 1114,
+    "single": 106,
+    "tvshow": 5
   },
   "byStatus": {
-    "completed": 335,
-    "ongoing": 144,
+    "completed": 333,
+    "ongoing": 146,
     "unknown": 963
   },
   "byCategory": [
     {
       "slug": "khac",
       "name": "Khac",
-      "count": 842
+      "count": 849
     },
     {
       "slug": "tam-ly",
       "name": "Tâm Lý",
-      "count": 338
+      "count": 340
     },
     {
       "slug": "chinh-kich",
       "name": "Chính Kịch",
-      "count": 327
+      "count": 314
     },
     {
       "slug": "vien-tuong",
       "name": "Viễn Tưởng",
-      "count": 142
+      "count": 150
     },
     {
       "slug": "hai-huoc",
       "name": "Hài Hước",
-      "count": 138
+      "count": 129
     },
     {
       "slug": "khoa-hoc",
       "name": "Khoa Học",
-      "count": 114
-    },
-    {
-      "slug": "phieu-luu",
-      "name": "Phiêu Lưu",
-      "count": 110
+      "count": 120
     },
     {
       "slug": "hanh-dong",
       "name": "Hành Động",
-      "count": 109
+      "count": 117
+    },
+    {
+      "slug": "phieu-luu",
+      "name": "Phiêu Lưu",
+      "count": 116
     },
     {
       "slug": "tinh-cam",
       "name": "Tình Cảm",
+      "count": 83
+    },
+    {
+      "slug": "hoat-hinh",
+      "name": "Hoạt Hình",
       "count": 82
     },
     {
       "slug": "bi-an",
       "name": "Bí Ẩn",
-      "count": 65
-    },
-    {
-      "slug": "hoat-hinh",
-      "name": "Hoạt Hình",
-      "count": 63
+      "count": 64
     },
     {
       "slug": "comedy",
       "name": "Comedy",
-      "count": 58
+      "count": 53
     },
     {
       "slug": "hinh-su",
@@ -85,47 +85,42 @@
     {
       "slug": "action",
       "name": "Action",
-      "count": 40
+      "count": 33
     },
     {
-      "slug": "kinh-di",
-      "name": "Kinh Dị",
-      "count": 34
+      "slug": "co-trang",
+      "name": "Cổ Trang",
+      "count": 27
     },
     {
       "slug": "drama",
       "name": "Drama",
-      "count": 32
+      "count": 27
     },
     {
-      "slug": "sci-fi",
-      "name": "Sci-Fi",
+      "slug": "kinh-di",
+      "name": "Kinh Dị",
       "count": 26
     },
     {
       "slug": "fantasy",
       "name": "Fantasy",
-      "count": 24
-    },
-    {
-      "slug": "supernatural",
-      "name": "Supernatural",
-      "count": 23
-    },
-    {
-      "slug": "adventure",
-      "name": "Adventure",
-      "count": 23
-    },
-    {
-      "slug": "romance",
-      "name": "Romance",
-      "count": 23
+      "count": 26
     },
     {
       "slug": "slice-of-life",
       "name": "Slice of Life",
-      "count": 22
+      "count": 24
+    },
+    {
+      "slug": "sci-fi",
+      "name": "Sci-Fi",
+      "count": 21
+    },
+    {
+      "slug": "romance",
+      "name": "Romance",
+      "count": 21
     },
     {
       "slug": "gia-dinh",
@@ -133,19 +128,24 @@
       "count": 20
     },
     {
-      "slug": "co-trang",
-      "name": "Cổ Trang",
+      "slug": "adventure",
+      "name": "Adventure",
+      "count": 19
+    },
+    {
+      "slug": "supernatural",
+      "name": "Supernatural",
       "count": 18
     },
     {
       "slug": "ecchi",
       "name": "Ecchi",
-      "count": 12
+      "count": 13
     },
     {
       "slug": "music",
       "name": "Music",
-      "count": 12
+      "count": 11
     },
     {
       "slug": "mystery",
@@ -153,28 +153,23 @@
       "count": 10
     },
     {
-      "slug": "psychological",
-      "name": "Psychological",
-      "count": 10
-    },
-    {
       "slug": "mecha",
       "name": "Mecha",
-      "count": 8
+      "count": 9
     },
     {
       "slug": "tai-lieu",
       "name": "Tài Liệu",
-      "count": 7
+      "count": 6
+    },
+    {
+      "slug": "psychological",
+      "name": "Psychological",
+      "count": 6
     },
     {
       "slug": "tre-em",
       "name": "Trẻ Em",
-      "count": 5
-    },
-    {
-      "slug": "horror",
-      "name": "Horror",
       "count": 5
     },
     {
@@ -198,8 +193,8 @@
       "count": 3
     },
     {
-      "slug": "mahou-shoujo",
-      "name": "Mahou Shoujo",
+      "slug": "horror",
+      "name": "Horror",
       "count": 3
     },
     {
@@ -208,13 +203,13 @@
       "count": 2
     },
     {
-      "slug": "thriller",
-      "name": "Thriller",
+      "slug": "mahou-shoujo",
+      "name": "Mahou Shoujo",
       "count": 2
     },
     {
-      "slug": "war-politics",
-      "name": "War & Politics",
+      "slug": "thriller",
+      "name": "Thriller",
       "count": 1
     },
     {

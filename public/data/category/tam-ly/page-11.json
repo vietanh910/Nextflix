@@ -5,66 +5,54 @@
   "totalPages": 15,
   "items": [
     {
-      "id": "station-eleven-2021-309c64f0",
+      "id": "love-under-the-moon-2021-c656bf39",
       "source": "phimapi",
-      "slug": "tram-muoi-mot",
-      "name": "Trạm Mười Một",
-      "originName": "Station Eleven",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260914/tram-muoi-mot-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260914/tram-muoi-mot-thumb.webp",
+      "slug": "anh-trang-khong-hieu-long-toi",
+      "name": "Ánh Trăng Không Hiểu Lòng Tôi",
+      "originName": "Love Under The Moon",
+      "posterUrl": "https://phimimg.com/upload/vod/20240615-1/c72b8069ded9afa6fb5160021364f0d3.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240615-1/540037563675820dcc798c47f6e829d6.jpg",
+      "year": 2021,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (48/48)",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "she-was-pretty-japan-ver-2021-6f84e9fd",
+      "source": "phimapi",
+      "slug": "co-nang-xinh-dep-ban-nhat",
+      "name": "Cô Nàng Xinh Đẹp (Bản Nhật)",
+      "originName": "She Was Pretty (Japan Version)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260920/co-nang-xinh-dep-ban-nhat-poster.webp",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250928-1/372cb4425f295db015edff9a683cb9c7.jpg",
       "year": 2021,
       "type": "series",
       "status": "completed",
       "episodeCurrent": "Hoàn Tất (10/10)",
       "categories": [
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "doctor-x-surgeon-michiko-2019-076037c4",
-      "source": "phimapi",
-      "slug": "bac-si-x-ngoai-khoa-daimon-michiko-phan-6",
-      "name": "Bác Sĩ X Ngoại Khoa: Daimon Michiko (Phần 6)",
-      "originName": "Doctor X Surgeon Michiko Daimon (Season 6)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260909/bac-si-x-ngoai-khoa-daimon-michiko-phan-6-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260909/bac-si-x-ngoai-khoa-daimon-michiko-phan-6-thumb.webp",
-      "year": 2019,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
         },
         {
           "name": "Tâm Lý",
@@ -79,21 +67,189 @@
       ]
     },
     {
-      "id": "sijjin-6-2019-72a847af",
+      "id": "my-fated-boy-2021-68562b3e",
       "source": "phimapi",
-      "slug": "loi-nguyen-sijjin-6",
-      "name": "Lời Nguyền Sijjin 6",
-      "originName": "Sijjin 6",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260908/loi-nguyen-sijjin-6-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260908/loi-nguyen-sijjin-6-thumb.webp",
-      "year": 2019,
-      "type": "single",
+      "slug": "hang-xom-cua-toi-khong-chiu-lon",
+      "name": "Hàng Xóm Của Tôi Không Chịu Lớn",
+      "originName": "My Fated Boy",
+      "posterUrl": "https://phimimg.com/upload/vod/20250505-1/dea27cef88786f7cb0b8dabace16754e.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250505-1/08ec60d3ad37019754a8af97f0d1dddf.jpg",
+      "year": 2021,
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn Tất (29/29)",
       "categories": [
         {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "love-under-the-full-moon-2021-b66e2879",
+      "source": "phimapi",
+      "slug": "hay-yeu-nhau-duoi-anh-trang-tron",
+      "name": "Hãy Yêu Nhau Dưới Ánh Trăng Tròn",
+      "originName": "Love Under The Full Moon",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260920/hay-yeu-nhau-duoi-anh-trang-tron-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260920/hay-yeu-nhau-duoi-anh-trang-tron-thumb.webp",
+      "year": 2021,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "takki-season-3-2021-0c2bab45",
+      "source": "phimapi",
+      "slug": "tuoi-tre-a-rap-phan-3",
+      "name": "Tuổi Trẻ Ả Rập (Phần 3)",
+      "originName": "Takki (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261002/tuoi-tre-a-rap-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261002/tuoi-tre-a-rap-phan-3-thumb.webp",
+      "year": 2021,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ả Rập Xê Út",
+          "slug": "a-rap-xe-ut"
+        }
+      ]
+    },
+    {
+      "id": "tower-of-god-season-1-2020-c947ae7e",
+      "source": "phimapi",
+      "slug": "toa-thap-than-linh-phan-1",
+      "name": "Tòa Tháp Thần Linh (Phần 1)",
+      "originName": "Tower Of God (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261004/toa-thap-than-linh-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261004/toa-thap-than-linh-phan-1-thumb.webp",
+      "year": 2020,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        },
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "rush-into-danger-2019-a77a15dd",
+      "source": "phimapi",
+      "slug": "doi-cuu-ho-khan-cap-2019",
+      "name": "Đội Cứu Hộ Khẩn Cấp",
+      "originName": "Rush Into Danger",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260929/doi-cuu-ho-khan-cap-2019-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260929/doi-cuu-ho-khan-cap-2019-thumb.webp",
+      "year": 2019,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (43/43)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
         },
         {
           "name": "Chính Kịch",
@@ -106,8 +262,8 @@
       ],
       "countries": [
         {
-          "name": "Thổ Nhĩ Kỳ",
-          "slug": "tho-nhi-ky"
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -131,39 +287,6 @@
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "sneaky-pete-season-3-2019-4ec36750",
-      "source": "phimapi",
-      "slug": "pete-ke-mao-danh-phan-3",
-      "name": "Pete: Kẻ Mạo Danh (Phần 3)",
-      "originName": "Sneaky Pete (Season 3)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260909/pete-ke-mao-danh-phan-3-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260909/pete-ke-mao-danh-phan-3-thumb.webp",
-      "year": 2019,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
         },
         {
           "name": "Tâm Lý",
@@ -215,37 +338,103 @@
       ]
     },
     {
-      "id": "the-princess-and-the-mat-2018-5601119e",
+      "id": "wild-land-season-1-2019-c9036cd4",
       "source": "phimapi",
-      "slug": "cong-chua-va-chang-mai",
-      "name": "Công Chúa Và Chàng Mai",
-      "originName": "The Princess And The Matchmaker",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260910/cong-chua-va-chang-mai-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260910/cong-chua-va-chang-mai-thumb.webp",
-      "year": 2018,
-      "type": "single",
+      "slug": "vung-dat-hoang-da-phan-1",
+      "name": "Vùng Đất Hoang Dã (Phần 1)",
+      "originName": "Wild Land (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260929/vung-dat-hoang-da-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260929/vung-dat-hoang-da-phan-1-thumb.webp",
+      "year": 2019,
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn Tất (60/60)",
       "categories": [
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Lịch Sử",
-          "slug": "lich-su"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
         },
         {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Bồ Đào Nha",
+          "slug": "bo-dao-nha"
+        }
+      ]
+    },
+    {
+      "id": "wild-land-season-2-2019-db34c7d8",
+      "source": "phimapi",
+      "slug": "vung-dat-hoang-da-phan-2",
+      "name": "Vùng Đất Hoang Dã (Phần 2)",
+      "originName": "Wild Land (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260929/vung-dat-hoang-da-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260929/vung-dat-hoang-da-phan-2-thumb.webp",
+      "year": 2019,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (65/65)",
+      "categories": [
+        {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Bồ Đào Nha",
+          "slug": "bo-dao-nha"
+        }
+      ]
+    },
+    {
+      "id": "live-2018-d98872ae",
+      "source": "phimapi",
+      "slug": "cuoc-song-2018",
+      "name": "Cuộc Sống",
+      "originName": "Live",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260930/cuoc-song-2018-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260930/cuoc-song-2018-thumb.webp",
+      "year": 2018,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (18/18)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
         }
       ],
       "countries": [
@@ -256,25 +445,29 @@
       ]
     },
     {
-      "id": "sijjin-5-2018-87cb2e33",
+      "id": "super-troopers-2-2018-4d34f673",
       "source": "phimapi",
-      "slug": "loi-nguyen-sijjin-5",
-      "name": "Lời Nguyền Sijjin 5",
-      "originName": "Sijjin 5",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260908/loi-nguyen-sijjin-5-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260908/loi-nguyen-sijjin-5-thumb.webp",
+      "slug": "don-canh-sat-nhi-nho-2",
+      "name": "Đồn Cảnh Sát Nhí Nhố 2",
+      "originName": "Super Troopers 2",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261002/don-canh-sat-nhi-nho-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261002/don-canh-sat-nhi-nho-2-thumb.webp",
       "year": 2018,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
         },
         {
           "name": "Tâm Lý",
@@ -283,8 +476,8 @@
       ],
       "countries": [
         {
-          "name": "Thổ Nhĩ Kỳ",
-          "slug": "tho-nhi-ky"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -355,13 +548,41 @@
       ]
     },
     {
-      "id": "sneaky-pete-season-2-2018-a2bbc638",
+      "id": "payakka-2018-d03d5649",
       "source": "phimapi",
-      "slug": "pete-ke-mao-danh-phan-2",
-      "name": "Pete: Kẻ Mạo Danh (Phần 2)",
-      "originName": "Sneaky Pete (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260909/pete-ke-mao-danh-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260909/pete-ke-mao-danh-phan-2-thumb.webp",
+      "slug": "nguoi-ho",
+      "name": "Người Hổ",
+      "originName": "Payakka",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261001/nguoi-ho-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261001/nguoi-ho-thumb.webp",
+      "year": 2018,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (30/30)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "return-of-heroes-2018-0d4cb643",
+      "source": "phimapi",
+      "slug": "su-tro-lai-cua-hoang-de",
+      "name": "Sự Trở Lại Của Hoàng Đế",
+      "originName": "Return Of Heroes",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261001/su-tro-lai-cua-hoang-de-poster.webp",
       "year": 2018,
       "type": "series",
       "status": "completed",
@@ -372,8 +593,8 @@
           "slug": "chinh-kich"
         },
         {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
+          "name": "Cổ Trang",
+          "slug": "co-trang"
         },
         {
           "name": "Tâm Lý",
@@ -382,8 +603,8 @@
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -425,25 +646,37 @@
       ]
     },
     {
-      "id": "doctor-x-surgeon-michiko-2017-e5e0bc2c",
+      "id": "black-clover-season-1-2017-20e1db9f",
       "source": "phimapi",
-      "slug": "bac-si-x-ngoai-khoa-daimon-michiko-phan-5",
-      "name": "Bác Sĩ X Ngoại Khoa: Daimon Michiko (Phần 5)",
-      "originName": "Doctor X Surgeon Michiko Daimon (Season 5)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260909/bac-si-x-ngoai-khoa-daimon-michiko-phan-5-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260909/bac-si-x-ngoai-khoa-daimon-michiko-phan-5-thumb.webp",
+      "slug": "the-gioi-phep-thuat-phan-1",
+      "name": "Thế Giới Phép Thuật (Phần 1)",
+      "originName": "Black Clover (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261004/the-gioi-phep-thuat-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261004/the-gioi-phep-thuat-phan-1-thumb.webp",
       "year": 2017,
-      "type": "series",
+      "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
+      "episodeCurrent": "Hoàn Tất (170/170)",
       "categories": [
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
         },
         {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
         },
         {
           "name": "Tâm Lý",
@@ -458,35 +691,39 @@
       ]
     },
     {
-      "id": "sijjin-4-2017-e6e0008f",
+      "id": "the-hitman-s-bodyguard-2017-720abd3c",
       "source": "phimapi",
-      "slug": "loi-nguyen-sijjin-4",
-      "name": "Lời Nguyền Sijjin 4",
-      "originName": "Sijjin 4",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260908/loi-nguyen-sijjin-4-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260908/loi-nguyen-sijjin-4-thumb.webp",
+      "slug": "ve-si-sat-thu",
+      "name": "Vệ Sĩ Sát Thủ",
+      "originName": "The Hitman's Bodyguard",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261004/ve-si-sat-thu-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261004/ve-si-sat-thu-thumb.webp",
       "year": 2017,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
         },
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
-          "name": "Thổ Nhĩ Kỳ",
-          "slug": "tho-nhi-ky"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -573,25 +810,29 @@
       ]
     },
     {
-      "id": "doctor-x-surgeon-michiko-2016-086f8e10",
+      "id": "black-sails-season-3-2016-fab92531",
       "source": "phimapi",
-      "slug": "bac-si-x-ngoai-khoa-daimon-michiko-phan-4",
-      "name": "Bác Sĩ X Ngoại Khoa: Daimon Michiko (Phần 4)",
-      "originName": "Doctor X Surgeon Michiko Daimon (Season 4)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260909/bac-si-x-ngoai-khoa-daimon-michiko-phan-4-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260909/bac-si-x-ngoai-khoa-daimon-michiko-phan-4-thumb.webp",
+      "slug": "canh-buom-den-phan-3",
+      "name": "Cánh Buồm Đen (Phần 3)",
+      "originName": "Black Sails (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260818/canh-buom-den-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260818/canh-buom-den-phan-3-thumb.webp",
       "year": 2016,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (11/11)",
+      "episodeCurrent": "Hoàn Tất (10/10)",
       "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
         },
         {
           "name": "Tâm Lý",
@@ -600,8 +841,12 @@
       ],
       "countries": [
         {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
+          "name": "Nam Phi",
+          "slug": "nam-phi"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -639,224 +884,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "sijjin-3-the-forbidden-l-2016-7cfcbc6a",
-      "source": "phimapi",
-      "slug": "loi-nguyen-sijjin-3",
-      "name": "Lời Nguyền Sijjin 3",
-      "originName": "Sijjin 3: The Forbidden Love",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260908/loi-nguyen-sijjin-3-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260908/loi-nguyen-sijjin-3-thumb.webp",
-      "year": 2016,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thổ Nhĩ Kỳ",
-          "slug": "tho-nhi-ky"
-        }
-      ]
-    },
-    {
-      "id": "manchester-by-the-sea-2016-d65c9ea2",
-      "source": "phimapi",
-      "slug": "thi-tran-ben-bo-bien-manchester-ben-bo-bien",
-      "name": "Thị Trấn Bên Bờ Biển / Manchester Bên Bờ Biển",
-      "originName": "Manchester By The Sea",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260921/thi-tran-ben-bo-bien-manchester-ben-bo-bien-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260921/thi-tran-ben-bo-bien-manchester-ben-bo-bien-thumb.webp",
-      "year": 2016,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-intern-2015-f1e4365f",
-      "source": "phimapi",
-      "slug": "bo-gia-hoc-viec",
-      "name": "Bố Già Học Việc",
-      "originName": "The Intern",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260923/bo-gia-hoc-viec-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260923/bo-gia-hoc-viec-thumb.webp",
-      "year": 2015,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "ted-2-2015-a5c7a096",
-      "source": "phimapi",
-      "slug": "chu-gau-ted-2",
-      "name": "Chú Gấu Ted 2",
-      "originName": "Ted 2",
-      "posterUrl": "https://phimimg.com/upload/vod/20250712-1/8cd0164a105071abb4aa7ff0d2f05203.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250712-1/4beacda2a7743195dc74e1e76ee0f724.jpg",
-      "year": 2015,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "continuum-season-4-2015-4a9b9ca0",
-      "source": "phimapi",
-      "slug": "cong-thoi-gian-phan-4",
-      "name": "Cổng Thời Gian (Phần 4)",
-      "originName": "Continuum (Season 4)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260918/cong-thoi-gian-phan-4-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260918/cong-thoi-gian-phan-4-thumb.webp",
-      "year": 2015,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (6/6)",
-      "categories": [
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Canada",
-          "slug": "canada"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Bỉ",
-          "slug": "bi"
-        }
-      ]
-    },
-    {
-      "id": "sijjin-2-2015-79cf3f5d",
-      "source": "phimapi",
-      "slug": "loi-nguyen-sijjin-2",
-      "name": "Lời Nguyền Sijjin 2",
-      "originName": "Sijjin 2",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260908/loi-nguyen-sijjin-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260908/loi-nguyen-sijjin-2-thumb.webp",
-      "year": 2015,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thổ Nhĩ Kỳ",
-          "slug": "tho-nhi-ky"
         }
       ]
     }

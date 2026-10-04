@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Hình Sự",
@@ -81,13 +81,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260921/1oEinJNZ/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20260921/1oEinJNZ/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260930/hepNKRA0/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260930/hepNKRA0/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260930/CFtlQGIh/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20260930/CFtlQGIh/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "biet-doi-nu-canh-sat-ao-xanh-phan-2",
-      "episodeCount": 6,
+      "episodeCount": 8,
       "priority": 1
     }
   ],
