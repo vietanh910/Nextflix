@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260910/trung-so-doc-dac-van-phai-di-lam-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (10/10)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -93,13 +93,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261003/mAnaTSOc/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261003/mAnaTSOc/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261008/9SCl29mh/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261008/9SCl29mh/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261008/8Ro5GZPb/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261008/8Ro5GZPb/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "trung-so-doc-dac-van-phai-di-lam",
-      "episodeCount": 8,
+      "episodeCount": 10,
       "priority": 1
     }
   ],

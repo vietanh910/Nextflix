@@ -1,0 +1,59 @@
+{
+  "id": "project-baby-2026-fb91e26b",
+  "source": "phimapi",
+  "slug": "ke-hoach-baby-2026",
+  "name": "Kế Hoạch Baby",
+  "originName": "Project Baby",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261010/ke-hoach-baby-2026-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261010/ke-hoach-baby-2026-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Philippines",
+      "slug": "philippines"
+    }
+  ],
+  "description": "<p>Một giám đốc quảng cáo thành đạt khao khát được làm mẹ, nhưng những cảm xúc bất ngờ đã làm rối tung kế hoạch mang thai với một người xa lạ lý tưởng mà không ràng buộc của cô.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261009/XCr1qArG/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261009/XCr1qArG/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "ke-hoach-baby-2026",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

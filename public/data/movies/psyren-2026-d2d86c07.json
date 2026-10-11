@@ -1,0 +1,63 @@
+{
+  "id": "psyren-2026-d2d86c07",
+  "source": "phimapi",
+  "slug": "psyren",
+  "name": "Psyren",
+  "originName": "PSYREN",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261006/psyren-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261006/psyren-thumb.webp",
+  "year": 2026,
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 1",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Hoạt Hình",
+      "slug": "hoat-hinh"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Một ngày nọ, nam sinh trung học Ageha Yoshina vô tình nhặt được một chiếc thẻ điện thoại màu đỏ bí ẩn. Ít ngày sau, cô bạn thanh mai trúc mã của anh là Sakurako Amamiya — người cũng sở hữu chiếc thẻ tương tự — đột ngột mất tích. Trong lúc nỗ lực tìm kiếm cô, Ageha bị cuốn vào những lời đồn đại về hàng loạt vụ mất tích bí ẩn trên toàn quốc liên quan đến một tổ chức ngầm mang tên Psyren. Khi truy cập vào hệ thống của tổ chức này, một trò chơi sinh tử làm thay đổi hoàn toàn số phận của anh chính thức bắt đầu.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261006/AoA9fPMy/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261006/AoA9fPMy/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "psyren",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

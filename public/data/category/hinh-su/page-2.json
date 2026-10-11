@@ -2,41 +2,8 @@
   "slug": "hinh-su",
   "name": "Hình Sự",
   "page": 2,
-  "totalPages": 2,
+  "totalPages": 3,
   "items": [
-    {
-      "id": "neagley-2026-096aaf68",
-      "source": "phimapi",
-      "slug": "truy-tim-cong-ly",
-      "name": "Truy Tìm Công Lý",
-      "originName": "Neagley",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260920/truy-tim-cong-ly-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260920/truy-tim-cong-ly-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
     {
       "id": "unabomber-2026-7b2f2d5e",
       "source": "phimapi",
@@ -100,43 +67,6 @@
       ]
     },
     {
-      "id": "9-1-1-season-9-2025-45b50ee6",
-      "source": "phimapi",
-      "slug": "cuoc-goi-khan-cap-9-1-1-phan-9",
-      "name": "Cuộc Gọi Khẩn Cấp 9-1-1 (Phần 9",
-      "originName": "9-1-1 (Season 9)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260815/cuoc-goi-khan-cap-9-1-1-phan-9-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260815/cuoc-goi-khan-cap-9-1-1-phan-9-thumb.webp",
-      "year": 2025,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 12",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "matlock-season-1-2024-fc4bb74f",
       "source": "phimapi",
       "slug": "matlock-phan-1",
@@ -166,6 +96,55 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "warrior-season-3-2023-f0148ca4",
+      "source": "phimapi",
+      "slug": "chien-binh-phan-3",
+      "name": "Chiến Binh (Phần 3)",
+      "originName": "Warrior (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261007/chien-binh-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261007/chien-binh-phan-3-thumb.webp",
+      "year": 2023,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Miền Tây",
+          "slug": "mien-tay"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Đan Mạch",
+          "slug": "dan-mach"
         }
       ]
     },
@@ -236,6 +215,47 @@
         {
           "name": "Việt Nam",
           "slug": "viet-nam"
+        }
+      ]
+    },
+    {
+      "id": "kill-it-2019-690d3e8a",
+      "source": "phimapi",
+      "slug": "truy-sat-2019",
+      "name": "Truy Sát",
+      "originName": "Kill It",
+      "posterUrl": "https://phimimg.com/upload/vod/20231219-1/d6e75134ed44e7eeb8fca177fa4ee2e7.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20231219-1/261635aab43c896d73b36d1535588e53.jpg",
+      "year": 2019,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
@@ -318,39 +338,6 @@
       ]
     },
     {
-      "id": "the-witness-2018-b97d2c9c",
-      "source": "phimapi",
-      "slug": "nguoi-chung-kien",
-      "name": "Người Chứng Kiến",
-      "originName": "The Witness",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260915/nguoi-chung-kien-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260915/nguoi-chung-kien-thumb.webp",
-      "year": 2018,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
       "id": "the-hitman-s-bodyguard-2017-720abd3c",
       "source": "phimapi",
       "slug": "ve-si-sat-thu",
@@ -417,6 +404,154 @@
       ]
     },
     {
+      "id": "unforgettable-season-4-2015-20464ba6",
+      "source": "phimapi",
+      "slug": "khong-the-nao-quen-phan-4",
+      "name": "Không Thể Nào Quên (Phần 4)",
+      "originName": "Unforgettable (Season 4)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261009/khong-the-nao-quen-phan-4-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261009/khong-the-nao-quen-phan-4-thumb.webp",
+      "year": 2015,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "unforgettable-season-3-2014-d2d3f204",
+      "source": "phimapi",
+      "slug": "khong-the-nao-quen-phan-3",
+      "name": "Không Thể Nào Quên (Phần 3)",
+      "originName": "Unforgettable (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261009/khong-the-nao-quen-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261009/khong-the-nao-quen-phan-3-thumb.webp",
+      "year": 2014,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "unforgettable-season-2-2013-51efcf75",
+      "source": "phimapi",
+      "slug": "khong-the-nao-quen-phan-2",
+      "name": "Không Thể Nào Quên (Phần 2)",
+      "originName": "Unforgettable (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261009/khong-the-nao-quen-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261009/khong-the-nao-quen-phan-2-thumb.webp",
+      "year": 2013,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "unforgettable-season-1-2011-bb880cbb",
+      "source": "phimapi",
+      "slug": "khong-the-nao-quen-phan-1",
+      "name": "Không Thể Nào Quên (Phần 1)",
+      "originName": "Unforgettable (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261009/khong-the-nao-quen-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261009/khong-the-nao-quen-phan-1-thumb.webp",
+      "year": 2011,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (22/22)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "bronson-2009-5bc91d2a",
       "source": "phimapi",
       "slug": "buoc-duong-cung",
@@ -450,43 +585,6 @@
         {
           "name": "Đan Mạch",
           "slug": "dan-mach"
-        }
-      ]
-    },
-    {
-      "id": "the-four-2008-77b3db02",
-      "source": "phimapi",
-      "slug": "thieu-nien-tu-dai-danh-bo",
-      "name": "Thiếu Niên Tứ Đại Danh Bổ",
-      "originName": "The Four",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-thumb.webp",
-      "year": 2008,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (25/25)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
         }
       ]
     },
@@ -749,84 +847,6 @@
         {
           "name": "Hình Sự",
           "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "general-s-son-1990-d23d5f15",
-      "source": "phimapi",
-      "slug": "con-trai-cua-tuong-quan",
-      "name": "Con Trai Của Tướng Quân",
-      "originName": "General's Son",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260915/con-trai-cua-tuong-quan-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260915/con-trai-cua-tuong-quan-thumb.webp",
-      "year": 1990,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "fletch-1985-aef6e896",
-      "source": "phimapi",
-      "slug": "sieu-nha-bao",
-      "name": "Siêu Nhà Báo",
-      "originName": "Fletch",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260921/sieu-nha-bao-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260921/sieu-nha-bao-thumb.webp",
-      "year": 1985,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
         },
         {
           "name": "Tâm Lý",

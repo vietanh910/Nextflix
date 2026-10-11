@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 14",
+  "episodeCurrent": "Tập 26",
   "categories": [
     {
       "name": "Hình Sự",
@@ -145,13 +145,109 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261003/hb4Dd6lp/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261003/hb4Dd6lp/index.m3u8"
+    },
+    {
+      "name": "Tập 15",
+      "slug": "tap-15",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261004/iiD8Qt4j/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261004/iiD8Qt4j/index.m3u8"
+    },
+    {
+      "name": "Tập 16",
+      "slug": "tap-16",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261004/TxPd3Opw/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261004/TxPd3Opw/index.m3u8"
+    },
+    {
+      "name": "Tập 17",
+      "slug": "tap-17",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261005/xBugtQZj/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261005/xBugtQZj/index.m3u8"
+    },
+    {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261005/yKhAY0YD/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261005/yKhAY0YD/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261006/WR2uMrva/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261006/WR2uMrva/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261006/ILZeGbGu/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261006/ILZeGbGu/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261007/OWBM7wk9/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261007/OWBM7wk9/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261007/edBEkL9d/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261007/edBEkL9d/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261009/74dx1LLX/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261009/74dx1LLX/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261009/bPrU6skv/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261009/bPrU6skv/index.m3u8"
+    },
+    {
+      "name": "Tập 25",
+      "slug": "tap-25",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261009/3DhoYfXw/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261009/3DhoYfXw/index.m3u8"
+    },
+    {
+      "name": "Tập 26",
+      "slug": "tap-26",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261009/PCQbWJyp/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261009/PCQbWJyp/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "loi-dinh-lenh",
-      "episodeCount": 14,
+      "episodeCount": 26,
       "priority": 1
     }
   ],

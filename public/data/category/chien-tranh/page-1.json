@@ -5,35 +5,72 @@
   "totalPages": 1,
   "items": [
     {
-      "id": "mayday-2026-3b530966",
+      "id": "a-melody-to-remember-2016-048d7f74",
       "source": "phimapi",
-      "slug": "bao-dong-mayday",
-      "name": "Báo Động Mayday",
-      "originName": "Mayday",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260906/bao-dong-mayday-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260906/bao-dong-mayday-thumb.webp",
-      "year": 2026,
+      "slug": "mot-giai-dieu-kho-quen",
+      "name": "Một Giai Điệu Khó Quên",
+      "originName": "A Melody To Remember",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261010/mot-giai-dieu-kho-quen-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261010/mot-giai-dieu-kho-quen-thumb.webp",
+      "year": 2016,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Chiến Tranh",
+          "slug": "chien-tranh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "battlefield-heroes-2011-24a83385",
+      "source": "phimapi",
+      "slug": "anh-hung-xung-tran",
+      "name": "Anh Hùng Xung Trận",
+      "originName": "Battlefield Heroes",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261010/anh-hung-xung-tran-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261010/anh-hung-xung-tran-thumb.webp",
+      "year": 2011,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chiến Tranh",
+          "slug": "chien-tranh"
         },
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
         },
         {
-          "name": "Chiến Tranh",
-          "slug": "chien-tranh"
+          "name": "Lịch Sử",
+          "slug": "lich-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     }

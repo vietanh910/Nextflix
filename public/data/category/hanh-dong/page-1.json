@@ -2,28 +2,24 @@
   "slug": "hanh-dong",
   "name": "Hành Động",
   "page": 1,
-  "totalPages": 5,
+  "totalPages": 6,
   "items": [
     {
-      "id": "crowned-in-a-hundred-day-2026-7d8d2f7b",
+      "id": "100-days-of-deception-2026-e3d008e3",
       "source": "phimapi",
-      "slug": "100-ngay-tro-thanh-vua",
-      "name": "100 Ngày Trở Thành Vua",
-      "originName": "Crowned In A Hundred Days",
-      "posterUrl": "https://phimimg.com/upload/vod/20260705-1/fa3aca9eeb59b42dfcda83b0c2d85fd4.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260705-1/be3861cd61b17562208ac480e1a72485.jpg",
+      "slug": "100-ngay-lua-doi",
+      "name": "100 Ngày Lừa Dối",
+      "originName": "100 Days Of Deception",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-thumb.webp",
       "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (25/25)",
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 1",
       "categories": [
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
         },
         {
           "name": "Phiêu Lưu",
@@ -34,14 +30,104 @@
           "slug": "tam-ly"
         },
         {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-world-s-strongest-wi-2026-373504bc",
+      "source": "phimapi",
+      "slug": "bat-dau-lam-ma-nu-manh-nhat-the-gioi",
+      "name": "Bắt Đầu Làm Ma Nữ Mạnh Nhất Thế Giới",
+      "originName": "The World's Strongest Witch",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261009/bat-dau-lam-ma-nu-manh-nhat-the-gioi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261009/bat-dau-lam-ma-nu-manh-nhat-the-gioi-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 1",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
         }
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "battle-spirits-re-zekkai-2026-615f469d",
+      "source": "phimapi",
+      "slug": "battle-spirits-re-tuyet-gioi-thien-khong",
+      "name": "Battle Spirits [Re]: Tuyệt Giới Thiên Không",
+      "originName": "Battle Spirits [Re] ZEKKAI NO KU",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261007/battle-spirits-re-tuyet-gioi-thien-khong-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261007/battle-spirits-re-tuyet-gioi-thien-khong-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 1",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -91,133 +177,6 @@
       ]
     },
     {
-      "id": "stranger-things-tales-fr-2026-12e3131f",
-      "source": "phimapi",
-      "slug": "cau-be-mat-tich-chuyen-nam-85-phan-1",
-      "name": "Cậu Bé Mất Tích: Chuyện Năm 85 (Phần 1)",
-      "originName": "Stranger Things: Tales From '85 (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260428-1/420d39137d52c9438683e550bd8fd629.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260428-1/b13c9349c92630c22e6d5b14c42882fd.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Úc",
-          "slug": "uc"
-        }
-      ]
-    },
-    {
-      "id": "stranger-things-tales-fr-2026-aaabe1da",
-      "source": "phimapi",
-      "slug": "cau-be-mat-tich-chuyen-nam-85-phan-2",
-      "name": "Cậu Bé Mất Tích: Chuyện Năm 85 (Phần 2)",
-      "originName": "Stranger Things: Tales From '85 (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260917/cau-be-mat-tich-chuyen-nam-85-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260917/cau-be-mat-tich-chuyen-nam-85-phan-2-thumb.webp",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Úc",
-          "slug": "uc"
-        }
-      ]
-    },
-    {
-      "id": "the-mongoose-2026-d2e24548",
-      "source": "phimapi",
-      "slug": "cay-mangut",
-      "name": "Cầy Mangut",
-      "originName": "The Mongoose",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260914/cay-mangut-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260914/cay-mangut-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "ultraman-teo-2026-e2dfb987",
       "source": "phimapi",
       "slug": "chien-binh-anh-sang-teo",
@@ -228,7 +187,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 13",
+      "episodeCurrent": "Tập 14",
       "categories": [
         {
           "name": "Hành Động",
@@ -269,7 +228,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 14",
+      "episodeCurrent": "Tập 15",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -341,6 +300,47 @@
       ]
     },
     {
+      "id": "a-tale-of-the-secret-sai-2026-6083ba4c",
+      "source": "phimapi",
+      "slug": "chuyen-ve-dai-thanh-nu-chuyen-sinh-an-danh",
+      "name": "Chuyện Về Đại Thánh Nữ Chuyển Sinh Ẩn Danh",
+      "originName": "A Tale Of The Secret Saint",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261008/chuyen-ve-dai-thanh-nu-chuyen-sinh-an-danh-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261008/chuyen-ve-dai-thanh-nu-chuyen-sinh-an-danh-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 3",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
       "id": "drive-through-fire-2026-ddc440e0",
       "source": "phimapi",
       "slug": "chuyen-xe-ruot-duoi",
@@ -367,6 +367,43 @@
         }
       ],
       "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "fall-2-deadpoint-2026-8ce396f0",
+      "source": "phimapi",
+      "slug": "cu-roi-tu-than-2-diem-chet",
+      "name": "Cú Rơi Tử Thần 2: Điểm Chết",
+      "originName": "Fall 2: Deadpoint",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261010/cu-roi-tu-than-2-diem-chet-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261010/cu-roi-tu-than-2-diem-chet-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
@@ -466,7 +503,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Hành Động",
@@ -526,6 +563,55 @@
         {
           "name": "Anh",
           "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "spare-me-great-lord-seas-2026-7390a512",
+      "source": "phimapi",
+      "slug": "dai-vuong-tha-mang-phan-3",
+      "name": "Đại Vương Tha Mạng (Phần 3)",
+      "originName": "Spare Me, Great Lord! (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261005/dai-vuong-tha-mang-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261005/dai-vuong-tha-mang-phan-3-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 4",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -612,55 +698,6 @@
       ]
     },
     {
-      "id": "hot-spot-2026-54f00a4d",
-      "source": "phimapi",
-      "slug": "diem-nong-2026",
-      "name": "Điểm Nóng",
-      "originName": "Hot Spot",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260914/diem-nong-2026-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260914/diem-nong-2026-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Ba Lan",
-          "slug": "ba-lan"
-        },
-        {
-          "name": "Greece",
-          "slug": "greece"
-        },
-        {
-          "name": "Thụy Điển",
-          "slug": "thuy-dien"
-        }
-      ]
-    },
-    {
       "id": "under-the-gate-2026-594afaf7",
       "source": "phimapi",
       "slug": "gioi-mon-chi-ha",
@@ -671,7 +708,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 16",
+      "episodeCurrent": "Tập 18",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -839,8 +876,49 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "magic-knight-rayearth-2026-e112e34e",
+      "source": "phimapi",
+      "slug": "hiep-si-phep-thuat-rayearth",
+      "name": "Hiệp Sĩ Phép Thuật Rayearth",
+      "originName": "Magic Knight Rayearth",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261009/hiep-si-phep-thuat-rayearth-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261009/hiep-si-phep-thuat-rayearth-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 1",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
@@ -907,88 +985,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "oriental-martial-academy-2026-ed796929",
-      "source": "phimapi",
-      "slug": "hoc-vien-cao-vo-dong-dai",
-      "name": "Học Viện Cao Võ Đông Đại",
-      "originName": "Oriental Martial Academy",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260718/hoc-vien-cao-vo-dong-dai-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260718/hoc-vien-cao-vo-dong-dai-phan-1-thumb.webp",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 12",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "hope-2026-1e611df1",
-      "source": "phimapi",
-      "slug": "hope-vung-tu-dia",
-      "name": "Hope: Vùng Tử Địa",
-      "originName": "Hope",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260919/hope-vung-tu-dia-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260919/hope-vung-tu-dia-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
         }
       ]
     }

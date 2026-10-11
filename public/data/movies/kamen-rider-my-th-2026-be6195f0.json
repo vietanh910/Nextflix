@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Hành Động",
@@ -71,6 +71,14 @@
       "m3u8Url": "https://a.kvp726.com/20260927/Yp1ZA9tN/index.m3u8"
     },
     {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261004/W6hclS3B/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261004/W6hclS3B/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Lồng Tiếng",
@@ -101,13 +109,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260927/9VHPdPX4/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20260927/9VHPdPX4/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261004/gcZziZ2O/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261004/gcZziZ2O/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "hiep-si-mat-na-my-th-huyen-thoai-12-con-giap",
-      "episodeCount": 8,
+      "episodeCount": 10,
       "priority": 1
     }
   ],

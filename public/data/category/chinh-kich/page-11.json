@@ -2,40 +2,8 @@
   "slug": "chinh-kich",
   "name": "Chính Kịch",
   "page": 11,
-  "totalPages": 14,
+  "totalPages": 13,
   "items": [
-    {
-      "id": "return-of-heroes-2018-0d4cb643",
-      "source": "phimapi",
-      "slug": "su-tro-lai-cua-hoang-de",
-      "name": "Sự Trở Lại Của Hoàng Đế",
-      "originName": "Return Of Heroes",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261001/su-tro-lai-cua-hoang-de-poster.webp",
-      "year": 2018,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
     {
       "id": "be-with-you-2018-a9f44b56",
       "source": "phimapi",
@@ -144,29 +112,25 @@
       ]
     },
     {
-      "id": "david-and-goliath-2016-d0aa325d",
+      "id": "a-melody-to-remember-2016-048d7f74",
       "source": "phimapi",
-      "slug": "david-va-goliath",
-      "name": "David Và Goliath",
-      "originName": "David And Goliath",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260915/david-va-goliath-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260915/david-va-goliath-thumb.webp",
+      "slug": "mot-giai-dieu-kho-quen",
+      "name": "Một Giai Điệu Khó Quên",
+      "originName": "A Melody To Remember",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261010/mot-giai-dieu-kho-quen-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261010/mot-giai-dieu-kho-quen-thumb.webp",
       "year": 2016,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
+        },
+        {
+          "name": "Chiến Tranh",
+          "slug": "chien-tranh"
         },
         {
           "name": "Tâm Lý",
@@ -175,8 +139,8 @@
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
@@ -305,37 +269,66 @@
       ]
     },
     {
-      "id": "continuum-season-4-2015-4a9b9ca0",
+      "id": "no-escape-2015-22de848f",
       "source": "phimapi",
-      "slug": "cong-thoi-gian-phan-4",
-      "name": "Cổng Thời Gian (Phần 4)",
-      "originName": "Continuum (Season 4)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260918/cong-thoi-gian-phan-4-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260918/cong-thoi-gian-phan-4-thumb.webp",
+      "slug": "khong-loi-thoat-2015",
+      "name": "Không Lối Thoát",
+      "originName": "No Escape",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261008/khong-loi-thoat-2015-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261008/khong-loi-thoat-2015-thumb.webp",
       "year": 2015,
-      "type": "series",
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (6/6)",
+      "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         },
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
         },
         {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "unforgettable-season-4-2015-20464ba6",
+      "source": "phimapi",
+      "slug": "khong-the-nao-quen-phan-4",
+      "name": "Không Thể Nào Quên (Phần 4)",
+      "originName": "Unforgettable (Season 4)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261009/khong-the-nao-quen-phan-4-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261009/khong-the-nao-quen-phan-4-thumb.webp",
+      "year": 2015,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
         },
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
         },
         {
           "name": "Tâm Lý",
@@ -344,16 +337,8 @@
       ],
       "countries": [
         {
-          "name": "Canada",
-          "slug": "canada"
-        },
-        {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        },
-        {
-          "name": "Bỉ",
-          "slug": "bi"
         }
       ]
     },
@@ -432,47 +417,6 @@
       ]
     },
     {
-      "id": "david-and-goliath-2015-0c516c43",
-      "source": "phimapi",
-      "slug": "tran-chien-voi-nguoi-khong-lo",
-      "name": "Trận Chiến Với Người Khổng Lồ",
-      "originName": "David And Goliath",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260915/tran-chien-voi-nguoi-khong-lo-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260915/tran-chien-voi-nguoi-khong-lo-thumb.webp",
-      "year": 2015,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "revenge-season-4-2014-a8687fa8",
       "source": "phimapi",
       "slug": "bao-thu-phan-4",
@@ -510,37 +454,29 @@
       ]
     },
     {
-      "id": "continuum-season-3-2014-565cc865",
+      "id": "unforgettable-season-3-2014-d2d3f204",
       "source": "phimapi",
-      "slug": "cong-thoi-gian-phan-3",
-      "name": "Cổng Thời Gian (Phần 3)",
-      "originName": "Continuum (Season 3)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260918/cong-thoi-gian-phan-3-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260918/cong-thoi-gian-phan-3-thumb.webp",
+      "slug": "khong-the-nao-quen-phan-3",
+      "name": "Không Thể Nào Quên (Phần 3)",
+      "originName": "Unforgettable (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261009/khong-the-nao-quen-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261009/khong-the-nao-quen-phan-3-thumb.webp",
       "year": 2014,
       "type": "series",
       "status": "completed",
       "episodeCurrent": "Hoàn Tất (13/13)",
       "categories": [
         {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
+          "name": "Hình Sự",
+          "slug": "hinh-su"
         },
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
         },
         {
           "name": "Tâm Lý",
@@ -548,95 +484,9 @@
         }
       ],
       "countries": [
-        {
-          "name": "Canada",
-          "slug": "canada"
-        },
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        },
-        {
-          "name": "Bỉ",
-          "slug": "bi"
-        }
-      ]
-    },
-    {
-      "id": "parasyte-the-maxim-2014-935b5d34",
-      "source": "phimapi",
-      "slug": "ky-sinh-thu",
-      "name": "Ký Sinh Thú",
-      "originName": "Parasyte: The Maxim",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260917/ky-sinh-thu-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260917/ky-sinh-thu-thumb.webp",
-      "year": 2014,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (24/24)",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "midnight-diner-season-3-2014-cc212631",
-      "source": "phimapi",
-      "slug": "quan-an-dem-phan-3",
-      "name": "Quán Ăn Đêm (Phần 3)",
-      "originName": "Midnight Diner (Season 3)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260918/quan-an-dem-phan-3-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260918/quan-an-dem-phan-3-thumb.webp",
-      "year": 2014,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
         }
       ]
     },
@@ -707,96 +557,6 @@
       ]
     },
     {
-      "id": "my-teen-romantic-comedy--2013-2132f701",
-      "source": "phimapi",
-      "slug": "chuyen-tinh-thanh-xuan-bi-hai-cua-toi-qua-nhien-la-sai-lam",
-      "name": "Chuyện Tình Thanh Xuân Bi Hài Của Tôi Quả Nhiên Là Sai Lầm",
-      "originName": "My Teen Romantic Comedy SNAFU",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260917/chuyen-tinh-thanh-xuan-bi-hai-cua-toi-qua-nhien-la-sai-lam-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260917/chuyen-tinh-thanh-xuan-bi-hai-cua-toi-qua-nhien-la-sai-lam-thumb.webp",
-      "year": 2013,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "continuum-season-2-2013-f650bfa6",
-      "source": "phimapi",
-      "slug": "cong-thoi-gian-phan-2",
-      "name": "Cổng Thời Gian (Phần 2)",
-      "originName": "Continuum (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260918/cong-thoi-gian-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260918/cong-thoi-gian-phan-2-thumb.webp",
-      "year": 2013,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
-      "categories": [
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Canada",
-          "slug": "canada"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Bỉ",
-          "slug": "bi"
-        }
-      ]
-    },
-    {
       "id": "r-i-p-d-2013-7da2284e",
       "source": "phimapi",
       "slug": "don-canh-sat-ma",
@@ -828,6 +588,43 @@
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "unforgettable-season-2-2013-51efcf75",
+      "source": "phimapi",
+      "slug": "khong-the-nao-quen-phan-2",
+      "name": "Không Thể Nào Quên (Phần 2)",
+      "originName": "Unforgettable (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261009/khong-the-nao-quen-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261009/khong-the-nao-quen-phan-2-thumb.webp",
+      "year": 2013,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
@@ -904,6 +701,150 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "a-happy-life-season-2-2013-391d9b96",
+      "source": "phimapi",
+      "slug": "tien-kiem-phan-2",
+      "name": "Tiên Kiếm (Phần 2)",
+      "originName": "A Happy Life (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261001/tien-kiem-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261001/tien-kiem-phan-2-thumb.webp",
+      "year": 2013,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (48/48)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "revenge-season-2-2012-3b536c7d",
+      "source": "phimapi",
+      "slug": "bao-thu-phan-2",
+      "name": "Báo Thù (Phần 2)",
+      "originName": "Revenge (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260923/bao-thu-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260923/bao-thu-phan-2-thumb.webp",
+      "year": 2012,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (22/22)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "my-kids-give-me-a-headac-2012-b83e7a85",
+      "source": "phimapi",
+      "slug": "cuc-cung-rac-roi",
+      "name": "Cục Cưng Rắc Rối",
+      "originName": "My Kids Give Me A Headache",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260929/cuc-cung-rac-roi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260929/cuc-cung-rac-roi-thumb.webp",
+      "year": 2012,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (60/60)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "chronicle-2012-e57993d1",
+      "source": "phimapi",
+      "slug": "suc-manh-vo-hinh",
+      "name": "Sức Mạnh Vô Hình",
+      "originName": "Chronicle",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261008/suc-manh-vo-hinh-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261008/suc-manh-vo-hinh-thumb.webp",
+      "year": 2012,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     }

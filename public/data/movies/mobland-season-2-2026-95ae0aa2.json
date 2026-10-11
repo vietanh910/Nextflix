@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 4",
   "categories": [
     {
       "name": "Hình Sự",
@@ -49,13 +49,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260925/K6ACNqbS/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20260925/K6ACNqbS/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261005/Q3M9wu81/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261005/Q3M9wu81/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261009/4euUY6Ev/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261009/4euUY6Ev/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "lanh-dia-tu-chien-phan-2",
-      "episodeCount": 2,
+      "episodeCount": 4,
       "priority": 1
     }
   ],

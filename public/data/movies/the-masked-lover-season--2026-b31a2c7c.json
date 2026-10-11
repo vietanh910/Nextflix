@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260925/nguoi-tinh-mang-mat-na-phan-1-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 17",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (24/24)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -165,13 +165,69 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261003/XezCnw7p/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261003/XezCnw7p/index.m3u8"
+    },
+    {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261004/rQglARNF/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261004/rQglARNF/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261005/eMb7nfYi/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261005/eMb7nfYi/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261006/39Jg2Zjz/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261006/39Jg2Zjz/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261007/YwaNLLHV/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261007/YwaNLLHV/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261008/ggbX0ZM8/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261008/ggbX0ZM8/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261009/QlbENfyQ/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261009/QlbENfyQ/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261010/zilhkSbO/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261010/zilhkSbO/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nguoi-tinh-mang-mat-na-phan-1",
-      "episodeCount": 17,
+      "episodeCount": 24,
       "priority": 1
     }
   ],

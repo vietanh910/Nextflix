@@ -1,0 +1,55 @@
+{
+  "id": "reporting-live-2026-837c60e8",
+  "source": "phimapi",
+  "slug": "dua-tin-truc-tiep",
+  "name": "Đưa Tin Trực Tiếp",
+  "originName": "Reporting Live",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261010/dua-tin-truc-tiep-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261010/dua-tin-truc-tiep-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Ấn Độ",
+      "slug": "an-do"
+    }
+  ],
+  "description": "<p>Một nữ phóng viên trẻ và người quay phim bất đắc dĩ theo đuổi một đề tài, để rồi bị cuốn vào đường dây khai thác cát trái phép do một băng nhóm tàn nhẫn điều hành.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261009/CrG3ku0v/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261009/CrG3ku0v/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "dua-tin-truc-tiep",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

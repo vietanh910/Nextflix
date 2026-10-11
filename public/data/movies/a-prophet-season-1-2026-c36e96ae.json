@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260924/toi-khong-phai-la-dai-su-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 19",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (24/24)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -183,6 +183,46 @@
       "m3u8Url": "https://a.kvp726.com/20261003/OlT37Kfa/index.m3u8"
     },
     {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261004/OABzc3Yg/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261004/OABzc3Yg/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261004/ApkhWAvF/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261004/ApkhWAvF/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261004/SpDjGx2X/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261004/SpDjGx2X/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261004/gNRTVeZE/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261004/gNRTVeZE/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261004/7euQNWFz/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261004/7euQNWFz/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -333,13 +373,53 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261003/e07guJGw/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261003/e07guJGw/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261005/uzSw6W90/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261005/uzSw6W90/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261005/cP9tJdvJ/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261005/cP9tJdvJ/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261005/qUjcWqr1/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261005/qUjcWqr1/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261005/xfjSHb0S/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261005/xfjSHb0S/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261005/xIR5wemU/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261005/xIR5wemU/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "toi-khong-phai-la-dai-su-phan-1",
-      "episodeCount": 38,
+      "episodeCount": 48,
       "priority": 1
     }
   ],

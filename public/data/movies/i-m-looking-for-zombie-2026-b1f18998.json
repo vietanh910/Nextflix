@@ -1,0 +1,67 @@
+{
+  "id": "i-m-looking-for-zombie-2026-b1f18998",
+  "source": "phimapi",
+  "slug": "toi-dang-tim-kiem-thay-ma",
+  "name": "Tôi Đang Tìm Kiếm Thây Ma",
+  "originName": "#I'm Looking for Zombie",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261011/toi-dang-tim-kiem-thay-ma-poster.webp",
+  "thumbUrl": "https://image.tmdb.org/t/p/w780/yeRnq9N1HkZHXRxeyUec5lTLpfp.jpg",
+  "year": 2026,
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Hoạt Hình",
+      "slug": "hoat-hinh"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Thế giới đối mặt với thảm họa \"Ngày Đỏ\" khiến 90% nhân loại biến thành zombie. 13 năm sau, nhóm bạn trẻ gồm Aki, Haru và Natsuki quyết định rời khỏi ngôi làng an toàn để tìm người cha mất tích của Aki và khám phá thế giới đô thị bỏ hoang, đồng thời giải cứu thêm Yuu và Sakura.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261010/6Yn8WTS7/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261010/6Yn8WTS7/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261010/jyAm4jHn/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261010/jyAm4jHn/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "toi-dang-tim-kiem-thay-ma",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

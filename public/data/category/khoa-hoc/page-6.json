@@ -2,941 +2,132 @@
   "slug": "khoa-hoc",
   "name": "Khoa Học",
   "page": 6,
-  "totalPages": 7,
+  "totalPages": 6,
   "items": [
     {
-      "id": "papa-zola-the-movie-2025-124a8a36",
-      "source": "ophim",
-      "slug": "papa-zola-the-movie",
-      "name": "Papa Zola: The Movie",
-      "originName": "Papa Zola: The Movie",
-      "posterUrl": "papa-zola-the-movie-poster.jpg",
-      "thumbUrl": "papa-zola-the-movie-thumb.jpg",
-      "year": 2025,
-      "type": "anime",
+      "id": "the-adjustment-bureau-2011-cae8f086",
+      "source": "phimapi",
+      "slug": "ban-do-dinh-menh-the-luc-dan-xep",
+      "name": "Bản Đồ Định Mệnh / Thế Lực Dàn Xếp",
+      "originName": "The Adjustment Bureau",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260921/ban-do-dinh-menh-the-luc-dan-xep-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260921/ban-do-dinh-menh-the-luc-dan-xep-thumb.webp",
+      "year": 2011,
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (1/1)",
+      "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
         },
         {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
         },
         {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         },
         {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
         },
         {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
-          "name": "Malaysia",
-          "slug": "malaysia"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
     {
-      "id": "dr-stone-season-4-2025-701dc79b",
-      "source": "ophim",
-      "slug": "tien-si-da-hoi-sinh-the-gioi-phan-4",
-      "name": "Tiến Sĩ Đá: Hồi Sinh Thế Giới (Phần 4)",
-      "originName": "Dr. STONE (Season 4)",
-      "posterUrl": "tien-si-da-hoi-sinh-the-gioi-phan-4-poster.jpg",
-      "thumbUrl": "tien-si-da-hoi-sinh-the-gioi-phan-4-thumb.jpg",
-      "year": 2025,
-      "type": "anime",
+      "id": "ghosts-of-mars-2001-f7c7eb22",
+      "source": "phimapi",
+      "slug": "bong-ma-tren-sao-hoa",
+      "name": "Bóng Ma Trên Sao Hỏa",
+      "originName": "Ghosts Of Mars",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261010/bong-ma-tren-sao-hoa-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261010/bong-ma-tren-sao-hoa-thumb.webp",
+      "year": 2001,
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (37/37)",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
         },
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
         },
         {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
         },
         {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "ultraman-tiga-1996-dcb2cf63",
+      "source": "phimapi",
+      "slug": "ultraman-tiga",
+      "name": "Ultraman Tiga",
+      "originName": "Ultraman Tiga",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
+      "year": 1996,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 1",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
         },
         {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "purple-river-season-2-2025-bda35a2c",
-      "source": "ophim",
-      "slug": "tu-xuyen-phan-2-2025",
-      "name": "Tử Xuyên (Phần 2)",
-      "originName": "Purple River (Season 2)",
-      "posterUrl": "tu-xuyen-phan-2-2025-poster.jpg",
-      "thumbUrl": "tu-xuyen-phan-2-2025-thumb.jpg",
-      "year": 2025,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 49",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "immortality-season-5-2025-d142f9ff",
-      "source": "ophim",
-      "slug": "vinh-sinh-phan-5",
-      "name": "Vĩnh Sinh (Phần 5)",
-      "originName": "Immortality (Season 5)",
-      "posterUrl": "vinh-sinh-phan-5-poster.jpg",
-      "thumbUrl": "vinh-sinh-phan-5-thumb.jpg",
-      "year": 2025,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (26/26)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "digimon-beatbreak-2025-d92f228c",
-      "source": "phimapi",
-      "slug": "digimon-beatbreak",
-      "name": "DIGIMON BEATBREAK",
-      "originName": "Digimon Beatbreak",
-      "posterUrl": "https://phimimg.com/upload/vod/20251111-1/0db4abb38dc3193efe0ac7c3d7d4753b.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251111-1/b9d5ee4209289a3e9ba05a7b002f8e0c.jpg",
-      "year": 2025,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 43",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Trẻ Em",
-          "slug": "tre-em"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "kamen-rider-zeztz-2025-c2ebc58d",
-      "source": "phimapi",
-      "slug": "hiep-si-mat-na-zeztz",
-      "name": "Hiệp Sĩ Mặt Nạ ZEZTZ",
-      "originName": "Kamen Rider ZEZTZ",
-      "posterUrl": "https://phimimg.com/upload/vod/20250909-1/f24410500ec5132d041c94af7243ade3.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250909-1/9687569eb69eb6084238e0c46149fbc0.jpg",
-      "year": 2025,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 48",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "your-friendly-neighborho-2025-f4de8278",
-      "source": "phimapi",
-      "slug": "nguoi-nhen-hang-xom-than-thien",
-      "name": "Người Nhện Hàng Xóm Thân Thiện",
-      "originName": "Your Friendly Neighborhood Spider-Man",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260809/nguoi-nhen-hang-xom-than-thien-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260809/nguoi-nhen-hang-xom-than-thien-thumb.webp",
-      "year": 2025,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "beyond-time-s-gaze-2025-574e7b39",
-      "source": "phimapi",
-      "slug": "quang-am-chi-ngoai",
-      "name": "Quang Âm Chi Ngoại",
-      "originName": "Beyond Time's Gaze",
-      "posterUrl": "https://phimimg.com/upload/vod/20251229-1/d7f24b91fd95fb7cf353e1369e2318b7.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251229-1/fce1ee8b2fe5ee1e48e670ddf1417ee8.jpg",
-      "year": 2025,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 36",
-      "categories": [
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "star-trek-strange-new-wo-2025-bac71199",
-      "source": "phimapi",
-      "slug": "star-trek-nhung-mien-dat-moi-phan-3",
-      "name": "Star Trek: Những Miền Đất Mới (Phần 3)",
-      "originName": "Star Trek: Strange New Worlds (Season 3)",
-      "posterUrl": "https://phimimg.com/upload/vod/20250729-1/f204ca0ddc7ec2987f9b268525ff004b.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250729-1/ccab53ff1da54607ec5d27d0c5ad4a3a.jpg",
-      "year": 2025,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-walking-dead-dead-ci-2025-00f37588",
-      "source": "phimapi",
-      "slug": "xac-song-thanh-pho-chet-phan-2",
-      "name": "Xác Sống: Thành Phố Chết (Phần 2)",
-      "originName": "The Walking Dead: Dead City (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260817/xac-song-thanh-pho-chet-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260817/xac-song-thanh-pho-chet-phan-2-thumb.webp",
-      "year": 2025,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "orphan-black-echoes-2024-7348cf4d",
-      "source": "ophim",
-      "slug": "goc-toi-nhan-ban",
-      "name": "Góc Tối Nhân Bản",
-      "originName": "Orphan Black: Echoes",
-      "posterUrl": "goc-toi-nhan-ban-poster.jpg",
-      "thumbUrl": "goc-toi-nhan-ban-thumb.jpg",
-      "year": 2024,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 9",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
-        }
-      ]
-    },
-    {
-      "id": "tales-of-qin-mu-2024-b5222627",
-      "source": "ophim",
-      "slug": "muc-than-ky",
-      "name": "Mục Thần Ký",
-      "originName": "Tales of Qin Mu",
-      "posterUrl": "muc-than-ky-poster.jpg",
-      "thumbUrl": "muc-than-ky-thumb.jpg",
-      "year": 2024,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 90",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "secret-diary-2024-12d0fcb4",
-      "source": "ophim",
-      "slug": "nhat-ky-bi-mat",
-      "name": "Nhật Ký Bí Mật",
-      "originName": "Secret Diary",
-      "posterUrl": "nhat-ky-bi-mat-poster.jpg",
-      "thumbUrl": "nhat-ky-bi-mat-thumb.jpg",
-      "year": 2024,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (20/20)",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "peerless-battle-spirit-2024-fb0f9561",
-      "source": "ophim",
-      "slug": "tuyet-the-chien-hon",
-      "name": "Tuyệt Thế Chiến Hồn",
-      "originName": "Peerless Battle Spirit",
-      "posterUrl": "tuyet-the-chien-hon-poster.jpg",
-      "thumbUrl": "tuyet-the-chien-hon-thumb.jpg",
-      "year": 2024,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 180",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "good-doctor-thailand-ver-2024-7039d8d3",
-      "source": "phimapi",
-      "slug": "bac-si-thien-tai-ban-thai",
-      "name": "Bác Sĩ Thiên Tài (Bản Thái)",
-      "originName": "Good Doctor (Thailand Version)",
-      "posterUrl": "https://phimimg.com/upload/vod/20241013-1/beed97462894998676294e314eb54339.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20241013-1/fe352509644075f779b675876355e490.jpg",
-      "year": 2024,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (20/20)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "legend-of-lingwu-contine-2024-ffb5ef13",
-      "source": "phimapi",
-      "slug": "dai-luc-linh-vo",
-      "name": "Đại Lục Linh Võ",
-      "originName": "Legend of Lingwu Continent",
-      "posterUrl": "https://phimimg.com/upload/vod/20250224-1/f10d225c86bd40ae0eaa2ef5d957c24e.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250224-1/f68af9aa9f67c035f72938fb5291ba55.jpg",
-      "year": 2024,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 205",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "the-amazing-digital-circ-2023-ec1aa098",
-      "source": "ophim",
-      "slug": "rap-xiec-ky-thuat-so-dieu-ky",
-      "name": "Rạp xiếc kỹ thuật số diệu kỳ",
-      "originName": "The Amazing Digital Circus",
-      "posterUrl": "rap-xiec-ky-thuat-so-dieu-ky-poster.jpg",
-      "thumbUrl": "rap-xiec-ky-thuat-so-dieu-ky-thumb.jpg",
-      "year": 2023,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (9/9)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Úc",
-          "slug": "uc"
-        }
-      ]
-    },
-    {
-      "id": "the-great-ruler-2023-d5efc3bf",
-      "source": "phimapi",
-      "slug": "dai-chua-te-3d",
-      "name": "Đại Chúa Tể 3D",
-      "originName": "The Great Ruler",
-      "posterUrl": "https://phimimg.com/upload/vod/20260415-1/b5d7394aa49cde793f86f5d9163ced85.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
-      "year": 2023,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 87",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "the-legends-of-changing--2023-04669664",
-      "source": "phimapi",
-      "slug": "huyen-thoai-thay-doi-van-menh-truyen-thuyet-hau-vuong",
-      "name": "Huyền Thoại Thay Đổi Vận Mệnh / Truyền Thuyết Hầu Vương",
-      "originName": "The Legends Of Changing Destiny",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260808/huyen-thoai-thay-doi-van-menh-truyen-thuyet-hau-vuong-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260808/huyen-thoai-thay-doi-van-menh-truyen-thuyet-hau-vuong-thumb.webp",
-      "year": 2023,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (43/43)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "one-hundred-thousand-yea-2023-944d7377",
-      "source": "phimapi",
-      "slug": "luyen-khi-muoi-van-nam",
-      "name": "Luyện Khí Mười Vạn Năm",
-      "originName": "One Hundred Thousand Years of Qi Refining",
-      "posterUrl": "https://phimimg.com/upload/vod/20250219-1/0ddffeb590aa6bad556a0724302487ad.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250219-1/9e7246fa85194e2fad2da74ce43f0c7d.jpg",
-      "year": 2023,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 370",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "against-the-gods-2023-498e1046",
-      "source": "phimapi",
-      "slug": "nghich-thien-ta-than",
-      "name": "Nghịch Thiên Tà Thần",
-      "originName": "Against The Gods",
-      "posterUrl": "https://phimimg.com/upload/vod/20260420-1/0a4c1589001cf10c879d5b8c4f7e75d6.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260420-1/a00de874909fb1bfb7f7749f926081a3.jpg",
-      "year": 2023,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 51",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "star-trek-strange-new-wo-2023-46174e3f",
-      "source": "phimapi",
-      "slug": "star-trek-nhung-mien-dat-moi-phan-2",
-      "name": "Star Trek: Những Miền Đất Mới (Phần 2)",
-      "originName": "Star Trek: Strange New Worlds (Season 2)",
-      "posterUrl": "https://phimimg.com/upload/vod/20250729-1/c990ce5eb5133e3fc28e089a721c9e09.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250729-1/51c6cddef7e06cea118093e0b06f0a86.jpg",
-      "year": 2023,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "my-senior-brother-is-too-2023-38bed200",
-      "source": "phimapi",
-      "slug": "su-huynh-a-su-huynh",
-      "name": "Sư Huynh À Sư Huynh",
-      "originName": "My Senior Brother is Too Steady",
-      "posterUrl": "https://phimimg.com/upload/vod/20250117-1/a9e32b44820101a9ba2c887344f7334c.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250117-1/d2d7ee02b72e59bea282b367e36b0094.jpg",
-      "year": 2023,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 155",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "the-walking-dead-dead-ci-2023-433d2be8",
-      "source": "phimapi",
-      "slug": "xac-song-thanh-pho-chet-phan-1",
-      "name": "Xác Sống: Thành Phố Chết (Phần 1)",
-      "originName": "The Walking Dead: Dead City (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260817/xac-song-thanh-pho-chet-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260817/xac-song-thanh-pho-chet-phan-1-thumb.webp",
-      "year": 2023,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (6/6)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     }

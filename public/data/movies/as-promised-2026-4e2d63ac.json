@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260921/nhu-da-hen-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 21",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (24/24)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -205,13 +205,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261003/SGk9qyKw/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261003/SGk9qyKw/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261004/Jw2BsTKo/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261004/Jw2BsTKo/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261005/GEP2LHgC/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261005/GEP2LHgC/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261006/41lICMNB/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261006/41lICMNB/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nhu-da-hen",
-      "episodeCount": 21,
+      "episodeCount": 24,
       "priority": 1
     }
   ],

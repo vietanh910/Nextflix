@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260726/van-co-chi-ton-ly-van-tieu-truyen-thumb.webp",
   "year": 2026,
   "type": "anime",
-  "status": "completed",
-  "episodeCurrent": "Hoàn Tất (24/24)",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 26",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -225,13 +225,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261003/Av2zl63Y/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261003/Av2zl63Y/index.m3u8"
+    },
+    {
+      "name": "Tập 25",
+      "slug": "tap-25",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261010/JH3WLwf3/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261010/JH3WLwf3/index.m3u8"
+    },
+    {
+      "name": "Tập 26",
+      "slug": "tap-26",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261010/AcvWDm9k/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261010/AcvWDm9k/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "van-co-chi-ton-ly-van-tieu-truyen",
-      "episodeCount": 24,
+      "episodeCount": 26,
       "priority": 1
     }
   ],

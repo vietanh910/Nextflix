@@ -1,0 +1,62 @@
+{
+  "id": "dark-legacy-2026-69e55dc9",
+  "source": "phimapi",
+  "slug": "di-san-den-toi",
+  "name": "Di Sản Đen Tối",
+  "originName": "Dark Legacy",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261009/di-san-den-toi-poster.webp",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Bí Ẩn",
+      "slug": "bi-an"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thái Lan",
+      "slug": "thai-lan"
+    }
+  ],
+  "description": "<p>Một gia đình tụ họp suốt một tháng để giành gia tài của người ông. Nhưng khi hàng loạt vụ án mạng xảy ra, họ phải tìm ra kẻ sát nhân đang ẩn mình trong số họ.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261008/tHJPhYXU/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261008/tHJPhYXU/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261008/ZV4pwRtM/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261008/ZV4pwRtM/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "di-san-den-toi",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

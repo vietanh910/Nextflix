@@ -1,0 +1,63 @@
+{
+  "id": "samsara-2026-88cb6a64",
+  "source": "phimapi",
+  "slug": "luan-hoi",
+  "name": "Luân Hồi",
+  "originName": "Samsara",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261010/luan-hoi-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261010/luan-hoi-thumb.webp",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "<p>Để tìm người anh trai mất tích ở Bangkok, chàng trai Mỹ Elias vô tình xâm nhập một đế chế ma túy do một “Phật sống” dựng lên dưới danh nghĩa “Luân Hồi”, rồi gặp lại Krit, chàng trai Muay Thái đang bị mắc kẹt tại đó. Sáu năm trước, họ từng có một đêm bên nhau, nhưng giờ chỉ Elias còn nhớ chuyện ấy. Anh trai, người yêu và chính bản thân Elias đều bị cuốn vào vòng xoáy tội lỗi, buộc anh phải lựa chọn. Cuối cùng, Elias đối mặt với tội lỗi của gia đình lẫn của chính mình, cùng Krit vạch trần sự thật về “Luân Hồi” và phá hủy đế chế ngầm núp bóng đức tin.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261010/SS6yvgx4/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261010/SS6yvgx4/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261010/ZyY7EzEU/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261010/ZyY7EzEU/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "luan-hoi",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

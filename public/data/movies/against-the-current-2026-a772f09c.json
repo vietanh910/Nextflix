@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260912/lan-huong-nhu-co-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 41",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (47/47)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -365,13 +365,61 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261003/gSMO0jMj/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261003/gSMO0jMj/index.m3u8"
+    },
+    {
+      "name": "Tập 42",
+      "slug": "tap-42",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261004/6PVILxUA/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261004/6PVILxUA/index.m3u8"
+    },
+    {
+      "name": "Tập 43",
+      "slug": "tap-43",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261005/tZHAvgvO/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261005/tZHAvgvO/index.m3u8"
+    },
+    {
+      "name": "Tập 44",
+      "slug": "tap-44",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261005/qUzSZdry/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261005/qUzSZdry/index.m3u8"
+    },
+    {
+      "name": "Tập 45",
+      "slug": "tap-45",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261005/PzzTQLa9/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261005/PzzTQLa9/index.m3u8"
+    },
+    {
+      "name": "Tập 46",
+      "slug": "tap-46",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261005/2JSmRig5/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261005/2JSmRig5/index.m3u8"
+    },
+    {
+      "name": "Tập 47",
+      "slug": "tap-47",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261005/IDpooOaR/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261005/IDpooOaR/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "lan-huong-nhu-co",
-      "episodeCount": 41,
+      "episodeCount": 47,
       "priority": 1
     }
   ],

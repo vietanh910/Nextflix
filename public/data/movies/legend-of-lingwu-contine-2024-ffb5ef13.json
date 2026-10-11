@@ -9,7 +9,7 @@
   "year": 2024,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 220",
+  "episodeCurrent": "Tập 222",
   "categories": [
     {
       "name": "Hành Động",
@@ -1797,13 +1797,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261003/ukguWgdI/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261003/ukguWgdI/index.m3u8"
+    },
+    {
+      "name": "Tập 221",
+      "slug": "tap-221",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261010/RSHz3IoE/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261010/RSHz3IoE/index.m3u8"
+    },
+    {
+      "name": "Tập 222",
+      "slug": "tap-222",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261010/lVljIEzD/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261010/lVljIEzD/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "dai-luc-linh-vo",
-      "episodeCount": 220,
+      "episodeCount": 222,
       "priority": 1
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2024,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 217",
+  "episodeCurrent": "Tập 219",
   "categories": [
     {
       "name": "Hành Động",
@@ -1769,13 +1769,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260930/AFU0Zz9J/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20260930/AFU0Zz9J/index.m3u8"
+    },
+    {
+      "name": "Tập 218",
+      "slug": "tap-218",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261005/WC1dNPBG/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261005/WC1dNPBG/index.m3u8"
+    },
+    {
+      "name": "Tập 219",
+      "slug": "tap-219",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261007/hc77S6en/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261007/hc77S6en/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "than-y-co-dai-o-do-thi-do-thi-co-tien-y",
-      "episodeCount": 217,
+      "episodeCount": 219,
       "priority": 1
     }
   ],

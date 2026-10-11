@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 23",
+  "episodeCurrent": "Tập 25",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -217,13 +217,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260930/CZmRQCZH/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20260930/CZmRQCZH/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261006/ARUyZjYK/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261006/ARUyZjYK/index.m3u8"
+    },
+    {
+      "name": "Tập 25",
+      "slug": "tap-25",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261006/Iaeoka6t/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261006/Iaeoka6t/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "van-co-than-de",
-      "episodeCount": 23,
+      "episodeCount": 25,
       "priority": 1
     }
   ],

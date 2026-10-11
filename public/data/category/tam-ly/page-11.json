@@ -2,24 +2,36 @@
   "slug": "tam-ly",
   "name": "Tâm Lý",
   "page": 11,
-  "totalPages": 15,
+  "totalPages": 14,
   "items": [
     {
-      "id": "love-under-the-moon-2021-c656bf39",
+      "id": "reincarnated-as-a-sword--2022-f50b421c",
       "source": "phimapi",
-      "slug": "anh-trang-khong-hieu-long-toi",
-      "name": "Ánh Trăng Không Hiểu Lòng Tôi",
-      "originName": "Love Under The Moon",
-      "posterUrl": "https://phimimg.com/upload/vod/20240615-1/c72b8069ded9afa6fb5160021364f0d3.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20240615-1/540037563675820dcc798c47f6e829d6.jpg",
-      "year": 2021,
-      "type": "series",
+      "slug": "chuyen-sinh-thanh-kiem-phan-1",
+      "name": "Chuyển Sinh Thành Kiếm (Phần 1)",
+      "originName": "Reincarnated As A Sword (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261002/chuyen-sinh-thanh-kiem-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261002/chuyen-sinh-thanh-kiem-phan-1-thumb.webp",
+      "year": 2022,
+      "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (48/48)",
+      "episodeCurrent": "Hoàn Tất (12/12)",
       "categories": [
         {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
         },
         {
           "name": "Tâm Lý",
@@ -28,8 +40,107 @@
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-secret-season-1-2022-5acf1f9e",
+      "source": "phimapi",
+      "slug": "dong-mau-bi-an-phan-1",
+      "name": "Dòng Máu Bí Ẩn (Phần 1)",
+      "originName": "The Secret (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260929/dong-mau-bi-an-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260929/dong-mau-bi-an-phan-1-thumb.webp",
+      "year": 2022,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (30/30)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Bồ Đào Nha",
+          "slug": "bo-dao-nha"
+        }
+      ]
+    },
+    {
+      "id": "the-secret-season-2-2022-77504e65",
+      "source": "phimapi",
+      "slug": "dong-mau-bi-an-phan-2",
+      "name": "Dòng Máu Bí Ẩn (Phần 2)",
+      "originName": "The Secret (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260929/dong-mau-bi-an-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260929/dong-mau-bi-an-phan-2-thumb.webp",
+      "year": 2022,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (30/30)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Bồ Đào Nha",
+          "slug": "bo-dao-nha"
+        }
+      ]
+    },
+    {
+      "id": "the-secret-season-3-2022-f663ba83",
+      "source": "phimapi",
+      "slug": "dong-mau-bi-an-phan-3",
+      "name": "Dòng Máu Bí Ẩn (Phần 3)",
+      "originName": "The Secret (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260929/dong-mau-bi-an-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260929/dong-mau-bi-an-phan-3-thumb.webp",
+      "year": 2022,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (30/30)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Bồ Đào Nha",
+          "slug": "bo-dao-nha"
         }
       ]
     },
@@ -67,29 +178,41 @@
       ]
     },
     {
-      "id": "my-fated-boy-2021-68562b3e",
+      "id": "spare-me-great-lord-seas-2021-5f579136",
       "source": "phimapi",
-      "slug": "hang-xom-cua-toi-khong-chiu-lon",
-      "name": "Hàng Xóm Của Tôi Không Chịu Lớn",
-      "originName": "My Fated Boy",
-      "posterUrl": "https://phimimg.com/upload/vod/20250505-1/dea27cef88786f7cb0b8dabace16754e.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250505-1/08ec60d3ad37019754a8af97f0d1dddf.jpg",
+      "slug": "dai-vuong-tha-mang-phan-1",
+      "name": "Đại Vương Tha Mạng (Phần 1)",
+      "originName": "Spare Me, Great Lord! (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261005/dai-vuong-tha-mang-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261005/dai-vuong-tha-mang-phan-1-thumb.webp",
       "year": 2021,
-      "type": "series",
+      "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (29/29)",
+      "episodeCurrent": "Hoàn Tất (12/12)",
       "categories": [
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
         },
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
         },
         {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
         },
         {
           "name": "Tâm Lý",
@@ -141,6 +264,84 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-detective-is-already-2021-218cfb6c",
+      "source": "phimapi",
+      "slug": "tham-tu-da-chet-phan-1",
+      "name": "Thám Tử Đã Chết (Phần 1)",
+      "originName": "The Detective Is Already Dead (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261009/tham-tu-da-chet-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261009/tham-tu-da-chet-phan-1-thumb.webp",
+      "year": 2021,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "slumber-party-massacre-2021-dd36757e",
+      "source": "phimapi",
+      "slug": "tiec-an-choi-dam-mau-4",
+      "name": "Tiệc Ăn Chơi Đẫm Máu 4",
+      "originName": "Slumber Party Massacre",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261008/tiec-an-choi-dam-mau-4-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261008/tiec-an-choi-dam-mau-4-thumb.webp",
+      "year": 2021,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nam Phi",
+          "slug": "nam-phi"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -227,6 +428,72 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "somewhere-winter-2019-109738dd",
+      "source": "phimapi",
+      "slug": "co-le-o-mua-dong",
+      "name": "Có Lẽ Ở Mùa Đông",
+      "originName": "Somewhere Winter",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261010/co-le-o-mua-dong-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261010/co-le-o-mua-dong-thumb.webp",
+      "year": 2019,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "a-city-called-macau-2019-5c3f66ce",
+      "source": "phimapi",
+      "slug": "con-bac-2019",
+      "name": "Con Bạc",
+      "originName": "A City Called Macau",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261010/con-bac-2019-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261010/con-bac-2019-thumb.webp",
+      "year": 2019,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -334,6 +601,47 @@
         {
           "name": "Việt Nam",
           "slug": "viet-nam"
+        }
+      ]
+    },
+    {
+      "id": "kill-it-2019-690d3e8a",
+      "source": "phimapi",
+      "slug": "truy-sat-2019",
+      "name": "Truy Sát",
+      "originName": "Kill It",
+      "posterUrl": "https://phimimg.com/upload/vod/20231219-1/d6e75134ed44e7eeb8fca177fa4ee2e7.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20231219-1/261635aab43c896d73b36d1535588e53.jpg",
+      "year": 2019,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
@@ -515,39 +823,6 @@
       ]
     },
     {
-      "id": "the-witness-2018-b97d2c9c",
-      "source": "phimapi",
-      "slug": "nguoi-chung-kien",
-      "name": "Người Chứng Kiến",
-      "originName": "The Witness",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260915/nguoi-chung-kien-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260915/nguoi-chung-kien-thumb.webp",
-      "year": 2018,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
       "id": "payakka-2018-d03d5649",
       "source": "phimapi",
       "slug": "nguoi-ho",
@@ -605,285 +880,6 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "be-with-you-2018-a9f44b56",
-      "source": "phimapi",
-      "slug": "va-em-se-den",
-      "name": "Và Em Sẽ Đến",
-      "originName": "Be With You",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260922/va-em-se-den-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260922/va-em-se-den-thumb.webp",
-      "year": 2018,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "black-clover-season-1-2017-20e1db9f",
-      "source": "phimapi",
-      "slug": "the-gioi-phep-thuat-phan-1",
-      "name": "Thế Giới Phép Thuật (Phần 1)",
-      "originName": "Black Clover (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261004/the-gioi-phep-thuat-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261004/the-gioi-phep-thuat-phan-1-thumb.webp",
-      "year": 2017,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (170/170)",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "the-hitman-s-bodyguard-2017-720abd3c",
-      "source": "phimapi",
-      "slug": "ve-si-sat-thu",
-      "name": "Vệ Sĩ Sát Thủ",
-      "originName": "The Hitman's Bodyguard",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261004/ve-si-sat-thu-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261004/ve-si-sat-thu-thumb.webp",
-      "year": 2017,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "ajin-demi-human-season-1-2016-30c3db7f",
-      "source": "phimapi",
-      "slug": "a-nhan-phan-1",
-      "name": "Á Nhân (Phần 1)",
-      "originName": "AJIN: Demi-Human (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260920/a-nhan-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260920/a-nhan-phan-1-thumb.webp",
-      "year": 2016,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "ajin-demi-human-season-2-2016-9bdda3e7",
-      "source": "phimapi",
-      "slug": "a-nhan-phan-2",
-      "name": "Á Nhân (Phần 2)",
-      "originName": "AJIN: Demi-Human (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260920/a-nhan-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260920/a-nhan-phan-2-thumb.webp",
-      "year": 2016,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "black-sails-season-3-2016-fab92531",
-      "source": "phimapi",
-      "slug": "canh-buom-den-phan-3",
-      "name": "Cánh Buồm Đen (Phần 3)",
-      "originName": "Black Sails (Season 3)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260818/canh-buom-den-phan-3-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260818/canh-buom-den-phan-3-thumb.webp",
-      "year": 2016,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nam Phi",
-          "slug": "nam-phi"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "david-and-goliath-2016-d0aa325d",
-      "source": "phimapi",
-      "slug": "david-va-goliath",
-      "name": "David Và Goliath",
-      "originName": "David And Goliath",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260915/david-va-goliath-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260915/david-va-goliath-thumb.webp",
-      "year": 2016,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     }

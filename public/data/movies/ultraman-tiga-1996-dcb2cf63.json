@@ -1,0 +1,75 @@
+{
+  "id": "ultraman-tiga-1996-dcb2cf63",
+  "source": "phimapi",
+  "slug": "ultraman-tiga",
+  "name": "Ultraman Tiga",
+  "originName": "Ultraman Tiga",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
+  "year": 1996,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 1",
+  "categories": [
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub + Lồng Tiếng",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261008/QyHjSWof/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261008/QyHjSWof/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261008/zM8Cubs5/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261008/zM8Cubs5/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "ultraman-tiga",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

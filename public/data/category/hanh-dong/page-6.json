@@ -5,22 +5,18 @@
   "totalPages": 6,
   "items": [
     {
-      "id": "the-professionals-1966-721a6ee3",
+      "id": "the-man-in-the-iron-mask-1998-4599954f",
       "source": "phimapi",
-      "slug": "nhung-tay-chuyen-nghiep",
-      "name": "Những Tay Chuyên Nghiệp",
-      "originName": "The Professionals",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260831/nhung-tay-chuyen-nghiep-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260831/nhung-tay-chuyen-nghiep-thumb.webp",
-      "year": 1966,
+      "slug": "nguoi-mang-mat-na-sat",
+      "name": "Người Mang Mặt Nạ Sắt",
+      "originName": "The Man In The Iron Mask",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260925/nguoi-mang-mat-na-sat-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260925/nguoi-mang-mat-na-sat-thumb.webp",
+      "year": 1998,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
-        {
-          "name": "Miền Tây",
-          "slug": "mien-tay"
-        },
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
@@ -30,18 +26,67 @@
           "slug": "hanh-dong"
         },
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "ultraman-tiga-1996-dcb2cf63",
+      "source": "phimapi",
+      "slug": "ultraman-tiga",
+      "name": "Ultraman Tiga",
+      "originName": "Ultraman Tiga",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
+      "year": 1996,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 1",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     }

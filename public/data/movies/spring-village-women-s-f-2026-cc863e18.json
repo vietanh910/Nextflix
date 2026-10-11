@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 11",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -93,13 +93,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261001/lYXpCHbS/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261001/lYXpCHbS/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261006/mnKRZClh/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261006/mnKRZClh/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261008/8OspHpM5/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261008/8OspHpM5/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261009/6a5lAZQ9/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261009/6a5lAZQ9/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "doi-bong-nu-lang-xuan",
-      "episodeCount": 8,
+      "episodeCount": 11,
       "priority": 1
     }
   ],

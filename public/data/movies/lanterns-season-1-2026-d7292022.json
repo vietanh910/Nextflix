@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260817/luc-luong-lanterns-phan-1-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (8/8)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -93,13 +93,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20260928/TcJeJE4z/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20260928/TcJeJE4z/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261005/nwfxV4bf/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261005/nwfxV4bf/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "luc-luong-lanterns-phan-1",
-      "episodeCount": 7,
+      "episodeCount": 8,
       "priority": 1
     }
   ],
