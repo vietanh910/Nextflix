@@ -7,8 +7,8 @@
   "posterUrl": "https://phimimg.com/uploads/movies/20261002/khong-the-den-gan-anh-ay-poster.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 17",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (23/23)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -172,13 +172,61 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261010/pR2m0llK/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261010/pR2m0llK/index.m3u8"
+    },
+    {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261011/0c4tr48k/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261011/0c4tr48k/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261012/kPBabgGR/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261012/kPBabgGR/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261013/lkKuaCTV/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261013/lkKuaCTV/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261014/4QziEQ3w/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261014/4QziEQ3w/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261015/P3F5fBKw/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261015/P3F5fBKw/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261016/PETUy7Va/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261016/PETUy7Va/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "khong-the-den-gan-anh-ay",
-      "episodeCount": 17,
+      "episodeCount": 23,
       "priority": 1
     }
   ],

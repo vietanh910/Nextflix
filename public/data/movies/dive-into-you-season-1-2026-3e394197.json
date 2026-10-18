@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 6",
   "categories": [
     {
       "name": "Hài Hước",
@@ -73,13 +73,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261005/1zllkCYQ/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261005/1zllkCYQ/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261016/w2CaTZV6/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261016/w2CaTZV6/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261016/CLHzkEO0/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261016/CLHzkEO0/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "chim-vao-mat-em-phan-1",
-      "episodeCount": 4,
+      "episodeCount": 6,
       "priority": 1
     }
   ],

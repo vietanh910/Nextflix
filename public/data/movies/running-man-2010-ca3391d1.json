@@ -9,7 +9,7 @@
   "year": 2010,
   "type": "tvshow",
   "status": "ongoing",
-  "episodeCurrent": "Tập 821",
+  "episodeCurrent": "Tập 822",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -5293,13 +5293,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261009/GDE7bNX9/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261009/GDE7bNX9/index.m3u8"
+    },
+    {
+      "name": "Tập 822",
+      "slug": "tap-822",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261013/umwBVaAd/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261013/umwBVaAd/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "thu-thach-than-tuong",
-      "episodeCount": 658,
+      "episodeCount": 659,
       "priority": 1
     }
   ],

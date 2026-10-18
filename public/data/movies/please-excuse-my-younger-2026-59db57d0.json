@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 14",
+  "episodeCurrent": "Tập 15",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -145,13 +145,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261009/LfU3rXJI/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261009/LfU3rXJI/index.m3u8"
+    },
+    {
+      "name": "Tập 15",
+      "slug": "tap-15",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261018/ZUrMJG07/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261018/ZUrMJG07/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "xin-hay-thu-loi-cho-cac-em-trai-cua-toi",
-      "episodeCount": 14,
+      "episodeCount": 15,
       "priority": 1
     }
   ],

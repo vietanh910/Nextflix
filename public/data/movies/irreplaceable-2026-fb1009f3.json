@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260929/khong-the-thay-the-phan-1-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 17",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (20/20)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -163,8 +163,32 @@
       "slug": "tap-17",
       "serverName": "Vietsub",
       "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261010/BRt23qQv/index.m3u8",
-      "m3u8Url": "https://a.kvp726.com/20261010/BRt23qQv/index.m3u8"
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261015/kJQpWcF9/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261015/kJQpWcF9/index.m3u8"
+    },
+    {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261015/NK2s0z4q/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261015/NK2s0z4q/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261016/qhlqaQ1T/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261016/qhlqaQ1T/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261018/1WXi9vGe/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261018/1WXi9vGe/index.m3u8"
     },
     {
       "name": "Tập 01",
@@ -293,13 +317,45 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261010/YTjsljkm/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261010/YTjsljkm/index.m3u8"
+    },
+    {
+      "name": "Tập 17",
+      "slug": "tap-17",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261015/Ya75rvDh/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261015/Ya75rvDh/index.m3u8"
+    },
+    {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261015/34j2m1XJ/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261015/34j2m1XJ/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261016/JU60CODT/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261016/JU60CODT/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261018/psJJHayq/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261018/psJJHayq/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "khong-the-thay-the-2026",
-      "episodeCount": 33,
+      "episodeCount": 40,
       "priority": 1
     }
   ],

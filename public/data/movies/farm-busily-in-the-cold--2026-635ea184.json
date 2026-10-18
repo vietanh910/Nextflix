@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260930/phe-hau-vao-lanh-cung-ban-lam-ruong-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 20",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (24/24)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -197,13 +197,45 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261010/jdHVZAOQ/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261010/jdHVZAOQ/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261011/eGeXX58S/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261011/eGeXX58S/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261012/AzNIpgcW/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261012/AzNIpgcW/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261013/xycWlSiA/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261013/xycWlSiA/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261014/GBmxnr9A/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261014/GBmxnr9A/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "phe-hau-vao-lanh-cung-ban-lam-ruong-phan-1",
-      "episodeCount": 20,
+      "episodeCount": 24,
       "priority": 1
     }
   ],

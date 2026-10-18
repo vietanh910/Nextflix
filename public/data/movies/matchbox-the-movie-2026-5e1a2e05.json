@@ -1,0 +1,55 @@
+{
+  "id": "matchbox-the-movie-2026-5e1a2e05",
+  "source": "phimapi",
+  "slug": "matchbox-phim-dien-anh",
+  "name": "Matchbox: Phim Điện Ảnh",
+  "originName": "Matchbox The Movie",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261011/matchbox-phim-dien-anh-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261011/matchbox-phim-dien-anh-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Cuộc hội ngộ của một nhóm bạn thuở nhỏ bỗng rẽ vào một bước ngoặt bất ngờ khi cả bọn rơi vào một âm mưu quốc tế nguy hiểm và phải đứng lên cứu thế giới.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261011/XdpIV8L5/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261011/XdpIV8L5/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "matchbox-phim-dien-anh",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

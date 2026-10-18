@@ -15,7 +15,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 1",
+      "episodeCurrent": "Tập 2",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -120,6 +120,43 @@
       ]
     },
     {
+      "id": "horror-collector-2026-0a348b99",
+      "source": "phimapi",
+      "slug": "horror-collector-kyoufu-collector",
+      "name": "Horror Collector / Kyoufu Collector",
+      "originName": "HORROR COLLECTOR",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261014/horror-collector-kyoufu-collector-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261014/horror-collector-kyoufu-collector-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 1",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
       "id": "star-detective-precure-2026-99cb3f38",
       "source": "phimapi",
       "slug": "meitantei-precure",
@@ -130,7 +167,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 36",
+      "episodeCurrent": "Tập 37",
       "categories": [
         {
           "name": "Hài Hước",
@@ -292,43 +329,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "the-little-rascals-1994-1f396ad2",
-      "source": "phimapi",
-      "slug": "nhung-dua-tre-tinh-nghich",
-      "name": "Những Đứa Trẻ Tinh Nghịch",
-      "originName": "The Little Rascals",
-      "posterUrl": "https://phimimg.com/upload/vod/20250424-1/4431e118677ce49c0d1e8567fb5bc472.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250424-1/61908da01214b0f3d3f0c91e07971707.jpg",
-      "year": 1994,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Trẻ Em",
-          "slug": "tre-em"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     }

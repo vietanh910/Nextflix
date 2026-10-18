@@ -48,7 +48,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Bí Ẩn",
@@ -71,6 +71,43 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "money-trap-2026-e1efde89",
+      "source": "phimapi",
+      "slug": "bang-dang-ki-cuc-bay-tien",
+      "name": "Băng Đảng Kì Cục: Bẫy Tiền",
+      "originName": "Money Trap",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261016/bang-dang-ki-cuc-bay-tien-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261016/bang-dang-ki-cuc-bay-tien-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thổ Nhĩ Kỳ",
+          "slug": "tho-nhi-ky"
         }
       ]
     },
@@ -414,8 +451,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 16",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
       "categories": [
         {
           "name": "Hình Sự",
@@ -448,7 +485,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Hành Động",
@@ -489,7 +526,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Hình Sự",
@@ -521,8 +558,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20260929/loi-dinh-lenh-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 26",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (34/34)",
       "categories": [
         {
           "name": "Hình Sự",
@@ -582,6 +619,76 @@
       ]
     },
     {
+      "id": "matlock-season-2-2026-a4559fcd",
+      "source": "phimapi",
+      "slug": "matlock-phan-2",
+      "name": "Matlock (Phần 2)",
+      "originName": "Matlock (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261012/matlock-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261012/matlock-phan-2-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (16/16)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "a-better-jianghu-2026-d15524ba",
+      "source": "phimapi",
+      "slug": "mot-tran-thanh-danh",
+      "name": "Một Trận Thành Danh",
+      "originName": "A Better Jianghu",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261017/mot-tran-thanh-danh-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261017/mot-tran-thanh-danh-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "slow-horses-season-6-2026-e228f84a",
       "source": "phimapi",
       "slug": "nhung-diep-vien-het-thoi-phan-6",
@@ -592,7 +699,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Hình Sự",
@@ -648,47 +755,6 @@
         {
           "name": "Ấn Độ",
           "slug": "an-do"
-        }
-      ]
-    },
-    {
-      "id": "flex-x-cop-season-2-2026-515710c9",
-      "source": "phimapi",
-      "slug": "tai-phiet-va-canh-sat-phan-2",
-      "name": "Tài phiệt và Cảnh sát (Phần 2)",
-      "originName": "Flex X Cop (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260810/tai-phiet-va-canh-sat-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260810/tai-phiet-va-canh-sat-phan-2-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (14/14)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
         }
       ]
     },
@@ -767,84 +833,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "kidnap-game-season-1-2026-aa76c8ad",
-      "source": "phimapi",
-      "slug": "tro-choi-bat-coc-phan-1",
-      "name": "Trò Chơi Bắt Cóc (Phần 1)",
-      "originName": "kiDnap GAME (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 1",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        },
-        {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
-        },
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "neagley-2026-096aaf68",
-      "source": "phimapi",
-      "slug": "truy-tim-cong-ly",
-      "name": "Truy Tìm Công Lý",
-      "originName": "Neagley",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260920/truy-tim-cong-ly-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260920/truy-tim-cong-ly-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     }

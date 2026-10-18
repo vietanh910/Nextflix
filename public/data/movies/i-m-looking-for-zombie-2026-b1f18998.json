@@ -5,11 +5,11 @@
   "name": "Tôi Đang Tìm Kiếm Thây Ma",
   "originName": "#I'm Looking for Zombie",
   "posterUrl": "https://phimimg.com/uploads/movies/20261011/toi-dang-tim-kiem-thay-ma-poster.webp",
-  "thumbUrl": "https://image.tmdb.org/t/p/w780/yeRnq9N1HkZHXRxeyUec5lTLpfp.jpg",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261018/toi-dang-tim-kiem-thay-ma-thumb.webp",
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 3",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -53,13 +53,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261010/jyAm4jHn/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261010/jyAm4jHn/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261018/zz3rsH9X/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261018/zz3rsH9X/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "toi-dang-tim-kiem-thay-ma",
-      "episodeCount": 2,
+      "episodeCount": 3,
       "priority": 1
     }
   ],

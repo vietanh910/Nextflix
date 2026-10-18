@@ -1,0 +1,55 @@
+{
+  "id": "lost10-2026-75ff9278",
+  "source": "phimapi",
+  "slug": "lost10",
+  "name": "LOST10",
+  "originName": "LOST10",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261017/lost10-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261017/lost10-thumb.webp",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 1",
+  "categories": [
+    {
+      "name": "Bí Ẩn",
+      "slug": "bi-an"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Vụ tai nạn leo núi chết người ở Hokkaido cuốn thanh tra Ogoma vào vòng xoáy của những lời khai mâu thuẫn, sự phản bội và các thế lực hùng mạnh muốn chôn vùi sự thật.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261017/2nTnpdZh/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261017/2nTnpdZh/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "lost10",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

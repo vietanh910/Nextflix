@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 14",
+  "episodeCurrent": "Tập 16",
   "categories": [
     {
       "name": "Hành Động",
@@ -155,12 +155,28 @@
       "m3u8Url": "https://a.kvp726.com/20261002/55eP7hci/index.m3u8"
     },
     {
+      "name": "Tập 14",
+      "slug": "tap-14",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261009/LnkvPlHK/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261009/LnkvPlHK/index.m3u8"
+    },
+    {
       "name": "Tập 15",
       "slug": "tap-15",
       "serverName": "Vietsub",
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261009/LnkvPlHK/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261009/LnkvPlHK/index.m3u8"
+    },
+    {
+      "name": "Tập 16",
+      "slug": "tap-16",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261016/1S0Z4eaW/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261016/1S0Z4eaW/index.m3u8"
     },
     {
       "name": "Tập 01",
@@ -281,13 +297,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261002/QvwXOG6y/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261002/QvwXOG6y/index.m3u8"
+    },
+    {
+      "name": "Tập 15",
+      "slug": "tap-15",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261009/9lcNY2gt/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261009/9lcNY2gt/index.m3u8"
+    },
+    {
+      "name": "Tập 16",
+      "slug": "tap-16",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261016/xQXYMEAt/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261016/xQXYMEAt/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "chien-binh-anh-sang-teo",
-      "episodeCount": 30,
+      "episodeCount": 34,
       "priority": 1
     }
   ],

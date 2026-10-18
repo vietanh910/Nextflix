@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260929/loi-dinh-lenh-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 26",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (34/34)",
   "categories": [
     {
       "name": "Hình Sự",
@@ -241,13 +241,77 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261009/PCQbWJyp/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261009/PCQbWJyp/index.m3u8"
+    },
+    {
+      "name": "Tập 27",
+      "slug": "tap-27",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261011/l5dmVuX8/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261011/l5dmVuX8/index.m3u8"
+    },
+    {
+      "name": "Tập 28",
+      "slug": "tap-28",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261011/7kn9DiR8/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261011/7kn9DiR8/index.m3u8"
+    },
+    {
+      "name": "Tập 29",
+      "slug": "tap-29",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261012/Io9qKhEw/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261012/Io9qKhEw/index.m3u8"
+    },
+    {
+      "name": "Tập 30",
+      "slug": "tap-30",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261013/tx9Zsjrv/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261013/tx9Zsjrv/index.m3u8"
+    },
+    {
+      "name": "Tập 31",
+      "slug": "tap-31",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261014/FBtxcUU4/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261014/FBtxcUU4/index.m3u8"
+    },
+    {
+      "name": "Tập 32",
+      "slug": "tap-32",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261015/FJKbflYY/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261015/FJKbflYY/index.m3u8"
+    },
+    {
+      "name": "Tập 33",
+      "slug": "tap-33",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261017/mJ72GTym/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261017/mJ72GTym/index.m3u8"
+    },
+    {
+      "name": "Tập 34",
+      "slug": "tap-34",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261017/YjhaVlP1/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261017/YjhaVlP1/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "loi-dinh-lenh",
-      "episodeCount": 26,
+      "episodeCount": 34,
       "priority": 1
     }
   ],

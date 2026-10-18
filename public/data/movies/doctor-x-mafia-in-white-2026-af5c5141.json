@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 4",
   "categories": [
     {
       "name": "Bí Ẩn",
@@ -53,13 +53,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261010/eU86xDuf/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261010/eU86xDuf/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261017/h46QToHA/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261017/h46QToHA/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261017/3d4ERrIB/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261017/3d4ERrIB/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "bac-si-x",
-      "episodeCount": 2,
+      "episodeCount": 4,
       "priority": 1
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 1",
+  "episodeCurrent": "Tập 2",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -45,13 +45,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261005/JkHZm6ar/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261005/JkHZm6ar/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261011/mjAiU6ju/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261011/mjAiU6ju/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "noi-am-anh-cua-ong-chu-voi-nhung-thu-de-thuong",
-      "episodeCount": 1,
+      "episodeCount": 2,
       "priority": 1
     }
   ],

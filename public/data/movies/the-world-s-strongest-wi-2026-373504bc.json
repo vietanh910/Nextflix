@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 1",
+  "episodeCurrent": "Tập 2",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -53,13 +53,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261008/hi5gJVDS/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261008/hi5gJVDS/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261015/UTVMqZA2/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261015/UTVMqZA2/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "bat-dau-lam-ma-nu-manh-nhat-the-gioi",
-      "episodeCount": 1,
+      "episodeCount": 2,
       "priority": 1
     }
   ],

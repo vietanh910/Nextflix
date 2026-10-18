@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 162",
+  "episodeCurrent": "Tập 163",
   "categories": [
     {
       "name": "Hài Hước",
@@ -1329,13 +1329,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261007/Gsq1vvtk/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261007/Gsq1vvtk/index.m3u8"
+    },
+    {
+      "name": "Tập 163",
+      "slug": "tap-163",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261014/Bv1dcSyz/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261014/Bv1dcSyz/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "su-huynh-a-su-huynh",
-      "episodeCount": 162,
+      "episodeCount": 163,
       "priority": 1
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -89,13 +89,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261008/ikpKzmr2/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261008/ikpKzmr2/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261015/arAFYZlR/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261015/arAFYZlR/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "linh-canh-hanh-gia",
-      "episodeCount": 7,
+      "episodeCount": 8,
       "priority": 1
     }
   ],

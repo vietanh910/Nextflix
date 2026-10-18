@@ -2,8 +2,74 @@
   "slug": "tinh-cam",
   "name": "Tình Cảm",
   "page": 2,
-  "totalPages": 4,
+  "totalPages": 3,
   "items": [
+    {
+      "id": "samsara-2026-88cb6a64",
+      "source": "phimapi",
+      "slug": "luan-hoi",
+      "name": "Luân Hồi",
+      "originName": "Samsara",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261010/luan-hoi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261010/luan-hoi-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 4",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "hell-home-2026-41a6a5ff",
+      "source": "phimapi",
+      "slug": "mai-am-dia-nguc",
+      "name": "Mái Ấm Địa Ngục",
+      "originName": "Hell Home",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261015/mai-am-dia-nguc-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261015/mai-am-dia-nguc-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 2",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
     {
       "id": "that-summer-2026-f945622e",
       "source": "phimapi",
@@ -139,7 +205,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 34",
+      "episodeCurrent": "Tập 38",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -303,7 +369,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 20",
+      "episodeCurrent": "Tập 25",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -392,17 +458,17 @@
       ]
     },
     {
-      "id": "between-steps-season-1-2026-0229d3a9",
+      "id": "between-steps-season-1-2026-16ee25be",
       "source": "phimapi",
-      "slug": "tung-buoc-ben-nhau-phan-1",
-      "name": "Từng Bước Bên Nhau (Phần 1)",
+      "slug": "tung-buoc-ben-nhau-tien-si-yeu-duong-phan-1",
+      "name": "Từng Bước Bên Nhau / Tiến Sĩ Yêu Đương (Phần 1)",
       "originName": "Between Steps (Season 1)",
       "posterUrl": "https://phimimg.com/uploads/movies/20261007/tung-buoc-ben-nhau-phan-1-poster.webp",
       "thumbUrl": "https://phimimg.com/uploads/movies/20261007/tung-buoc-ben-nhau-phan-1-thumb.webp",
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -421,39 +487,6 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "loving-strangers-2026-2f7c3a05",
-      "source": "phimapi",
-      "slug": "tuyet-thu-tran-sang-dong",
-      "name": "Tuyết Thu Tràn Sang Đông",
-      "originName": "Loving Strangers",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260920/tuyet-thu-tran-sang-dong-poster.webp",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260111-1/56d7f41b9cbd62d635cba39c879cb742.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (28/28)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
         }
       ]
     },
@@ -491,47 +524,6 @@
         {
           "name": "Hồng Kông",
           "slug": "hong-kong"
-        }
-      ]
-    },
-    {
-      "id": "the-legend-of-rosy-cloud-2026-0d9740fb",
-      "source": "phimapi",
-      "slug": "van-tu-hanh",
-      "name": "Vân Tú Hành",
-      "originName": "The Legend Of Rosy Clouds",
-      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/6b7cf552ac9b66e18a5382c922d2bd0d.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/00083387b890aaac69f0490b3fda8c13.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (36/36)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
         }
       ]
     },
@@ -604,7 +596,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -633,7 +625,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -670,7 +662,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -707,7 +699,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Hài Hước",

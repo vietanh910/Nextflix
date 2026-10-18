@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20251008-1/8f77258dbfcdfbc106793331faabb124.jpg",
   "year": 2025,
   "type": "anime",
-  "status": "completed",
-  "episodeCurrent": "Hoàn Tất (14/14)",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 15",
   "categories": [
     {
       "name": "Hài Hước",
@@ -145,13 +145,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261007/KfQFU1Ku/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261007/KfQFU1Ku/index.m3u8"
+    },
+    {
+      "name": "Tập 15",
+      "slug": "tap-15",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261013/gW4HwCZ2/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261013/gW4HwCZ2/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "chitose-trong-chai-ramune",
-      "episodeCount": 14,
+      "episodeCount": 15,
       "priority": 1
     }
   ],

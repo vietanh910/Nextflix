@@ -1,0 +1,71 @@
+{
+  "id": "tomb-raider-2018-950045c4",
+  "source": "phimapi",
+  "slug": "tomb-raider-huyen-thoai-bat-dau",
+  "name": "Tomb Raider: Huyền Thoại Bắt Đầu",
+  "originName": "Tomb Raider",
+  "posterUrl": "https://phimimg.com/upload/vod/20251002-1/4a17777db8336a77babdbe6a63558ae4.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20251002-1/ca0166b6277df0b90d90fb515d4f44a8.jpg",
+  "year": 2018,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    },
+    {
+      "name": "Anh",
+      "slug": "anh"
+    },
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Tomb Raider kể về chuyến hành trình đầy hiểm nguy của cô gái trẻ Lara Croft nhằm tìm ra lời giải cho cái chết bí ẩn của cha mình. Trước khi qua đời, ông đã để lại lời nhắn cho cô về một tổ chức tên Trinity đang cố khởi động kế hoạch diệt chủng toàn thế giới. Lara Croft lên đường đến Biển Quỷ để thực hiện di chúc của cha. Đây là một địa danh có thật và được biết tới với tên gọi là Tam Giác Rồng, nằm trong vùng biển Nhật Bản và nổi tiếng bởi những vụ mất tích tàu thuyền bí ẩn.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub + Thuyết Minh",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261011/oz86hrYO/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261011/oz86hrYO/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251002/ed8DAyg2/index.m3u8",
+      "m3u8Url": "https://s6.kkphimplayer6.com/20251002/ed8DAyg2/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "tomb-raider-huyen-thoai-bat-dau",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

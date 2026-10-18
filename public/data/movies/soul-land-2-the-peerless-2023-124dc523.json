@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 174",
+  "episodeCurrent": "Tập 175",
   "categories": [
     {
       "name": "Hành Động",
@@ -1425,13 +1425,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261009/F7sBE0et/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261009/F7sBE0et/index.m3u8"
+    },
+    {
+      "name": "Tập 175",
+      "slug": "tap-175",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261016/jRyw2h3q/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261016/jRyw2h3q/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "dau-la-dai-luc-2-tuyet-the-duong-mon",
-      "episodeCount": 174,
+      "episodeCount": 175,
       "priority": 1
     }
   ],

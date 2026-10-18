@@ -1,0 +1,63 @@
+{
+  "id": "i-feel-pretty-2018-359be4f8",
+  "source": "phimapi",
+  "slug": "chi-thay-chi-dep",
+  "name": "Chị Thấy Chị Đẹp",
+  "originName": "I Feel Pretty",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261014/chi-thay-chi-dep-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261014/chi-thay-chi-dep-thumb.webp",
+  "year": 2018,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    },
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Chấn thương đầu khiến một người phụ nữ trở nên tự tin hơn rất nhiều và tin rằng mình vô cùng xinh đẹp.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261013/N438Cqh4/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261013/N438Cqh4/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "chi-thay-chi-dep",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

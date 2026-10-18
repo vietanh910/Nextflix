@@ -5,14 +5,43 @@
   "totalPages": 3,
   "items": [
     {
-      "id": "fletch-1985-aef6e896",
+      "id": "prison-break-season-1-2005-4d4b7e8f",
       "source": "phimapi",
-      "slug": "sieu-nha-bao",
-      "name": "Siêu Nhà Báo",
-      "originName": "Fletch",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260921/sieu-nha-bao-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260921/sieu-nha-bao-thumb.webp",
-      "year": 1985,
+      "slug": "vuot-nguc-phan-1",
+      "name": "Vượt Ngục (Phần 1)",
+      "originName": "Prison Break (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20240409-1/2c89ca8656f2c1703427def10106e569.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240409-1/cd2cf1929e27de8a4f7fd7eb55921880.jpg",
+      "year": 2005,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (22/22)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "super-troopers-2001-f43e5acb",
+      "source": "phimapi",
+      "slug": "don-canh-sat-nhi-nho",
+      "name": "Đồn Cảnh Sát Nhí Nhố",
+      "originName": "Super Troopers",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261002/don-canh-sat-nhi-nho-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261002/don-canh-sat-nhi-nho-thumb.webp",
+      "year": 2001,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
@@ -28,6 +57,113 @@
         {
           "name": "Bí Ẩn",
           "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "go-1999-f4bd6c65",
+      "source": "phimapi",
+      "slug": "go-1999",
+      "name": "Go",
+      "originName": "Go",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261015/go-1999-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261015/go-1999-thumb.webp",
+      "year": 1999,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "mo-money-1992-fefb5d32",
+      "source": "phimapi",
+      "slug": "lam-tien-nhieu-toi",
+      "name": "Lắm Tiền Nhiều Tội",
+      "originName": "Mo' Money",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261015/lam-tien-nhieu-toi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261015/lam-tien-nhieu-toi-thumb.webp",
+      "year": 1992,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-silence-of-the-lambs-1991-019c1c2f",
+      "source": "phimapi",
+      "slug": "su-im-lang-cua-bay-cuu",
+      "name": "Sự Im Lặng Của Bầy Cừu",
+      "originName": "The Silence Of The Lambs",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261001/su-im-lang-cua-bay-cuu-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261001/su-im-lang-cua-bay-cuu-thumb.webp",
+      "year": 1991,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
         },
         {
           "name": "Tâm Lý",

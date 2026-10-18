@@ -88,8 +88,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20260802/huong-vi-cua-bien-mua-3-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (11/11)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -202,6 +202,43 @@
       ]
     },
     {
+      "id": "hollywood-arts-2026-eb088b08",
+      "source": "phimapi",
+      "slug": "nghe-thuat-hollywood",
+      "name": "Nghệ Thuật Hollywood",
+      "originName": "Hollywood Arts",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261016/nghe-thuat-hollywood-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261016/nghe-thuat-hollywood-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "spring-of-the-blade-2026-33aa0c62",
       "source": "phimapi",
       "slug": "nhat-au-xuan",
@@ -227,6 +264,39 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "this-city-never-sleeps-2026-5d3041a9",
+      "source": "phimapi",
+      "slug": "thanh-pho-ruc-ro",
+      "name": "Thành Phố Rực Rỡ",
+      "originName": "This City Never Sleeps",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261013/thanh-pho-ruc-ro-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261013/thanh-pho-ruc-ro-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 5",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
         }
       ]
     },
@@ -264,47 +334,6 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "a-minecraft-movie-2025-70b6f846",
-      "source": "phimapi",
-      "slug": "mot-bo-phim-minecraft",
-      "name": "Một Bộ Phim Minecraft",
-      "originName": "A Minecraft Movie",
-      "posterUrl": "https://phimimg.com/upload/vod/20250508-1/d43ada4cb5f9a1dbdb9d614406726a53.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250513-1/7c40c5e1c5f88fdff52d54b03d084497.jpg",
-      "year": 2025,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thụy Điển",
-          "slug": "thuy-dien"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     },
@@ -482,88 +511,6 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "balto-1995-44addee4",
-      "source": "phimapi",
-      "slug": "chu-soi-balto",
-      "name": "Chú Sói Balto",
-      "originName": "Balto",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260921/chu-soi-balto-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260921/chu-soi-balto-thumb.webp",
-      "year": 1995,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Anh",
-          "slug": "anh"
-        }
-      ]
-    },
-    {
-      "id": "the-little-rascals-1994-1f396ad2",
-      "source": "phimapi",
-      "slug": "nhung-dua-tre-tinh-nghich",
-      "name": "Những Đứa Trẻ Tinh Nghịch",
-      "originName": "The Little Rascals",
-      "posterUrl": "https://phimimg.com/upload/vod/20250424-1/4431e118677ce49c0d1e8567fb5bc472.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250424-1/61908da01214b0f3d3f0c91e07971707.jpg",
-      "year": 1994,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Trẻ Em",
-          "slug": "tre-em"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     }

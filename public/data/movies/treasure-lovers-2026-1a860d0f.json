@@ -8,7 +8,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 14",
+  "episodeCurrent": "Tập 16",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -144,13 +144,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261008/HgZHX6F9/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261008/HgZHX6F9/index.m3u8"
+    },
+    {
+      "name": "Tập 15",
+      "slug": "tap-15",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261014/CIyFqKVl/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261014/CIyFqKVl/index.m3u8"
+    },
+    {
+      "name": "Tập 16",
+      "slug": "tap-16",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261015/1F7QmKH9/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261015/1F7QmKH9/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "chuyen-tinh-dao-thien-duong",
-      "episodeCount": 14,
+      "episodeCount": 16,
       "priority": 1
     }
   ],

@@ -1,0 +1,67 @@
+{
+  "id": "visionquest-2026-8de7528d",
+  "source": "phimapi",
+  "slug": "vision-quest",
+  "name": "Vision Quest",
+  "originName": "VisionQuest",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261017/vision-quest-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261017/vision-quest-thumb.webp",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Bị treo thưởng truy nã, Vision buộc phải đối diện với bản ngã của mình và chống lại sự thao túng từ Ultron để có thể sống sót.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261016/pD1jsW6Z/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261016/pD1jsW6Z/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261016/NsQtuo2V/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261016/NsQtuo2V/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "vision-quest",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

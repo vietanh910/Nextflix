@@ -43,8 +43,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20260802/huong-vi-cua-bien-mua-3-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (11/11)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -67,6 +67,31 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "instadocs-ai-gone-wild-2026-ae70fd0a",
+      "source": "phimapi",
+      "slug": "instadocs-ai-mat-kiem-soat",
+      "name": "Instadocs: AI mất kiểm soát",
+      "originName": "Instadocs: AI Gone Wild",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261016/instadocs-ai-mat-kiem-soat-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261016/instadocs-ai-mat-kiem-soat-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tài Liệu",
+          "slug": "tai-lieu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -117,6 +142,39 @@
         {
           "name": "Đức",
           "slug": "duc"
+        }
+      ]
+    },
+    {
+      "id": "tyson-2026-8b1bbcba",
+      "source": "phimapi",
+      "slug": "tyson",
+      "name": "TYSON",
+      "originName": "TYSON",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261014/tyson-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261014/tyson-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (4/4)",
+      "categories": [
+        {
+          "name": "Tài Liệu",
+          "slug": "tai-lieu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },

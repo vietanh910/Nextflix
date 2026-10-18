@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 98",
+  "episodeCurrent": "Tập 99",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -825,13 +825,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261009/O8oeO19U/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261009/O8oeO19U/index.m3u8"
+    },
+    {
+      "name": "Tập 99",
+      "slug": "tap-99",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261016/cQ36WCop/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261016/cQ36WCop/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "thuong-nguyen-do",
-      "episodeCount": 98,
+      "episodeCount": 99,
       "priority": 1
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Khoa Học",
@@ -89,13 +89,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261009/doIn03Av/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261009/doIn03Av/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261016/F2WYOKw4/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261016/F2WYOKw4/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nguoi-chay-xuyen-khong-gian-phan-2",
-      "episodeCount": 7,
+      "episodeCount": 8,
       "priority": 1
     }
   ],

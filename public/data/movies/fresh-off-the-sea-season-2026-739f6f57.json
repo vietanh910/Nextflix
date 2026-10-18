@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260802/huong-vi-cua-bien-mua-3-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 10",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (11/11)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -117,13 +117,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261009/69PFgEMl/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261009/69PFgEMl/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261016/CacnTCrj/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261016/CacnTCrj/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "huong-vi-cua-bien-mua-3",
-      "episodeCount": 10,
+      "episodeCount": 11,
       "priority": 1
     }
   ],

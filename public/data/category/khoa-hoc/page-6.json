@@ -5,14 +5,14 @@
   "totalPages": 6,
   "items": [
     {
-      "id": "the-adjustment-bureau-2011-cae8f086",
+      "id": "chronicle-2012-e57993d1",
       "source": "phimapi",
-      "slug": "ban-do-dinh-menh-the-luc-dan-xep",
-      "name": "Bản Đồ Định Mệnh / Thế Lực Dàn Xếp",
-      "originName": "The Adjustment Bureau",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260921/ban-do-dinh-menh-the-luc-dan-xep-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260921/ban-do-dinh-menh-the-luc-dan-xep-thumb.webp",
-      "year": 2011,
+      "slug": "suc-manh-vo-hinh",
+      "name": "Sức Mạnh Vô Hình",
+      "originName": "Chronicle",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261008/suc-manh-vo-hinh-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261008/suc-manh-vo-hinh-thumb.webp",
+      "year": 2012,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
@@ -26,16 +26,12 @@
           "slug": "vien-tuong"
         },
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
@@ -87,17 +83,62 @@
       ]
     },
     {
-      "id": "ultraman-tiga-1996-dcb2cf63",
+      "id": "cowboy-bebop-1998-33b3074b",
       "source": "phimapi",
-      "slug": "ultraman-tiga",
-      "name": "Ultraman Tiga",
+      "slug": "cao-boi-bebop",
+      "name": "Cao Bồi Bebop",
+      "originName": "Cowboy Bebop",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261011/cao-boi-bebop-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261011/cao-boi-bebop-thumb.webp",
+      "year": 1998,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (26/26)",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Miền Tây",
+          "slug": "mien-tay"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "ultraman-tiga-1996-9cc56f65",
+      "source": "phimapi",
+      "slug": "sieu-nhan-tiga",
+      "name": "Siêu Nhân Tiga",
       "originName": "Ultraman Tiga",
       "posterUrl": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
       "thumbUrl": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
       "year": 1996,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 1",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Khoa Học",
@@ -128,6 +169,137 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "alien-1992-51462d49",
+      "source": "phimapi",
+      "slug": "quai-vat-khong-gian-3",
+      "name": "Quái Vật Không Gian 3",
+      "originName": "Alien³",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261012/quai-vat-khong-gian-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261012/quai-vat-khong-gian-3-thumb.webp",
+      "year": 1992,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "aliens-1986-79062737",
+      "source": "phimapi",
+      "slug": "quai-vat-khong-gian-2",
+      "name": "Quái Vật Không Gian 2",
+      "originName": "Aliens",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261012/quai-vat-khong-gian-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261012/quai-vat-khong-gian-2-thumb.webp",
+      "year": 1986,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "alien-1979-a0404e42",
+      "source": "phimapi",
+      "slug": "quai-vat-khong-gian",
+      "name": "Quái Vật Không Gian",
+      "originName": "Alien",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261012/quai-vat-khong-gian-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261012/quai-vat-khong-gian-thumb.webp",
+      "year": 1979,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
         }
       ]
     }

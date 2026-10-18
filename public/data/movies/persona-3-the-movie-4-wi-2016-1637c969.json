@@ -9,7 +9,34 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Psychological",
+      "slug": "psychological"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Supernatural",
+      "slug": "supernatural"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Sci-Fi",
+      "slug": "sci-fi"
+    }
+  ],
+  "countries": [],
+  "description": "To know death, to gaze at death, to face death. Makoto and his allies have grown through the many meetings and partings they have experienced. Their fight might not be for the sake of the world, but for themselves. Even so, they have continued to fight, believing that there are peaceful days waiting at the end of the battle.",
   "episodes": [],
   "sources": [
     {

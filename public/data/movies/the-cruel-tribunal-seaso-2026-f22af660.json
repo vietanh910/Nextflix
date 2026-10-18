@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260929/dai-hinh-cho-san-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 22",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (24/24)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -209,13 +209,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261010/qRUHjClY/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261010/qRUHjClY/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261011/tEGX38Ve/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261011/tEGX38Ve/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261012/8JdbWr9Z/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261012/8JdbWr9Z/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "dai-hinh-cho-san-phan-1",
-      "episodeCount": 22,
+      "episodeCount": 24,
       "priority": 1
     }
   ],
