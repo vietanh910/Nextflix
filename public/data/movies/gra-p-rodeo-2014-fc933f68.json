@@ -9,7 +9,18 @@
   "year": 2014,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    }
+  ],
+  "countries": [],
+  "description": "Rodeo is a normal high school boy who aims to be like GRANRODEO. Gra-P, a self-proclaimed music producer who comes from the future, tries to help him.",
   "episodes": [],
   "sources": [
     {

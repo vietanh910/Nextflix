@@ -8,7 +8,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 16",
+  "episodeCurrent": "Tập 17",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -160,13 +160,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261015/1F7QmKH9/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261015/1F7QmKH9/index.m3u8"
+    },
+    {
+      "name": "Tập 17",
+      "slug": "tap-17",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261022/SYvVxnWu/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261022/SYvVxnWu/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "chuyen-tinh-dao-thien-duong",
-      "episodeCount": 16,
+      "episodeCount": 17,
       "priority": 1
     }
   ],

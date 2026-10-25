@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 386",
+  "episodeCurrent": "Tập 388",
   "categories": [
     {
       "name": "Hành Động",
@@ -3125,13 +3125,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261018/tHnbRbrt/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261018/tHnbRbrt/index.m3u8"
+    },
+    {
+      "name": "Tập 387",
+      "slug": "tap-387",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261020/4g92Bokg/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261020/4g92Bokg/index.m3u8"
+    },
+    {
+      "name": "Tập 388",
+      "slug": "tap-388",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261024/dIVtqIRw/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261024/dIVtqIRw/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "luyen-khi-muoi-van-nam",
-      "episodeCount": 386,
+      "episodeCount": 388,
       "priority": 1
     }
   ],

@@ -9,7 +9,13 @@
   "year": 2013,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Supernatural",
+      "slug": "supernatural"
+    }
+  ],
+  "countries": [],
   "episodes": [],
   "sources": [
     {
@@ -31,5 +37,6 @@
       "priority": 3
     }
   ],
-  "_priority": 3
+  "_priority": 3,
+  "description": "Short web specials where Kon explains a bit more about the series and the Onmyouji world."
 }

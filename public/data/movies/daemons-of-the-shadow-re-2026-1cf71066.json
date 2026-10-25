@@ -393,13 +393,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261018/fuwmaXD4/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261018/fuwmaXD4/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261024/vzLfsGhx/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261024/vzLfsGhx/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "song-menh-coi-hoang-tuyen",
-      "episodeCount": 44,
+      "episodeCount": 45,
       "priority": 1
     }
   ],

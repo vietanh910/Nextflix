@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 6",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -65,13 +65,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261015/FD4WMoyQ/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261015/FD4WMoyQ/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261022/TGd7GAY1/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261022/TGd7GAY1/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261022/JCbgQ8x7/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261022/JCbgQ8x7/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "chuyen-tinh-rung-cam",
-      "episodeCount": 4,
+      "episodeCount": 6,
       "priority": 1
     }
   ],

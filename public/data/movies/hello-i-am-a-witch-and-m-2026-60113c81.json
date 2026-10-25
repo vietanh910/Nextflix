@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 3",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -53,13 +53,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261012/xlGAaDr0/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261012/xlGAaDr0/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261019/7qjmP0Oc/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261019/7qjmP0Oc/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "xin-chao-toi-la-mot-phu-thuy-va-nguoi-toi-tham-yeu-muon-toi-pha-che-mot-loai-thuoc-tinh-yeu",
-      "episodeCount": 2,
+      "episodeCount": 3,
       "priority": 1
     }
   ],

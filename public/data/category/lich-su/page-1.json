@@ -5,6 +5,88 @@
   "totalPages": 1,
   "items": [
     {
+      "id": "by-any-means-2026-19058efc",
+      "source": "phimapi",
+      "slug": "bang-moi-gia",
+      "name": "Bằng Mọi Giá",
+      "originName": "By Any Means",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261022/bang-moi-gia-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261022/bang-moi-gia-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Lịch Sử",
+          "slug": "lich-su"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Úc",
+          "slug": "uc"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "tenzing-2026-f9fb6b53",
+      "source": "phimapi",
+      "slug": "tenzing-vuon-toi-dinh-everest",
+      "name": "Tenzing: Vươn Tới Đỉnh Everest",
+      "originName": "Tenzing",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261019/tenzing-vuon-toi-dinh-everest-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261019/tenzing-vuon-toi-dinh-everest-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Lịch Sử",
+          "slug": "lich-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Úc",
+          "slug": "uc"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "the-uprising-2026-56169f37",
       "source": "phimapi",
       "slug": "tro-tan-vung-len",
@@ -42,13 +124,13 @@
       ]
     },
     {
-      "id": "unabomber-2026-7b2f2d5e",
+      "id": "the-weight-2026-06aa1560",
       "source": "phimapi",
-      "slug": "unabomber",
-      "name": "UNABOMBER",
-      "originName": "UNABOMBER",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260925/unabomber-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260925/unabomber-thumb.webp",
+      "slug": "trong-luong",
+      "name": "Trọng Lượng",
+      "originName": "The Weight",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261023/trong-luong-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261023/trong-luong-thumb.webp",
       "year": 2026,
       "type": "single",
       "status": "completed",
@@ -59,18 +141,30 @@
           "slug": "tam-ly"
         },
         {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
         },
         {
           "name": "Lịch Sử",
           "slug": "lich-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        },
+        {
+          "name": "Đức",
+          "slug": "duc"
+        },
+        {
+          "name": "Pháp",
+          "slug": "phap"
         }
       ]
     },

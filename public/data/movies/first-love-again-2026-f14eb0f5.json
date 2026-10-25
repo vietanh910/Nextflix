@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20261015/moi-tinh-dau-thu-hai-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 14",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (24/24)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -141,13 +141,93 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261018/g2v4cxlo/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261018/g2v4cxlo/index.m3u8"
+    },
+    {
+      "name": "Tập 15",
+      "slug": "tap-15",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261020/xpcey4Av/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261020/xpcey4Av/index.m3u8"
+    },
+    {
+      "name": "Tập 16",
+      "slug": "tap-16",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261020/ECEbsMaI/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261020/ECEbsMaI/index.m3u8"
+    },
+    {
+      "name": "Tập 17",
+      "slug": "tap-17",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261020/iUo3Plw0/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261020/iUo3Plw0/index.m3u8"
+    },
+    {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261020/samzY1YV/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261020/samzY1YV/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261021/Bc96kdnE/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261021/Bc96kdnE/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261021/7ESkod10/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261021/7ESkod10/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261022/sM3bbJmx/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261022/sM3bbJmx/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261022/4ujtsrPp/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261022/4ujtsrPp/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261023/zSaVeeAz/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261023/zSaVeeAz/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261023/MVvVxeKm/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261023/MVvVxeKm/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "moi-tinh-dau-thu-hai",
-      "episodeCount": 14,
+      "episodeCount": 24,
       "priority": 1
     }
   ],

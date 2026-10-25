@@ -9,7 +9,22 @@
   "year": 2012,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Mecha",
+      "slug": "mecha"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Sci-Fi",
+      "slug": "sci-fi"
+    }
+  ],
+  "countries": [],
+  "description": "Extra science lessons included with the Gunbuster Blu-ray Box Complete Edition. These explain how the space ropeway works, and time dilation from near-lightspeed travel.",
   "episodes": [],
   "sources": [
     {

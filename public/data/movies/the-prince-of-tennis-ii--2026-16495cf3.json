@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 4",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -49,13 +49,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261011/jd7GhbHX/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261011/jd7GhbHX/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261018/rcW6pTQE/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261018/rcW6pTQE/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261022/NkIMyiAF/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261022/NkIMyiAF/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "tan-hoang-tu-tennis-u-17-world-cup-tran-tuyen-chon-thanh-vien-cuoi-cung",
-      "episodeCount": 2,
+      "episodeCount": 4,
       "priority": 1
     }
   ],

@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260420-1/a00de874909fb1bfb7f7749f926081a3.jpg",
   "year": 2023,
   "type": "anime",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 59",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (60/60)",
   "categories": [
     {
       "name": "Hành Động",
@@ -513,13 +513,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261014/ldhlylOn/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261014/ldhlylOn/index.m3u8"
+    },
+    {
+      "name": "Tập 60",
+      "slug": "tap-60",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261022/NZrIhG8R/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261022/NZrIhG8R/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nghich-thien-ta-than",
-      "episodeCount": 59,
+      "episodeCount": 60,
       "priority": 1
     }
   ],

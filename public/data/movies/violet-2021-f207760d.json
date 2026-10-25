@@ -1,0 +1,51 @@
+{
+  "id": "violet-2021-f207760d",
+  "source": "phimapi",
+  "slug": "tieng-noi-so-hai",
+  "name": "Tiếng Nói Sợ Hãi",
+  "originName": "Violet",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261021/tieng-noi-so-hai-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261021/tieng-noi-so-hai-thumb.webp",
+  "year": 2021,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Nữ giám đốc Violet Morton luôn bị một giọng nói trong đầu chỉ trích và khiến cô luôn sống sợ hãi. Không thể để nó mãi cản bước mình, cô quyết tâm sống thật để tìm lại tự do.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261020/NXVDXWSY/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261020/NXVDXWSY/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "tieng-noi-so-hai",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

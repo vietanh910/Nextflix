@@ -9,7 +9,12 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
   "episodes": [],
   "sources": [
     {
@@ -85,5 +90,6 @@
       "priority": 3
     }
   ],
-  "_priority": 3
+  "_priority": 3,
+  "description": "Original animation included with each of the two Blu-ray box sets of the television anime."
 }

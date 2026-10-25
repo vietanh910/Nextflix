@@ -1,0 +1,55 @@
+{
+  "id": "political-lupin-2026-bb492247",
+  "source": "phimapi",
+  "slug": "dao-chich-chinh-truong",
+  "name": "Đạo Chích Chính Trường",
+  "originName": "Political Lupin",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261024/dao-chich-chinh-truong-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261024/dao-chich-chinh-truong-thumb.webp",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 1",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Bằng mưu mẹo và sức hút, một tay trộm tài ba qua mặt giới tinh hoa chính trị, trừng phạt tham nhũng và đánh cắp các khoản tiền bất chính trong thế giới tiền đen đầy hiểm nguy.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261023/YHnSPNVE/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261023/YHnSPNVE/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "dao-chich-chinh-truong",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

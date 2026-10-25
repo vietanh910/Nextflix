@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 185",
+  "episodeCurrent": "Tập 186",
   "categories": [
     {
       "name": "Cổ Trang",
@@ -1517,13 +1517,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261013/ISlFQNaL/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261013/ISlFQNaL/index.m3u8"
+    },
+    {
+      "name": "Tập 186",
+      "slug": "tap-186",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261020/BWRVk60v/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261020/BWRVk60v/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "gia-thien",
-      "episodeCount": 185,
+      "episodeCount": 186,
       "priority": 1
     }
   ],

@@ -1,0 +1,75 @@
+{
+  "id": "hamlet-2026-3144dc78",
+  "source": "phimapi",
+  "slug": "xom-nho",
+  "name": "Xóm Nhỏ",
+  "originName": "Hamlet",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261022/xom-nho-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261022/xom-nho-thumb.webp",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 3",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Gia Đình",
+      "slug": "gia-dinh"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Việt Nam",
+      "slug": "viet-nam"
+    }
+  ],
+  "description": "<p>\"Xóm nhỏ\" xoay quanh câu chuyện của Trâm - cô gái 19 tuổi mang trong mình sự bồng bột và ngang bướng của tuổi trẻ. Sau cuộc tranh cãi gay gắt với bố, Trâm quyết định rời nhà lên Hà Nội với mong muốn tự lập và chứng minh bản thân. Không chỉ xoay quanh hành trình trưởng thành của những người trẻ, “Xóm nhỏ” còn khắc họa cuộc sống của cộng đồng lao động xa quê với nhiều số phận và hoàn cảnh khác nhau. Đằng sau những lo toan cơm áo, những vất vả thường nhật vẫn là sự sẻ chia, lòng tốt và tình cảm chân thành giữa những con người cùng cảnh ngộ.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261022/Rqe5nHAL/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261022/Rqe5nHAL/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261023/miLM1FkB/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261023/miLM1FkB/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261023/MAKxch0K/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261023/MAKxch0K/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "xom-nho",
+      "episodeCount": 3,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -5,6 +5,47 @@
   "totalPages": 2,
   "items": [
     {
+      "id": "house-1985-d6af8633",
+      "source": "phimapi",
+      "slug": "ngoi-nha-ma-quai-1985",
+      "name": "Ngôi Nhà Ma Quái",
+      "originName": "House",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260929/ngoi-nha-ma-quai-1985-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260929/ngoi-nha-ma-quai-1985-thumb.webp",
+      "year": 1985,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "the-slumber-party-massac-1982-00f668d9",
       "source": "phimapi",
       "slug": "tiec-an-choi-dam-mau-1",
@@ -42,13 +83,13 @@
       ]
     },
     {
-      "id": "tourist-trap-1979-f6d7d0fa",
+      "id": "alien-1979-a0404e42",
       "source": "phimapi",
-      "slug": "bay-du-khach",
-      "name": "Bẫy Du Khách",
-      "originName": "Tourist Trap",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260922/bay-du-khach-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260922/bay-du-khach-thumb.webp",
+      "slug": "quai-vat-khong-gian",
+      "name": "Quái Vật Không Gian",
+      "originName": "Alien",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261012/quai-vat-khong-gian-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261012/quai-vat-khong-gian-thumb.webp",
       "year": 1979,
       "type": "single",
       "status": "completed",
@@ -59,22 +100,30 @@
           "slug": "kinh-di"
         },
         {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
         },
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
         }
       ]
     },

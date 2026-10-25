@@ -9,7 +9,22 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Sports",
+      "slug": "sports"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "countries": [],
+  "description": "The Yowamushi Pedal: Spare Bike spinoff manga series follows the early years of the third-year students.\n<br><br>\n(Source: Anime News Network)",
   "episodes": [],
   "sources": [
     {

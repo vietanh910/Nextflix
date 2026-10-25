@@ -2,8 +2,82 @@
   "slug": "kinh-di",
   "name": "Kinh Dị",
   "page": 1,
-  "totalPages": 1,
+  "totalPages": 2,
   "items": [
+    {
+      "id": "buddy-2026-cc7c2fe1",
+      "source": "phimapi",
+      "slug": "buddy",
+      "name": "Buddy",
+      "originName": "Buddy",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261019/buddy-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261019/buddy-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Israel",
+          "slug": "israel"
+        }
+      ]
+    },
+    {
+      "id": "whalefall-2026-5a25e044",
+      "source": "phimapi",
+      "slug": "ca-voi-nuot-chung",
+      "name": "Cá Voi Nuốt Chửng",
+      "originName": "Whalefall",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261018/ca-voi-nuot-chung-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261018/ca-voi-nuot-chung-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
     {
       "id": "out-of-the-past-2026-053d76dd",
       "source": "phimapi",
@@ -67,13 +141,13 @@
       ]
     },
     {
-      "id": "maxo-forbidden-ritual-2026-317774fb",
+      "id": "don-t-move-2026-9c973fe2",
       "source": "phimapi",
-      "slug": "ma-xo",
-      "name": "Ma Xó",
-      "originName": "Maxo: Forbidden Ritual",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260924/ma-xo-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260924/ma-xo-thumb.webp",
+      "slug": "dung-di-chuyen",
+      "name": "Đừng Di Chuyển",
+      "originName": "Don't Move",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261019/dung-di-chuyen-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261019/dung-di-chuyen-thumb.webp",
       "year": 2026,
       "type": "single",
       "status": "completed",
@@ -84,14 +158,104 @@
           "slug": "kinh-di"
         },
         {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
-          "name": "Việt Nam",
-          "slug": "viet-nam"
+          "name": "Canada",
+          "slug": "canada"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "khadam-2026-841b2942",
+      "source": "phimapi",
+      "slug": "khadam",
+      "name": "Khadam",
+      "originName": "Khadam",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261022/khadam-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261022/khadam-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Malaysia",
+          "slug": "malaysia"
+        },
+        {
+          "name": "Indonesia",
+          "slug": "indonesia"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        },
+        {
+          "name": "Ấn Độ",
+          "slug": "an-do"
+        }
+      ]
+    },
+    {
+      "id": "onslaught-2026-944f9b0a",
+      "source": "phimapi",
+      "slug": "lan-ranh-tu-chien",
+      "name": "Lằn Ranh Tử Chiến",
+      "originName": "Onslaught",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261018/lan-ranh-tu-chien-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261018/lan-ranh-tu-chien-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -154,39 +318,39 @@
       ]
     },
     {
-      "id": "teenage-sex-and-death-at-2026-11bb5511",
+      "id": "v-h-s-mixtape-2026-9af7872b",
       "source": "phimapi",
-      "slug": "tinh-duc-tuoi-teen-va-cai-chet-tai-trai-miasma",
-      "name": "Tình Dục Tuổi Teen Và Cái Chết Tại Trại Miasma",
-      "originName": "Teenage Sex and Death at Camp Miasma",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260922/tinh-duc-tuoi-teen-va-cai-chet-tai-trai-miasma-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260922/tinh-duc-tuoi-teen-va-cai-chet-tai-trai-miasma-thumb.webp",
+      "slug": "v-h-s-mixtape",
+      "name": "V/H/S/Mixtape",
+      "originName": "V/H/S/Mixtape",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261018/v-h-s-mixtape-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261018/v-h-s-mixtape-thumb.webp",
       "year": 2026,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
           "name": "Kinh Dị",
           "slug": "kinh-di"
         },
         {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
+          "name": "Âm Nhạc",
+          "slug": "am-nhac"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Anh",
-          "slug": "anh"
-        },
-        {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        },
+        {
+          "name": "Ả rập Thống nhất",
+          "slug": "a-rap-thong-nhat"
         }
       ]
     },
@@ -269,6 +433,47 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "elizabeth-harvest-2018-737bc8c0",
+      "source": "phimapi",
+      "slug": "chan-dai-va-ac-quy",
+      "name": "Chân Dài Và Ác Quỷ",
+      "originName": "Elizabeth Harvest",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261021/chan-dai-va-ac-quy-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261021/chan-dai-va-ac-quy-thumb.webp",
+      "year": 2018,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -676,162 +881,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "house-1985-d6af8633",
-      "source": "phimapi",
-      "slug": "ngoi-nha-ma-quai-1985",
-      "name": "Ngôi Nhà Ma Quái",
-      "originName": "House",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260929/ngoi-nha-ma-quai-1985-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260929/ngoi-nha-ma-quai-1985-thumb.webp",
-      "year": 1985,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-slumber-party-massac-1982-00f668d9",
-      "source": "phimapi",
-      "slug": "tiec-an-choi-dam-mau-1",
-      "name": "Tiệc Ăn Chơi Đẫm Máu 1",
-      "originName": "The Slumber Party Massacre",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261008/tiec-an-choi-dam-mau-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261008/tiec-an-choi-dam-mau-1-thumb.webp",
-      "year": 1982,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "alien-1979-a0404e42",
-      "source": "phimapi",
-      "slug": "quai-vat-khong-gian",
-      "name": "Quái Vật Không Gian",
-      "originName": "Alien",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261012/quai-vat-khong-gian-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261012/quai-vat-khong-gian-thumb.webp",
-      "year": 1979,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Anh",
-          "slug": "anh"
-        }
-      ]
-    },
-    {
-      "id": "house-1977-7765a067",
-      "source": "phimapi",
-      "slug": "hausu-ngoi-nha-ma-quai",
-      "name": "Hausu: Ngôi Nhà Ma Quái",
-      "originName": "House",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260930/hausu-ngoi-nha-ma-quai-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260930/hausu-ngoi-nha-ma-quai-thumb.webp",
-      "year": 1977,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
         }
       ]
     }

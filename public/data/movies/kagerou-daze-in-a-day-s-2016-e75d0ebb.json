@@ -9,7 +9,30 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Slice of Life",
+      "slug": "slice-of-life"
+    },
+    {
+      "name": "Supernatural",
+      "slug": "supernatural"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Sci-Fi",
+      "slug": "sci-fi"
+    }
+  ],
+  "countries": [],
+  "description": "UltraCeep Inc. and Aniplex will launch a collaborative project to produce a theatrical anime titled MX4D Kagerou Daze -in a days-, based on JIN's Kagerou Daze light novel series. The production claims the anime is the first \"short movie\" in Japan to be produced exclusively with MX4D presentation in mind.\n<br><br>\n(Source: Anime News Network, edited)",
   "episodes": [],
   "sources": [
     {

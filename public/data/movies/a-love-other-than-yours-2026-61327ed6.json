@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 10",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -101,13 +101,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261012/L77Etn2K/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261012/L77Etn2K/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261018/Yjj3yvqD/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261018/Yjj3yvqD/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261019/49TYEmqH/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261019/49TYEmqH/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "yeu-mot-nguoi-khac-yeu-mot-nguoi-khac-khong-phai-em",
-      "episodeCount": 8,
+      "episodeCount": 10,
       "priority": 1
     }
   ],

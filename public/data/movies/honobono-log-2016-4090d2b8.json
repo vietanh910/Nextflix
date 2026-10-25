@@ -9,7 +9,18 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Slice of Life",
+      "slug": "slice-of-life"
+    }
+  ],
+  "countries": [],
+  "description": "Adaptation of an illustration book by popular artist Naka Fukamachi that offers heartwarming peeks of the lives of close couples and families.",
   "episodes": [],
   "sources": [
     {

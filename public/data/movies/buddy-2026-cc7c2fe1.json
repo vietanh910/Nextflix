@@ -1,0 +1,63 @@
+{
+  "id": "buddy-2026-cc7c2fe1",
+  "source": "phimapi",
+  "slug": "buddy",
+  "name": "Buddy",
+  "originName": "Buddy",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261019/buddy-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261019/buddy-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Israel",
+      "slug": "israel"
+    }
+  ],
+  "description": "<p>Một kỳ lân màu cam kỳ diệu, biết hát đang bắt giữ dàn diễn viên của mình làm con tin trong một chiều không gian chương trình truyền hình siêu thực, khi hắn ngày càng trở nên điên loạn và quái đản hơn.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261019/jWtcYihU/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261019/jWtcYihU/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "buddy",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

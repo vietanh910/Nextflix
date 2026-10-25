@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20261008/so-ly-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 18",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (24/24)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -173,13 +173,61 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261017/9SLZnoGc/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261017/9SLZnoGc/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261018/yuPp92ci/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261018/yuPp92ci/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261019/uACZIVzV/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261019/uACZIVzV/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261020/PfD6cM9n/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261020/PfD6cM9n/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261021/NyLUt1JN/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261021/NyLUt1JN/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261022/P4ZBn5xy/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261022/P4ZBn5xy/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261023/sj8PzmDY/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261023/sj8PzmDY/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "so-ly",
-      "episodeCount": 18,
+      "episodeCount": 24,
       "priority": 1
     }
   ],

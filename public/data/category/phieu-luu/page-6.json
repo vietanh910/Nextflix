@@ -5,25 +5,111 @@
   "totalPages": 6,
   "items": [
     {
-      "id": "bird-on-a-wire-1990-ced174d1",
+      "id": "cowboy-bebop-1998-33b3074b",
       "source": "phimapi",
-      "slug": "chu-chim-tren-day",
-      "name": "Chú Chim Trên Dây",
-      "originName": "Bird On A Wire",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260921/chu-chim-tren-day-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260921/chu-chim-tren-day-thumb.webp",
-      "year": 1990,
-      "type": "single",
+      "slug": "cao-boi-bebop",
+      "name": "Cao Bồi Bebop",
+      "originName": "Cowboy Bebop",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261011/cao-boi-bebop-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261011/cao-boi-bebop-thumb.webp",
+      "year": 1998,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (26/26)",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Miền Tây",
+          "slug": "mien-tay"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "detective-conan-the-time-1997-13c487ef",
+      "source": "phimapi",
+      "slug": "tham-tu-lung-danh-conan-qua-bom-choc-troi",
+      "name": "Thám Tử Lừng Danh Conan: Quả Bom Chọc Trời",
+      "originName": "Detective Conan: The Time Bombed Skyscraper",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260801/tham-tu-lung-danh-conan-qua-bom-choc-troi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260801/tham-tu-lung-danh-conan-qua-bom-choc-troi-thumb.webp",
+      "year": 1997,
+      "type": "anime",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
         },
         {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "ultraman-tiga-1996-9cc56f65",
+      "source": "phimapi",
+      "slug": "sieu-nhan-tiga",
+      "name": "Siêu Nhân Tiga",
+      "originName": "Ultraman Tiga",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
+      "year": 1996,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 8",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
         },
         {
           "name": "Phiêu Lưu",
@@ -40,8 +126,8 @@
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     }

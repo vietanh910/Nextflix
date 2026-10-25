@@ -9,7 +9,7 @@
   "year": 2021,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 492",
+  "episodeCurrent": "Tập 494",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -3953,13 +3953,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261018/U5P5lEHN/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261018/U5P5lEHN/index.m3u8"
+    },
+    {
+      "name": "Tập 493",
+      "slug": "tap-493",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261020/QZZYGeCD/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261020/QZZYGeCD/index.m3u8"
+    },
+    {
+      "name": "Tập 494",
+      "slug": "tap-494",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261024/mcz3v3xF/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261024/mcz3v3xF/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "van-gioi-doc-ton",
-      "episodeCount": 489,
+      "episodeCount": 491,
       "priority": 1
     }
   ],

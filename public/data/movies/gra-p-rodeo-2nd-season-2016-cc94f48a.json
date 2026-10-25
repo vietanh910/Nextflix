@@ -9,7 +9,18 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    }
+  ],
+  "countries": [],
+  "description": "2nd Season of Gra-P & Rodeo.",
   "episodes": [],
   "sources": [
     {

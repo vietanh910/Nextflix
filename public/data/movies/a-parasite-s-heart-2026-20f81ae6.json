@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 25",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (30/30)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -229,13 +229,53 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261017/dMdSWbkj/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261017/dMdSWbkj/index.m3u8"
+    },
+    {
+      "name": "Tập 26",
+      "slug": "tap-26",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261019/YUbsFEgK/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261019/YUbsFEgK/index.m3u8"
+    },
+    {
+      "name": "Tập 27",
+      "slug": "tap-27",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261020/admtxufE/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261020/admtxufE/index.m3u8"
+    },
+    {
+      "name": "Tập 28",
+      "slug": "tap-28",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261021/lmfX26lW/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261021/lmfX26lW/index.m3u8"
+    },
+    {
+      "name": "Tập 29",
+      "slug": "tap-29",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261022/DF0X8Mrd/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261022/DF0X8Mrd/index.m3u8"
+    },
+    {
+      "name": "Tập 30",
+      "slug": "tap-30",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261023/CGLCEwoy/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261023/CGLCEwoy/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "trai-tim-cua-ke-ky-sinh",
-      "episodeCount": 25,
+      "episodeCount": 30,
       "priority": 1
     }
   ],

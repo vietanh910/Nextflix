@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 16",
+  "episodeCurrent": "Tập 17",
   "categories": [
     {
       "name": "Hành Động",
@@ -159,16 +159,16 @@
       "slug": "tap-14",
       "serverName": "Vietsub",
       "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261009/LnkvPlHK/index.m3u8",
-      "m3u8Url": "https://a.kvp726.com/20261009/LnkvPlHK/index.m3u8"
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261024/Ucm1XQhU/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261024/Ucm1XQhU/index.m3u8"
     },
     {
       "name": "Tập 15",
       "slug": "tap-15",
       "serverName": "Vietsub",
       "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261009/LnkvPlHK/index.m3u8",
-      "m3u8Url": "https://a.kvp726.com/20261009/LnkvPlHK/index.m3u8"
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261024/vpd4Wfd6/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261024/vpd4Wfd6/index.m3u8"
     },
     {
       "name": "Tập 16",
@@ -177,6 +177,14 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261016/1S0Z4eaW/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261016/1S0Z4eaW/index.m3u8"
+    },
+    {
+      "name": "Tập 17",
+      "slug": "tap-17",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261024/WjqAbb6Q/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261024/WjqAbb6Q/index.m3u8"
     },
     {
       "name": "Tập 01",
@@ -287,16 +295,16 @@
       "slug": "tap-13",
       "serverName": "Lồng Tiếng",
       "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261002/QvwXOG6y/index.m3u8",
-      "m3u8Url": "https://a.kvp726.com/20261002/QvwXOG6y/index.m3u8"
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261024/AKy7XvfP/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261024/AKy7XvfP/index.m3u8"
     },
     {
       "name": "Tập 14",
       "slug": "tap-14",
       "serverName": "Lồng Tiếng",
       "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261002/QvwXOG6y/index.m3u8",
-      "m3u8Url": "https://a.kvp726.com/20261002/QvwXOG6y/index.m3u8"
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261024/JQjwHWEV/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261024/JQjwHWEV/index.m3u8"
     },
     {
       "name": "Tập 15",
@@ -313,13 +321,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261016/xQXYMEAt/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261016/xQXYMEAt/index.m3u8"
+    },
+    {
+      "name": "Tập 17",
+      "slug": "tap-17",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261024/f5j7Vbyb/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261024/f5j7Vbyb/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "chien-binh-anh-sang-teo",
-      "episodeCount": 34,
+      "episodeCount": 36,
       "priority": 1
     }
   ],

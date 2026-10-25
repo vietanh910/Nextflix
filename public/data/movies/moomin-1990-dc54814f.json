@@ -9,7 +9,26 @@
   "year": 1990,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Slice of Life",
+      "slug": "slice-of-life"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    }
+  ],
+  "countries": [],
+  "description": "In the remote and mysterious Moomin Valley live the Moomin trolls, gentle and peaceful creatures. Young Moomin and his family experience many strange adventures, both magical and mundane. Based on the children's stories by Tove Jansson. <br><br>\n(Source: Anime News Network) ",
   "episodes": [],
   "sources": [
     {

@@ -9,7 +9,22 @@
   "year": 1994,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Mecha",
+      "slug": "mecha"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Sci-Fi",
+      "slug": "sci-fi"
+    }
+  ],
+  "countries": [],
+  "description": "For 200 years they lay deep beneath the earth or silent on the ocean bed. Now two opposing armies race to unearth these massive engines of war, devastating weapons known as Decimators. As more of these vast robots are reactivated, the world moves ever closer to another all-out war, drawing innocent victims into the deadly conflict.<br>\n<br>\n(Source: Manga Entertainment)",
   "episodes": [],
   "sources": [
     {

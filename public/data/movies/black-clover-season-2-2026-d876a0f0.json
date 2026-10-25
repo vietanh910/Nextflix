@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 4",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -61,13 +61,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261012/ay14UMGW/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261012/ay14UMGW/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261024/0kHHsYZY/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261024/0kHHsYZY/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261024/szNwKZgg/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261024/szNwKZgg/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "the-gioi-phep-thuat-phan-2",
-      "episodeCount": 2,
+      "episodeCount": 4,
       "priority": 1
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 3",
   "categories": [
     {
       "name": "Hình Sự",
@@ -51,23 +51,31 @@
       "slug": "tap-01",
       "serverName": "Vietsub",
       "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261008/ukdsr9am/index.m3u8",
-      "m3u8Url": "https://a.kvp726.com/20261008/ukdsr9am/index.m3u8"
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261021/35EHerfe/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261021/35EHerfe/index.m3u8"
     },
     {
       "name": "Tập 02",
       "slug": "tap-02",
       "serverName": "Vietsub",
       "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261016/6RnhcvLm/index.m3u8",
-      "m3u8Url": "https://a.kvp726.com/20261016/6RnhcvLm/index.m3u8"
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261021/6pTvTNGn/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261021/6pTvTNGn/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261021/g4y3fb5K/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261021/g4y3fb5K/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "tro-choi-bat-coc-phan-1",
-      "episodeCount": 2,
+      "episodeCount": 3,
       "priority": 1
     }
   ],

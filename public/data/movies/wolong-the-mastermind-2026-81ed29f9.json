@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260912/ngoa-long-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (6/6)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -73,13 +73,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261011/5rti5a4V/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261011/5rti5a4V/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261018/bF5kAftt/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261018/bF5kAftt/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "ngoa-long-thien-tai-quan-su",
-      "episodeCount": 5,
+      "episodeCount": 6,
       "priority": 1
     }
   ],

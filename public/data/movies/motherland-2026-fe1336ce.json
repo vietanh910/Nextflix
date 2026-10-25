@@ -1,0 +1,59 @@
+{
+  "id": "motherland-2026-fe1336ce",
+  "source": "phimapi",
+  "slug": "bao-ve-dat-me",
+  "name": "Bảo Vệ Đất Mẹ",
+  "originName": "Motherland",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261023/bao-ve-dat-me-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261023/bao-ve-dat-me-thumb.webp",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 1",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thái Lan",
+      "slug": "thai-lan"
+    }
+  ],
+  "description": "<p>Mintada, chiến binh người Kase, học ở Thái Lan và phải lòng tiểu thư giàu có Punpussa, nhưng chiến tranh, sự ngăn cấm của gia đình và nghĩa vụ với quê hương chia cắt họ.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261022/zVJyy4GN/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261022/zVJyy4GN/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "bao-ve-dat-me",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

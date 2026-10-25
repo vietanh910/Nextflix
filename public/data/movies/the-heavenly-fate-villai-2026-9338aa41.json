@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 27",
+  "episodeCurrent": "Tập 31",
   "categories": [
     {
       "name": "Viễn Tưởng",
@@ -245,13 +245,45 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261008/VzleW1xP/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261008/VzleW1xP/index.m3u8"
+    },
+    {
+      "name": "Tập 28",
+      "slug": "tap-28",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261021/OZoTkPlR/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261021/OZoTkPlR/index.m3u8"
+    },
+    {
+      "name": "Tập 29",
+      "slug": "tap-29",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261021/M4d9uWAy/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261021/M4d9uWAy/index.m3u8"
+    },
+    {
+      "name": "Tập 30",
+      "slug": "tap-30",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261021/7Rvny5Sn/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261021/7Rvny5Sn/index.m3u8"
+    },
+    {
+      "name": "Tập 31",
+      "slug": "tap-31",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261021/xYbJWWhb/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261021/xYbJWWhb/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "huyen-huyen-ta-thien-menh-trum-phan-dien",
-      "episodeCount": 27,
+      "episodeCount": 31,
       "priority": 1
     }
   ],

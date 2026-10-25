@@ -2,7 +2,7 @@
   "slug": "tam-ly",
   "name": "Tâm Lý",
   "page": 1,
-  "totalPages": 14,
+  "totalPages": 15,
   "items": [
     {
       "id": "love-2026-85c5d36e",
@@ -44,7 +44,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Hành Động",
@@ -80,8 +80,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20261005/an-tu-can-ke-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 22",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (27/27)",
       "categories": [
         {
           "name": "Bí Ẩn",
@@ -151,7 +151,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -225,7 +225,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Bí Ẩn",
@@ -281,6 +281,88 @@
       ]
     },
     {
+      "id": "by-any-means-2026-19058efc",
+      "source": "phimapi",
+      "slug": "bang-moi-gia",
+      "name": "Bằng Mọi Giá",
+      "originName": "By Any Means",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261022/bang-moi-gia-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261022/bang-moi-gia-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Lịch Sử",
+          "slug": "lich-su"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Úc",
+          "slug": "uc"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "motherland-2026-fe1336ce",
+      "source": "phimapi",
+      "slug": "bao-ve-dat-me",
+      "name": "Bảo Vệ Đất Mẹ",
+      "originName": "Motherland",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261023/bao-ve-dat-me-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261023/bao-ve-dat-me-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 1",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
       "id": "the-seven-knights-of-the-2026-01df0a33",
       "source": "phimapi",
       "slug": "bay-hiep-si-cua-vuong-quoc-marronnier",
@@ -291,7 +373,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -538,7 +620,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -600,7 +682,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -623,47 +705,76 @@
       ]
     },
     {
-      "id": "mebius-dust-2026-032a325b",
+      "id": "buddy-2026-cc7c2fe1",
       "source": "phimapi",
-      "slug": "bui-mebius",
-      "name": "Bụi Mebius",
-      "originName": "MEBIUS DUST",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260710/bui-mebius-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260710/bui-mebius-thumb.webp",
+      "slug": "buddy",
+      "name": "Buddy",
+      "originName": "Buddy",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261019/buddy-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261019/buddy-thumb.webp",
       "year": 2026,
-      "type": "anime",
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
+      "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
         },
         {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
         },
         {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         },
+        {
+          "name": "Israel",
+          "slug": "israel"
+        }
+      ]
+    },
+    {
+      "id": "whalefall-2026-5a25e044",
+      "source": "phimapi",
+      "slug": "ca-voi-nuot-chung",
+      "name": "Cá Voi Nuốt Chửng",
+      "originName": "Whalefall",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261018/ca-voi-nuot-chung-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261018/ca-voi-nuot-chung-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
         },
         {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
         }
       ],
       "countries": [
         {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -711,7 +822,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -730,105 +841,6 @@
         {
           "name": "Việt Nam",
           "slug": "viet-nam"
-        }
-      ]
-    },
-    {
-      "id": "out-of-the-past-2026-053d76dd",
-      "source": "phimapi",
-      "slug": "can-nha-ma-quai",
-      "name": "Căn Nhà Ma Quái",
-      "originName": "Out of the Past",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260929/can-nha-ma-quai-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260929/can-nha-ma-quai-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "you-and-i-are-polar-oppo-2026-0b724537",
-      "source": "phimapi",
-      "slug": "cau-va-to-la-hai-thai-cuc-doi-lap-seihantai-na-kimi-to-boku-phan-2",
-      "name": "Cậu Và Tớ Là Hai Thái Cực Đối Lập (Seihantai na Kimi to Boku) (Phần 2)",
-      "originName": "You and I Are Polar Opposites (Season 2)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260706-1/a7325eb2658ffe5ad2d8a782910f5542.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260706-1/825b10536abaa977ea710bf4cbd4a7e4.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "madame-sonya-2026-e7f467e8",
-      "source": "phimapi",
-      "slug": "chi-oi-xin-hay-yeu-anh",
-      "name": "Chị Ơi, Xin Hãy Yêu Anh",
-      "originName": "Madame Sonya",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260905/chi-oi-xin-hay-yeu-anh-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260905/chi-oi-xin-hay-yeu-anh-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 5",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Indonesia",
-          "slug": "indonesia"
         }
       ]
     }

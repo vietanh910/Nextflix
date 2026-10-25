@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 26",
+  "episodeCurrent": "Tập 28",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -241,13 +241,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261015/9V7wa0EL/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261015/9V7wa0EL/index.m3u8"
+    },
+    {
+      "name": "Tập 27",
+      "slug": "tap-27",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261022/ZHjxioid/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261022/ZHjxioid/index.m3u8"
+    },
+    {
+      "name": "Tập 28",
+      "slug": "tap-28",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261022/fwjW5grU/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261022/fwjW5grU/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "thai-co-than-ton",
-      "episodeCount": 26,
+      "episodeCount": 28,
       "priority": 1
     }
   ],

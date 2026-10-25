@@ -9,7 +9,7 @@
   "year": 2022,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 215",
+  "episodeCurrent": "Tập 216",
   "categories": [
     {
       "name": "Phiêu Lưu",
@@ -1767,6 +1767,14 @@
       "m3u8Url": "https://a.kvp726.com/20261018/UFGCOXpV/index.m3u8"
     },
     {
+      "name": "Tập 216",
+      "slug": "tap-216",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261024/ye4MB8BC/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261024/ye4MB8BC/index.m3u8"
+    },
+    {
       "name": "Tập 01-05",
       "slug": "tap-01-05",
       "serverName": "Thuyết Minh",
@@ -2427,7 +2435,7 @@
     {
       "source": "phimapi",
       "slug": "dau-pha-thuong-khung-phan-5",
-      "episodeCount": 299,
+      "episodeCount": 300,
       "priority": 1
     }
   ],

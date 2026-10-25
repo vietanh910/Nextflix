@@ -1,0 +1,51 @@
+{
+  "id": "kokuho-2025-2cb2f423",
+  "source": "phimapi",
+  "slug": "quoc-bao",
+  "name": "Quốc Bảo",
+  "originName": "Kokuho",
+  "posterUrl": "https://phimimg.com/upload/vod/20260228-1/bee778036be94f61585705eb6a305fa1.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260228-1/0023b048b0e309171efff2ebf680bc87.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Nagasaki năm 1964, sau cái chết của người cha thuộc băng yakuza, cậu thiếu niên 15 tuổi Kikuo (Ryo Yoshizawa) bỗng được một diễn viên kabuki nổi tiếng nhận về nuôi dạy. Trong căn nhà tràn ngập tiếng trống và ánh đèn sân khấu, Kikuo lớn lên cùng Shunsuke (Ryusei Yokohama) – con trai duy nhất của người nghệ sĩ ấy. Từ những buổi tập khắc nghiệt đến những lần biểu diễn đầu đời, cả hai cùng bước vào thế giới kabuki – nơi danh vọng, truyền thống và cảm xúc hòa trộn thành một dòng chảy mãnh liệt.\r\n Khi năm tháng trôi qua, con đường của họ dần tách ra: một người kiên định theo đuổi nghệ thuật thuần túy, người kia lại bị cuốn vào những toan tính và định kiến của thời đại. Giữa ánh hào quang sân khấu Nhật Bản, câu chuyện về tình bạn, gánh nặng di sản và khát vọng trở thành bậc thầy kabuki được khắc họa với chiều sâu và sức nặng của lịch sử.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261023/F74PBjXs/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261023/F74PBjXs/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "quoc-bao",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

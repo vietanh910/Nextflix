@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "completed",
-  "episodeCurrent": "Hoàn Tất (11/11)",
+  "episodeCurrent": "Hoàn Tất (12/12)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -125,13 +125,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261016/CacnTCrj/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261016/CacnTCrj/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261023/CWV4A6Go/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261023/CWV4A6Go/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "huong-vi-cua-bien-mua-3",
-      "episodeCount": 11,
+      "episodeCount": 12,
       "priority": 1
     }
   ],
