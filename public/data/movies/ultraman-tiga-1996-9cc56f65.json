@@ -9,7 +9,7 @@
   "year": 1996,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 11",
   "categories": [
     {
       "name": "Khoa Học",
@@ -111,6 +111,30 @@
       "m3u8Url": "https://a.kvp726.com/20261023/Tt066Oyj/index.m3u8"
     },
     {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261026/F3xIlRKk/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261026/F3xIlRKk/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261028/KFq9Sp6t/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261028/KFq9Sp6t/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261031/hqcZeF6n/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261031/hqcZeF6n/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Lồng Tiếng",
@@ -173,13 +197,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261023/94Vw1ezR/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261023/94Vw1ezR/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261026/QyhAUF5Q/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261026/QyhAUF5Q/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261028/INVLOhIt/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261028/INVLOhIt/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261031/jYIILOod/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261031/jYIILOod/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "sieu-nhan-tiga",
-      "episodeCount": 16,
+      "episodeCount": 22,
       "priority": 1
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2020,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 197",
+  "episodeCurrent": "Tập 198",
   "categories": [
     {
       "name": "Hành Động",
@@ -1615,6 +1615,14 @@
       "m3u8Url": "https://a.kvp726.com/20261025/B8eQDjXy/index.m3u8"
     },
     {
+      "name": "Tập 198",
+      "slug": "tap-198",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261031/B908LWhY/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261031/B908LWhY/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -1683,7 +1691,7 @@
     {
       "source": "phimapi",
       "slug": "pham-nhan-tu-tien",
-      "episodeCount": 205,
+      "episodeCount": 206,
       "priority": 1
     }
   ],

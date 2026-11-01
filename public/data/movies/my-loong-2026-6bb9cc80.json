@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 12",
+  "episodeCurrent": "Tập 19",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -129,13 +129,69 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261025/xPBnPkii/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261025/xPBnPkii/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261026/LkL3NKST/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261026/LkL3NKST/index.m3u8"
+    },
+    {
+      "name": "Tập 14",
+      "slug": "tap-14",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261027/44SaewTQ/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261027/44SaewTQ/index.m3u8"
+    },
+    {
+      "name": "Tập 15",
+      "slug": "tap-15",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261028/noHsqWl6/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261028/noHsqWl6/index.m3u8"
+    },
+    {
+      "name": "Tập 16",
+      "slug": "tap-16",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261029/CXD59YNC/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261029/CXD59YNC/index.m3u8"
+    },
+    {
+      "name": "Tập 17",
+      "slug": "tap-17",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261030/wnhtOblu/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261030/wnhtOblu/index.m3u8"
+    },
+    {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261031/LBCGbGr6/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261031/LBCGbGr6/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261101/FMWHR3TV/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261101/FMWHR3TV/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "du-thuong-long",
-      "episodeCount": 12,
+      "episodeCount": 19,
       "priority": 1
     }
   ],

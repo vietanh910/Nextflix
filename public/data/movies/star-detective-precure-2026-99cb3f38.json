@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 37",
+  "episodeCurrent": "Tập 39",
   "categories": [
     {
       "name": "Hài Hước",
@@ -341,13 +341,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261013/VBV86l8h/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261013/VBV86l8h/index.m3u8"
+    },
+    {
+      "name": "Tập 38",
+      "slug": "tap-38",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261027/PC4Nzjie/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261027/PC4Nzjie/index.m3u8"
+    },
+    {
+      "name": "Tập 39",
+      "slug": "tap-39",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261027/pskN2w9i/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261027/pskN2w9i/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "meitantei-precure",
-      "episodeCount": 37,
+      "episodeCount": 39,
       "priority": 1
     }
   ],

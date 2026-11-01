@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 13",
+  "episodeCurrent": "Tập 18",
   "categories": [
     {
       "name": "Bí Ẩn",
@@ -137,13 +137,53 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261023/zyzPEtwi/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261023/zyzPEtwi/index.m3u8"
+    },
+    {
+      "name": "Tập 14",
+      "slug": "tap-14",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261027/EiIO3KYq/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261027/EiIO3KYq/index.m3u8"
+    },
+    {
+      "name": "Tập 15",
+      "slug": "tap-15",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261028/pQLSZhCZ/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261028/pQLSZhCZ/index.m3u8"
+    },
+    {
+      "name": "Tập 16",
+      "slug": "tap-16",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261029/1vuakjnL/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261029/1vuakjnL/index.m3u8"
+    },
+    {
+      "name": "Tập 17",
+      "slug": "tap-17",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261030/nYau4JVz/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261030/nYau4JVz/index.m3u8"
+    },
+    {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261031/fpZoUbCE/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261031/fpZoUbCE/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "tuy-mong",
-      "episodeCount": 13,
+      "episodeCount": 18,
       "priority": 1
     }
   ],

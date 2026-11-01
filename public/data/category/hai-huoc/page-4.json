@@ -2,32 +2,90 @@
   "slug": "hai-huoc",
   "name": "Hài Hước",
   "page": 4,
-  "totalPages": 5,
+  "totalPages": 6,
   "items": [
     {
-      "id": "welcome-to-demon-school--2026-e1e9be8b",
+      "id": "between-steps-season-1-2026-16ee25be",
       "source": "phimapi",
-      "slug": "vao-ma-gioi-roi-day-irumakun-phan-4",
-      "name": "Vào Ma Giới Rồi Đấy! Iruma-kun (Phần 4)",
-      "originName": "Welcome To Demon School! Iruma-kun (Season 4)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260407-1/c4b0b33444924bf81ca7bfe6081e4ef7.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260407-1/d12a54fa0682e1b66ab4c1b0f147b0ab.jpg",
+      "slug": "tung-buoc-ben-nhau-tien-si-yeu-duong-phan-1",
+      "name": "Từng Bước Bên Nhau / Tiến Sĩ Yêu Đương (Phần 1)",
+      "originName": "Between Steps (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261007/tung-buoc-ben-nhau-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261007/tung-buoc-ben-nhau-phan-1-thumb.webp",
       "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (24/24)",
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 8",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "youth-season-1-2026-f3fc8978",
+      "source": "phimapi",
+      "slug": "tuoi-tre-phan-1",
+      "name": "Tuổi Trẻ (Phần 1)",
+      "originName": "Youth (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260922/tuoi-tre-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260922/tuoi-tre-phan-1-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
         },
         {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "kamui-he-s-behind-you-2026-2f84b0b0",
+      "source": "phimapi",
+      "slug": "ushiro-no-shoumen-kamui-san",
+      "name": "Ushiro no Shoumen Kamui-san",
+      "originName": "KAMUI: He's Behind You",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260829/ushiro-no-shoumen-kamui-san-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260829/ushiro-no-shoumen-kamui-san-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 9",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
         },
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
           "name": "Viễn Tưởng",
@@ -75,6 +133,43 @@
       ]
     },
     {
+      "id": "dream-of-golden-years-2026-280d4c49",
+      "source": "phimapi",
+      "slug": "xin-chao-1983",
+      "name": "Xin Chào 1983",
+      "originName": "Dream Of Golden Years",
+      "posterUrl": "https://phimimg.com/upload/vod/20260319-1/3e5edb52e9586f68653000deeda662b0.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260319-1/5a5b6d0060ae397cd841b720b0ae2f53.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (36/36)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "hello-i-am-a-witch-and-m-2026-60113c81",
       "source": "phimapi",
       "slug": "xin-chao-toi-la-mot-phu-thuy-va-nguoi-toi-tham-yeu-muon-toi-pha-che-mot-loai-thuoc-tinh-yeu",
@@ -85,7 +180,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -155,7 +250,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 12",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -192,7 +287,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hài Hước",
@@ -303,7 +398,7 @@
       "year": 2025,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 15",
+      "episodeCurrent": "Tập 17",
       "categories": [
         {
           "name": "Hài Hước",
@@ -737,66 +832,33 @@
       ]
     },
     {
-      "id": "my-senior-brother-is-too-2023-38bed200",
+      "id": "kubi-2023-65361502",
       "source": "phimapi",
-      "slug": "su-huynh-a-su-huynh",
-      "name": "Sư Huynh À Sư Huynh",
-      "originName": "My Senior Brother is Too Steady",
-      "posterUrl": "https://phimimg.com/upload/vod/20250117-1/a9e32b44820101a9ba2c887344f7334c.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250117-1/d2d7ee02b72e59bea282b367e36b0094.jpg",
+      "slug": "loan-chien-lanh-chua-thu-cap",
+      "name": "Loạn Chiến Lãnh Chúa / Thủ Cấp",
+      "originName": "Kubi",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261025/loan-chien-lanh-chua-thu-cap-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261025/loan-chien-lanh-chua-thu-cap-thumb.webp",
       "year": 2023,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 164",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "reincarnated-as-a-sword--2022-f50b421c",
-      "source": "phimapi",
-      "slug": "chuyen-sinh-thanh-kiem-phan-1",
-      "name": "Chuyển Sinh Thành Kiếm (Phần 1)",
-      "originName": "Reincarnated As A Sword (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261002/chuyen-sinh-thanh-kiem-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261002/chuyen-sinh-thanh-kiem-phan-1-thumb.webp",
-      "year": 2022,
-      "type": "anime",
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
+      "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
+          "name": "Lịch Sử",
+          "slug": "lich-su"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
         },
         {
           "name": "Tâm Lý",
@@ -807,88 +869,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "ghosts-season-2-2022-41cc6c10",
-      "source": "phimapi",
-      "slug": "nhung-nguoi-ban-ma-phan-2",
-      "name": "Những Người Bạn Ma (Phần 2)",
-      "originName": "Ghosts (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260927/nhung-nguoi-ban-ma-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260927/nhung-nguoi-ban-ma-phan-2-thumb.webp",
-      "year": 2022,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (22/22)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "spare-me-great-lord-seas-2021-5f579136",
-      "source": "phimapi",
-      "slug": "dai-vuong-tha-mang-phan-1",
-      "name": "Đại Vương Tha Mạng (Phần 1)",
-      "originName": "Spare Me, Great Lord! (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261005/dai-vuong-tha-mang-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261005/dai-vuong-tha-mang-phan-1-thumb.webp",
-      "year": 2021,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
         }
       ]
     }

@@ -1,0 +1,51 @@
+{
+  "id": "you-me-us-2026-aba0e452",
+  "source": "phimapi",
+  "slug": "em-anh-chung-ta",
+  "name": "Em, Anh, Chúng Ta",
+  "originName": "You, Me, Us",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261030/em-anh-chung-ta-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261030/em-anh-chung-ta-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Ý",
+      "slug": "y"
+    }
+  ],
+  "description": "<p>Khi một cô gái phóng khoáng và một người đàn ông coi trọng gia đình tìm cách nhận con nuôi, xuất thân và thế giới quan trái ngược thử thách tình yêu của họ.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261030/KeIymJqG/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261030/KeIymJqG/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "em-anh-chung-ta",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

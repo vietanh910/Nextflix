@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20261010/my-nhan-du-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 24",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (28/28)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -221,13 +221,45 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261024/MuWpcCWY/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261024/MuWpcCWY/index.m3u8"
+    },
+    {
+      "name": "Tập 25",
+      "slug": "tap-25",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261025/QneDGv1S/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261025/QneDGv1S/index.m3u8"
+    },
+    {
+      "name": "Tập 26",
+      "slug": "tap-26",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261026/DytEYO6Y/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261026/DytEYO6Y/index.m3u8"
+    },
+    {
+      "name": "Tập 27",
+      "slug": "tap-27",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261027/OyiqMWma/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261027/OyiqMWma/index.m3u8"
+    },
+    {
+      "name": "Tập 28",
+      "slug": "tap-28",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261028/OjXUV8wL/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261028/OjXUV8wL/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "my-nhan-du",
-      "episodeCount": 24,
+      "episodeCount": 28,
       "priority": 1
     }
   ],

@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260906/juliet-va-juliet-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (8/8)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -89,13 +89,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261019/elnh3TVw/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261019/elnh3TVw/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261025/K1Q7heFi/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261025/K1Q7heFi/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "juliet-va-juliet",
-      "episodeCount": 7,
+      "episodeCount": 8,
       "priority": 1
     }
   ],

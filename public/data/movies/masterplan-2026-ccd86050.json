@@ -1,0 +1,55 @@
+{
+  "id": "masterplan-2026-ccd86050",
+  "source": "phimapi",
+  "slug": "ke-hoach-hoan-hao-2026",
+  "name": "Kế Hoạch Hoàn Hảo",
+  "originName": "Masterplan",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261028/ke-hoach-hoan-hao-2026-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261028/ke-hoach-hoan-hao-2026-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Pháp",
+      "slug": "phap"
+    },
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Khi một tên trộm huyền thoại nhắm đến bức tranh Mona Lisa, hắn chiêu mộ hai người lạ trẻ tuổi giúp mình trước khi tiết lộ họ là anh em ruột thất lạc từ lâu… và à vâng, hắn chính là cha của họ. Bị cuốn vào cuộc hội ngộ hỗn loạn mà họ không hề mong muốn, gia đình mới này phải học cách làm việc cùng nhau — và cố gắng không giết lẫn nhau — nếu họ muốn có cơ hội thực hiện vụ trộm thế kỷ.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261028/f3QB8XwR/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261028/f3QB8XwR/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "ke-hoach-hoan-hao-2026",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

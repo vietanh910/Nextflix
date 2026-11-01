@@ -5,13 +5,13 @@
   "totalPages": 14,
   "items": [
     {
-      "id": "tourist-trap-1979-f6d7d0fa",
+      "id": "alien-1979-a0404e42",
       "source": "phimapi",
-      "slug": "bay-du-khach",
-      "name": "Bẫy Du Khách",
-      "originName": "Tourist Trap",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260922/bay-du-khach-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260922/bay-du-khach-thumb.webp",
+      "slug": "quai-vat-khong-gian",
+      "name": "Quái Vật Không Gian",
+      "originName": "Alien",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261012/quai-vat-khong-gian-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261012/quai-vat-khong-gian-thumb.webp",
       "year": 1979,
       "type": "single",
       "status": "completed",
@@ -22,43 +22,14 @@
           "slug": "kinh-di"
         },
         {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
         },
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-jerk-1979-1b9f78bf",
-      "source": "phimapi",
-      "slug": "chuyen-mot-ga-kho",
-      "name": "Chuyện Một Gã Khờ",
-      "originName": "The Jerk",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260921/chuyen-mot-ga-kho-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260921/chuyen-mot-ga-kho-thumb.webp",
-      "year": 1979,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
@@ -71,6 +42,10 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
         }
       ]
     }

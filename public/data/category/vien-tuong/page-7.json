@@ -5,32 +5,40 @@
   "totalPages": 7,
   "items": [
     {
-      "id": "dolls-1987-cda4f7e4",
+      "id": "ghosts-of-mars-2001-f7c7eb22",
       "source": "phimapi",
-      "slug": "ma-bup-be-1986",
-      "name": "Ma Búp Bê",
-      "originName": "Dolls",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260930/ma-bup-be-1986-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260930/ma-bup-be-1986-thumb.webp",
-      "year": 1987,
+      "slug": "bong-ma-tren-sao-hoa",
+      "name": "Bóng Ma Trên Sao Hỏa",
+      "originName": "Ghosts Of Mars",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261010/bong-ma-tren-sao-hoa-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261010/bong-ma-tren-sao-hoa-thumb.webp",
+      "year": 2001,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
         },
         {
           "name": "Kinh Dị",
           "slug": "kinh-di"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
-        {
-          "name": "Ý",
-          "slug": "y"
-        },
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
@@ -38,29 +46,123 @@
       ]
     },
     {
-      "id": "house-ii-the-second-stor-1987-d0649cc7",
+      "id": "cowboy-bebop-1998-33b3074b",
       "source": "phimapi",
-      "slug": "ngoi-nha-ma-quai-2",
-      "name": "Ngôi Nhà Ma Quái 2",
-      "originName": "House II: The Second Story",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260929/ngoi-nha-ma-quai-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260929/ngoi-nha-ma-quai-2-thumb.webp",
-      "year": 1987,
-      "type": "single",
+      "slug": "cao-boi-bebop",
+      "name": "Cao Bồi Bebop",
+      "originName": "Cowboy Bebop",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261011/cao-boi-bebop-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261011/cao-boi-bebop-thumb.webp",
+      "year": 1998,
+      "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn Tất (26/26)",
       "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
         {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
         },
         {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
+          "name": "Miền Tây",
+          "slug": "mien-tay"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "ultraman-tiga-1996-9cc56f65",
+      "source": "phimapi",
+      "slug": "sieu-nhan-tiga",
+      "name": "Siêu Nhân Tiga",
+      "originName": "Ultraman Tiga",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
+      "year": 1996,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 11",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
         },
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "alien-1992-51462d49",
+      "source": "phimapi",
+      "slug": "quai-vat-khong-gian-3",
+      "name": "Quái Vật Không Gian 3",
+      "originName": "Alien³",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261012/quai-vat-khong-gian-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261012/quai-vat-khong-gian-3-thumb.webp",
+      "year": 1992,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
         },
         {
           "name": "Tâm Lý",
@@ -120,47 +222,6 @@
       ]
     },
     {
-      "id": "house-1985-d6af8633",
-      "source": "phimapi",
-      "slug": "ngoi-nha-ma-quai-1985",
-      "name": "Ngôi Nhà Ma Quái",
-      "originName": "House",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260929/ngoi-nha-ma-quai-1985-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260929/ngoi-nha-ma-quai-1985-thumb.webp",
-      "year": 1985,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "alien-1979-a0404e42",
       "source": "phimapi",
       "slug": "quai-vat-khong-gian",
@@ -202,39 +263,6 @@
         {
           "name": "Anh",
           "slug": "anh"
-        }
-      ]
-    },
-    {
-      "id": "house-1977-7765a067",
-      "source": "phimapi",
-      "slug": "hausu-ngoi-nha-ma-quai",
-      "name": "Hausu: Ngôi Nhà Ma Quái",
-      "originName": "House",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260930/hausu-ngoi-nha-ma-quai-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260930/hausu-ngoi-nha-ma-quai-thumb.webp",
-      "year": 1977,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
         }
       ]
     }

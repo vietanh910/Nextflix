@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20250530-1/9c37d265d1409b9652a7a7afeb35fd6f.jpg",
   "year": 2023,
   "type": "anime",
-  "status": "completed",
-  "episodeCurrent": "Hoàn Tất (100/100)",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 101",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -841,13 +841,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261023/FStOfBqL/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261023/FStOfBqL/index.m3u8"
+    },
+    {
+      "name": "Tập 101",
+      "slug": "tap-101",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261030/uM9L2mrq/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261030/uM9L2mrq/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "thuong-nguyen-do",
-      "episodeCount": 100,
+      "episodeCount": 101,
       "priority": 1
     }
   ],

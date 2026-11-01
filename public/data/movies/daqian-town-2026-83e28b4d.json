@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 27",
+  "episodeCurrent": "Tập 29",
   "categories": [
     {
       "name": "Phiêu Lưu",
@@ -245,13 +245,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261024/SzwF6QzL/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261024/SzwF6QzL/index.m3u8"
+    },
+    {
+      "name": "Tập 28",
+      "slug": "tap-28",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261031/UMx9p34f/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261031/UMx9p34f/index.m3u8"
+    },
+    {
+      "name": "Tập 29",
+      "slug": "tap-29",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261031/5PEZ2qre/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261031/5PEZ2qre/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "dai-thien-tieu-tran",
-      "episodeCount": 27,
+      "episodeCount": 29,
       "priority": 1
     }
   ],

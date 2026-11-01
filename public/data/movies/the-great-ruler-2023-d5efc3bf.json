@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 96",
+  "episodeCurrent": "Tập 97",
   "categories": [
     {
       "name": "Hành Động",
@@ -809,13 +809,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261022/K4Qd0mm0/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261022/K4Qd0mm0/index.m3u8"
+    },
+    {
+      "name": "Tập 97",
+      "slug": "tap-97",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261030/GYe2D5Qz/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261030/GYe2D5Qz/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "dai-chua-te-3d",
-      "episodeCount": 96,
+      "episodeCount": 97,
       "priority": 1
     }
   ],

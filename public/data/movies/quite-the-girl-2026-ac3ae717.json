@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20261012/dung-la-mot-co-gai-ngoan-ngoan-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 24",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (29/29)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -221,13 +221,53 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261025/CWUJIXPz/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261025/CWUJIXPz/index.m3u8"
+    },
+    {
+      "name": "Tập 25",
+      "slug": "tap-25",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261026/4wzgBM9Q/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261026/4wzgBM9Q/index.m3u8"
+    },
+    {
+      "name": "Tập 26",
+      "slug": "tap-26",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261027/TKNIxyEV/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261027/TKNIxyEV/index.m3u8"
+    },
+    {
+      "name": "Tập 27",
+      "slug": "tap-27",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261028/01UNREjZ/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261028/01UNREjZ/index.m3u8"
+    },
+    {
+      "name": "Tập 28",
+      "slug": "tap-28",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261029/05YpkeAU/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261029/05YpkeAU/index.m3u8"
+    },
+    {
+      "name": "Tập 29",
+      "slug": "tap-29",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261030/HtGn0p2h/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261030/HtGn0p2h/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "dung-la-mot-co-gai-ngoan-ngoan",
-      "episodeCount": 24,
+      "episodeCount": 29,
       "priority": 1
     }
   ],

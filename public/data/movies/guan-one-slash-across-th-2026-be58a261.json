@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 14",
+  "episodeCurrent": "Tập 15",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -149,13 +149,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261020/Zva2e7xP/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261020/Zva2e7xP/index.m3u8"
+    },
+    {
+      "name": "Tập 15",
+      "slug": "tap-15",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261026/f3WlZX0I/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261026/f3WlZX0I/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nhat-tram-thuong-khung",
-      "episodeCount": 14,
+      "episodeCount": 15,
       "priority": 1
     }
   ],

@@ -2,8 +2,123 @@
   "slug": "hai-huoc",
   "name": "Hài Hước",
   "page": 3,
-  "totalPages": 5,
+  "totalPages": 6,
   "items": [
+    {
+      "id": "hollywood-arts-2026-eb088b08",
+      "source": "phimapi",
+      "slug": "nghe-thuat-hollywood",
+      "name": "Nghệ Thuật Hollywood",
+      "originName": "Hollywood Arts",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261016/nghe-thuat-hollywood-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261016/nghe-thuat-hollywood-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "unlucky-bae-2026-d126b10c",
+      "source": "phimapi",
+      "slug": "nguoi-yeu-xui-xeo",
+      "name": "Người Yêu Xui Xẻo",
+      "originName": "Unlucky Bae",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260808/nguoi-yeu-xui-xeo-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260808/nguoi-yeu-xui-xeo-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "mission-yozakura-family--2026-fe8c90f7",
+      "source": "phimapi",
+      "slug": "nhiem-vu-gia-dinh-yozakura-phan-2-yozakurasan-chi-no-daisakusen",
+      "name": "Nhiệm Vụ: Gia Đình Yozakura (Phần 2) (Yozakura-san Chi no Daisakusen)",
+      "originName": "Mission: Yozakura Family (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260422-1/c7c0e1cff16430f29e26beda0a793b9e.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260422-1/4ab299c7351685f075f7cc9d3694fcfe.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 15",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
     {
       "id": "the-mothers-of-penguins--2026-16acc652",
       "source": "phimapi",
@@ -48,7 +163,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -130,7 +245,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -179,7 +294,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -228,7 +343,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 29",
+      "episodeCurrent": "Tập 31",
       "categories": [
         {
           "name": "Hài Hước",
@@ -280,39 +395,6 @@
       ]
     },
     {
-      "id": "grow-up-show-sunflower-c-2026-68316a19",
-      "source": "phimapi",
-      "slug": "rap-xiec-hoa-huong-duong",
-      "name": "Rạp Xiếc Hoa Hướng Dương",
-      "originName": "GROW UP SHOW -Sunflower Circus-",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260708/rap-xiec-hoa-huong-duong-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260708/rap-xiec-hoa-huong-duong-thumb.webp",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
       "id": "sasaki-and-peeps-season--2026-db34ae24",
       "source": "phimapi",
       "slug": "sasaki-va-p-chan-phan-2",
@@ -323,7 +405,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -401,7 +483,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -424,6 +506,51 @@
       ]
     },
     {
+      "id": "shaun-the-sheep-the-beas-2026-c3871822",
+      "source": "phimapi",
+      "slug": "shaun-the-sheep-quai-la-ghe-nha",
+      "name": "Shaun The Sheep: \"Quái Lạ\" Ghé Nhà",
+      "originName": "Shaun The Sheep: The Beast Of Mossy Bottom",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261028/shaun-the-sheep-quai-la-ghe-nha-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261028/shaun-the-sheep-quai-la-ghe-nha-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        }
+      ]
+    },
+    {
       "id": "super-psychic-policeman--2026-cbe8ed0f",
       "source": "phimapi",
       "slug": "sieu-canh-sat-tam-linh-chojo",
@@ -434,7 +561,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -471,7 +598,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -536,7 +663,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -565,7 +692,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Khoa Học",
@@ -606,7 +733,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hài Hước",
@@ -631,7 +758,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Hài Hước",
@@ -753,101 +880,6 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "between-steps-season-1-2026-16ee25be",
-      "source": "phimapi",
-      "slug": "tung-buoc-ben-nhau-tien-si-yeu-duong-phan-1",
-      "name": "Từng Bước Bên Nhau / Tiến Sĩ Yêu Đương (Phần 1)",
-      "originName": "Between Steps (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261007/tung-buoc-ben-nhau-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261007/tung-buoc-ben-nhau-phan-1-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 6",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "youth-season-1-2026-f3fc8978",
-      "source": "phimapi",
-      "slug": "tuoi-tre-phan-1",
-      "name": "Tuổi Trẻ (Phần 1)",
-      "originName": "Youth (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260922/tuoi-tre-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260922/tuoi-tre-phan-1-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 6",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
-        }
-      ]
-    },
-    {
-      "id": "kamui-he-s-behind-you-2026-2f84b0b0",
-      "source": "phimapi",
-      "slug": "ushiro-no-shoumen-kamui-san",
-      "name": "Ushiro no Shoumen Kamui-san",
-      "originName": "KAMUI: He's Behind You",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260829/ushiro-no-shoumen-kamui-san-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260829/ushiro-no-shoumen-kamui-san-thumb.webp",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 8",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
         }
       ]
     }

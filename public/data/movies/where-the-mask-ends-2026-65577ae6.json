@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 18",
+  "episodeCurrent": "Tập 25",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -175,8 +175,64 @@
       "slug": "tap-18",
       "serverName": "Vietsub",
       "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261025/0oUq3bkY/index.m3u8",
-      "m3u8Url": "https://a.kvp726.com/20261025/0oUq3bkY/index.m3u8"
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261026/KomI7LP2/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261026/KomI7LP2/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261027/algeqgrf/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261027/algeqgrf/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261028/VQ9jIAno/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261028/VQ9jIAno/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261029/LaCyw3kV/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261029/LaCyw3kV/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261101/KbEWUoMy/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261101/KbEWUoMy/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261101/TYDEagkj/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261101/TYDEagkj/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261101/wzL47poI/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261101/wzL47poI/index.m3u8"
+    },
+    {
+      "name": "Tập 25",
+      "slug": "tap-25",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261101/J9Tlsigi/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261101/J9Tlsigi/index.m3u8"
     },
     {
       "name": "Tập 01",
@@ -313,13 +369,69 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261025/hv8ZJiQi/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261025/hv8ZJiQi/index.m3u8"
+    },
+    {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261026/CV9BCGvL/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261026/CV9BCGvL/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261027/gVimWfwm/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261027/gVimWfwm/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261028/bY8ukyNe/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261028/bY8ukyNe/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261029/mvRkQhQ8/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261029/mvRkQhQ8/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261101/gV64lWI8/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261101/gV64lWI8/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261101/TYDEagkj/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261101/TYDEagkj/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261101/wzL47poI/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261101/wzL47poI/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "ga-kim-thoa-ga-tram-vang",
-      "episodeCount": 35,
+      "episodeCount": 49,
       "priority": 1
     }
   ],

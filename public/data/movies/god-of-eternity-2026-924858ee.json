@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 27",
+  "episodeCurrent": "Tập 31",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -249,13 +249,45 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261013/hlBItrBd/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261013/hlBItrBd/index.m3u8"
+    },
+    {
+      "name": "Tập 28",
+      "slug": "tap-28",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261020/T4mmX1m7/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261020/T4mmX1m7/index.m3u8"
+    },
+    {
+      "name": "Tập 29",
+      "slug": "tap-29",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261020/LoQ5C7Qx/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261020/LoQ5C7Qx/index.m3u8"
+    },
+    {
+      "name": "Tập 30",
+      "slug": "tap-30",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261027/4quANdDV/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261027/4quANdDV/index.m3u8"
+    },
+    {
+      "name": "Tập 31",
+      "slug": "tap-31",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261027/aNp1fu3u/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261027/aNp1fu3u/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "van-co-than-de",
-      "episodeCount": 27,
+      "episodeCount": 31,
       "priority": 1
     }
   ],

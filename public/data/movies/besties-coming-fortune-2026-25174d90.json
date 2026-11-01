@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20261017/ngay-ban-than-giau-co-chang-con-xa-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 18",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (24/24)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -177,13 +177,61 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261025/TVBPxdvZ/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261025/TVBPxdvZ/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261026/hOoeFpDi/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261026/hOoeFpDi/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261027/L5seJbQo/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261027/L5seJbQo/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261028/kM7qZwul/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261028/kM7qZwul/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261029/eq3aSfl1/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261029/eq3aSfl1/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261030/zRcS7msz/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261030/zRcS7msz/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261031/TCqcWpH9/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261031/TCqcWpH9/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "ngay-ban-than-giau-co-chang-con-xa",
-      "episodeCount": 18,
+      "episodeCount": 24,
       "priority": 1
     }
   ],

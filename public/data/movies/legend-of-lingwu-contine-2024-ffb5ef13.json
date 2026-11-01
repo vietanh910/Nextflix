@@ -9,7 +9,7 @@
   "year": 2024,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 224",
+  "episodeCurrent": "Tập 227",
   "categories": [
     {
       "name": "Hành Động",
@@ -1829,13 +1829,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261018/FwA5i2Ue/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261018/FwA5i2Ue/index.m3u8"
+    },
+    {
+      "name": "Tập 225",
+      "slug": "tap-225",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261026/ex5iCRfu/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261026/ex5iCRfu/index.m3u8"
+    },
+    {
+      "name": "Tập 226",
+      "slug": "tap-226",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261026/CLoJch0N/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261026/CLoJch0N/index.m3u8"
+    },
+    {
+      "name": "Tập 227",
+      "slug": "tap-227",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261026/9jXUIxOK/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261026/9jXUIxOK/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "dai-luc-linh-vo",
-      "episodeCount": 224,
+      "episodeCount": 227,
       "priority": 1
     }
   ],

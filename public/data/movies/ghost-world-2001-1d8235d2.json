@@ -1,0 +1,63 @@
+{
+  "id": "ghost-world-2001-1d8235d2",
+  "source": "phimapi",
+  "slug": "the-gioi-ma",
+  "name": "Thế Giới Ma",
+  "originName": "Ghost World",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261030/the-gioi-ma-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261030/the-gioi-ma-thumb.webp",
+  "year": 2001,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Anh",
+      "slug": "anh"
+    },
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Đức",
+      "slug": "duc"
+    }
+  ],
+  "description": "<p>Ghost World ( Thế giới ma) là một bộ phim hài Mỹ năm 2001 của đạo diễn Terry Zwigoff, dựa trên cuốn truyện tranh cùng tên và kịch bản của Daniel Clowes. Câu chuyện tập trung vào cuộc sống của Enid và Rebecca, hai cô gái tuổi teen sống trong một thành phố vô danh của Mỹ. Cả hai đều có những vấn đề liên quan đến những người xung quanh. Khi họ gặp Seymour cũng sống tách biệt với xã hội và thích thu thập mọi thứ cũ kĩ, cuộc sống của Enid đã thay đổi mãi mãi.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261030/0LN0OpfO/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261030/0LN0OpfO/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "the-gioi-ma",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

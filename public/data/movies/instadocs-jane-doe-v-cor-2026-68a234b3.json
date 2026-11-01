@@ -1,0 +1,47 @@
+{
+  "id": "instadocs-jane-doe-v-cor-2026-68a234b3",
+  "source": "phimapi",
+  "slug": "instadocs-jane-doe-doi-dau-dai-hoc-cornell",
+  "name": "Instadocs: Jane Doe Đối Đầu Đại Học Cornell",
+  "originName": "Instadocs: Jane Doe v. Cornell",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261030/instadocs-jane-doe-doi-dau-dai-hoc-cornell-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261030/instadocs-jane-doe-doi-dau-dai-hoc-cornell-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tài Liệu",
+      "slug": "tai-lieu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Instadocs đi sâu vào cuộc điều tra vụ cưỡng hiếp và vụ kiện Jane Doe tại Đại học Cornell, trong đó các nhà báo sinh viên đứng ở tuyến đầu của câu chuyện.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261030/qdgfal3h/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261030/qdgfal3h/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "instadocs-jane-doe-doi-dau-dai-hoc-cornell",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

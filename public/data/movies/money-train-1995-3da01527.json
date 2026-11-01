@@ -1,0 +1,59 @@
+{
+  "id": "money-train-1995-3da01527",
+  "source": "phimapi",
+  "slug": "tau-cho-tien",
+  "name": "Tàu Chở Tiền",
+  "originName": "Money Train",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261030/tau-cho-tien-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261030/tau-cho-tien-thumb.webp",
+  "year": 1995,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Vì nợ nần chồng chất với giới xã hội đen, một cảnh sát chìm tàu điện ngầm và người anh em quyết định cướp chuyến tàu được canh gác nghiêm ngặt chở số tiền vé thu được trong ngày.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261030/0TBFBHB1/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261030/0TBFBHB1/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "tau-cho-tien",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

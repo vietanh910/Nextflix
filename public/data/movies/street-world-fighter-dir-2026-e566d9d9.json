@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260905/chien-binh-duong-pho-dai-chien-bien-dao-thumb.webp",
   "year": 2026,
   "type": "tvshow",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (9/9)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -91,15 +91,23 @@
       "slug": "tap-08",
       "serverName": "Vietsub",
       "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261009/LNRyXQzk/index.m3u8",
-      "m3u8Url": "https://a.kvp726.com/20261009/LNRyXQzk/index.m3u8"
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261028/WAGVFgMz/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261028/WAGVFgMz/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261028/r6EV1r9r/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261028/r6EV1r9r/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "chien-binh-duong-pho-dai-chien-bien-dao",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 1
     }
   ],

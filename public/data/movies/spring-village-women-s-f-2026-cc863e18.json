@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 15",
+  "episodeCurrent": "Tập 17",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -149,13 +149,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261023/PDHenDac/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261023/PDHenDac/index.m3u8"
+    },
+    {
+      "name": "Tập 16",
+      "slug": "tap-16",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261030/YBVBRC1A/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261030/YBVBRC1A/index.m3u8"
+    },
+    {
+      "name": "Tập 17",
+      "slug": "tap-17",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261031/bHSEOgLt/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261031/bHSEOgLt/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "doi-bong-nu-lang-xuan",
-      "episodeCount": 15,
+      "episodeCount": 17,
       "priority": 1
     }
   ],

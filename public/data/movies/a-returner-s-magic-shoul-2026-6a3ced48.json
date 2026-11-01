@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 3",
+  "episodeCurrent": "Tập 4",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -77,13 +77,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261022/9d4FAd5J/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261022/9d4FAd5J/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261028/v2Omo8LR/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261028/v2Omo8LR/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "ma-thuat-dac-biet-cua-phu-thuy-quay-nguoc-thoi-gian-phan-2",
-      "episodeCount": 3,
+      "episodeCount": 4,
       "priority": 1
     }
   ],

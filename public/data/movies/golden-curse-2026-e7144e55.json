@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 12",
+  "episodeCurrent": "Tập 14",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -137,13 +137,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261018/adkPibwE/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261018/adkPibwE/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261025/83PKdx82/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261025/83PKdx82/index.m3u8"
+    },
+    {
+      "name": "Tập 14",
+      "slug": "tap-14",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261101/YzkFXT73/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261101/YzkFXT73/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "than-tai-dau-chiem-long",
-      "episodeCount": 12,
+      "episodeCount": 14,
       "priority": 1
     }
   ],
