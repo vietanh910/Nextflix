@@ -5,6 +5,80 @@
   "totalPages": 15,
   "items": [
     {
+      "id": "my-loong-2026-6bb9cc80",
+      "source": "phimapi",
+      "slug": "du-thuong-long",
+      "name": "Dữ Thương Long",
+      "originName": "My Loong",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261022/du-thuong-long-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261022/du-thuong-long-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "even-though-i-m-a-super--2026-7ffdd0df",
+      "source": "phimapi",
+      "slug": "du-toi-la-mot-co-gai-quy-toc-cuc-ky-nhut-nhat-toi-da-chap-nhan-loi-ca-cuoc-tu-vi-hon-phu-xao-quyet-cua-minh",
+      "name": "Dù Tôi Là Một Cô Gái Quý Tộc Cực Kỳ Nhút Nhát, Tôi Đã Chấp Nhận Lời Cá Cược Từ Vị Hôn Phu Xảo Quyệt Của Mình",
+      "originName": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet from My Cunning Fiancé",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261005/du-toi-la-mot-co-gai-quy-toc-cuc-ky-nhut-nhat-toi-da-chap-nhan-loi-ca-cuoc-tu-vi-hon-phu-xao-quyet-cua-minh-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261005/du-toi-la-mot-co-gai-quy-toc-cuc-ky-nhut-nhat-toi-da-chap-nhan-loi-ca-cuoc-tu-vi-hon-phu-xao-quyet-cua-minh-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 5",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
       "id": "reporting-live-2026-837c60e8",
       "source": "phimapi",
       "slug": "dua-tin-truc-tiep",
@@ -114,7 +188,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -178,25 +252,29 @@
       ]
     },
     {
-      "id": "flaming-dodgeball-girl-d-2026-728f3ddb",
+      "id": "where-the-mask-ends-2026-65577ae6",
       "source": "phimapi",
-      "slug": "flaming-dodgeball-girl-danko",
-      "name": "Flaming Dodgeball Girl Danko",
-      "originName": "Flaming Dodgeball Girl Danko",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260711/flaming-dodgeball-girl-danko-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260711/flaming-dodgeball-girl-danko-thumb.webp",
+      "slug": "ga-kim-thoa-ga-tram-vang",
+      "name": "Gả Kim Thoa / Gả trâm vàng",
+      "originName": "Where The Mask Ends",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261016/ga-kim-thoa-ga-tram-vang-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261016/ga-kim-thoa-ga-tram-vang-thumb.webp",
       "year": 2026,
-      "type": "anime",
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
+      "episodeCurrent": "Hoàn Tất (30/30)",
       "categories": [
         {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
         },
         {
           "name": "Tâm Lý",
@@ -205,8 +283,8 @@
       ],
       "countries": [
         {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -240,43 +318,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "chumbak-2026-a2685097",
-      "source": "phimapi",
-      "slug": "gan-ket",
-      "name": "Gắn Kết",
-      "originName": "Chumbak",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260910/gan-ket-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260910/gan-ket-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (16/16)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Ấn Độ",
-          "slug": "an-do"
         }
       ]
     },
@@ -347,6 +388,39 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "a-dog-s-perfect-christma-2026-584b8a5f",
+      "source": "phimapi",
+      "slug": "giang-sinh-hoan-hao-cua-mot-chu-cho",
+      "name": "Giáng Sinh Hoàn Hảo Của Một Chú Chó",
+      "originName": "A Dog's Perfect Christmas",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261105/giang-sinh-hoan-hao-cua-mot-chu-cho-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261105/giang-sinh-hoan-hao-cua-mot-chu-cho-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -435,7 +509,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "episodeCurrent": "Tập 12",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -458,58 +532,25 @@
       ]
     },
     {
-      "id": "crazy-rich-incredibly-br-2026-07ab3194",
+      "id": "a-couple-of-lies-2026-4c0619f8",
       "source": "phimapi",
-      "slug": "giau-nut-vach-ngheo-mat-rep",
-      "name": "Giàu Nứt Vách, Nghèo Mạt Rệp",
-      "originName": "Crazy Rich, Incredibly Broke",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261002/giau-nut-vach-ngheo-mat-rep-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261002/giau-nut-vach-ngheo-mat-rep-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Ả Rập Xê Út",
-          "slug": "a-rap-xe-ut"
-        }
-      ]
-    },
-    {
-      "id": "brothers-2026-f2df4b9d",
-      "source": "phimapi",
-      "slug": "hai-trai-tim",
-      "name": "Hai Trái Tim",
-      "originName": "Brothers",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260812/hai-trai-tim-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260812/hai-trai-tim-thumb.webp",
+      "slug": "hai-cap-doi-va-loi-noi-doi",
+      "name": "Hai Cặp Đôi Và Lời Nói Dối",
+      "originName": "A Couple Of Lies",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261103/hai-cap-doi-va-loi-noi-doi-poster-2.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261103/hai-cap-doi-va-loi-noi-doi-thumb.webp",
       "year": 2026,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (16/16)",
+      "episodeCurrent": "Hoàn Tất (4/4)",
       "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
         },
         {
           "name": "Tâm Lý",
@@ -518,8 +559,8 @@
       ],
       "countries": [
         {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
+          "name": "SE",
+          "slug": "se"
         }
       ]
     },
@@ -534,7 +575,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -658,7 +699,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 12",
+      "episodeCurrent": "Tập 22",
       "categories": [
         {
           "name": "Bí Ẩn",
@@ -751,84 +792,35 @@
       ]
     },
     {
-      "id": "forgotten-island-2026-70c93ae1",
+      "id": "sunshine-through-the-rai-2026-532f3661",
       "source": "phimapi",
-      "slug": "hon-dao-quen-lang",
-      "name": "Hòn Đảo Quên Lãng",
-      "originName": "Forgotten Island",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261030/hon-dao-quen-lang-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261030/hon-dao-quen-lang-thumb.webp",
+      "slug": "hom-nay-troi-do-mua-bong-may",
+      "name": "Hôm Nay Trời Đổ Mưa Bóng Mây",
+      "originName": "Sunshine Through The Rain",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261106/hom-nay-troi-do-mua-bong-may-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261106/hom-nay-troi-do-mua-bong-may-thumb.webp",
       "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "horror-collector-2026-0a348b99",
-      "source": "phimapi",
-      "slug": "horror-collector-kyoufu-collector",
-      "name": "Horror Collector / Kyoufu Collector",
-      "originName": "HORROR COLLECTOR",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261014/horror-collector-kyoufu-collector-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261014/horror-collector-kyoufu-collector-thumb.webp",
-      "year": 2026,
-      "type": "anime",
+      "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Trẻ Em",
-          "slug": "tre-em"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
         }
       ],
       "countries": [
         {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     }

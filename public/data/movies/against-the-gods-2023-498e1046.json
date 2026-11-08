@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 61",
+  "episodeCurrent": "Tập 62",
   "categories": [
     {
       "name": "Hành Động",
@@ -529,13 +529,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261029/OOqM31TS/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261029/OOqM31TS/index.m3u8"
+    },
+    {
+      "name": "Tập 62",
+      "slug": "tap-62",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261105/AToF4KOu/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261105/AToF4KOu/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nghich-thien-ta-than",
-      "episodeCount": 61,
+      "episodeCount": 62,
       "priority": 1
     }
   ],

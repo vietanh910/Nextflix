@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 33",
+  "episodeCurrent": "Tập 35",
   "categories": [
     {
       "name": "Viễn Tưởng",
@@ -293,13 +293,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261028/OmJvhfyv/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261028/OmJvhfyv/index.m3u8"
+    },
+    {
+      "name": "Tập 34",
+      "slug": "tap-34",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261104/PvrUR4aV/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261104/PvrUR4aV/index.m3u8"
+    },
+    {
+      "name": "Tập 35",
+      "slug": "tap-35",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261104/ftqhN3vN/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261104/ftqhN3vN/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "huyen-huyen-ta-thien-menh-trum-phan-dien",
-      "episodeCount": 33,
+      "episodeCount": 35,
       "priority": 1
     }
   ],

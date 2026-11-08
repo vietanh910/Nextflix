@@ -1,0 +1,51 @@
+{
+  "id": "another-world-2018-acb1d86f",
+  "source": "phimapi",
+  "slug": "the-gioi-khac",
+  "name": "Thế Giới Khác",
+  "originName": "Another World",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261107/the-gioi-khac-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261107/the-gioi-khac-thumb.webp",
+  "year": 2018,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Hiroshi Takamura có cuộc sống gia đình bình dị bên người vợ Hatsuno và cậu con trai Akira. Một ngày nọ, Eisuke Okiyama, người bạn cũ của Hiroshi, bất ngờ trở về quê nhà sau nhiều năm xa cách. Khi biết được những chuyện đã xảy ra trong quá khứ của Eisuke, Hiroshi bắt đầu nhìn nhận lại cuộc sống và những lựa chọn của bản thân. Từ đó, anh quyết tâm nghiêm túc hơn với công việc, đồng thời trân trọng và vun đắp hạnh phúc gia đình.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261107/458ucZa7/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261107/458ucZa7/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "the-gioi-khac",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

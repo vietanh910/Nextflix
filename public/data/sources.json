@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T09:57:38.163Z",
+  "updatedAt": "2026-11-08T09:46:33.636Z",
   "mode": "full",
   "sources": [
     {
@@ -9,7 +9,7 @@
       "ok": false,
       "fetchedCount": 0,
       "errorMessage": "HTTP 404",
-      "lastSyncAt": "2026-11-01T09:57:38.163Z"
+      "lastSyncAt": "2026-11-08T09:46:33.636Z"
     },
     {
       "source": "phimapi",
@@ -17,7 +17,7 @@
       "baseUrl": "https://phimapi.com",
       "ok": true,
       "fetchedCount": 480,
-      "lastSyncAt": "2026-11-01T09:57:38.163Z"
+      "lastSyncAt": "2026-11-08T09:46:33.636Z"
     },
     {
       "source": "nguonc",
@@ -26,7 +26,7 @@
       "ok": false,
       "fetchedCount": 0,
       "errorMessage": "HTTP 403",
-      "lastSyncAt": "2026-11-01T09:57:38.163Z"
+      "lastSyncAt": "2026-11-08T09:46:33.636Z"
     },
     {
       "source": "animapper",
@@ -34,8 +34,8 @@
       "baseUrl": "https://api.animapper.net/api/v1",
       "ok": false,
       "fetchedCount": 0,
-      "errorMessage": "HTTP 523",
-      "lastSyncAt": "2026-11-01T09:57:38.163Z"
+      "errorMessage": "HTTP 502",
+      "lastSyncAt": "2026-11-08T09:46:33.636Z"
     }
   ]
 }

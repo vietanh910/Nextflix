@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 16",
+  "episodeCurrent": "Tập 17",
   "categories": [
     {
       "name": "Hài Hước",
@@ -153,13 +153,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261027/hosltlPo/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261027/hosltlPo/index.m3u8"
+    },
+    {
+      "name": "Tập 17",
+      "slug": "tap-17",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261102/Kvj36lkL/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261102/Kvj36lkL/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "diamond-no-ace-act-ii-second-season",
-      "episodeCount": 16,
+      "episodeCount": 17,
       "priority": 1
     }
   ],

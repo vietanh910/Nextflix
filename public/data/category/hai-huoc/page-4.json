@@ -5,17 +5,83 @@
   "totalPages": 6,
   "items": [
     {
-      "id": "between-steps-season-1-2026-16ee25be",
+      "id": "i-m-looking-for-zombie-2026-b1f18998",
       "source": "phimapi",
-      "slug": "tung-buoc-ben-nhau-tien-si-yeu-duong-phan-1",
-      "name": "Từng Bước Bên Nhau / Tiến Sĩ Yêu Đương (Phần 1)",
-      "originName": "Between Steps (Season 1)",
+      "slug": "toi-dang-tim-kiem-thay-ma",
+      "name": "Tôi Đang Tìm Kiếm Thây Ma",
+      "originName": "#I'm Looking for Zombie",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261011/toi-dang-tim-kiem-thay-ma-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261018/toi-dang-tim-kiem-thay-ma-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 5",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-ordinary-jackpot-2026-baf2d5d0",
+      "source": "phimapi",
+      "slug": "trung-so-doc-dac-van-phai-di-lam",
+      "name": "Trúng Số Độc Đắc Vẫn Phải Đi Làm",
+      "originName": "The Ordinary Jackpot",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260910/trung-so-doc-dac-van-phai-di-lam-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260910/trung-so-doc-dac-van-phai-di-lam-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "between-steps-2026-52ed8c17",
+      "source": "phimapi",
+      "slug": "tung-buoc-ben-nhau-tien-si-yeu-duong",
+      "name": "Từng Bước Bên Nhau / Tiến Sĩ Yêu Đương",
+      "originName": "Between Steps",
       "posterUrl": "https://phimimg.com/uploads/movies/20261007/tung-buoc-ben-nhau-phan-1-poster.webp",
       "thumbUrl": "https://phimimg.com/uploads/movies/20261007/tung-buoc-ben-nhau-phan-1-thumb.webp",
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -47,8 +113,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20260922/tuoi-tre-phan-1-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -63,6 +129,47 @@
         {
           "name": "Anh",
           "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "upin-ipin-season-19-2026-f403678e",
+      "source": "phimapi",
+      "slug": "upin-ipin-phan-19",
+      "name": "Upin & Ipin (Phần 19)",
+      "originName": "Upin & Ipin (Season 19)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261108/upin-ipin-phan-19-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261108/upin-ipin-phan-19-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (14/14)",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Malaysia",
+          "slug": "malaysia"
         }
       ]
     },
@@ -180,7 +287,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -217,7 +324,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 16",
+      "episodeCurrent": "Tập 18",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -249,8 +356,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20260914/yeu-mot-nguoi-khac-yeu-mot-nguoi-khac-khong-phai-em-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 12",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (14/14)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -287,7 +394,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hài Hước",
@@ -491,51 +598,6 @@
       ]
     },
     {
-      "id": "ranma1-2-season-2-2025-76b5b870",
-      "source": "phimapi",
-      "slug": "mot-nua-ranma-phan-2",
-      "name": "Một Nửa Ranma (Phần 2)",
-      "originName": "Ranma1/2 (Season 2)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251006-1/6aac8f887bb3084e05408d4c072f30b6.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251006-1/29313e624c6b831b76fb0a5ce35d2680.jpg",
-      "year": 2025,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
       "id": "ghosts-season-5-2025-2b69b656",
       "source": "phimapi",
       "slug": "nhung-nguoi-ban-ma-phan-5",
@@ -573,6 +635,80 @@
       ]
     },
     {
+      "id": "tulsa-king-season-3-2025-5d4872a0",
+      "source": "phimapi",
+      "slug": "ong-trum-giang-ho-phan-3",
+      "name": "Ông Trùm Giang Hồ (Phần 3)",
+      "originName": "Tulsa King (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261103/ong-trum-giang-ho-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250923-1/7e29ec545c8e4f582bbc33913a312b0b.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "north-of-north-season-1-2025-345a6b4d",
+      "source": "phimapi",
+      "slug": "tit-xa-phuong-bac-phan-1",
+      "name": "Tít Xa Phương Bắc (Phần 1)",
+      "originName": "North Of North (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20250412-1/0a8d1f8544eddf1b32b38d5b26193737.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250412-1/d33d24b32d2d5e087d39a639675f59eb.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
       "id": "nobody-wants-this-season-2024-a8c7b12e",
       "source": "phimapi",
       "slug": "chang-ai-tac-hop-phan-1",
@@ -606,25 +742,21 @@
       ]
     },
     {
-      "id": "ranma1-2-season-1-2024-7e4617e3",
+      "id": "sonic-the-hedgehog-3-2024-2a9b9a5c",
       "source": "phimapi",
-      "slug": "mot-nua-ranma-phan-1",
-      "name": "Một Nửa Ranma (Phần 1)",
-      "originName": "Ranma1/2 (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20241012-1/5319575845b91a92f339fd869d48f9a4.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20241012-1/513da4c978911097c1f7fcb4bb9f2631.jpg",
+      "slug": "nhim-sonic-3",
+      "name": "Nhím Sonic 3",
+      "originName": "Sonic The Hedgehog 3",
+      "posterUrl": "https://phimimg.com/upload/vod/20250124-1/3f63def7ce3bc30c56063ca2c05a0cca.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250124-1/535166781a53d302e14c9341f0d161a2.jpg",
       "year": 2024,
-      "type": "anime",
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
+      "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
         },
         {
           "name": "Khoa Học",
@@ -635,14 +767,26 @@
           "slug": "vien-tuong"
         },
         {
-          "name": "Trẻ Em",
-          "slug": "tre-em"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -713,162 +857,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-mothers-of-penguins--2024-8e11d743",
-      "source": "phimapi",
-      "slug": "nhung-nguoi-me-cua-bay-canh-cut-phan-1",
-      "name": "Những Người Mẹ Của Bầy Cánh Cụt (Phần 1)",
-      "originName": "The Mothers Of Penguins (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261022/nhung-nguoi-me-cua-bay-canh-cut-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261022/nhung-nguoi-me-cua-bay-canh-cut-phan-1-thumb.webp",
-      "year": 2024,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (6/6)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Ba Lan",
-          "slug": "ba-lan"
-        }
-      ]
-    },
-    {
-      "id": "sasaki-and-peeps-season--2024-469659ee",
-      "source": "phimapi",
-      "slug": "sasaki-va-p-chan-phan-1",
-      "name": "Sasaki Và P-chan (Phần 1)",
-      "originName": "Sasaki and Peeps (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20250515-1/72c8cf098055aac784ca17519e96749e.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250515-1/b719842835775113fc6e0d93f96467e1.jpg",
-      "year": 2024,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "spare-me-great-lord-seas-2023-d43f3189",
-      "source": "phimapi",
-      "slug": "dai-vuong-tha-mang-phan-2",
-      "name": "Đại Vương Tha Mạng (Phần 2)",
-      "originName": "Spare Me, Great Lord! (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261005/dai-vuong-tha-mang-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261005/dai-vuong-tha-mang-phan-2-thumb.webp",
-      "year": 2023,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "kubi-2023-65361502",
-      "source": "phimapi",
-      "slug": "loan-chien-lanh-chua-thu-cap",
-      "name": "Loạn Chiến Lãnh Chúa / Thủ Cấp",
-      "originName": "Kubi",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261025/loan-chien-lanh-chua-thu-cap-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261025/loan-chien-lanh-chua-thu-cap-thumb.webp",
-      "year": 2023,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Lịch Sử",
-          "slug": "lich-su"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
         }
       ]
     }

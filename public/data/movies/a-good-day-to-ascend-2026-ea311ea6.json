@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 18",
+  "episodeCurrent": "Tập 19",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -181,13 +181,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261031/RVTVU4mU/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261031/RVTVU4mU/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261107/pPG0xM5g/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261107/pPG0xM5g/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "chon-ngay-phi-thang",
-      "episodeCount": 18,
+      "episodeCount": 19,
       "priority": 1
     }
   ],

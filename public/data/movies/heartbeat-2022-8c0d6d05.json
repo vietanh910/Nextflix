@@ -1,0 +1,51 @@
+{
+  "id": "heartbeat-2022-8c0d6d05",
+  "source": "phimapi",
+  "slug": "nhip-dap-trai-tim-2022",
+  "name": "Nhịp Đập Trái Tim",
+  "originName": "Heartbeat",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261105/nhip-dap-trai-tim-2022-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261105/nhip-dap-trai-tim-2022-thumb.webp",
+  "year": 2022,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thụy Sĩ",
+      "slug": "thuy-si"
+    }
+  ],
+  "description": "<p>Lo lắng trước chứng trầm cảm của mẹ, một cậu bé vượt qua hàng loạt trở ngại để hối hả trở về nhà trong câu chuyện thuộc thế giới \"Khả thể của tình yêu\" của Lee Chang Dong.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261105/B7y5Lt0i/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261105/B7y5Lt0i/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "nhip-dap-trai-tim-2022",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

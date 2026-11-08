@@ -83,8 +83,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20261022/du-thuong-long-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 19",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -116,8 +116,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20261016/ga-kim-thoa-ga-tram-vang-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 25",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (30/30)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -130,12 +130,57 @@
         {
           "name": "Tình Cảm",
           "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-remarried-empress-2026-b9bf1d8f",
+      "source": "phimapi",
+      "slug": "hoang-hau-tai-hon",
+      "name": "Hoàng Hậu Tái Hôn",
+      "originName": "The Remarried Empress",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261105/hoang-hau-tai-hon-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261105/hoang-hau-tai-hon-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 4",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
@@ -243,43 +288,6 @@
       ]
     },
     {
-      "id": "as-promised-2026-4e2d63ac",
-      "source": "phimapi",
-      "slug": "nhu-da-hen",
-      "name": "Như Đã Hẹn",
-      "originName": "As Promised",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260921/nhu-da-hen-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260921/nhu-da-hen-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (24/24)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Phim Ngắn",
-          "slug": "phim-ngan"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
       "id": "love-legend-season-1-2026-330469dd",
       "source": "phimapi",
       "slug": "phong-hoa-lenh-phan-1",
@@ -312,29 +320,29 @@
       ]
     },
     {
-      "id": "revenge-from-a-wife-2026-50a60ab7",
+      "id": "the-forgotten-concubine--2026-dbe9def2",
       "source": "phimapi",
-      "slug": "thiep-von-chi-la-co-rac",
-      "name": "Thiếp Vốn Chỉ Là Cỏ Rác",
-      "originName": "Revenge From A Wife",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260920/thiep-von-chi-la-co-rac-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260920/thiep-von-chi-la-co-rac-thumb.webp",
+      "slug": "quy-phi-duoc-nuoc-lan-toi",
+      "name": "Quý Phi Được Nước Lấn Tới",
+      "originName": "The Forgotten Concubine's Revenge",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261104/quy-phi-duoc-nuoc-lan-toi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261104/quy-phi-duoc-nuoc-lan-toi-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (30/30)",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 15",
       "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
-        },
-        {
           "name": "Tâm Lý",
           "slug": "tam-ly"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
         }
       ],
       "countries": [
@@ -355,40 +363,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 19",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "gladiator-in-the-theater-2026-27e20555",
-      "source": "phimapi",
-      "slug": "van-tuoc-khieu-thien-luc",
-      "name": "Vân Tước Khiếu Thiên Lục",
-      "originName": "Gladiator In The Theater",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260918/van-tuoc-khieu-thien-luc-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260918/van-tuoc-khieu-thien-luc-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (40/40)",
+      "episodeCurrent": "Tập 31",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -454,7 +429,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 187",
+      "episodeCurrent": "Tập 188",
       "categories": [
         {
           "name": "Cổ Trang",
@@ -528,7 +503,7 @@
       "year": 2021,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 561",
+      "episodeCurrent": "Tập 564",
       "categories": [
         {
           "name": "Cổ Trang",

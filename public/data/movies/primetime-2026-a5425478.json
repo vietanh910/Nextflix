@@ -1,0 +1,51 @@
+{
+  "id": "primetime-2026-a5425478",
+  "source": "phimapi",
+  "slug": "thoi-diem-vang",
+  "name": "Thời Điểm Vàng",
+  "originName": "Primetime",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261105/thoi-diem-vang-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261105/thoi-diem-vang-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Năm 2006, Chris Hansen — người dẫn chương trình To Catch a Predator — quyết tâm tạo nên một cột mốc lịch sử cho ngành truyền hình. Nhưng khi một chiến dịch nguy hiểm đi lệch hướng dẫn đến cái chết thảm khốc, giấc mơ vinh quang hào nhoáng của ông nhanh chóng biến thành một cơn ác mộng về công lý dàn dựng.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261105/dqDJB4pN/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261105/dqDJB4pN/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "thoi-diem-vang",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

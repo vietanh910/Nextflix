@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 187",
+  "episodeCurrent": "Tập 188",
   "categories": [
     {
       "name": "Cổ Trang",
@@ -1533,13 +1533,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261027/gOGAKmWe/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261027/gOGAKmWe/index.m3u8"
+    },
+    {
+      "name": "Tập 188",
+      "slug": "tap-188",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261104/3AddsUO0/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261104/3AddsUO0/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "gia-thien",
-      "episodeCount": 187,
+      "episodeCount": 188,
       "priority": 1
     }
   ],

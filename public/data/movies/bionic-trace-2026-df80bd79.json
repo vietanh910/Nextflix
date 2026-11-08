@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 17",
+  "episodeCurrent": "Tập 21",
   "categories": [
     {
       "name": "Khoa Học",
@@ -173,13 +173,45 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261101/KNdp3CKM/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261101/KNdp3CKM/index.m3u8"
+    },
+    {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261102/mjLxGYcQ/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261102/mjLxGYcQ/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261103/ObSMFZf9/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261103/ObSMFZf9/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261104/26FCydlm/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261104/26FCydlm/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261105/slccECU5/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261105/slccECU5/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "dau-vet-phong-sinh",
-      "episodeCount": 17,
+      "episodeCount": 21,
       "priority": 1
     }
   ],

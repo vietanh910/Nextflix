@@ -5,10 +5,11 @@
   "name": "Hương Tình Miền Quê",
   "originName": "The Cupid Buffalo",
   "posterUrl": "https://phimimg.com/uploads/movies/20261023/huong-tinh-mien-que-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261106/huong-tinh-mien-que-thumb.webp",
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -68,13 +69,45 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261030/VDX35SID/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261030/VDX35SID/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261102/Lix6lbAB/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261102/Lix6lbAB/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261104/dCsRRCw6/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261104/dCsRRCw6/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261106/oKjoWrmx/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261106/oKjoWrmx/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261106/CJprlXeo/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261106/CJprlXeo/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "huong-tinh-mien-que",
-      "episodeCount": 5,
+      "episodeCount": 9,
       "priority": 1
     }
   ],

@@ -1,0 +1,55 @@
+{
+  "id": "firefighters-the-siren-2024-30812a3e",
+  "source": "phimapi",
+  "slug": "hoa-than",
+  "name": "Hỏa Thần",
+  "originName": "Firefighters / The Siren",
+  "posterUrl": "https://phimimg.com/upload/vod/20250416-1/96f9411e83de73829a71574cedb14ed5.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20250416-1/c0c07f999a762a47561292515bb7b05a.jpg",
+  "year": 2024,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "<p>Đội cứu hoả khu Tây Seoul luôn phải làm việc trong điều kiện thiếu thốn và khắc nghiệt. Ngày nào họ cũng phải lặp lại câu hỏi: đây có phải là lần làm nhiệm vụ cuối cùng? Phải tập trung cứu người hay bảo vệ mạng sống của chính mình? Một ngày, đường dây khẩn báo động về một đám cháy tại Hongje-dong. Ngay lập tức, cả đội cảm nhận được sự nghiêm trọng của tình hình…</p>",
+  "quality": "FHD",
+  "lang": "Vietsub + Thuyết Minh",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261106/ORQ0h1Zm/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261106/ORQ0h1Zm/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260109/bxsVZnOh/index.m3u8",
+      "m3u8Url": "https://s6.kkphimplayer6.com/20260109/bxsVZnOh/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "hoa-than",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

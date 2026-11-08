@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 3",
+  "episodeCurrent": "Tập 4",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -65,13 +65,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261030/GlGDwO3w/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261030/GlGDwO3w/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261107/VEaUCRN7/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261107/VEaUCRN7/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "dragon-ball-super-beerus",
-      "episodeCount": 3,
+      "episodeCount": 4,
       "priority": 1
     }
   ],

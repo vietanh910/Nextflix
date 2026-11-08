@@ -1,0 +1,55 @@
+{
+  "id": "governance-2021-191f5459",
+  "source": "phimapi",
+  "slug": "quan-tri",
+  "name": "Quản Trị",
+  "originName": "Governance",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261107/quan-tri-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261107/quan-tri-thumb.webp",
+  "year": 2021,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Pháp",
+      "slug": "phap"
+    },
+    {
+      "name": "Ý",
+      "slug": "y"
+    }
+  ],
+  "description": "<p>Renzo, một quản trị viên tài năng, bất ngờ mất việc sau khi bị cuốn vào cuộc điều tra tham nhũng. Tin rằng chính người đồng nghiệp trẻ đã phản bội mình, anh dần bị lòng thù hận chi phối và quyết tâm đòi lại những gì đã mất. Tuy nhiên, kế hoạch trả thù nhanh chóng vượt khỏi tầm kiểm soát, đẩy Renzo vào những tình huống ngày càng nguy hiểm. Khi ranh giới giữa công lý và sự trả đũa trở nên mong manh, anh phải đối mặt với những hậu quả khó lường từ chính lựa chọn của mình.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261107/EvNRiq6h/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261107/EvNRiq6h/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "quan-tri",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

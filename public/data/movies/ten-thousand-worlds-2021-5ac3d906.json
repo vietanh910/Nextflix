@@ -9,7 +9,7 @@
   "year": 2021,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 495",
+  "episodeCurrent": "Tập 498",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -3977,13 +3977,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261029/XtSt28XB/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261029/XtSt28XB/index.m3u8"
+    },
+    {
+      "name": "Tập 496",
+      "slug": "tap-496",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261102/i0vMEXIL/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261102/i0vMEXIL/index.m3u8"
+    },
+    {
+      "name": "Tập 497",
+      "slug": "tap-497",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261107/4qcXin57/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261107/4qcXin57/index.m3u8"
+    },
+    {
+      "name": "Tập 498",
+      "slug": "tap-498",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261107/zDQGaIgB/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261107/zDQGaIgB/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "van-gioi-doc-ton",
-      "episodeCount": 492,
+      "episodeCount": 495,
       "priority": 1
     }
   ],

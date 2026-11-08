@@ -1,94 +1,94 @@
 {
-  "updatedAt": "2026-11-01T09:57:38.163Z",
+  "updatedAt": "2026-11-08T09:46:33.636Z",
   "totalMovies": 480,
   "bySource": {
     "phimapi": 480
   },
   "byType": {
-    "series": 222,
-    "anime": 155,
-    "single": 99,
+    "series": 229,
+    "anime": 131,
+    "single": 116,
     "tvshow": 4
   },
   "byStatus": {
-    "completed": 300,
-    "ongoing": 180
+    "ongoing": 175,
+    "completed": 305
   },
   "byCategory": [
     {
       "slug": "tam-ly",
       "name": "Tâm Lý",
-      "count": 352
+      "count": 357
     },
     {
       "slug": "chinh-kich",
       "name": "Chính Kịch",
-      "count": 313
+      "count": 319
     },
     {
       "slug": "vien-tuong",
       "name": "Viễn Tưởng",
-      "count": 150
-    },
-    {
-      "slug": "hanh-dong",
-      "name": "Hành Động",
-      "count": 124
+      "count": 143
     },
     {
       "slug": "hai-huoc",
       "name": "Hài Hước",
-      "count": 123
+      "count": 125
     },
     {
-      "slug": "phieu-luu",
-      "name": "Phiêu Lưu",
-      "count": 120
+      "slug": "hanh-dong",
+      "name": "Hành Động",
+      "count": 116
     },
     {
       "slug": "khoa-hoc",
       "name": "Khoa Học",
-      "count": 120
+      "count": 112
+    },
+    {
+      "slug": "phieu-luu",
+      "name": "Phiêu Lưu",
+      "count": 107
     },
     {
       "slug": "hoat-hinh",
       "name": "Hoạt Hình",
-      "count": 110
-    },
-    {
-      "slug": "bi-an",
-      "name": "Bí Ẩn",
-      "count": 65
+      "count": 93
     },
     {
       "slug": "tinh-cam",
       "name": "Tình Cảm",
-      "count": 58
+      "count": 64
+    },
+    {
+      "slug": "bi-an",
+      "name": "Bí Ẩn",
+      "count": 62
     },
     {
       "slug": "hinh-su",
       "name": "Hình Sự",
-      "count": 50
+      "count": 53
     },
     {
       "slug": "kinh-di",
       "name": "Kinh Dị",
-      "count": 26
+      "count": 29
     },
     {
       "slug": "co-trang",
       "name": "Cổ Trang",
-      "count": 16
+      "count": 15
     },
     {
       "slug": "gia-dinh",
       "name": "Gia Đình",
-      "count": 15
+      "count": 13
     },
     {
       "slug": "tai-lieu",
       "name": "Tài Liệu",
-      "count": 8
+      "count": 11
     },
     {
       "slug": "lich-su",
@@ -103,7 +103,12 @@
     {
       "slug": "tre-em",
       "name": "Trẻ Em",
-      "count": 6
+      "count": 5
+    },
+    {
+      "slug": "am-nhac",
+      "name": "Âm Nhạc",
+      "count": 4
     },
     {
       "slug": "than-thoai",
@@ -121,24 +126,14 @@
       "count": 3
     },
     {
-      "slug": "am-nhac",
-      "name": "Âm Nhạc",
-      "count": 3
+      "slug": "tv-shows",
+      "name": "TV Shows",
+      "count": 2
     },
     {
       "slug": "chien-tranh",
       "name": "Chiến Tranh",
       "count": 2
-    },
-    {
-      "slug": "phim-ngan",
-      "name": "Phim Ngắn",
-      "count": 1
-    },
-    {
-      "slug": "tv-shows",
-      "name": "TV Shows",
-      "count": 1
     }
   ]
 }

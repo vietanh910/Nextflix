@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20261022/du-thuong-long-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 19",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (24/24)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -185,13 +185,53 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261101/FMWHR3TV/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261101/FMWHR3TV/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261102/GrN1lQDl/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261102/GrN1lQDl/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261103/80KLSt4o/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261103/80KLSt4o/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261104/vnjUiXjV/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261104/vnjUiXjV/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261105/is2OI1vs/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261105/is2OI1vs/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261106/HtPSfaSd/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261106/HtPSfaSd/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "du-thuong-long",
-      "episodeCount": 19,
+      "episodeCount": 24,
       "priority": 1
     }
   ],

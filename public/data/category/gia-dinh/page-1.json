@@ -5,43 +5,6 @@
   "totalPages": 1,
   "items": [
     {
-      "id": "coyote-vs-acme-2026-ffc6df75",
-      "source": "phimapi",
-      "slug": "coyote-dau-voi-acme",
-      "name": "Coyote Đấu Với Acme",
-      "originName": "Coyote vs. Acme",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261002/coyote-dau-voi-acme-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261002/coyote-dau-voi-acme-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "doraemon-the-movie-new-n-2026-cd3a77a5",
       "source": "phimapi",
       "slug": "doraemon-nobita-va-lau-dai-duoi-day-bien-phien-ban-moi",
@@ -75,43 +38,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "chumbak-2026-a2685097",
-      "source": "phimapi",
-      "slug": "gan-ket",
-      "name": "Gắn Kết",
-      "originName": "Chumbak",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260910/gan-ket-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260910/gan-ket-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (16/16)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Ấn Độ",
-          "slug": "an-do"
         }
       ]
     },
@@ -281,8 +207,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20261013/thanh-pho-ruc-ro-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 15",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (20/20)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -315,7 +241,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 12",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -332,35 +258,6 @@
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Việt Nam",
-          "slug": "viet-nam"
-        }
-      ]
-    },
-    {
-      "id": "spoiled-mom-s-birthday-p-2025-1825a629",
-      "source": "phimapi",
-      "slug": "pha-dam-sinh-nhat-me",
-      "name": "Phá Đám: Sinh Nhật Mẹ",
-      "originName": "Spoiled: Mom's Birthday Party",
-      "posterUrl": "https://phimimg.com/upload/vod/20260517-1/cf6c033ac490be0f8414ce3abadf4246.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260517-1/ad67ffa5d2d07e1566bb07f27bdeb123.jpg",
-      "year": 2025,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
         }
       ],
       "countries": [
@@ -404,25 +301,37 @@
       ]
     },
     {
-      "id": "where-does-the-sea-begin-2024-6598fdcd",
+      "id": "sonic-the-hedgehog-3-2024-2a9b9a5c",
       "source": "phimapi",
-      "slug": "khoi-dau-cua-bien-ca-noi-bien-bat-dau",
-      "name": "Khởi Đầu Của Biển Cả (Nơi Biển Bắt Đầu)",
-      "originName": "Where Does The Sea Begin",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260811/khoi-dau-cua-bien-ca-noi-bien-bat-dau-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260811/khoi-dau-cua-bien-ca-noi-bien-bat-dau-thumb.webp",
+      "slug": "nhim-sonic-3",
+      "name": "Nhím Sonic 3",
+      "originName": "Sonic The Hedgehog 3",
+      "posterUrl": "https://phimimg.com/upload/vod/20250124-1/3f63def7ce3bc30c56063ca2c05a0cca.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250124-1/535166781a53d302e14c9341f0d161a2.jpg",
       "year": 2024,
-      "type": "series",
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
+      "episodeCurrent": "Full",
       "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
         {
           "name": "Gia Đình",
           "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
         },
         {
           "name": "Tâm Lý",
@@ -433,6 +342,10 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -523,6 +436,43 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "kein-herz-fur-inder-keep-2017-66dee997",
+      "source": "phimapi",
+      "slug": "hay-binh-tinh-va-nau-ca-ri",
+      "name": "Hãy Bình Tĩnh Và Nấu Cà Ri",
+      "originName": "Kein Herz für Inder / Keep Calm And Curry On",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261106/hay-binh-tinh-va-nau-ca-ri-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261106/hay-binh-tinh-va-nau-ca-ri-thumb.webp",
+      "year": 2017,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "TV Shows",
+          "slug": "tv-shows"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Đức",
+          "slug": "duc"
         }
       ]
     },

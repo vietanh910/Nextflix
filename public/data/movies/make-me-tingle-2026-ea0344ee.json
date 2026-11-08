@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20261016/chuyen-tinh-rung-cam-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (10/10)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -97,13 +97,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261030/EGE52m6n/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261030/EGE52m6n/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261105/AwmvrcGn/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261105/AwmvrcGn/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261105/kKw8F9JP/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261105/kKw8F9JP/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "chuyen-tinh-rung-cam",
-      "episodeCount": 8,
+      "episodeCount": 10,
       "priority": 1
     }
   ],

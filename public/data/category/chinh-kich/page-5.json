@@ -5,17 +5,54 @@
   "totalPages": 14,
   "items": [
     {
-      "id": "the-tender-showdown-2026-5f84aaab",
+      "id": "boulder-project-nantianm-2026-287c1d85",
       "source": "phimapi",
-      "slug": "khai-tieu-chi-chien",
-      "name": "Khai Tiêu Chi Chiến",
-      "originName": "The Tender Showdown",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261006/khai-tieu-chi-chien-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261006/khai-tieu-chi-chien-thumb.webp",
+      "slug": "ke-hoach-ban-thach-nam-thien-mon",
+      "name": "Kế Hoạch Bàn Thạch: Nam Thiên Môn",
+      "originName": "Boulder Project: Nantianmen",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261108/ke-hoach-ban-thach-nam-thien-mon-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261108/ke-hoach-ban-thach-nam-thien-mon-thumb.webp",
       "year": 2026,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "possible-love-2026-ebcf96d3",
+      "source": "phimapi",
+      "slug": "kha-the-cua-tinh-yeu",
+      "name": "Khả Thể Của Tình Yêu",
+      "originName": "Possible Love",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261107/kha-the-cua-tinh-yeu-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261107/kha-the-cua-tinh-yeu-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -28,8 +65,135 @@
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "hotel-inhumans-season-2-2026-73303f98",
+      "source": "phimapi",
+      "slug": "khach-san-sat-thu-phan-2",
+      "name": "Khách Sạn Sát Thủ (Phần 2)",
+      "originName": "Hotel Inhumans (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261006/khach-san-sat-thu-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261006/khach-san-sat-thu-phan-2-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 5",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "khadam-2026-841b2942",
+      "source": "phimapi",
+      "slug": "khadam",
+      "name": "Khadam",
+      "originName": "Khadam",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261022/khadam-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261022/khadam-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Malaysia",
+          "slug": "malaysia"
+        },
+        {
+          "name": "Indonesia",
+          "slug": "indonesia"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        },
+        {
+          "name": "Ấn Độ",
+          "slug": "an-do"
+        }
+      ]
+    },
+    {
+      "id": "apocalypse-z-new-world-2026-7fa1aec9",
+      "source": "phimapi",
+      "slug": "khai-huyen-z-the-gioi-moi",
+      "name": "Khải Huyền Z: Thế Giới Mới",
+      "originName": "Apocalypse Z: New World",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261103/khai-huyen-z-the-gioi-moi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261103/khai-huyen-z-the-gioi-moi-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Tây Ban Nha",
+          "slug": "tay-ban-nha"
         }
       ]
     },
@@ -183,7 +347,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hài Hước",
@@ -239,6 +403,34 @@
       ]
     },
     {
+      "id": "blood-line-2026-10959202",
+      "source": "phimapi",
+      "slug": "lan-ranh-mau",
+      "name": "Lằn Ranh Máu",
+      "originName": "Blood Line",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261106/lan-ranh-mau-poster.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 4",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Mỹ",
+          "slug": "my"
+        }
+      ]
+    },
+    {
       "id": "onslaught-2026-944f9b0a",
       "source": "phimapi",
       "slug": "lan-ranh-tu-chien",
@@ -286,7 +478,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -352,7 +544,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hình Sự",
@@ -371,6 +563,39 @@
         {
           "name": "Anh",
           "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "let-s-go-2026-e2ce939d",
+      "source": "phimapi",
+      "slug": "len-duong-nham-chuc",
+      "name": "Lên Đường Nhậm Chức",
+      "originName": "Let's Go",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261104/len-duong-nham-chuc-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261104/len-duong-nham-chuc-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 14",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -441,6 +666,47 @@
       ]
     },
     {
+      "id": "the-perfect-lie-2026-6f956b76",
+      "source": "phimapi",
+      "slug": "loi-noi-doi-hoan-hao-2026-kr",
+      "name": "Lời Nói Dối Hoàn Hảo",
+      "originName": "The Perfect Lie",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261103/loi-noi-doi-hoan-hao-2026-kr-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261103/loi-noi-doi-hoan-hao-2026-kr-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 4",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
       "id": "third-person-season-1-2026-3277fd63",
       "source": "phimapi",
       "slug": "loi-tinh-doi-lua-phan-1",
@@ -451,7 +717,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -480,7 +746,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Bí Ẩn",
@@ -513,7 +779,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -532,43 +798,6 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "lanterns-season-1-2026-d7292022",
-      "source": "phimapi",
-      "slug": "luc-luong-lanterns-phan-1",
-      "name": "Lực lượng Lanterns (Phần 1)",
-      "originName": "Lanterns (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260817/luc-luong-lanterns-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260817/luc-luong-lanterns-phan-1-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     },
@@ -602,224 +831,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "a-returner-s-magic-shoul-2026-6a3ced48",
-      "source": "phimapi",
-      "slug": "ma-thuat-dac-biet-cua-phu-thuy-quay-nguoc-thoi-gian-phan-2",
-      "name": "Ma Thuật Đặc Biệt Của Phù Thủy Quay Ngược Thời Gian (Phần 2)",
-      "originName": "A Returner's Magic Should Be Special (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261009/ma-thuat-dac-biet-cua-phu-thuy-quay-nguoc-thoi-gian-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261009/ma-thuat-dac-biet-cua-phu-thuy-quay-nguoc-thoi-gian-phan-2-thumb.webp",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 4",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        },
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "hell-home-2026-41a6a5ff",
-      "source": "phimapi",
-      "slug": "mai-am-dia-nguc",
-      "name": "Mái Ấm Địa Ngục",
-      "originName": "Hell Home",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261015/mai-am-dia-nguc-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261015/mai-am-dia-nguc-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 6",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "mr-kill-2026-0a8b09c4",
-      "source": "phimapi",
-      "slug": "manga-sat-lenh",
-      "name": "Manga Sát Lệnh",
-      "originName": "Mr.Kill",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260709/manga-sat-lenh-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260709/manga-sat-lenh-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "last-seen-season-1-2026-6ed0da05",
-      "source": "phimapi",
-      "slug": "manh-moi-cuoi-cung-phan-1",
-      "name": "Manh Mối Cuối Cùng (Phần 1)",
-      "originName": "Last Seen (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260909/manh-moi-cuoi-cung-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260909/manh-moi-cuoi-cung-phan-1-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (6/6)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Úc",
-          "slug": "uc"
-        },
-        {
-          "name": "Anh",
-          "slug": "anh"
-        }
-      ]
-    },
-    {
-      "id": "matlock-season-2-2026-a4559fcd",
-      "source": "phimapi",
-      "slug": "matlock-phan-2",
-      "name": "Matlock (Phần 2)",
-      "originName": "Matlock (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261012/matlock-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261012/matlock-phan-2-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (16/16)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "shadow-punisher-season-1-2026-8b692ee2",
-      "source": "phimapi",
-      "slug": "mi-anh-than-bo-phan-1",
-      "name": "Mị Ảnh Thần Bộ (Phần 1)",
-      "originName": "Shadow Punisher (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (30/30)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
         }
       ]
     }

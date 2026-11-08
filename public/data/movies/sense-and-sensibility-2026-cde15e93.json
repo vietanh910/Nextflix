@@ -1,0 +1,59 @@
+{
+  "id": "sense-and-sensibility-2026-cde15e93",
+  "source": "phimapi",
+  "slug": "ly-tri-va-tinh-cam-2026",
+  "name": "Lý Trí Và Tình Cảm",
+  "originName": "Sense And Sensibility",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261103/ly-tri-va-tinh-cam-2026-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261103/ly-tri-va-tinh-cam-2026-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Lịch Sử",
+      "slug": "lich-su"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Anh",
+      "slug": "anh"
+    },
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Một câu chuyện duyên dáng, hóm hỉnh và đầy đồng cảm về tình yêu cùng tình chị em sâu sắc.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261102/QABowiv3/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261102/QABowiv3/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "ly-tri-va-tinh-cam-2026",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

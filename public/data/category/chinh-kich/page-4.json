@@ -43,8 +43,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20261016/ga-kim-thoa-ga-tram-vang-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 25",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (30/30)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -57,6 +57,10 @@
         {
           "name": "Tình Cảm",
           "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
@@ -100,39 +104,31 @@
       ]
     },
     {
-      "id": "chumbak-2026-a2685097",
+      "id": "when-i-meet-the-moon-2026-b62d5968",
       "source": "phimapi",
-      "slug": "gan-ket",
-      "name": "Gắn Kết",
-      "originName": "Chumbak",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260910/gan-ket-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260910/gan-ket-thumb.webp",
+      "slug": "gap-anh-trang",
+      "name": "Gấp Ánh Trăng",
+      "originName": "When I Meet The Moon",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (16/16)",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 8",
       "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
         }
       ],
       "countries": [
         {
-          "name": "Ấn Độ",
-          "slug": "an-do"
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -203,6 +199,39 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "a-dog-s-perfect-christma-2026-584b8a5f",
+      "source": "phimapi",
+      "slug": "giang-sinh-hoan-hao-cua-mot-chu-cho",
+      "name": "Giáng Sinh Hoàn Hảo Của Một Chú Chó",
+      "originName": "A Dog's Perfect Christmas",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261105/giang-sinh-hoan-hao-cua-mot-chu-cho-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261105/giang-sinh-hoan-hao-cua-mot-chu-cho-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -291,7 +320,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "episodeCurrent": "Tập 12",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -314,58 +343,25 @@
       ]
     },
     {
-      "id": "crazy-rich-incredibly-br-2026-07ab3194",
+      "id": "a-couple-of-lies-2026-4c0619f8",
       "source": "phimapi",
-      "slug": "giau-nut-vach-ngheo-mat-rep",
-      "name": "Giàu Nứt Vách, Nghèo Mạt Rệp",
-      "originName": "Crazy Rich, Incredibly Broke",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261002/giau-nut-vach-ngheo-mat-rep-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261002/giau-nut-vach-ngheo-mat-rep-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Ả Rập Xê Út",
-          "slug": "a-rap-xe-ut"
-        }
-      ]
-    },
-    {
-      "id": "brothers-2026-f2df4b9d",
-      "source": "phimapi",
-      "slug": "hai-trai-tim",
-      "name": "Hai Trái Tim",
-      "originName": "Brothers",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260812/hai-trai-tim-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260812/hai-trai-tim-thumb.webp",
+      "slug": "hai-cap-doi-va-loi-noi-doi",
+      "name": "Hai Cặp Đôi Và Lời Nói Dối",
+      "originName": "A Couple Of Lies",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261103/hai-cap-doi-va-loi-noi-doi-poster-2.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261103/hai-cap-doi-va-loi-noi-doi-thumb.webp",
       "year": 2026,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (16/16)",
+      "episodeCurrent": "Hoàn Tất (4/4)",
       "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
         },
         {
           "name": "Tâm Lý",
@@ -374,8 +370,8 @@
       ],
       "countries": [
         {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
+          "name": "SE",
+          "slug": "se"
         }
       ]
     },
@@ -390,7 +386,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -514,7 +510,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 12",
+      "episodeCurrent": "Tập 22",
       "categories": [
         {
           "name": "Bí Ẩn",
@@ -537,6 +533,47 @@
       ]
     },
     {
+      "id": "the-remarried-empress-2026-b9bf1d8f",
+      "source": "phimapi",
+      "slug": "hoang-hau-tai-hon",
+      "name": "Hoàng Hậu Tái Hôn",
+      "originName": "The Remarried Empress",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261105/hoang-hau-tai-hon-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261105/hoang-hau-tai-hon-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 4",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
       "id": "the-crow-club-2026-83fab77e",
       "source": "phimapi",
       "slug": "hoi-qua-den",
@@ -547,7 +584,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -570,6 +607,39 @@
         {
           "name": "Thái Lan",
           "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "sunshine-through-the-rai-2026-532f3661",
+      "source": "phimapi",
+      "slug": "hom-nay-troi-do-mua-bong-may",
+      "name": "Hôm Nay Trời Đổ Mưa Bóng Mây",
+      "originName": "Sunshine Through The Rain",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261106/hom-nay-troi-do-mua-bong-may-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261106/hom-nay-troi-do-mua-bong-may-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 6",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -613,10 +683,11 @@
       "name": "Hương Tình Miền Quê",
       "originName": "The Cupid Buffalo",
       "posterUrl": "https://phimimg.com/uploads/movies/20261023/huong-tinh-mien-que-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261106/huong-tinh-mien-que-thumb.webp",
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -738,92 +809,6 @@
         {
           "name": "Philippines",
           "slug": "philippines"
-        }
-      ]
-    },
-    {
-      "id": "hotel-inhumans-season-2-2026-73303f98",
-      "source": "phimapi",
-      "slug": "khach-san-sat-thu-phan-2",
-      "name": "Khách Sạn Sát Thủ (Phần 2)",
-      "originName": "Hotel Inhumans (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261006/khach-san-sat-thu-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261006/khach-san-sat-thu-phan-2-thumb.webp",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 4",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "khadam-2026-841b2942",
-      "source": "phimapi",
-      "slug": "khadam",
-      "name": "Khadam",
-      "originName": "Khadam",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261022/khadam-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261022/khadam-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Malaysia",
-          "slug": "malaysia"
-        },
-        {
-          "name": "Indonesia",
-          "slug": "indonesia"
-        },
-        {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
-        },
-        {
-          "name": "Ấn Độ",
-          "slug": "an-do"
         }
       ]
     }

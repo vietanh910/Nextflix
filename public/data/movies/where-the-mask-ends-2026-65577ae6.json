@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20261016/ga-kim-thoa-ga-tram-vang-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 25",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (30/30)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -22,6 +22,10 @@
     {
       "name": "Tình Cảm",
       "slug": "tinh-cam"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
     }
   ],
   "countries": [
@@ -215,24 +219,64 @@
       "slug": "tap-23",
       "serverName": "Vietsub",
       "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261101/TYDEagkj/index.m3u8",
-      "m3u8Url": "https://a.kvp726.com/20261101/TYDEagkj/index.m3u8"
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261031/WNukYL6C/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261031/WNukYL6C/index.m3u8"
     },
     {
       "name": "Tập 24",
       "slug": "tap-24",
       "serverName": "Vietsub",
       "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261101/wzL47poI/index.m3u8",
-      "m3u8Url": "https://a.kvp726.com/20261101/wzL47poI/index.m3u8"
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261101/ASJxjGoR/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261101/ASJxjGoR/index.m3u8"
     },
     {
       "name": "Tập 25",
       "slug": "tap-25",
       "serverName": "Vietsub",
       "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261101/J9Tlsigi/index.m3u8",
-      "m3u8Url": "https://a.kvp726.com/20261101/J9Tlsigi/index.m3u8"
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261102/WHy6N2oZ/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261102/WHy6N2oZ/index.m3u8"
+    },
+    {
+      "name": "Tập 26",
+      "slug": "tap-26",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261103/B78j7J8v/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261103/B78j7J8v/index.m3u8"
+    },
+    {
+      "name": "Tập 27",
+      "slug": "tap-27",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261103/9qbs56fp/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261103/9qbs56fp/index.m3u8"
+    },
+    {
+      "name": "Tập 28",
+      "slug": "tap-28",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261105/YAKLadT6/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261105/YAKLadT6/index.m3u8"
+    },
+    {
+      "name": "Tập 29",
+      "slug": "tap-29",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261106/wMvj5Cnv/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261106/wMvj5Cnv/index.m3u8"
+    },
+    {
+      "name": "Tập 30",
+      "slug": "tap-30",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261107/k64ZL6Aq/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261107/k64ZL6Aq/index.m3u8"
     },
     {
       "name": "Tập 01",
@@ -425,13 +469,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261101/wzL47poI/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261101/wzL47poI/index.m3u8"
+    },
+    {
+      "name": "Tập 25",
+      "slug": "tap-25",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261102/mxF0M5MH/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261102/mxF0M5MH/index.m3u8"
+    },
+    {
+      "name": "Tập 26",
+      "slug": "tap-26",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261103/Fp68Quer/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261103/Fp68Quer/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "ga-kim-thoa-ga-tram-vang",
-      "episodeCount": 49,
+      "episodeCount": 56,
       "priority": 1
     }
   ],

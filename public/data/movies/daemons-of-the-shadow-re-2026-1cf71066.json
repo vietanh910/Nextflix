@@ -409,13 +409,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261101/TZ8tKHeR/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261101/TZ8tKHeR/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261108/RXyYBalW/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261108/RXyYBalW/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "song-menh-coi-hoang-tuyen",
-      "episodeCount": 46,
+      "episodeCount": 47,
       "priority": 1
     }
   ],

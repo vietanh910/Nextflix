@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -73,13 +73,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261028/1zMjQJn5/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261028/1zMjQJn5/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261105/vZ1S8VZD/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261105/vZ1S8VZD/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "sasaki-va-p-chan-phan-2",
-      "episodeCount": 4,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

@@ -2,8 +2,49 @@
   "slug": "hanh-dong",
   "name": "Hành Động",
   "page": 3,
-  "totalPages": 6,
+  "totalPages": 5,
   "items": [
+    {
+      "id": "romelia-war-chronicle-2026-a80d5ad9",
+      "source": "phimapi",
+      "slug": "romelia-chien-ky",
+      "name": "Romelia Chiến Ký",
+      "originName": "Romelia War Chronicle",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261007/romelia-chien-ky-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261007/romelia-chien-ky-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 6",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
     {
       "id": "sakamoto-days-2026-c4379208",
       "source": "phimapi",
@@ -93,7 +134,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -138,7 +179,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -165,79 +206,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "ash-2026-06610dae",
-      "source": "phimapi",
-      "slug": "tan-thuoc",
-      "name": "Tàn Thuốc",
-      "originName": "Ash",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (9/9)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
-        }
-      ]
-    },
-    {
-      "id": "the-furious-pertaruhan-m-2026-7d453cc9",
-      "source": "phimapi",
-      "slug": "tay-dam-cuong-no-danh-cuoc-danh-du",
-      "name": "Tay Đấm Cuồng Nộ Đánh Cược Danh Dự",
-      "originName": "The Furious: Pertaruhan Maruah",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261002/tay-dam-cuong-no-danh-cuoc-danh-du-poster.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Malaysia",
-          "slug": "malaysia"
         }
       ]
     },
@@ -293,7 +261,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -314,43 +282,6 @@
         {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "the-elusive-samurai-seas-2026-7ee5fccc",
-      "source": "phimapi",
-      "slug": "thieu-chu-gioi-chay-tron-phan-2",
-      "name": "Thiếu Chủ Giỏi Chạy Trốn (Phần 2)",
-      "originName": "The Elusive Samurai (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260719/thieu-chu-gioi-chay-tron-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260719/thieu-chu-gioi-chay-tron-phan-2-thumb.webp",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
         },
         {
           "name": "Tâm Lý",
@@ -412,7 +343,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -461,7 +392,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -502,7 +433,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -578,47 +509,6 @@
       ]
     },
     {
-      "id": "renegade-immortal-battle-2026-b756dafc",
-      "source": "phimapi",
-      "slug": "tien-nghich-movie-thi-tien-chi-chien",
-      "name": "Tiên Nghịch Movie: Thí Tiên Chi Chiến",
-      "originName": "Renegade Immortal: Battle of the Immortal Slayer",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261002/tien-nghich-movie-thi-tien-chi-chien-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261002/tien-nghich-movie-thi-tien-chi-chien-thumb.webp",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
       "id": "love-in-disguise-2026-7831d768",
       "source": "phimapi",
       "slug": "tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang",
@@ -629,7 +519,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Hài Hước",
@@ -670,7 +560,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -707,7 +597,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -752,7 +642,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Hình Sự",
@@ -797,7 +687,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 18",
+      "episodeCurrent": "Tập 19",
       "categories": [
         {
           "name": "Hành Động",
@@ -838,7 +728,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -873,43 +763,84 @@
       ]
     },
     {
-      "id": "clevatess-season-2-2026-cc88d0be",
+      "id": "upin-ipin-season-19-2026-f403678e",
       "source": "phimapi",
-      "slug": "vua-ma-thu-dua-tre-dinh-menh-va-anh-hung-bat-tu-phan-2",
-      "name": "Vua Ma Thú, Đứa Trẻ Định Mệnh Và Anh Hùng Bất Tử (Phần 2)",
-      "originName": "Clevatess (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260709/vua-ma-thu-dua-tre-dinh-menh-va-anh-hung-bat-tu-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260709/vua-ma-thu-dua-tre-dinh-menh-va-anh-hung-bat-tu-phan-2-thumb.webp",
+      "slug": "upin-ipin-phan-19",
+      "name": "Upin & Ipin (Phần 19)",
+      "originName": "Upin & Ipin (Season 19)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261108/upin-ipin-phan-19-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261108/upin-ipin-phan-19-thumb.webp",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 13",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (14/14)",
       "categories": [
         {
           "name": "Hoạt Hình",
           "slug": "hoat-hinh"
         },
         {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
         },
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
         },
         {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
+          "name": "Malaysia",
+          "slug": "malaysia"
+        }
+      ]
+    },
+    {
+      "id": "your-mother-your-mother--2026-9b7cf93c",
+      "source": "phimapi",
+      "slug": "vong-lap-mau-tu",
+      "name": "Vòng Lặp Mẫu Tử",
+      "originName": "Your Mother Your Mother Your Mother",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261105/vong-lap-mau-tu-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261105/vong-lap-mau-tu-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
         }
       ]
     },
@@ -924,7 +855,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -996,6 +927,84 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "9-1-1-season-9-2025-45b50ee6",
+      "source": "phimapi",
+      "slug": "cuoc-goi-khan-cap-9-1-1-phan-9",
+      "name": "Cuộc Gọi Khẩn Cấp 9-1-1 (Phần 9)",
+      "originName": "9-1-1 (Season 9)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260815/cuoc-goi-khan-cap-9-1-1-phan-9-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260815/cuoc-goi-khan-cap-9-1-1-phan-9-thumb.webp",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (18/18)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "tulsa-king-season-3-2025-5d4872a0",
+      "source": "phimapi",
+      "slug": "ong-trum-giang-ho-phan-3",
+      "name": "Ông Trùm Giang Hồ (Phần 3)",
+      "originName": "Tulsa King (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261103/ong-trum-giang-ho-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250923-1/7e29ec545c8e4f582bbc33913a312b0b.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     }
