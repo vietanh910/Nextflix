@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 6",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -89,13 +89,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261105/vAKM4FQK/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261105/vAKM4FQK/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261111/ZC1ro5zb/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261111/ZC1ro5zb/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "phap-su-gian-lan-bi-sa-thai-tan-huong-cuoc-song-thu-hai",
-      "episodeCount": 5,
+      "episodeCount": 6,
       "priority": 1
     }
   ],

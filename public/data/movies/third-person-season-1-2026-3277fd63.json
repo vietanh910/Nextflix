@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -93,13 +93,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261102/SZZNb0up/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261102/SZZNb0up/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261109/wt6dGB2b/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261109/wt6dGB2b/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "loi-tinh-doi-lua-phan-1",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 1
     }
   ],

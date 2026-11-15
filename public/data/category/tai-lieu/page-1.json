@@ -5,6 +5,39 @@
   "totalPages": 1,
   "items": [
     {
+      "id": "avedon-2026-38c90d81",
+      "source": "phimapi",
+      "slug": "avedon",
+      "name": "Avedon",
+      "originName": "Avedon",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261112/avedon-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261112/avedon-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tài Liệu",
+          "slug": "tai-lieu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "unprotected-murder-in-ga-2026-e8cdf8aa",
       "source": "phimapi",
       "slug": "bat-an-an-mang-o-galicia",
@@ -125,31 +158,6 @@
       ]
     },
     {
-      "id": "instadocs-ai-gone-wild-2026-ae70fd0a",
-      "source": "phimapi",
-      "slug": "instadocs-ai-mat-kiem-soat",
-      "name": "Instadocs: AI mất kiểm soát",
-      "originName": "Instadocs: AI Gone Wild",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261016/instadocs-ai-mat-kiem-soat-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261016/instadocs-ai-mat-kiem-soat-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Tài Liệu",
-          "slug": "tai-lieu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "instadocs-jane-doe-v-cor-2026-68a234b3",
       "source": "phimapi",
       "slug": "instadocs-jane-doe-doi-dau-dai-hoc-cornell",
@@ -262,6 +270,35 @@
       ]
     },
     {
+      "id": "russell-brand-open-secre-2026-3008b3ae",
+      "source": "phimapi",
+      "slug": "russell-brand-bi-mat-cong-khai",
+      "name": "Russell Brand: Bí Mật Công Khai",
+      "originName": "Russell Brand: Open Secret",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261115/russell-brand-bi-mat-cong-khai-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261115/russell-brand-bi-mat-cong-khai-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tài Liệu",
+          "slug": "tai-lieu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
       "id": "sctv-the-greatest-show-y-2026-6880d847",
       "source": "phimapi",
       "slug": "sctv-chuong-trinh-tuyet-voi-nhat-ma-ban-chua-tung-nghe-den",
@@ -287,18 +324,22 @@
       ]
     },
     {
-      "id": "tyson-2026-8b1bbcba",
+      "id": "the-unthinkable-daughter-2026-5bc87bf7",
       "source": "phimapi",
-      "slug": "tyson",
-      "name": "TYSON",
-      "originName": "TYSON",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261014/tyson-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261014/tyson-thumb.webp",
+      "slug": "suzane-von-richthofen-toi-ac-cua-co-con-gai",
+      "name": "Suzane Von Richthofen: Tội Ác Của Cô Con Gái",
+      "originName": "The Unthinkable Daughter",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261112/suzane-von-richthofen-toi-ac-cua-co-con-gai-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261112/suzane-von-richthofen-toi-ac-cua-co-con-gai-thumb.webp",
       "year": 2026,
-      "type": "series",
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (4/4)",
+      "episodeCurrent": "Full",
       "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
         {
           "name": "Tài Liệu",
           "slug": "tai-lieu"
@@ -314,8 +355,8 @@
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Brazil",
+          "slug": "brazil"
         }
       ]
     }

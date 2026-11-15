@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 33",
+  "episodeCurrent": "Tập 34",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -297,13 +297,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261102/rVGPNOjG/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261102/rVGPNOjG/index.m3u8"
+    },
+    {
+      "name": "Tập 34",
+      "slug": "tap-34",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261109/VYSDcEeD/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261109/VYSDcEeD/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "van-co-chi-ton-ly-van-tieu-truyen",
-      "episodeCount": 33,
+      "episodeCount": 34,
       "priority": 1
     }
   ],

@@ -5,80 +5,6 @@
   "totalPages": 3,
   "items": [
     {
-      "id": "sakamoto-days-2026-c4379208",
-      "source": "phimapi",
-      "slug": "sat-thu-ve-vuon-2026",
-      "name": "Sát Thủ Về Vườn",
-      "originName": "Sakamoto Days",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261018/sat-thu-ve-vuon-2026-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261018/sat-thu-ve-vuon-2026-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "lupin-season-4-2026-9811ded2",
-      "source": "phimapi",
-      "slug": "sieu-trom-lupin-phan-4",
-      "name": "Siêu Trộm Lupin (Phần 4)",
-      "originName": "Lupin (Season 4)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261024/lupin-phan-4-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261024/lupin-phan-4-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Pháp",
-          "slug": "phap"
-        }
-      ]
-    },
-    {
       "id": "love-in-disguise-2026-7831d768",
       "source": "phimapi",
       "slug": "tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang",
@@ -89,7 +15,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hài Hước",
@@ -130,7 +56,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -165,17 +91,17 @@
       ]
     },
     {
-      "id": "kidnap-game-season-1-2026-aa76c8ad",
+      "id": "kidnap-game-2026-6773d818",
       "source": "phimapi",
-      "slug": "tro-choi-bat-coc-phan-1",
-      "name": "Trò Chơi Bắt Cóc (Phần 1)",
-      "originName": "kiDnap GAME (Season 1)",
+      "slug": "tro-choi-bat-coc",
+      "name": "Trò Chơi Bắt Cóc",
+      "originName": "kiDnap GAME",
       "posterUrl": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-poster.webp",
       "thumbUrl": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-thumb.webp",
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Hình Sự",
@@ -358,6 +284,43 @@
       ]
     },
     {
+      "id": "will-trent-season-3-2025-706090cd",
+      "source": "phimapi",
+      "slug": "dac-vu-will-trent-phan-3",
+      "name": "Đặc Vụ Will Trent (Phần 3)",
+      "originName": "Will Trent (Season 3)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260201-1/5ff574acad1d6f436e818ba2bc707f4d.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260201-1/9b9569b3f6a99b1ad5c694bb42d05bfe.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (18/18)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "tulsa-king-season-3-2025-5d4872a0",
       "source": "phimapi",
       "slug": "ong-trum-giang-ho-phan-3",
@@ -389,6 +352,72 @@
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "power-book-iii-raising-k-2025-af3e0c60",
+      "source": "phimapi",
+      "slug": "quyen-luc-quyen-iii-nuoi-day-kanan-phan-4",
+      "name": "Quyền Lực Quyển III: Nuôi Dạy Kanan (Phần 4)",
+      "originName": "Power Book III: Raising Kanan (Season 4)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261111/quyen-luc-quyen-iii-nuoi-day-kanan-phan-4-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261111/quyen-luc-quyen-iii-nuoi-day-kanan-phan-4-thumb.webp",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "power-book-iv-force-seas-2025-4b3c5cef",
+      "source": "phimapi",
+      "slug": "quyen-luc-quyen-iv-vu-luc-phan-3",
+      "name": "Quyền Lực Quyển IV: Vũ Lực (Phần 3)",
+      "originName": "Power Book IV: Force (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261111/quyen-luc-quyen-iv-vu-luc-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261111/quyen-luc-quyen-iv-vu-luc-phan-3-thumb.webp",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
@@ -477,6 +506,43 @@
       ]
     },
     {
+      "id": "will-trent-season-2-2024-4cef1bbb",
+      "source": "phimapi",
+      "slug": "dac-vu-will-trent-phan-2",
+      "name": "Đặc Vụ Will Trent (Phần 2)",
+      "originName": "Will Trent (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260201-1/3f11a1d80cbd7850f52ff022c1dbaa4a.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260201-1/b85797ea866641d9b5d1720f97df88af.jpg",
+      "year": 2024,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "breaking-point-2024-d2b3cf0b",
       "source": "phimapi",
       "slug": "diem-pha-gioi-han",
@@ -510,21 +576,21 @@
       ]
     },
     {
-      "id": "matlock-season-1-2024-fc4bb74f",
+      "id": "kokuhaku-confession-conf-2024-844e4232",
       "source": "phimapi",
-      "slug": "matlock-phan-1",
-      "name": "Matlock (Phần 1)",
-      "originName": "Matlock (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261012/matlock-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261001/matlock-phan-1-thumb.webp",
+      "slug": "loi-thu-toi-tren-nui-tuyet-loi-thu-toi-cua-ke-sat-nhan",
+      "name": "Lời Thú Tội Trên Núi Tuyết / Lời Thú Tội Của Kẻ Sát Nhân",
+      "originName": "Kokuhaku Confession / Confession",
+      "posterUrl": "https://phimimg.com/upload/vod/20260127-1/26b90c89082b6211274bab0c988d29a9.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260127-1/ce5aaea9eb0d8b22b9e92930f9823907.jpg",
       "year": 2024,
-      "type": "series",
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (19/19)",
+      "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
         },
         {
           "name": "Hình Sự",
@@ -533,12 +599,16 @@
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -609,17 +679,17 @@
       ]
     },
     {
-      "id": "lupin-season-3-2023-d974464e",
+      "id": "power-book-ii-ghost-seas-2024-3a93834b",
       "source": "phimapi",
-      "slug": "sieu-trom-lupin-phan-3",
-      "name": "Siêu Trộm Lupin (Phần 3)",
-      "originName": "Lupin (Season 3)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261024/lupin-phan-3-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261024/lupin-phan-3-thumb.webp",
-      "year": 2023,
+      "slug": "quyen-luc-quyen-ii-bong-ma-phan-4",
+      "name": "Quyền Lực Quyển II: Bóng Ma (Phần 4)",
+      "originName": "Power Book II: Ghost (Season 4)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261111/quyen-luc-quyen-ii-bong-ma-phan-4-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261111/quyen-luc-quyen-ii-bong-ma-phan-4-thumb.webp",
+      "year": 2024,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (7/7)",
+      "episodeCurrent": "Hoàn Tất (10/10)",
       "categories": [
         {
           "name": "Hình Sự",
@@ -630,8 +700,41 @@
           "slug": "chinh-kich"
         },
         {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "will-trent-season-1-2023-9d9d9c33",
+      "source": "phimapi",
+      "slug": "dac-vu-will-trent-phan-1",
+      "name": "Đặc Vụ Will Trent (Phần 1)",
+      "originName": "Will Trent (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260201-1/b5e2e5de8c1bac010815311f802a5ad5.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260201-1/22debacd8b3c54fb0dcd2d5f78035934.jpg",
+      "year": 2023,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
           "name": "Tâm Lý",
@@ -640,80 +743,60 @@
       ],
       "countries": [
         {
-          "name": "Pháp",
-          "slug": "phap"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
     {
-      "id": "cyberpunk-edgerunners-se-2022-031cef7f",
+      "id": "psycho-pass-providence-2023-07471305",
       "source": "phimapi",
-      "slug": "cyberpunk-edgerunners-phan-1",
-      "name": "Cyberpunk Edgerunners (Phần 1)",
-      "originName": "Cyberpunk Edgerunners (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261021/cyberpunk-edgerunners-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261021/cyberpunk-edgerunners-phan-1-thumb.webp",
-      "year": 2022,
+      "slug": "psycho-pass-su-menh",
+      "name": "Psycho-Pass: Sứ Mệnh",
+      "originName": "Psycho-Pass: Providence",
+      "posterUrl": "https://phimimg.com/upload/vod/20251023-1/aa8028750edee535e1d49f527bcd5f78.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251023-1/c932978f0ba6184d8b6711eef471d09b.jpg",
+      "year": 2023,
       "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
+      "episodeCurrent": "Full",
       "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
         {
           "name": "Hình Sự",
           "slug": "hinh-su"
         },
         {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
           "name": "Tâm Lý",
           "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        },
-        {
-          "name": "Ba Lan",
-          "slug": "ba-lan"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     },
     {
-      "id": "tulsa-king-season-1-2022-0e4d5a82",
+      "id": "power-book-ii-ghost-seas-2023-ce386508",
       "source": "phimapi",
-      "slug": "ong-trum-giang-ho-phan-1",
-      "name": "Ông Trùm Giang Hồ (Phần 1)",
-      "originName": "Tulsa King (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261103/ong-trum-giang-ho-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250226-1/9d88c3455ebe45fb1b496bf138b2d42d.jpg",
-      "year": 2022,
+      "slug": "quyen-luc-quyen-ii-bong-ma-phan-3",
+      "name": "Quyền Lực Quyển II: Bóng Ma (Phần 3)",
+      "originName": "Power Book II: Ghost (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261111/quyen-luc-quyen-ii-bong-ma-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261111/quyen-luc-quyen-ii-bong-ma-phan-3-thumb.webp",
+      "year": 2023,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (9/9)",
+      "episodeCurrent": "Hoàn Tất (10/10)",
       "categories": [
         {
           "name": "Hình Sự",
@@ -736,103 +819,25 @@
       ]
     },
     {
-      "id": "lupin-season-1-2021-d0c8ba52",
+      "id": "power-book-iii-raising-k-2023-10d52a53",
       "source": "phimapi",
-      "slug": "sieu-trom-lupin-phan-1",
-      "name": "Siêu Trộm Lupin (Phần 1)",
-      "originName": "Lupin (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261024/lupin-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261024/lupin-phan-1-thumb.webp",
-      "year": 2021,
+      "slug": "quyen-luc-quyen-iii-nuoi-day-kanan-phan-3",
+      "name": "Quyền Lực Quyển III: Nuôi Dạy Kanan (Phần 3)",
+      "originName": "Power Book III: Raising Kanan (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261111/quyen-luc-quyen-iii-nuoi-day-kanan-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261111/quyen-luc-quyen-iii-nuoi-day-kanan-phan-3-thumb.webp",
+      "year": 2023,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (5/5)",
+      "episodeCurrent": "Hoàn Tất (10/10)",
       "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Pháp",
-          "slug": "phap"
-        }
-      ]
-    },
-    {
-      "id": "lupin-season-2-2021-25091380",
-      "source": "phimapi",
-      "slug": "sieu-trom-lupin-phan-2",
-      "name": "Siêu Trộm Lupin (Phần 2)",
-      "originName": "Lupin (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261024/lupin-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261024/lupin-phan-2-thumb.webp",
-      "year": 2021,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (5/5)",
-      "categories": [
-        {
           "name": "Hình Sự",
           "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Pháp",
-          "slug": "phap"
-        }
-      ]
-    },
-    {
-      "id": "unforgettable-season-4-2015-20464ba6",
-      "source": "phimapi",
-      "slug": "khong-the-nao-quen-phan-4",
-      "name": "Không Thể Nào Quên (Phần 4)",
-      "originName": "Unforgettable (Season 4)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261009/khong-the-nao-quen-phan-4-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261009/khong-the-nao-quen-phan-4-thumb.webp",
-      "year": 2015,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
         },
         {
           "name": "Tâm Lý",
@@ -847,17 +852,17 @@
       ]
     },
     {
-      "id": "unforgettable-season-3-2014-d2d3f204",
+      "id": "power-book-iv-force-seas-2023-a44069b4",
       "source": "phimapi",
-      "slug": "khong-the-nao-quen-phan-3",
-      "name": "Không Thể Nào Quên (Phần 3)",
-      "originName": "Unforgettable (Season 3)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261009/khong-the-nao-quen-phan-3-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261009/khong-the-nao-quen-phan-3-thumb.webp",
-      "year": 2014,
+      "slug": "quyen-luc-quyen-iv-vu-luc-phan-2",
+      "name": "Quyền Lực Quyển IV: Vũ Lực (Phần 2)",
+      "originName": "Power Book IV: Force (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261111/quyen-luc-quyen-iv-vu-luc-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261111/quyen-luc-quyen-iv-vu-luc-phan-2-thumb.webp",
+      "year": 2023,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
+      "episodeCurrent": "Hoàn Tất (10/10)",
       "categories": [
         {
           "name": "Hình Sự",
@@ -866,47 +871,6 @@
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "unforgettable-season-2-2013-51efcf75",
-      "source": "phimapi",
-      "slug": "khong-the-nao-quen-phan-2",
-      "name": "Không Thể Nào Quên (Phần 2)",
-      "originName": "Unforgettable (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261009/khong-the-nao-quen-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261009/khong-the-nao-quen-phan-2-thumb.webp",
-      "year": 2013,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
         },
         {
           "name": "Tâm Lý",

@@ -1,0 +1,63 @@
+{
+  "id": "martyrs-lane-2022-d656d068",
+  "source": "phimapi",
+  "slug": "martyrs-lane",
+  "name": "Martyrs Lane",
+  "originName": "Martyrs Lane",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261115/martyrs-lane-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261115/martyrs-lane-thumb.webp",
+  "year": 2022,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Anh",
+      "slug": "anh"
+    }
+  ],
+  "description": "<p>Leah, 10 tuổi, sống trong một nhà khám lớn, đầy linh hồn bị mất và người nghèo. Trong ngày ngôi nhà nhộn nhịp với mọi người; Vào ban đêm trời tối, trống rỗng, một không gian cho những cơn ác mộng của Leah để leo vào. Một vị khách nhỏ, hàng đêm mang đến sự thoải mái Leah, nhưng chẳng mấy chốc, cô sẽ nhận ra rằng khách truy cập nhỏ của mình cung cấp kiến thức có thể rất, rất nguy hiểm.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub + Thuyết Minh",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261115/P51EeCRs/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261115/P51EeCRs/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261115/JVsGRb4B/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261115/JVsGRb4B/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "martyrs-lane",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

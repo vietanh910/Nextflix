@@ -2,238 +2,8 @@
   "slug": "khoa-hoc",
   "name": "Khoa Học",
   "page": 4,
-  "totalPages": 5,
+  "totalPages": 4,
   "items": [
-    {
-      "id": "hope-2026-e36ebe8b",
-      "source": "phimapi",
-      "slug": "vung-tu-dia",
-      "name": "Vùng Tử Địa",
-      "originName": "Hope",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260919/hope-vung-tu-dia-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260919/hope-vung-tu-dia-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "hello-i-am-a-witch-and-m-2026-60113c81",
-      "source": "phimapi",
-      "slug": "xin-chao-toi-la-mot-phu-thuy-va-nguoi-toi-tham-yeu-muon-toi-pha-che-mot-loai-thuoc-tinh-yeu",
-      "name": "Xin Chào, Tôi Là Một Phù Thủy, Và Người Tôi Thầm Yêu Muốn Tôi Pha Chế Một Loại Thuốc Tình Yêu!",
-      "originName": "Hello, I Am A Witch And My Crush Wants Me To Make A Love Potion!",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261006/xin-chao-toi-la-mot-phu-thuy-va-nguoi-toi-tham-yeu-muon-toi-pha-che-mot-loai-thuoc-tinh-yeu-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261006/xin-chao-toi-la-mot-phu-thuy-va-nguoi-toi-tham-yeu-muon-toi-pha-che-mot-loai-thuoc-tinh-yeu-thumb.webp",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 5",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "ghosts-season-5-2025-2b69b656",
-      "source": "phimapi",
-      "slug": "nhung-nguoi-ban-ma-phan-5",
-      "name": "Những Người Bạn Ma (Phần 5)",
-      "originName": "Ghosts (Season 5)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261017/nhung-nguoi-ban-ma-phan-5-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261017/nhung-nguoi-ban-ma-phan-5-thumb.webp",
-      "year": 2025,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (22/22)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "beyond-time-s-gaze-2025-574e7b39",
-      "source": "phimapi",
-      "slug": "quang-am-chi-ngoai",
-      "name": "Quang Âm Chi Ngoại",
-      "originName": "Beyond Time's Gaze",
-      "posterUrl": "https://phimimg.com/upload/vod/20251229-1/d7f24b91fd95fb7cf353e1369e2318b7.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251229-1/fce1ee8b2fe5ee1e48e670ddf1417ee8.jpg",
-      "year": 2025,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 47",
-      "categories": [
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "echoes-of-the-lost-city-2025-4ff219dc",
-      "source": "phimapi",
-      "slug": "vong-am-noi-co-do-da-mat-truyen-thuyet-ho-thieng",
-      "name": "Vọng Âm Nơi Cố Đô Đã Mất / Truyền Thuyết Hồ Thiêng",
-      "originName": "Echoes Of The Lost City",
-      "posterUrl": "https://phimimg.com/upload/vod/20250717-1/c808b7ce358a3ffbf7f47fe3217dad7e.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250717-1/ee986c9fac2f9a3f6e67d84af97ad194.jpg",
-      "year": 2025,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (38/38)",
-      "categories": [
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "legend-of-lingwu-contine-2024-ffb5ef13",
-      "source": "phimapi",
-      "slug": "dai-luc-linh-vo",
-      "name": "Đại Lục Linh Võ",
-      "originName": "Legend of Lingwu Continent",
-      "posterUrl": "https://phimimg.com/upload/vod/20250224-1/f10d225c86bd40ae0eaa2ef5d957c24e.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250224-1/f68af9aa9f67c035f72938fb5291ba55.jpg",
-      "year": 2024,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 230",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
     {
       "id": "sonic-the-hedgehog-3-2024-2a9b9a5c",
       "source": "phimapi",
@@ -284,154 +54,6 @@
       ]
     },
     {
-      "id": "ghosts-season-3-2024-172dd88d",
-      "source": "phimapi",
-      "slug": "nhung-nguoi-ban-ma-phan-3",
-      "name": "Những Người Bạn Ma (Phần 3)",
-      "originName": "Ghosts (Season 3)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260927/nhung-nguoi-ban-ma-phan-3-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260927/nhung-nguoi-ban-ma-phan-3-thumb.webp",
-      "year": 2024,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "ghosts-season-4-2024-059219b9",
-      "source": "phimapi",
-      "slug": "nhung-nguoi-ban-ma-phan-4",
-      "name": "Những Người Bạn Ma (Phần 4)",
-      "originName": "Ghosts (Season 4)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261017/nhung-nguoi-ban-ma-phan-4-poster-2.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261017/nhung-nguoi-ban-ma-phan-4-thumb.webp",
-      "year": 2024,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (22/22)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "sasaki-and-peeps-season--2024-469659ee",
-      "source": "phimapi",
-      "slug": "sasaki-va-p-chan-phan-1",
-      "name": "Sasaki Và P-chan (Phần 1)",
-      "originName": "Sasaki and Peeps (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20250515-1/72c8cf098055aac784ca17519e96749e.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250515-1/b719842835775113fc6e0d93f96467e1.jpg",
-      "year": 2024,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "bastard-season-2-2023-3b8e35be",
-      "source": "phimapi",
-      "slug": "bastard-phan-2",
-      "name": "Bastard!! (Phần 2)",
-      "originName": "Bastard!! (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261016/bastard-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261016/bastard-phan-2-thumb.webp",
-      "year": 2023,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (15/15)",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
       "id": "the-great-ruler-2023-d5efc3bf",
       "source": "phimapi",
       "slug": "dai-chua-te-3d",
@@ -442,7 +64,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 98",
+      "episodeCurrent": "Tập 99",
       "categories": [
         {
           "name": "Hành Động",
@@ -469,6 +91,47 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "godzilla-minus-one-2023-e897fc86",
+      "source": "phimapi",
+      "slug": "godzilla-tru-mot",
+      "name": "Godzilla Trừ Một",
+      "originName": "Godzilla Minus One",
+      "posterUrl": "https://phimimg.com/upload/vod/20260123-1/7a434a76b5336d385ce9fe63a0458148.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260123-1/2bfd5af612eab59ab14731b0bb555ac7.jpg",
+      "year": 2023,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -483,7 +146,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 392",
+      "episodeCurrent": "Tập 393",
       "categories": [
         {
           "name": "Hành Động",
@@ -510,43 +173,6 @@
       ]
     },
     {
-      "id": "a-returner-s-magic-shoul-2023-e3d5f3f2",
-      "source": "phimapi",
-      "slug": "ma-thuat-dac-biet-cua-phu-thuy-quay-nguoc-thoi-gian-phan-1",
-      "name": "Ma Thuật Đặc Biệt Của Phù Thủy Quay Ngược Thời Gian (Phần 1)",
-      "originName": "A Returner's Magic Should Be Special (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20240826-1/d177736ff25b6802301c88aa8e27fcd4.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20240826-1/63ede590c97403d99dc0c1b1b71f06a9.jpg",
-      "year": 2023,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
       "id": "against-the-gods-2023-498e1046",
       "source": "phimapi",
       "slug": "nghich-thien-ta-than",
@@ -557,7 +183,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 62",
+      "episodeCurrent": "Tập 63",
       "categories": [
         {
           "name": "Hành Động",
@@ -598,7 +224,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 166",
+      "episodeCurrent": "Tập 167",
       "categories": [
         {
           "name": "Hài Hước",
@@ -617,51 +243,6 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "bastard-season-1-2022-0a08cf7f",
-      "source": "phimapi",
-      "slug": "bastard-phan-1",
-      "name": "Bastard!! (Phần 1)",
-      "originName": "Bastard!! (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261016/bastard-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261016/bastard-phan-1-thumb.webp",
-      "year": 2022,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (24/24)",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
         }
       ]
     },
@@ -723,39 +304,6 @@
       ]
     },
     {
-      "id": "ghosts-season-2-2022-41cc6c10",
-      "source": "phimapi",
-      "slug": "nhung-nguoi-ban-ma-phan-2",
-      "name": "Những Người Bạn Ma (Phần 2)",
-      "originName": "Ghosts (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260927/nhung-nguoi-ban-ma-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260927/nhung-nguoi-ban-ma-phan-2-thumb.webp",
-      "year": 2022,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (22/22)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "westworld-season-4-2022-ab252cf6",
       "source": "phimapi",
       "slug": "the-gioi-vien-tay-phan-4",
@@ -793,39 +341,6 @@
       ]
     },
     {
-      "id": "ghosts-season-1-2021-fc773317",
-      "source": "phimapi",
-      "slug": "nhung-nguoi-ban-ma-phan-1",
-      "name": "Những Người Bạn Ma (Phần 1)",
-      "originName": "Ghosts (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260927/nhung-nguoi-ban-ma-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260927/nhung-nguoi-ban-ma-phan-1-thumb.webp",
-      "year": 2021,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (18/18)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "ten-thousand-worlds-2021-5ac3d906",
       "source": "phimapi",
       "slug": "van-gioi-doc-ton",
@@ -836,7 +351,7 @@
       "year": 2021,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 498",
+      "episodeCurrent": "Tập 499",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -914,7 +429,7 @@
       "year": 2020,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 248",
+      "episodeCurrent": "Tập 249",
       "categories": [
         {
           "name": "Hành Động",
@@ -937,6 +452,452 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "elizabeth-harvest-2018-737bc8c0",
+      "source": "phimapi",
+      "slug": "chan-dai-va-ac-quy",
+      "name": "Chân Dài Và Ác Quỷ",
+      "originName": "Elizabeth Harvest",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261021/chan-dai-va-ac-quy-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261021/chan-dai-va-ac-quy-thumb.webp",
+      "year": 2018,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "westworld-season-2-2018-1ef81d92",
+      "source": "phimapi",
+      "slug": "the-gioi-vien-tay-phan-2",
+      "name": "Thế Giới Viễn Tây (Phần 2)",
+      "originName": "Westworld (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261017/the-gioi-vien-tay-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261017/the-gioi-vien-tay-phan-2-thumb.webp",
+      "year": 2018,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Miền Tây",
+          "slug": "mien-tay"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "come-back-alive-2016-4fcc156d",
+      "source": "phimapi",
+      "slug": "quy-ong-tro-lai",
+      "name": "Quý Ông Trở Lại",
+      "originName": "Come Back Alive",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261105/quy-ong-tro-lai-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261105/quy-ong-tro-lai-thumb.webp",
+      "year": 2016,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (16/16)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "westworld-season-1-2016-cc29e441",
+      "source": "phimapi",
+      "slug": "the-gioi-vien-tay-phan-1",
+      "name": "Thế Giới Viễn Tây (Phần 1)",
+      "originName": "Westworld (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261017/the-gioi-vien-tay-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261017/the-gioi-vien-tay-phan-1-thumb.webp",
+      "year": 2016,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Miền Tây",
+          "slug": "mien-tay"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "stargate-atlantis-season-2008-84db4a9b",
+      "source": "phimapi",
+      "slug": "tran-chien-xuyen-vu-tru-phan-5",
+      "name": "Trận Chiến Xuyên Vũ Trụ (Phần 5)",
+      "originName": "Stargate Atlantis (Season 5)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261031/tran-chien-xuyen-vu-tru-phan-5-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261031/tran-chien-xuyen-vu-tru-phan-5-thumb.webp",
+      "year": 2008,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (20/20)",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "stargate-atlantis-season-2007-5eed65be",
+      "source": "phimapi",
+      "slug": "tran-chien-xuyen-vu-tru-phan-4",
+      "name": "Trận Chiến Xuyên Vũ Trụ (Phần 4)",
+      "originName": "Stargate Atlantis (Season 4)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261031/tran-chien-xuyen-vu-tru-phan-4-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261031/tran-chien-xuyen-vu-tru-phan-4-thumb.webp",
+      "year": 2007,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (20/20)",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "stargate-atlantis-season-2006-0485e770",
+      "source": "phimapi",
+      "slug": "tran-chien-xuyen-vu-tru-phan-3",
+      "name": "Trận Chiến Xuyên Vũ Trụ (Phần 3)",
+      "originName": "Stargate Atlantis (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261031/tran-chien-xuyen-vu-tru-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261031/tran-chien-xuyen-vu-tru-phan-3-thumb.webp",
+      "year": 2006,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (20/20)",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "stargate-atlantis-season-2005-680a8158",
+      "source": "phimapi",
+      "slug": "tran-chien-xuyen-vu-tru-phan-2",
+      "name": "Trận Chiến Xuyên Vũ Trụ (Phần 2)",
+      "originName": "Stargate Atlantis (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261031/tran-chien-xuyen-vu-tru-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261031/tran-chien-xuyen-vu-tru-phan-2-thumb.webp",
+      "year": 2005,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (20/20)",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "stargate-atlantis-season-2004-f0890875",
+      "source": "phimapi",
+      "slug": "tran-chien-xuyen-vu-tru-phan-1",
+      "name": "Trận Chiến Xuyên Vũ Trụ (Phần 1)",
+      "originName": "Stargate Atlantis (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261031/tran-chien-xuyen-vu-tru-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261031/tran-chien-xuyen-vu-tru-phan-1-thumb.webp",
+      "year": 2004,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (20/20)",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "ultraman-tiga-1996-9cc56f65",
+      "source": "phimapi",
+      "slug": "sieu-nhan-tiga",
+      "name": "Siêu Nhân Tiga",
+      "originName": "Ultraman Tiga",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
+      "year": 1996,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 17",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     }

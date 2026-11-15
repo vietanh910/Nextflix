@@ -1,0 +1,67 @@
+{
+  "id": "the-choral-2025-6297ed6f",
+  "source": "phimapi",
+  "slug": "ban-hop-xuong",
+  "name": "Bản Hợp Xướng",
+  "originName": "The Choral",
+  "posterUrl": "https://phimimg.com/upload/vod/20260105-1/61f1728beca8cd4573496fef568c0da5.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260105-1/c102a5b185ced8c4332d6ea604782de0.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Âm Nhạc",
+      "slug": "am-nhac"
+    },
+    {
+      "name": "Chiến Tranh",
+      "slug": "chien-tranh"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Anh",
+      "slug": "anh"
+    },
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Trong bối cảnh chiến tranh, một cộng đồng mất mát tìm thấy sự chữa lành và hy vọng thông qua âm nhạc hợp xướng.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261108/0Q2lpxWg/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261108/0Q2lpxWg/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "ban-hop-xuong",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -9,7 +9,7 @@
   "year": 2021,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 498",
+  "episodeCurrent": "Tập 499",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -4001,13 +4001,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261107/zDQGaIgB/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261107/zDQGaIgB/index.m3u8"
+    },
+    {
+      "name": "Tập 499",
+      "slug": "tap-499",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261111/2N9gu2G8/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261111/2N9gu2G8/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "van-gioi-doc-ton",
-      "episodeCount": 495,
+      "episodeCount": 496,
       "priority": 1
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -101,13 +101,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261107/Sgo2uKEh/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261107/Sgo2uKEh/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261114/p4rXbAgR/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261114/p4rXbAgR/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "lang-nghe-thanh-am",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 1
     }
   ],

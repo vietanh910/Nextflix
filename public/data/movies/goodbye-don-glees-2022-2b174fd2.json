@@ -1,0 +1,55 @@
+{
+  "id": "goodbye-don-glees-2022-2b174fd2",
+  "source": "phimapi",
+  "slug": "tam-biet-don-glees",
+  "name": "Tạm Biệt, Don Glees!",
+  "originName": "Goodbye, Don Glees!",
+  "posterUrl": "https://phimimg.com/upload/vod/20250926-1/c54197eea99af27b47a7e65152f17336.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20250926-1/8cac6a49fdb2af80b298d2f31ceade9e.jpg",
+  "year": 2022,
+  "type": "anime",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Roma, Toto và Drop là &quot;kẻ ngoài lề&quot; nên luôn gắn bó và gọi nhau là Don Glees. Vô tình thành nghi phạm của vụ cháy rừng, bộ ba lên đường tìm cách rửa oan nhưng nào ngờ cuộc đời họ cũng rẽ lối từ đây.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261115/SKeyIiiP/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261115/SKeyIiiP/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "tam-biet-don-glees",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

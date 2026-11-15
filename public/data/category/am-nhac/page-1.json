@@ -5,35 +5,35 @@
   "totalPages": 1,
   "items": [
     {
-      "id": "less-of-a-stranger-2026-e7146ab4",
+      "id": "heartland-2026-31a73b08",
       "source": "phimapi",
-      "slug": "khong-con-la-nguoi-dung",
-      "name": "Không Còn Là Người Dưng",
-      "originName": "Less Of A Stranger",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261009/khong-con-la-nguoi-dung-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261009/khong-con-la-nguoi-dung-thumb.webp",
+      "slug": "heartland",
+      "name": "Heartland",
+      "originName": "Heartland",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261114/heartland-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261114/heartland-thumb.webp",
       "year": 2026,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
         },
         {
           "name": "Âm Nhạc",
           "slug": "am-nhac"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Ba Lan",
-          "slug": "ba-lan"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -71,6 +71,39 @@
       ]
     },
     {
+      "id": "the-gospel-of-christmas-2026-f8c9e503",
+      "source": "phimapi",
+      "slug": "phuc-am-giang-sinh",
+      "name": "Phúc Âm Giáng Sinh",
+      "originName": "The Gospel Of Christmas",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261112/phuc-am-giang-sinh-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261112/phuc-am-giang-sinh-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Âm Nhạc",
+          "slug": "am-nhac"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "v-h-s-mixtape-2026-9af7872b",
       "source": "phimapi",
       "slug": "v-h-s-mixtape",
@@ -104,6 +137,51 @@
         {
           "name": "Ả rập Thống nhất",
           "slug": "a-rap-thong-nhat"
+        }
+      ]
+    },
+    {
+      "id": "the-choral-2025-6297ed6f",
+      "source": "phimapi",
+      "slug": "ban-hop-xuong",
+      "name": "Bản Hợp Xướng",
+      "originName": "The Choral",
+      "posterUrl": "https://phimimg.com/upload/vod/20260105-1/61f1728beca8cd4573496fef568c0da5.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260105-1/c102a5b185ced8c4332d6ea604782de0.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Âm Nhạc",
+          "slug": "am-nhac"
+        },
+        {
+          "name": "Chiến Tranh",
+          "slug": "chien-tranh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },

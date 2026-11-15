@@ -1,0 +1,55 @@
+{
+  "id": "heartland-2026-31a73b08",
+  "source": "phimapi",
+  "slug": "heartland",
+  "name": "Heartland",
+  "originName": "Heartland",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261114/heartland-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261114/heartland-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Bí Ẩn",
+      "slug": "bi-an"
+    },
+    {
+      "name": "Âm Nhạc",
+      "slug": "am-nhac"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Huyền thoại nhạc đồng quê một thời Misty Jones (Jessica Chastain) trở lại Nashville để lật mở sự thật đằng sau vụ mất tích của cô cháu gái – một ngôi sao đang lên.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261114/nMO0AVuB/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261114/nMO0AVuB/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "heartland",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -1,0 +1,51 @@
+{
+  "id": "the-crush-1993-a4921f06",
+  "source": "phimapi",
+  "slug": "me-dai",
+  "name": "Mê Dại",
+  "originName": "The Crush",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261110/me-dai-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261110/me-dai-thumb.webp",
+  "year": 1993,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Tìm kiếm một nơi yên tĩnh để sinh sống, nhà báo Nick chuyển vào nhà khách của một gia đình, nhưng chẳng bao lâu sau lại trở thành đối tượng mà cô con gái nhà họ đem lòng cảm mến.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261110/MUSyO2yg/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261110/MUSyO2yg/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "me-dai",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

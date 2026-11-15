@@ -5,6 +5,51 @@
   "totalPages": 1,
   "items": [
     {
+      "id": "allen-2026-a64ff307",
+      "source": "phimapi",
+      "slug": "allen",
+      "name": "Allen",
+      "originName": "Allen",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261113/allen-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261113/allen-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Úc",
+          "slug": "uc"
+        }
+      ]
+    },
+    {
       "id": "doraemon-the-movie-new-n-2026-cd3a77a5",
       "source": "phimapi",
       "slug": "doraemon-nobita-va-lau-dai-duoi-day-bien-phien-ban-moi",
@@ -124,80 +169,6 @@
       ]
     },
     {
-      "id": "against-the-current-2026-a772f09c",
-      "source": "phimapi",
-      "slug": "lan-huong-nhu-co",
-      "name": "Lan Hương Như Cố",
-      "originName": "Against The Current",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260912/lan-huong-nhu-co-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260912/lan-huong-nhu-co-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (47/47)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "hollywood-arts-2026-eb088b08",
-      "source": "phimapi",
-      "slug": "nghe-thuat-hollywood",
-      "name": "Nghệ Thuật Hollywood",
-      "originName": "Hollywood Arts",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261016/nghe-thuat-hollywood-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261016/nghe-thuat-hollywood-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "this-city-never-sleeps-2026-5d3041a9",
       "source": "phimapi",
       "slug": "thanh-pho-ruc-ro",
@@ -241,7 +212,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 12",
+      "episodeCurrent": "Tập 16",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -350,6 +321,43 @@
       ]
     },
     {
+      "id": "the-devil-s-plan-season--2023-f6e42d2f",
+      "source": "phimapi",
+      "slug": "ke-hoach-cua-quy-du-phan-1",
+      "name": "Kế Hoạch Của Quỷ Dữ (Phần 1)",
+      "originName": "The Devil's Plan (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261112/ke-hoach-cua-quy-du-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250122-1/d6bdb885a07c978dddd313a4ae384453.jpg",
+      "year": 2023,
+      "type": "tvshow",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
       "id": "the-addams-family-2-2021-c5c61c4f",
       "source": "phimapi",
       "slug": "gia-dinh-addams-di-phuot",
@@ -383,6 +391,47 @@
         {
           "name": "Canada",
           "slug": "canada"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "a-dog-s-way-home-2019-687132c5",
+      "source": "phimapi",
+      "slug": "duong-ve-nha-cua-cun-con",
+      "name": "Đường Về Nhà Của Cún Con",
+      "originName": "A Dog's Way Home",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261110/duong-ve-nha-cua-cun-con-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261110/duong-ve-nha-cua-cun-con-thumb.webp",
+      "year": 2019,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         },
         {
           "name": "Âu Mỹ",

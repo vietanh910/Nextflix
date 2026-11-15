@@ -5,6 +5,121 @@
   "totalPages": 5,
   "items": [
     {
+      "id": "secret-delivery-2025-4b3734f6",
+      "source": "phimapi",
+      "slug": "chuyen-giao-hang-bi-mat",
+      "name": "Chuyến Giao Hàng Bí Mật",
+      "originName": "Secret Delivery",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261029/chuyen-giao-hang-bi-mat-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261029/chuyen-giao-hang-bi-mat-thumb.webp",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Séc",
+          "slug": "sec"
+        },
+        {
+          "name": "Slovakia",
+          "slug": "slovakia"
+        },
+        {
+          "name": "Serbia",
+          "slug": "serbia"
+        }
+      ]
+    },
+    {
+      "id": "9-1-1-season-9-2025-45b50ee6",
+      "source": "phimapi",
+      "slug": "cuoc-goi-khan-cap-9-1-1-phan-9",
+      "name": "Cuộc Gọi Khẩn Cấp 9-1-1 (Phần 9)",
+      "originName": "9-1-1 (Season 9)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260815/cuoc-goi-khan-cap-9-1-1-phan-9-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260815/cuoc-goi-khan-cap-9-1-1-phan-9-thumb.webp",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (18/18)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "strike-world-deadverse-r-2025-29d6c240",
+      "source": "phimapi",
+      "slug": "monster-strike-deadverse-reloaded",
+      "name": "Monster Strike: Deadverse Reloaded",
+      "originName": "Strike World: Deadverse Reloaded the Anime",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261115/monster-strike-deadverse-reloaded-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261115/monster-strike-deadverse-reloaded-thumb.webp",
+      "year": 2025,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 4",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
       "id": "black-doves-season-1-2024-48a6ef22",
       "source": "phimapi",
       "slug": "bo-cau-den-phan-1",
@@ -42,51 +157,6 @@
         {
           "name": "Anh",
           "slug": "anh"
-        }
-      ]
-    },
-    {
-      "id": "asura-season-1-2024-fba98f4a",
-      "source": "phimapi",
-      "slug": "cuong-vuong-phan-1",
-      "name": "Cuồng Vương (Phần 1)",
-      "originName": "Asura (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261015/cuong-vuong-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261015/cuong-vuong-phan-1-thumb.webp",
-      "year": 2024,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (9/9)",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
         }
       ]
     },
@@ -138,7 +208,7 @@
       "year": 2024,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 107",
+      "episodeCurrent": "Tập 108",
       "categories": [
         {
           "name": "Phiêu Lưu",
@@ -167,7 +237,7 @@
       "year": 2024,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 226",
+      "episodeCurrent": "Tập 228",
       "categories": [
         {
           "name": "Hành Động",
@@ -190,51 +260,6 @@
       ]
     },
     {
-      "id": "bastard-season-2-2023-3b8e35be",
-      "source": "phimapi",
-      "slug": "bastard-phan-2",
-      "name": "Bastard!! (Phần 2)",
-      "originName": "Bastard!! (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261016/bastard-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261016/bastard-phan-2-thumb.webp",
-      "year": 2023,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (15/15)",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
       "id": "the-great-ruler-2023-d5efc3bf",
       "source": "phimapi",
       "slug": "dai-chua-te-3d",
@@ -245,7 +270,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 98",
+      "episodeCurrent": "Tập 99",
       "categories": [
         {
           "name": "Hành Động",
@@ -286,7 +311,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 178",
+      "episodeCurrent": "Tập 179",
       "categories": [
         {
           "name": "Hành Động",
@@ -319,7 +344,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 392",
+      "episodeCurrent": "Tập 393",
       "categories": [
         {
           "name": "Hành Động",
@@ -346,43 +371,6 @@
       ]
     },
     {
-      "id": "a-returner-s-magic-shoul-2023-e3d5f3f2",
-      "source": "phimapi",
-      "slug": "ma-thuat-dac-biet-cua-phu-thuy-quay-nguoc-thoi-gian-phan-1",
-      "name": "Ma Thuật Đặc Biệt Của Phù Thủy Quay Ngược Thời Gian (Phần 1)",
-      "originName": "A Returner's Magic Should Be Special (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20240826-1/d177736ff25b6802301c88aa8e27fcd4.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20240826-1/63ede590c97403d99dc0c1b1b71f06a9.jpg",
-      "year": 2023,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
       "id": "against-the-gods-2023-498e1046",
       "source": "phimapi",
       "slug": "nghich-thien-ta-than",
@@ -393,7 +381,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 62",
+      "episodeCurrent": "Tập 63",
       "categories": [
         {
           "name": "Hành Động",
@@ -475,7 +463,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 165",
+      "episodeCurrent": "Tập 166",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -498,51 +486,6 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "bastard-season-1-2022-0a08cf7f",
-      "source": "phimapi",
-      "slug": "bastard-phan-1",
-      "name": "Bastard!! (Phần 1)",
-      "originName": "Bastard!! (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261016/bastard-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261016/bastard-phan-1-thumb.webp",
-      "year": 2022,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (24/24)",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
         }
       ]
     },
@@ -703,6 +646,39 @@
       ]
     },
     {
+      "id": "goodbye-don-glees-2022-2b174fd2",
+      "source": "phimapi",
+      "slug": "tam-biet-don-glees",
+      "name": "Tạm Biệt, Don Glees!",
+      "originName": "Goodbye, Don Glees!",
+      "posterUrl": "https://phimimg.com/upload/vod/20250926-1/c54197eea99af27b47a7e65152f17336.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250926-1/8cac6a49fdb2af80b298d2f31ceade9e.jpg",
+      "year": 2022,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
       "id": "against-the-sky-supreme--2021-965e6c68",
       "source": "phimapi",
       "slug": "nghich-thien-chi-ton",
@@ -713,7 +689,7 @@
       "year": 2021,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 564",
+      "episodeCurrent": "Tập 565",
       "categories": [
         {
           "name": "Cổ Trang",
@@ -746,7 +722,7 @@
       "year": 2021,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 498",
+      "episodeCurrent": "Tập 499",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -787,7 +763,7 @@
       "year": 2020,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 199",
+      "episodeCurrent": "Tập 200",
       "categories": [
         {
           "name": "Hành Động",
@@ -824,7 +800,7 @@
       "year": 2020,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 248",
+      "episodeCurrent": "Tập 249",
       "categories": [
         {
           "name": "Hành Động",
@@ -892,39 +868,39 @@
       ]
     },
     {
-      "id": "tomb-raider-2018-950045c4",
+      "id": "a-dog-s-way-home-2019-687132c5",
       "source": "phimapi",
-      "slug": "tomb-raider-huyen-thoai-bat-dau",
-      "name": "Tomb Raider: Huyền Thoại Bắt Đầu",
-      "originName": "Tomb Raider",
-      "posterUrl": "https://phimimg.com/upload/vod/20251002-1/4a17777db8336a77babdbe6a63558ae4.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251002-1/ca0166b6277df0b90d90fb515d4f44a8.jpg",
-      "year": 2018,
+      "slug": "duong-ve-nha-cua-cun-con",
+      "name": "Đường Về Nhà Của Cún Con",
+      "originName": "A Dog's Way Home",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261110/duong-ve-nha-cua-cun-con-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261110/duong-ve-nha-cua-cun-con-thumb.webp",
+      "year": 2019,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
         },
         {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        },
-        {
-          "name": "Anh",
-          "slug": "anh"
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         },
         {
           "name": "Âu Mỹ",

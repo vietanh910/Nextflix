@@ -1,0 +1,55 @@
+{
+  "id": "brawlers-2026-ea1b4bb0",
+  "source": "phimapi",
+  "slug": "tay-dam-thue",
+  "name": "Tay Đấm Thuê",
+  "originName": "Brawlers",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261113/tay-dam-thue-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261113/tay-dam-thue-thumb.webp",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Pháp",
+      "slug": "phap"
+    }
+  ],
+  "description": "<p>Khi cần tiền để cứu chú chó của mình, Naïm trở thành tay đấm thuê cho dịch vụ ngầm ở Marseille – chuyên dùng nắm đấm để dàn xếp tranh chấp cho người khác</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261113/t3UHaFz9/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261113/t3UHaFz9/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "tay-dam-thue",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

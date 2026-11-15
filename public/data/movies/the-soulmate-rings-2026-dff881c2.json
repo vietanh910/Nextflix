@@ -8,7 +8,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 10",
+  "episodeCurrent": "Tập 12",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -108,13 +108,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261104/e8IRxNGX/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261104/e8IRxNGX/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261111/UCA4On2y/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261111/UCA4On2y/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261111/dsi74kAf/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261111/dsi74kAf/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "chiec-nhan-tri-ky",
-      "episodeCount": 10,
+      "episodeCount": 12,
       "priority": 1
     }
   ],

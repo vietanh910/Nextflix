@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 19",
+  "episodeCurrent": "Tập 20",
   "categories": [
     {
       "name": "Hành Động",
@@ -193,13 +193,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261106/nLukTxsh/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261106/nLukTxsh/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261113/iaFX7Tly/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261113/iaFX7Tly/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "trong-giap-hiep-si-chuyen-sinh-bi-luu-day-tro-nen-vo-dich-nho-kien-thuc-ve-game",
-      "episodeCount": 19,
+      "episodeCount": 20,
       "priority": 1
     }
   ],

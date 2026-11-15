@@ -15,7 +15,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Bí Ẩn",
@@ -157,39 +157,6 @@
       ]
     },
     {
-      "id": "inside-the-circle-2026-5f36547f",
-      "source": "phimapi",
-      "slug": "ben-trong-vong-tron-kin",
-      "name": "Bên Trong Vòng Tròn Kín",
-      "originName": "Inside the Circle",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261009/ben-trong-vong-tron-kin-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261009/ben-trong-vong-tron-kin-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Mexico",
-          "slug": "mexico"
-        }
-      ]
-    },
-    {
       "id": "black-doves-season-2-2026-72dc2eee",
       "source": "phimapi",
       "slug": "bo-cau-den-phan-2",
@@ -227,6 +194,43 @@
         {
           "name": "Anh",
           "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "chiaroscuro-2026-fcada638",
+      "source": "phimapi",
+      "slug": "chiaroscuro",
+      "name": "ChiaroScuro",
+      "originName": "ChiaroScuro",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261112/chiaroscuro-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261112/chiaroscuro-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ý",
+          "slug": "y"
         }
       ]
     },
@@ -331,7 +335,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -350,39 +354,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "reporting-live-2026-837c60e8",
-      "source": "phimapi",
-      "slug": "dua-tin-truc-tiep",
-      "name": "Đưa Tin Trực Tiếp",
-      "originName": "Reporting Live",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261010/dua-tin-truc-tiep-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261010/dua-tin-truc-tiep-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Ấn Độ",
-          "slug": "an-do"
         }
       ]
     },
@@ -461,25 +432,29 @@
       ]
     },
     {
-      "id": "fragments-of-truth-2026-a1b19b3b",
+      "id": "sleeping-with-the-enemy-2026-f51d9ae7",
       "source": "phimapi",
-      "slug": "hien-truong-san-an",
-      "name": "Hiện Trường Săn Án",
-      "originName": "Fragments Of Truth",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
+      "slug": "ke-thu-ben-goi",
+      "name": "Kẻ Thù Bên Gối",
+      "originName": "Sleeping With The Enemy",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261115/ke-thu-ben-goi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261115/ke-thu-ben-goi-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (24/24)",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 2",
       "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
         },
         {
           "name": "Tâm Lý",
@@ -488,8 +463,41 @@
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Indonesia",
+          "slug": "indonesia"
+        }
+      ]
+    },
+    {
+      "id": "never-surrender-2026-1be331a6",
+      "source": "phimapi",
+      "slug": "khong-dau-hang-2026",
+      "name": "Không Đầu Hàng",
+      "originName": "Never Surrender",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261113/khong-dau-hang-2026-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261113/khong-dau-hang-2026-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Indonesia",
+          "slug": "indonesia"
         }
       ]
     },
@@ -568,39 +576,6 @@
       ]
     },
     {
-      "id": "thunder-chaser-2026-9a644a88",
-      "source": "phimapi",
-      "slug": "loi-dinh-lenh",
-      "name": "Lôi Đình Lệnh",
-      "originName": "Thunder Chaser",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260929/loi-dinh-lenh-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260929/loi-dinh-lenh-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (34/34)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
       "id": "the-perfect-lie-2026-6f956b76",
       "source": "phimapi",
       "slug": "loi-noi-doi-hoan-hao-2026-kr",
@@ -611,7 +586,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -638,76 +613,6 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "last-seen-season-1-2026-6ed0da05",
-      "source": "phimapi",
-      "slug": "manh-moi-cuoi-cung-phan-1",
-      "name": "Manh Mối Cuối Cùng (Phần 1)",
-      "originName": "Last Seen (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260909/manh-moi-cuoi-cung-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260909/manh-moi-cuoi-cung-phan-1-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (6/6)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Úc",
-          "slug": "uc"
-        },
-        {
-          "name": "Anh",
-          "slug": "anh"
-        }
-      ]
-    },
-    {
-      "id": "matlock-season-2-2026-a4559fcd",
-      "source": "phimapi",
-      "slug": "matlock-phan-2",
-      "name": "Matlock (Phần 2)",
-      "originName": "Matlock (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261012/matlock-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261012/matlock-phan-2-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (16/16)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     },
@@ -741,43 +646,6 @@
         {
           "name": "Ấn Độ",
           "slug": "an-do"
-        }
-      ]
-    },
-    {
-      "id": "a-better-jianghu-2026-d15524ba",
-      "source": "phimapi",
-      "slug": "mot-tran-thanh-danh",
-      "name": "Một Trận Thành Danh",
-      "originName": "A Better Jianghu",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261017/mot-tran-thanh-danh-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261017/mot-tran-thanh-danh-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
         }
       ]
     },
@@ -829,7 +697,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -858,7 +726,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 1",
+      "episodeCurrent": "Tập 2",
       "categories": [
         {
           "name": "Hình Sự",
@@ -877,6 +745,150 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "power-book-iii-raising-k-2026-7b2c1a73",
+      "source": "phimapi",
+      "slug": "quyen-luc-quyen-iii-nuoi-day-kanan-phan-5",
+      "name": "Quyền Lực Quyển III: Nuôi Dạy Kanan (Phần 5)",
+      "originName": "Power Book III: Raising Kanan (Season 5)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261111/quyen-luc-quyen-iii-nuoi-day-kanan-phan-5-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261111/quyen-luc-quyen-iii-nuoi-day-kanan-phan-5-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "sakamoto-days-2026-c4379208",
+      "source": "phimapi",
+      "slug": "sat-thu-ve-vuon-2026",
+      "name": "Sát Thủ Về Vườn",
+      "originName": "Sakamoto Days",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261018/sat-thu-ve-vuon-2026-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261018/sat-thu-ve-vuon-2026-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "lupin-season-4-2026-9811ded2",
+      "source": "phimapi",
+      "slug": "sieu-trom-lupin-phan-4",
+      "name": "Siêu Trộm Lupin (Phần 4)",
+      "originName": "Lupin (Season 4)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261024/lupin-phan-4-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261024/lupin-phan-4-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        }
+      ]
+    },
+    {
+      "id": "the-unthinkable-daughter-2026-5bc87bf7",
+      "source": "phimapi",
+      "slug": "suzane-von-richthofen-toi-ac-cua-co-con-gai",
+      "name": "Suzane Von Richthofen: Tội Ác Của Cô Con Gái",
+      "originName": "The Unthinkable Daughter",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261112/suzane-von-richthofen-toi-ac-cua-co-con-gai-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261112/suzane-von-richthofen-toi-ac-cua-co-con-gai-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tài Liệu",
+          "slug": "tai-lieu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Brazil",
+          "slug": "brazil"
         }
       ]
     }

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 12",
+  "episodeCurrent": "Tập 13",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -129,13 +129,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261102/H2O7zeu7/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261102/H2O7zeu7/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261109/AqgND1Ac/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261109/AqgND1Ac/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "giao-trinh-tinh-yeu-bat-buoc",
-      "episodeCount": 12,
+      "episodeCount": 13,
       "priority": 1
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 9",
+  "episodeCurrent": "Tập 13",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -101,13 +101,45 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261106/CJprlXeo/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261106/CJprlXeo/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261110/G9QXbDBT/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261110/G9QXbDBT/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261111/WxT8vumI/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261111/WxT8vumI/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261112/9y4a0N67/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261112/9y4a0N67/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261113/dakjiCPO/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261113/dakjiCPO/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "huong-tinh-mien-que",
-      "episodeCount": 9,
+      "episodeCount": 13,
       "priority": 1
     }
   ],

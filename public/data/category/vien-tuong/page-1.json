@@ -5,6 +5,51 @@
   "totalPages": 6,
   "items": [
     {
+      "id": "allen-2026-a64ff307",
+      "source": "phimapi",
+      "slug": "allen",
+      "name": "Allen",
+      "originName": "Allen",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261113/allen-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261113/allen-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Úc",
+          "slug": "uc"
+        }
+      ]
+    },
+    {
       "id": "oh-my-guard-2026-ac143dce",
       "source": "phimapi",
       "slug": "anh-la-nam-chinh-doi-em",
@@ -15,7 +60,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -55,8 +100,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20261106/ban-hoc-ma-ca-rong-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (4/4)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -142,7 +187,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -187,7 +232,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -232,7 +277,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -363,7 +408,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 19",
+      "episodeCurrent": "Tập 20",
       "categories": [
         {
           "name": "Hành Động",
@@ -486,7 +531,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -527,7 +572,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -564,7 +609,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -605,7 +650,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -646,7 +691,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -728,7 +773,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hành Động",
@@ -769,7 +814,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -867,7 +912,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -943,28 +988,37 @@
       ]
     },
     {
-      "id": "echoes-of-the-fallen-2026-12c786d5",
+      "id": "demons-crest-2026-6c3474fe",
       "source": "phimapi",
-      "slug": "dich-nhan-kiet-bat-tu-quan",
-      "name": "Địch Nhân Kiệt: Bất Tử Quân",
-      "originName": "Echoes Of The Fallen",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261021/dich-nhan-kiet-bat-tu-quan-poster.webp",
+      "slug": "devils-crest",
+      "name": "Devils' Crest",
+      "originName": "Demons' Crest",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261110/devils-crest-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261110/devils-crest-thumb.webp",
       "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 2",
       "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
         {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
         },
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
         },
         {
           "name": "Tâm Lý",
@@ -973,45 +1027,8 @@
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "the-frontier-under-the-b-2026-d8027176",
-      "source": "phimapi",
-      "slug": "dich-nhan-kiet-lang-nhan-kiep",
-      "name": "Địch Nhân Kiệt: Lang Nhân Kiếp",
-      "originName": "The Frontier Under The Blood Moon",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261011/dich-nhan-kiet-lang-nhan-kiep-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261011/dich-nhan-kiet-lang-nhan-kiep-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     }

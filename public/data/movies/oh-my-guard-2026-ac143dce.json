@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 7",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -75,6 +75,30 @@
       "m3u8Url": "https://a.kvp726.com/20261102/n9aTd3FK/index.m3u8"
     },
     {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261109/QJnSZvzq/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261109/QJnSZvzq/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261109/7T0lDcJ0/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261109/7T0lDcJ0/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261115/A4kR9XzR/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261115/A4kR9XzR/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -105,13 +129,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261102/ktkqjCdc/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261102/ktkqjCdc/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261109/K7nl4xY9/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261109/K7nl4xY9/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261109/6x7ELryQ/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261109/6x7ELryQ/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261115/1Dj4iDRk/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261115/1Dj4iDRk/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "anh-la-nam-chinh-doi-em",
-      "episodeCount": 8,
+      "episodeCount": 14,
       "priority": 1
     }
   ],

@@ -2,82 +2,8 @@
   "slug": "tam-ly",
   "name": "Tâm Lý",
   "page": 2,
-  "totalPages": 15,
+  "totalPages": 16,
   "items": [
-    {
-      "id": "the-ramparts-of-ice-seas-2026-b4d4cc1f",
-      "source": "phimapi",
-      "slug": "buc-tuong-bang-phan-2",
-      "name": "Bức Tường Băng (Phần 2)",
-      "originName": "The Ramparts Of Ice (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261002/buc-tuong-bang-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261002/buc-tuong-bang-phan-2-thumb.webp",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 6",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "buddy-2026-cc7c2fe1",
-      "source": "phimapi",
-      "slug": "buddy",
-      "name": "Buddy",
-      "originName": "Buddy",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261019/buddy-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261019/buddy-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Israel",
-          "slug": "israel"
-        }
-      ]
-    },
     {
       "id": "whalefall-2026-5a25e044",
       "source": "phimapi",
@@ -145,39 +71,6 @@
       ]
     },
     {
-      "id": "the-trap-2026-44446552",
-      "source": "phimapi",
-      "slug": "cai-bay",
-      "name": "Cái Bẫy",
-      "originName": "The Trap",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261014/cai-bay-die-falle-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261014/cai-bay-die-falle-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (6/6)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Đức",
-          "slug": "duc"
-        }
-      ]
-    },
-    {
       "id": "the-house-without-a-roof-2026-c20562ef",
       "source": "phimapi",
       "slug": "can-nha-khong-mai-che",
@@ -188,7 +81,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "episodeCurrent": "Tập 15",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -211,6 +104,43 @@
       ]
     },
     {
+      "id": "a-story-of-derry-2026-af90da88",
+      "source": "phimapi",
+      "slug": "cau-chuyen-ve-derry",
+      "name": "Câu Chuyện Về Derry",
+      "originName": "A Story of Derry",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261109/cau-chuyen-ve-derry-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261109/cau-chuyen-ve-derry-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "teach-me-touch-me-2026-59b466ea",
       "source": "phimapi",
       "slug": "cham-vao-anh-day-toi-cach-yeu",
@@ -221,7 +151,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -277,6 +207,43 @@
       ]
     },
     {
+      "id": "chiaroscuro-2026-fcada638",
+      "source": "phimapi",
+      "slug": "chiaroscuro",
+      "name": "ChiaroScuro",
+      "originName": "ChiaroScuro",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261112/chiaroscuro-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261112/chiaroscuro-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ý",
+          "slug": "y"
+        }
+      ]
+    },
+    {
       "id": "the-soulmate-rings-2026-dff881c2",
       "source": "phimapi",
       "slug": "chiec-nhan-tri-ky",
@@ -286,7 +253,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 12",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -315,7 +282,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 19",
+      "episodeCurrent": "Tập 20",
       "categories": [
         {
           "name": "Hành Động",
@@ -385,7 +352,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -524,8 +491,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20261105/chuyen-cu-mien-bien-ai-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -554,7 +521,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -726,7 +693,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -753,35 +720,43 @@
       ]
     },
     {
-      "id": "the-storm-2026-474378dd",
+      "id": "kong-tao-2026-f5f8e3e7",
       "source": "phimapi",
-      "slug": "con-bao-stormen",
-      "name": "Cơn Bão / Stormen",
-      "originName": "The Storm",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261015/con-bao-stormen-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261015/con-bao-stormen-thumb.webp",
+      "slug": "co-thuat-hac-ngai",
+      "name": "Cổ Thuật Hắc Ngải",
+      "originName": "Kong Tao",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261112/co-thuat-hac-ngai-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261112/co-thuat-hac-ngai-thumb.webp",
       "year": 2026,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
         },
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
-          "name": "Thụy Điển",
-          "slug": "thuy-dien"
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        },
+        {
+          "name": "Singapore",
+          "slug": "singapore"
+        },
+        {
+          "name": "Malaysia",
+          "slug": "malaysia"
         }
       ]
     },
@@ -815,6 +790,51 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "carrie-2026-b5fdc172",
+      "source": "phimapi",
+      "slug": "con-thinh-no-cua-carrie-2026",
+      "name": "Cơn Thịnh Nộ của Carrie",
+      "originName": "Carrie",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261023/con-thinh-no-cua-carrie-2026-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261023/con-thinh-no-cua-carrie-2026-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
         }
       ]
     }

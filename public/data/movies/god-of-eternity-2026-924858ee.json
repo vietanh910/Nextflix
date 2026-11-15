@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 33",
+  "episodeCurrent": "Tập 35",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -297,13 +297,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261103/5yHn6yvk/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261103/5yHn6yvk/index.m3u8"
+    },
+    {
+      "name": "Tập 34",
+      "slug": "tap-34",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261111/YQCtjo4a/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261111/YQCtjo4a/index.m3u8"
+    },
+    {
+      "name": "Tập 35",
+      "slug": "tap-35",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261111/ZwBoIunI/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261111/ZwBoIunI/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "van-co-than-de",
-      "episodeCount": 33,
+      "episodeCount": 35,
       "priority": 1
     }
   ],
