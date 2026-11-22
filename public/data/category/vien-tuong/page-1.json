@@ -2,7 +2,7 @@
   "slug": "vien-tuong",
   "name": "Viễn Tưởng",
   "page": 1,
-  "totalPages": 6,
+  "totalPages": 5,
   "items": [
     {
       "id": "allen-2026-a64ff307",
@@ -60,7 +60,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -187,7 +187,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -232,7 +232,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -277,7 +277,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -357,29 +357,37 @@
       ]
     },
     {
-      "id": "buddy-2026-cc7c2fe1",
+      "id": "steps-2026-4605b25d",
       "source": "phimapi",
-      "slug": "buddy",
-      "name": "Buddy",
-      "originName": "Buddy",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261019/buddy-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261019/buddy-thumb.webp",
+      "slug": "chi-em-ke",
+      "name": "Chị Em Kế",
+      "originName": "Steps",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261120/chi-em-ke-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261120/chi-em-ke-thumb.webp",
       "year": 2026,
-      "type": "single",
+      "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn Tất (1/1)",
       "categories": [
         {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
         },
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
         },
         {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
         },
         {
           "name": "Tâm Lý",
@@ -392,8 +400,8 @@
           "slug": "au-my"
         },
         {
-          "name": "Israel",
-          "slug": "israel"
+          "name": "Úc",
+          "slug": "uc"
         }
       ]
     },
@@ -408,7 +416,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 20",
+      "episodeCurrent": "Tập 21",
       "categories": [
         {
           "name": "Hành Động",
@@ -531,7 +539,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -572,7 +580,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -609,7 +617,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -650,7 +658,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -691,7 +699,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -718,51 +726,6 @@
       ]
     },
     {
-      "id": "carrie-2026-b5fdc172",
-      "source": "phimapi",
-      "slug": "con-thinh-no-cua-carrie-2026",
-      "name": "Cơn Thịnh Nộ của Carrie",
-      "originName": "Carrie",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261023/con-thinh-no-cua-carrie-2026-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261023/con-thinh-no-cua-carrie-2026-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
-        }
-      ]
-    },
-    {
       "id": "jojo-s-bizarre-adventure-2026-b197aad7",
       "source": "phimapi",
       "slug": "cuoc-phieu-luu-ki-la-cua-jojo-phan-6",
@@ -773,7 +736,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Hành Động",
@@ -814,7 +777,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -845,63 +808,6 @@
       ]
     },
     {
-      "id": "cyberpunk-edgerunners-se-2026-d9886e85",
-      "source": "phimapi",
-      "slug": "cyberpunk-edgerunners-phan-2",
-      "name": "Cyberpunk Edgerunners (Phần 2)",
-      "originName": "Cyberpunk Edgerunners (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261021/cyberpunk-edgerunners-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261021/cyberpunk-edgerunners-phan-2-thumb.webp",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        },
-        {
-          "name": "Ba Lan",
-          "slug": "ba-lan"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "spare-me-great-lord-seas-2026-7390a512",
       "source": "phimapi",
       "slug": "dai-vuong-tha-mang-phan-3",
@@ -912,7 +818,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -998,7 +904,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Hành Động",
@@ -1019,6 +925,88 @@
         {
           "name": "Hoạt Hình",
           "slug": "hoat-hinh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "dragon-ball-super-beerus-2026-1a1047b4",
+      "source": "phimapi",
+      "slug": "dragon-ball-super-beerus",
+      "name": "Dragon Ball Super: Beerus",
+      "originName": "Dragon Ball Super: Beerus",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261012/dragon-ball-super-beerus-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261012/dragon-ball-super-beerus-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 6",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "even-though-i-m-a-super--2026-7ffdd0df",
+      "source": "phimapi",
+      "slug": "du-toi-la-mot-co-gai-quy-toc-cuc-ky-nhut-nhat-toi-da-chap-nhan-loi-ca-cuoc-tu-vi-hon-phu-xao-quyet-cua-minh",
+      "name": "Dù Tôi Là Một Cô Gái Quý Tộc Cực Kỳ Nhút Nhát, Tôi Đã Chấp Nhận Lời Cá Cược Từ Vị Hôn Phu Xảo Quyệt Của Mình",
+      "originName": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet from My Cunning Fiancé",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261005/du-toi-la-mot-co-gai-quy-toc-cuc-ky-nhut-nhat-toi-da-chap-nhan-loi-ca-cuoc-tu-vi-hon-phu-xao-quyet-cua-minh-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261005/du-toi-la-mot-co-gai-quy-toc-cuc-ky-nhut-nhat-toi-da-chap-nhan-loi-ca-cuoc-tu-vi-hon-phu-xao-quyet-cua-minh-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 7",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
         },
         {
           "name": "Tâm Lý",

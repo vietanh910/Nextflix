@@ -9,7 +9,7 @@
   "year": 2025,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 48",
+  "episodeCurrent": "Tập 49",
   "categories": [
     {
       "name": "Khoa Học",
@@ -417,13 +417,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261114/murqh9J3/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261114/murqh9J3/index.m3u8"
+    },
+    {
+      "name": "Tập 49",
+      "slug": "tap-49",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261121/bcY75AWd/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261121/bcY75AWd/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "quang-am-chi-ngoai",
-      "episodeCount": 48,
+      "episodeCount": 49,
       "priority": 1
     }
   ],

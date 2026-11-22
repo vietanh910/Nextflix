@@ -15,7 +15,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "episodeCurrent": "Tập 13",
       "categories": [
         {
           "name": "Hành Động",
@@ -52,7 +52,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 18",
+      "episodeCurrent": "Tập 30",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -104,6 +104,39 @@
         {
           "name": "Thổ Nhĩ Kỳ",
           "slug": "tho-nhi-ky"
+        }
+      ]
+    },
+    {
+      "id": "alan-s-universe-2026-a9732fd8",
+      "source": "phimapi",
+      "slug": "alan-s-universe",
+      "name": "Alan's Universe",
+      "originName": "Alan's Universe",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261117/alan-s-universe-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261117/alan-s-universe-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (32/32)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Mỹ",
+          "slug": "my"
         }
       ]
     },
@@ -162,8 +195,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20261106/am-thanh-cua-nhung-vien-duong-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -190,18 +223,22 @@
       ]
     },
     {
-      "id": "death-is-coming-2026-eb70d25a",
+      "id": "murder-in-galicia-2026-7b95bfeb",
       "source": "phimapi",
-      "slug": "an-tu-can-ke",
-      "name": "Án Tử Cận Kề",
-      "originName": "Death Is Coming",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261005/an-tu-can-ke-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261005/an-tu-can-ke-thumb.webp",
+      "slug": "an-mang-o-galicia",
+      "name": "Án Mạng Ở Galicia",
+      "originName": "Murder in Galicia",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261119/an-mang-o-galicia-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261119/an-mang-o-galicia-thumb.webp",
       "year": 2026,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (27/27)",
+      "episodeCurrent": "Hoàn Tất (3/3)",
       "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
         {
           "name": "Bí Ẩn",
           "slug": "bi-an"
@@ -217,8 +254,8 @@
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Tây Ban Nha",
+          "slug": "tay-ban-nha"
         }
       ]
     },
@@ -262,7 +299,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -303,7 +340,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -368,8 +405,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20261010/bac-si-x-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
       "categories": [
         {
           "name": "Bí Ẩn",
@@ -499,51 +536,6 @@
       ]
     },
     {
-      "id": "by-any-means-2026-19058efc",
-      "source": "phimapi",
-      "slug": "bang-moi-gia",
-      "name": "Bằng Mọi Giá",
-      "originName": "By Any Means",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261022/bang-moi-gia-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261022/bang-moi-gia-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Lịch Sử",
-          "slug": "lich-su"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Úc",
-          "slug": "uc"
-        },
-        {
-          "name": "Anh",
-          "slug": "anh"
-        }
-      ]
-    },
-    {
       "id": "motherland-2026-fe1336ce",
       "source": "phimapi",
       "slug": "bao-ve-dat-me",
@@ -554,7 +546,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hành Động",
@@ -669,7 +661,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -708,6 +700,39 @@
       ]
     },
     {
+      "id": "her-willing-subject-2026-d6c46b6a",
+      "source": "phimapi",
+      "slug": "be-toi-duoi-vay-nang",
+      "name": "Bề Tôi Dưới Váy Nàng",
+      "originName": "Her Willing Subject",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261120/be-toi-duoi-vay-nang-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261120/be-toi-duoi-vay-nang-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 12",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "blue-box-season-2-2026-5fffa961",
       "source": "phimapi",
       "slug": "blue-box-phan-2",
@@ -718,7 +743,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -821,7 +846,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -840,47 +865,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "buddy-2026-cc7c2fe1",
-      "source": "phimapi",
-      "slug": "buddy",
-      "name": "Buddy",
-      "originName": "Buddy",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261019/buddy-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261019/buddy-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Israel",
-          "slug": "israel"
         }
       ]
     }

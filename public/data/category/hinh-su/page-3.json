@@ -2,20 +2,20 @@
   "slug": "hinh-su",
   "name": "Hình Sự",
   "page": 3,
-  "totalPages": 3,
+  "totalPages": 4,
   "items": [
     {
-      "id": "lupin-season-3-2023-d974464e",
+      "id": "grace-season-4-2023-5b4dde6e",
       "source": "phimapi",
-      "slug": "sieu-trom-lupin-phan-3",
-      "name": "Siêu Trộm Lupin (Phần 3)",
-      "originName": "Lupin (Season 3)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261024/lupin-phan-3-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261024/lupin-phan-3-thumb.webp",
+      "slug": "thanh-tra-grace-phan-4",
+      "name": "Thanh Tra Grace (Phần 4)",
+      "originName": "Grace (Season 4)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261117/thanh-tra-grace-phan-4-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261117/thanh-tra-grace-phan-4-thumb.webp",
       "year": 2023,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (7/7)",
+      "episodeCurrent": "Hoàn Tất (4/4)",
       "categories": [
         {
           "name": "Hình Sự",
@@ -24,6 +24,39 @@
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "somebody-2022-979abefa",
+      "source": "phimapi",
+      "slug": "nguoi-nao-do",
+      "name": "Người Nào Đó",
+      "originName": "Somebody",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261117/nguoi-nao-do-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261117/nguoi-nao-do-thumb.webp",
+      "year": 2022,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
         },
         {
           "name": "Bí Ẩn",
@@ -36,65 +69,8 @@
       ],
       "countries": [
         {
-          "name": "Pháp",
-          "slug": "phap"
-        }
-      ]
-    },
-    {
-      "id": "cyberpunk-edgerunners-se-2022-031cef7f",
-      "source": "phimapi",
-      "slug": "cyberpunk-edgerunners-phan-1",
-      "name": "Cyberpunk Edgerunners (Phần 1)",
-      "originName": "Cyberpunk Edgerunners (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261021/cyberpunk-edgerunners-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261021/cyberpunk-edgerunners-phan-1-thumb.webp",
-      "year": 2022,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        },
-        {
-          "name": "Ba Lan",
-          "slug": "ba-lan"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
@@ -198,6 +174,72 @@
       ]
     },
     {
+      "id": "grace-season-2-2022-13b6b54c",
+      "source": "phimapi",
+      "slug": "thanh-tra-grace-phan-2",
+      "name": "Thanh Tra Grace (Phần 2)",
+      "originName": "Grace (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261117/thanh-tra-grace-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261117/thanh-tra-grace-phan-2-thumb.webp",
+      "year": 2022,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (3/3)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "grace-season-3-2022-1659f1f3",
+      "source": "phimapi",
+      "slug": "thanh-tra-grace-phan-3",
+      "name": "Thanh Tra Grace (Phần 3)",
+      "originName": "Grace (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261117/thanh-tra-grace-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261117/thanh-tra-grace-phan-3-thumb.webp",
+      "year": 2022,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (3/3)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
       "id": "high-heat-2022-d7e98e85",
       "source": "phimapi",
       "slug": "ngon-lua-cuong-nhiet-2022",
@@ -235,6 +277,76 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "are-you-lonesome-tonight-2021-87debb6f",
+      "source": "phimapi",
+      "slug": "chuyen-cu-nhiet-doi",
+      "name": "Chuyện Cũ Nhiệt Đới",
+      "originName": "Are You Lonesome Tonight?",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261120/chuyen-cu-nhiet-doi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261120/chuyen-cu-nhiet-doi-thumb.webp",
+      "year": 2021,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "vigil-season-1-2021-7d1aa63c",
+      "source": "phimapi",
+      "slug": "mat-an-vigil-phan-1",
+      "name": "Mật Án Vigil (Phần 1)",
+      "originName": "Vigil (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261117/mat-an-vigil-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261117/mat-an-vigil-phan-1-thumb.webp",
+      "year": 2021,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (6/6)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
         }
       ]
     },
@@ -375,6 +487,76 @@
         {
           "name": "Pháp",
           "slug": "phap"
+        }
+      ]
+    },
+    {
+      "id": "grace-season-1-2021-4eca4efe",
+      "source": "phimapi",
+      "slug": "thanh-tra-grace-phan-1",
+      "name": "Thanh Tra Grace (Phần 1)",
+      "originName": "Grace (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261117/thanh-tra-grace-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261117/thanh-tra-grace-phan-1-thumb.webp",
+      "year": 2021,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (2/2)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "the-vanished-2020-e01be6cc",
+      "source": "phimapi",
+      "slug": "lac-con-giua-rung",
+      "name": "Lạc Con Giữa Rừng",
+      "originName": "The Vanished",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261119/lac-con-giua-rung-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261119/lac-con-giua-rung-thumb.webp",
+      "year": 2020,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -544,6 +726,39 @@
       ]
     },
     {
+      "id": "mask-the-mask-2015-f1d8e5e7",
+      "source": "phimapi",
+      "slug": "mat-na-2015",
+      "name": "Mặt Nạ",
+      "originName": "Mask / The Mask",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261122/mat-na-2015-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261122/mat-na-2015-thumb.webp",
+      "year": 2015,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (20/20)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
       "id": "power-season-2-2015-5d341dd9",
       "source": "phimapi",
       "slug": "quyen-luc-phan-2",
@@ -606,158 +821,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "monster-2004-3b96146b",
-      "source": "phimapi",
-      "slug": "quai-vat-2004",
-      "name": "Quái Vật",
-      "originName": "Monster",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261115/quai-vat-2004-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261115/quai-vat-2004-thumb.webp",
-      "year": 2004,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (75/75)",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "detective-conan-the-time-1997-13c487ef",
-      "source": "phimapi",
-      "slug": "tham-tu-lung-danh-conan-qua-bom-choc-troi",
-      "name": "Thám Tử Lừng Danh Conan: Quả Bom Chọc Trời",
-      "originName": "Detective Conan: The Time Bombed Skyscraper",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260801/tham-tu-lung-danh-conan-qua-bom-choc-troi-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260801/tham-tu-lung-danh-conan-qua-bom-choc-troi-thumb.webp",
-      "year": 1997,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "money-train-1995-3da01527",
-      "source": "phimapi",
-      "slug": "tau-cho-tien",
-      "name": "Tàu Chở Tiền",
-      "originName": "Money Train",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261030/tau-cho-tien-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261030/tau-cho-tien-thumb.webp",
-      "year": 1995,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "a-brighter-summer-day-1991-e0f207a8",
-      "source": "phimapi",
-      "slug": "mot-ngay-he-tuoi-sang-hon",
-      "name": "Một Ngày Hè Tươi Sáng Hơn",
-      "originName": "A Brighter Summer Day",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261112/mot-ngay-he-tuoi-sang-hon-poster-3.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261112/mot-ngay-he-tuoi-sang-hon-thumb-2.webp",
-      "year": 1991,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Đài Loan",
-          "slug": "dai-loan"
         }
       ]
     }

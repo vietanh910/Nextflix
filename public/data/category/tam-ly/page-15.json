@@ -5,18 +5,26 @@
   "totalPages": 16,
   "items": [
     {
-      "id": "westworld-season-1-2016-cc29e441",
+      "id": "come-back-alive-2016-4fcc156d",
       "source": "phimapi",
-      "slug": "the-gioi-vien-tay-phan-1",
-      "name": "Thế Giới Viễn Tây (Phần 1)",
-      "originName": "Westworld (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261017/the-gioi-vien-tay-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261017/the-gioi-vien-tay-phan-1-thumb.webp",
+      "slug": "quy-ong-tro-lai",
+      "name": "Quý Ông Trở Lại",
+      "originName": "Come Back Alive",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261105/quy-ong-tro-lai-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261105/quy-ong-tro-lai-thumb.webp",
       "year": 2016,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
+      "episodeCurrent": "Hoàn Tất (16/16)",
       "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
         {
           "name": "Khoa Học",
           "slug": "khoa-hoc"
@@ -26,8 +34,37 @@
           "slug": "vien-tuong"
         },
         {
-          "name": "Miền Tây",
-          "slug": "mien-tay"
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "power-season-3-2016-dc223c4e",
+      "source": "phimapi",
+      "slug": "quyen-luc-phan-3",
+      "name": "Quyền Lực (Phần 3)",
+      "originName": "Power (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261111/quyen-luc-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261111/quyen-luc-phan-3-thumb.webp",
+      "year": 2016,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Tâm Lý",
@@ -38,6 +75,35 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "city-of-lust-2016-69206901",
+      "source": "phimapi",
+      "slug": "thanh-pho-duc-vong-2016",
+      "name": "Thành Phố Dục Vọng",
+      "originName": "City Of Lust",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261104/thanh-pho-duc-vong-2016-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261104/thanh-pho-duc-vong-2016-thumb.webp",
+      "year": 2016,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -100,47 +166,6 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "black-sails-season-2-2015-c370aaa2",
-      "source": "phimapi",
-      "slug": "canh-buom-den-phan-2",
-      "name": "Cánh Buồm Đen (Phần 2)",
-      "originName": "Black Sails (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260818/canh-buom-den-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260818/canh-buom-den-phan-2-thumb.webp",
-      "year": 2015,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nam Phi",
-          "slug": "nam-phi"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     },
@@ -211,6 +236,39 @@
       ]
     },
     {
+      "id": "mask-the-mask-2015-f1d8e5e7",
+      "source": "phimapi",
+      "slug": "mat-na-2015",
+      "name": "Mặt Nạ",
+      "originName": "Mask / The Mask",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261122/mat-na-2015-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261122/mat-na-2015-thumb.webp",
+      "year": 2015,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (20/20)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
       "id": "power-season-2-2015-5d341dd9",
       "source": "phimapi",
       "slug": "quyen-luc-phan-2",
@@ -240,6 +298,39 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "high-society-2015-68984592",
+      "source": "phimapi",
+      "slug": "xa-hoi-thuong-luu-gioi-thuong-luu",
+      "name": "Xã Hội Thượng Lưu / Giới Thượng Lưu",
+      "originName": "High Society",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261118/xa-hoi-thuong-luu-gioi-thuong-luu-poster.webp",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250224-1/0aa3d808b924df01ab043bafe4aac934.jpg",
+      "year": 2015,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (16/16)",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
@@ -277,6 +368,39 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "angel-eyes-2014-894263d5",
+      "source": "phimapi",
+      "slug": "doi-mat-thien-than-2014",
+      "name": "Đôi Mắt Thiên Thần",
+      "originName": "Angel Eyes",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261118/doi-mat-thien-than-2014-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261118/doi-mat-thien-than-2014-thumb.webp",
+      "year": 2014,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (20/20)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
@@ -384,6 +508,43 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "damsels-in-distress-2012-b62fe306",
+      "source": "phimapi",
+      "slug": "binh-dang-gioi",
+      "name": "Bình Đẳng Giới",
+      "originName": "Damsels in Distress",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261119/binh-dang-gioi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261119/binh-dang-gioi-thumb.webp",
+      "year": 2012,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -716,211 +877,6 @@
         {
           "name": "Ý",
           "slug": "y"
-        }
-      ]
-    },
-    {
-      "id": "stargate-atlantis-season-2005-680a8158",
-      "source": "phimapi",
-      "slug": "tran-chien-xuyen-vu-tru-phan-2",
-      "name": "Trận Chiến Xuyên Vũ Trụ (Phần 2)",
-      "originName": "Stargate Atlantis (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261031/tran-chien-xuyen-vu-tru-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261031/tran-chien-xuyen-vu-tru-phan-2-thumb.webp",
-      "year": 2005,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (20/20)",
-      "categories": [
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Canada",
-          "slug": "canada"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "love-story-in-harvard-2004-722b17bd",
-      "source": "phimapi",
-      "slug": "chuyen-tinh-havard",
-      "name": "Chuyện Tình Havard",
-      "originName": "Love Story In Harvard",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261021/chuyen-tinh-havard-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261021/chuyen-tinh-havard-thumb.webp",
-      "year": 2004,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (16/16)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "monster-2004-3b96146b",
-      "source": "phimapi",
-      "slug": "quai-vat-2004",
-      "name": "Quái Vật",
-      "originName": "Monster",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261115/quai-vat-2004-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261115/quai-vat-2004-thumb.webp",
-      "year": 2004,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (75/75)",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "stargate-atlantis-season-2004-f0890875",
-      "source": "phimapi",
-      "slug": "tran-chien-xuyen-vu-tru-phan-1",
-      "name": "Trận Chiến Xuyên Vũ Trụ (Phần 1)",
-      "originName": "Stargate Atlantis (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261031/tran-chien-xuyen-vu-tru-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261031/tran-chien-xuyen-vu-tru-phan-1-thumb.webp",
-      "year": 2004,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (20/20)",
-      "categories": [
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Canada",
-          "slug": "canada"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "one-fine-spring-day-2001-23b7264e",
-      "source": "phimapi",
-      "slug": "ngay-xuan-tuoi-dep",
-      "name": "Ngày Xuân Tươi Đẹp",
-      "originName": "One Fine Spring Day",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261018/ngay-xuan-tuoi-dep-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261018/ngay-xuan-tuoi-dep-thumb.webp",
-      "year": 2001,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
         }
       ]
     }

@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20261106/am-thanh-cua-nhung-vien-duong-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (10/10)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -85,13 +85,45 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261106/dsPv2wmK/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261106/dsPv2wmK/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261121/TqgnMPTM/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261121/TqgnMPTM/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261121/JOWC2PFE/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261121/JOWC2PFE/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261121/fYKqpY9F/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261121/fYKqpY9F/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261121/TWtopH1l/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261121/TWtopH1l/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "am-thanh-cua-nhung-vien-duong",
-      "episodeCount": 6,
+      "episodeCount": 10,
       "priority": 1
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 102",
+  "episodeCurrent": "Tập 103",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -857,13 +857,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261106/bgnApXni/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261106/bgnApXni/index.m3u8"
+    },
+    {
+      "name": "Tập 103",
+      "slug": "tap-103",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261116/dOkA4Ve4/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261116/dOkA4Ve4/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "thuong-nguyen-do",
-      "episodeCount": 102,
+      "episodeCount": 103,
       "priority": 1
     }
   ],

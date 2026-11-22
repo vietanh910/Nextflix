@@ -5,35 +5,6 @@
   "totalPages": 3,
   "items": [
     {
-      "id": "obsess-2026-78e53fba",
-      "source": "phimapi",
-      "slug": "linh-hon-thu-han",
-      "name": "Linh Hồn Thù Hận",
-      "originName": "Obsess",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261103/linh-hon-thu-han-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261103/linh-hon-thu-han-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (4/4)",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "KW",
-          "slug": "kw"
-        }
-      ]
-    },
-    {
       "id": "the-perfect-lie-2026-6f956b76",
       "source": "phimapi",
       "slug": "loi-noi-doi-hoan-hao-2026-kr",
@@ -85,7 +56,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Bí Ẩn",
@@ -137,43 +108,6 @@
       ]
     },
     {
-      "id": "slow-horses-season-6-2026-e228f84a",
-      "source": "phimapi",
-      "slug": "nhung-diep-vien-het-thoi-phan-6",
-      "name": "Những Điệp Viên Hết Thời (Phần 6)",
-      "originName": "Slow Horses (Season 6)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260925/nhung-diep-vien-het-thoi-phan-6-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260925/nhung-diep-vien-het-thoi-phan-6-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 6",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "phi-phong-the-blood-demo-2026-ac0aeeda",
       "source": "phimapi",
       "slug": "phi-phong-quy-mau-rung-thieng",
@@ -207,6 +141,72 @@
       ]
     },
     {
+      "id": "the-glory-fades-season-1-2026-790523ed",
+      "source": "phimapi",
+      "slug": "phon-hoa-lui-tan-phan-1",
+      "name": "Phồn Hoa Lụi Tàn (Phần 1)",
+      "originName": "The Glory Fades (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261120/phon-hoa-lui-tan-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260203-1/a8f6795b78547be683886e48c9dd3bb8.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (34/34)",
+      "categories": [
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-glory-fades-season-2-2026-ae4352a9",
+      "source": "phimapi",
+      "slug": "phon-hoa-lui-tan-phan-2",
+      "name": "Phồn Hoa Lụi Tàn (Phần 2)",
+      "originName": "The Glory Fades (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261120/phon-hoa-lui-tan-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261120/phon-hoa-lui-tan-phan-2-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 12",
+      "categories": [
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "folk-mysteries-record-2026-c3aa639a",
       "source": "phimapi",
       "slug": "quai-dam-tran-tong-gia",
@@ -236,6 +236,47 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-rules-2026-eb894d9f",
+      "source": "phimapi",
+      "slug": "quy-tac-nua-dem",
+      "name": "Quy Tắc Nữa Đêm",
+      "originName": "The Rules",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261112/the-rules-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261112/the-rules-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 5",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
         }
       ]
     },
@@ -287,7 +328,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -306,39 +347,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "light-the-dark-2026-52564b79",
-      "source": "phimapi",
-      "slug": "thap-sang-dem-den",
-      "name": "Thắp Sáng Đêm Đen",
-      "originName": "Light the Dark",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261016/thap-sang-dem-den-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261016/thap-sang-dem-den-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
         }
       ]
     },
@@ -368,47 +376,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-rules-2026-19f62d61",
-      "source": "phimapi",
-      "slug": "the-rules",
-      "name": "The Rules",
-      "originName": "The Rules",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261112/the-rules-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261112/the-rules-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 3",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
         }
       ]
     },
@@ -594,6 +561,43 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "last-one-standing-season-2026-1dc81e0d",
+      "source": "phimapi",
+      "slug": "vua-chuyen-bi-hai-phan-4",
+      "name": "Vua Chuyện Bi Hài (Phần 4)",
+      "originName": "Last One Standing (Season 4)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261117/vua-chuyen-bi-hai-phan-4-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261117/vua-chuyen-bi-hai-phan-4-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -804,33 +808,33 @@
       ]
     },
     {
-      "id": "psycho-pass-providence-2023-07471305",
+      "id": "last-one-standing-season-2024-80e6639c",
       "source": "phimapi",
-      "slug": "psycho-pass-su-menh",
-      "name": "Psycho-Pass: Sứ Mệnh",
-      "originName": "Psycho-Pass: Providence",
-      "posterUrl": "https://phimimg.com/upload/vod/20251023-1/aa8028750edee535e1d49f527bcd5f78.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251023-1/c932978f0ba6184d8b6711eef471d09b.jpg",
-      "year": 2023,
-      "type": "anime",
+      "slug": "vua-chuyen-bi-hai-phan-3",
+      "name": "Vua Chuyện Bi Hài (Phần 3)",
+      "originName": "Last One Standing (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261117/vua-chuyen-bi-hai-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261117/vua-chuyen-bi-hai-phan-3-thumb.webp",
+      "year": 2024,
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn Tất (8/8)",
       "categories": [
         {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
           "name": "Bí Ẩn",
           "slug": "bi-an"
         },
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [

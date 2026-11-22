@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -79,6 +79,22 @@
       "m3u8Url": "https://a.kvp726.com/20261111/bPKplzA8/index.m3u8"
     },
     {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261121/6Fp9Ghib/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261121/6Fp9Ghib/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261121/XTtMJzOL/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261121/XTtMJzOL/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Thuyết Minh",
@@ -117,13 +133,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261111/fk4cmhN6/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261111/fk4cmhN6/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261121/M53J6P9I/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261121/M53J6P9I/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261121/QXiF00kM/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261121/QXiF00kM/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261121/boTOnGuF/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261121/boTOnGuF/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "ngoc-nu-bao-thu",
-      "episodeCount": 11,
+      "episodeCount": 16,
       "priority": 1
     }
   ],

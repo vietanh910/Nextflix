@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 7",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -89,13 +89,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261109/5PRdlk3D/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261109/5PRdlk3D/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261116/UStovxxh/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261116/UStovxxh/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "vung-dat-xa-xam",
-      "episodeCount": 6,
+      "episodeCount": 7,
       "priority": 1
     }
   ],

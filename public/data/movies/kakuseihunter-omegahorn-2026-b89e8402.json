@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 15",
+  "episodeCurrent": "Tập 16",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -155,6 +155,14 @@
       "m3u8Url": "https://a.kvp726.com/20261109/i3ATdv1i/index.m3u8"
     },
     {
+      "name": "Tập 16",
+      "slug": "tap-16",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261116/LjxJxTkZ/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261116/LjxJxTkZ/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Lồng Tiếng",
@@ -273,13 +281,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261109/bWg56V8H/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261109/bWg56V8H/index.m3u8"
+    },
+    {
+      "name": "Tập 16",
+      "slug": "tap-16",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261116/TXLAj19W/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261116/TXLAj19W/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "tho-san-giac-thu-omegahorn",
-      "episodeCount": 30,
+      "episodeCount": 32,
       "priority": 1
     }
   ],

@@ -2,163 +2,8 @@
   "slug": "vien-tuong",
   "name": "Viễn Tưởng",
   "page": 2,
-  "totalPages": 6,
+  "totalPages": 5,
   "items": [
-    {
-      "id": "echoes-of-the-fallen-2026-12c786d5",
-      "source": "phimapi",
-      "slug": "dich-nhan-kiet-bat-tu-quan",
-      "name": "Địch Nhân Kiệt: Bất Tử Quân",
-      "originName": "Echoes Of The Fallen",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261021/dich-nhan-kiet-bat-tu-quan-poster.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "doraemon-the-movie-new-n-2026-cd3a77a5",
-      "source": "phimapi",
-      "slug": "doraemon-nobita-va-lau-dai-duoi-day-bien-phien-ban-moi",
-      "name": "Doraemon: Nobita và Lâu Đài Dưới Đáy Biển (Phiên Bản Mới)",
-      "originName": "Doraemon the Movie: New Nobita and the Castle of the Undersea Devil",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260829/doraemon-nobita-va-lau-dai-duoi-day-bien-phien-ban-moi-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260829/doraemon-nobita-va-lau-dai-duoi-day-bien-phien-ban-moi-thumb.webp",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "dragon-ball-super-beerus-2026-1a1047b4",
-      "source": "phimapi",
-      "slug": "dragon-ball-super-beerus",
-      "name": "Dragon Ball Super: Beerus",
-      "originName": "Dragon Ball Super: Beerus",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261012/dragon-ball-super-beerus-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261012/dragon-ball-super-beerus-thumb.webp",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 5",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "even-though-i-m-a-super--2026-7ffdd0df",
-      "source": "phimapi",
-      "slug": "du-toi-la-mot-co-gai-quy-toc-cuc-ky-nhut-nhat-toi-da-chap-nhan-loi-ca-cuoc-tu-vi-hon-phu-xao-quyet-cua-minh",
-      "name": "Dù Tôi Là Một Cô Gái Quý Tộc Cực Kỳ Nhút Nhát, Tôi Đã Chấp Nhận Lời Cá Cược Từ Vị Hôn Phu Xảo Quyệt Của Mình",
-      "originName": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet from My Cunning Fiancé",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261005/du-toi-la-mot-co-gai-quy-toc-cuc-ky-nhut-nhat-toi-da-chap-nhan-loi-ca-cuoc-tu-vi-hon-phu-xao-quyet-cua-minh-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261005/du-toi-la-mot-co-gai-quy-toc-cuc-ky-nhut-nhat-toi-da-chap-nhan-loi-ca-cuoc-tu-vi-hon-phu-xao-quyet-cua-minh-thumb.webp",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 6",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
     {
       "id": "under-the-gate-2026-594afaf7",
       "source": "phimapi",
@@ -169,8 +14,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20260807/gioi-mon-chi-ha-thumb.webp",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 23",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (25/25)",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -211,7 +56,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Hành Động",
@@ -248,7 +93,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -330,7 +175,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -412,7 +257,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 37",
+      "episodeCurrent": "Tập 39",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -474,7 +319,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -620,6 +465,47 @@
       ]
     },
     {
+      "id": "a-new-way-for-sanctifica-2026-80012884",
+      "source": "phimapi",
+      "slug": "lan-lon-ngay-tan-the-mot-minh-thanh-tien",
+      "name": "Lăn Lộn Ngày Tận Thế, Một Mình Thành Tiên",
+      "originName": "A New Way For Sanctification",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261118/lan-lon-ngay-tan-the-mot-minh-thanh-tien-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261118/lan-lon-ngay-tan-the-mot-minh-thanh-tien-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 4",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "oops-mysterious-sounds-2026-e708dfec",
       "source": "phimapi",
       "slug": "lang-nghe-thanh-am",
@@ -629,8 +515,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20260919/lang-nghe-thanh-am-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -667,7 +553,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 12",
+      "episodeCurrent": "Tập 13",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -700,7 +586,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 18",
+      "episodeCurrent": "Tập 19",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -733,7 +619,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -823,7 +709,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -876,7 +762,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -948,6 +834,125 @@
         {
           "name": "New Zealand",
           "slug": "new-zealand"
+        }
+      ]
+    },
+    {
+      "id": "star-detective-precure-2026-99cb3f38",
+      "source": "phimapi",
+      "slug": "meitantei-precure",
+      "name": "Meitantei Precure!",
+      "originName": "Star Detective Precure!",
+      "posterUrl": "https://phimimg.com/upload/vod/20260607-1/0d46f3ca0500b986fda2df9d94ab9efa.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260607-1/9369fb0b1a0db1c015470c105d065ba0.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 39",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "thirteen-types-of-love-2026-2c2f8df4",
+      "source": "phimapi",
+      "slug": "muoi-ba-kieu-tinh-yeu",
+      "name": "Mười Ba Kiểu Tình Yêu",
+      "originName": "Thirteen Types Of Love",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261113/muoi-ba-kieu-tinh-yeu-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261113/muoi-ba-kieu-tinh-yeu-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (18/18)",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "dark-matter-season-2-2026-6f44ea66",
+      "source": "phimapi",
+      "slug": "nguoi-chay-xuyen-khong-gian-phan-2",
+      "name": "Người Chạy Xuyên Không Gian (Phần 2)",
+      "originName": "Dark Matter (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260829/nguoi-chay-xuyen-khong-gian-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260829/nguoi-chay-xuyen-khong-gian-phan-2-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     }

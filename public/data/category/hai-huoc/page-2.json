@@ -2,8 +2,74 @@
   "slug": "hai-huoc",
   "name": "Hài Hước",
   "page": 2,
-  "totalPages": 5,
+  "totalPages": 6,
   "items": [
+    {
+      "id": "her-in-frame-2026-af1ceace",
+      "source": "phimapi",
+      "slug": "em-trong-khung-anh",
+      "name": "Em Trong Khung Ảnh",
+      "originName": "Her in Frame",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261029/em-trong-khung-anh-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261029/em-trong-khung-anh-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "you-me-us-2026-aba0e452",
+      "source": "phimapi",
+      "slug": "em-anh-chung-ta",
+      "name": "Em, Anh, Chúng Ta",
+      "originName": "You, Me, Us",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261030/em-anh-chung-ta-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261030/em-anh-chung-ta-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ý",
+          "slug": "y"
+        }
+      ]
+    },
     {
       "id": "gail-daughtry-and-the-ce-2026-624e31df",
       "source": "phimapi",
@@ -38,43 +104,6 @@
       ]
     },
     {
-      "id": "the-love-hypothesis-2026-a4a322e3",
-      "source": "phimapi",
-      "slug": "gia-thuyet-tinh-yeu",
-      "name": "Giả Thuyết Tình Yêu",
-      "originName": "The Love Hypothesis",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261019/gia-thuyet-tinh-yeu-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261019/gia-thuyet-tinh-yeu-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "sixth-sense-b-side-2026-58b9a33c",
       "source": "phimapi",
       "slug": "giac-quan-thu-sau-mat-trai",
@@ -85,7 +114,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hài Hước",
@@ -141,6 +170,43 @@
       ]
     },
     {
+      "id": "hb2me-2026-e5e274cb",
+      "source": "phimapi",
+      "slug": "hb2me-chuc-mung-sinh-nhat-toi",
+      "name": "HB2ME: Chúc Mừng Sinh Nhật Tôi",
+      "originName": "HB2Me",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261120/hb2me-chuc-mung-sinh-nhat-toi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261120/hb2me-chuc-mung-sinh-nhat-toi-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Philippines",
+          "slug": "philippines"
+        }
+      ]
+    },
+    {
       "id": "the-christmas-switch-2026-c46dafc6",
       "source": "phimapi",
       "slug": "hoan-doi-dip-giang-sinh",
@@ -184,7 +250,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -217,7 +283,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -336,7 +402,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -409,8 +475,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20260921/ky-tuc-xa-lam-chieu-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -439,7 +505,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 28",
+      "episodeCurrent": "Tập 36",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -636,7 +702,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -704,39 +770,6 @@
       ]
     },
     {
-      "id": "the-mothers-of-penguins--2026-16acc652",
-      "source": "phimapi",
-      "slug": "nhung-nguoi-me-cua-bay-canh-cut-phan-2",
-      "name": "Những Người Mẹ Của Bầy Cánh Cụt (Phần 2)",
-      "originName": "The Mothers Of Penguins (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261022/nhung-nguoi-me-cua-bay-canh-cut-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261022/nhung-nguoi-me-cua-bay-canh-cut-phan-2-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (6/6)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Ba Lan",
-          "slug": "ba-lan"
-        }
-      ]
-    },
-    {
       "id": "uncle-s-obsession-with-c-2026-b1fd330f",
       "source": "phimapi",
       "slug": "noi-am-anh-cua-ong-chu-voi-nhung-thu-de-thuong",
@@ -747,7 +780,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -784,7 +817,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Hình Sự",
@@ -814,55 +847,6 @@
       "originName": "Full Clearing Another World Under A Goddess With Zero Believers",
       "posterUrl": "https://phimimg.com/uploads/movies/20261012/pha-dao-di-gioi-cung-nu-than-khong-tin-do-poster.webp",
       "thumbUrl": "https://phimimg.com/uploads/movies/20261012/pha-dao-di-gioi-cung-nu-than-khong-tin-do-thumb.webp",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 5",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "the-laid-off-cheat-grant-2026-fd132ee3",
-      "source": "phimapi",
-      "slug": "phap-su-gian-lan-bi-sa-thai-tan-huong-cuoc-song-thu-hai",
-      "name": "Pháp Sư Gian Lận Bị Sa Thải Tận Hưởng Cuộc Sống Thứ Hai",
-      "originName": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261008/phap-su-gian-lan-bi-sa-thai-tan-huong-cuoc-song-thu-hai-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261008/phap-su-gian-lan-bi-sa-thai-tan-huong-cuoc-song-thu-hai-thumb.webp",
       "year": 2026,
       "type": "anime",
       "status": "ongoing",

@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 179",
+  "episodeCurrent": "Tập 180",
   "categories": [
     {
       "name": "Hành Động",
@@ -1465,13 +1465,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261113/nQPFkMnJ/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261113/nQPFkMnJ/index.m3u8"
+    },
+    {
+      "name": "Tập 180",
+      "slug": "tap-180",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261121/85pAlPTr/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261121/85pAlPTr/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "dau-la-dai-luc-2-tuyet-the-duong-mon",
-      "episodeCount": 179,
+      "episodeCount": 180,
       "priority": 1
     }
   ],

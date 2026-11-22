@@ -1,0 +1,59 @@
+{
+  "id": "it-lives-inside-2023-c7f32ca1",
+  "source": "phimapi",
+  "slug": "phong-an-quy-du",
+  "name": "Phong Ấn Quỷ Dữ",
+  "originName": "It Lives Inside",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261120/phong-an-quy-du-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261120/phong-an-quy-du-thumb.webp",
+  "year": 2023,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    },
+    {
+      "name": "Bí Ẩn",
+      "slug": "bi-an"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Canada",
+      "slug": "canada"
+    },
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Sam, một thiếu niên người Mỹ gốc Ấn, đang cố gắng hòa nhập môi trường học tập với nhiều khác biệt văn hóa. Khi một con quỷ khát máu trong thần thoại đeo bám người bạn thân thiết của cô, Sam buộc phải đối mặt để đánh bại nó.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261120/dFiZrRgy/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261120/dFiZrRgy/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "phong-an-quy-du",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

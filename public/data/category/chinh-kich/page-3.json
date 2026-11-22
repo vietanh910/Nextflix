@@ -5,21 +5,29 @@
   "totalPages": 14,
   "items": [
     {
-      "id": "rise-of-the-mystic-outca-2026-f45c5d13",
+      "id": "bid-coin-chef-2026-e669ce30",
       "source": "phimapi",
-      "slug": "cuu-le-khi-thieu",
-      "name": "Cửu Lê Khí Thiếu",
-      "originName": "Rise Of The Mystic Outcast",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261017/cuu-le-khi-thieu-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261017/cuu-le-khi-thieu-thumb.webp",
+      "slug": "dau-bep-dau-gia",
+      "name": "Đầu Bếp Đấu Giá",
+      "originName": "Bid Coin Chef",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260722/dau-bep-dau-gia-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/dau-bep-dau-gia-thumb.webp",
       "year": 2026,
-      "type": "series",
+      "type": "tvshow",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
+      "episodeCurrent": "Hoàn Tất (10/10)",
       "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
           "name": "Tâm Lý",
@@ -28,74 +36,8 @@
       ],
       "countries": [
         {
-          "name": "Mỹ",
-          "slug": "my"
-        }
-      ]
-    },
-    {
-      "id": "firefly-wedding-2026-1837ab66",
-      "source": "phimapi",
-      "slug": "dam-cuoi-dom-dom",
-      "name": "Đám Cưới Đom Đóm",
-      "originName": "Firefly Wedding",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261010/dam-cuoi-dom-dom-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261010/dam-cuoi-dom-dom-thumb.webp",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 6",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "political-lupin-2026-bb492247",
-      "source": "phimapi",
-      "slug": "dao-chich-chinh-truong",
-      "name": "Đạo Chích Chính Trường",
-      "originName": "Political Lupin",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261024/dao-chich-chinh-truong-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261024/dao-chich-chinh-truong-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 4",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
+          "name": "Thái Lan",
+          "slug": "thai-lan"
         }
       ]
     },
@@ -203,6 +145,39 @@
       ]
     },
     {
+      "id": "dhindora-season-2-2026-21fd9ccc",
+      "source": "phimapi",
+      "slug": "dhindora-phan-2",
+      "name": "Dhindora (Phần 2)",
+      "originName": "Dhindora (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261121/dhindora-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261121/dhindora-phan-2-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ấn Độ",
+          "slug": "an-do"
+        }
+      ]
+    },
+    {
       "id": "dark-legacy-2026-69e55dc9",
       "source": "phimapi",
       "slug": "di-san-den-toi",
@@ -235,42 +210,6 @@
       ]
     },
     {
-      "id": "echoes-of-the-fallen-2026-12c786d5",
-      "source": "phimapi",
-      "slug": "dich-nhan-kiet-bat-tu-quan",
-      "name": "Địch Nhân Kiệt: Bất Tử Quân",
-      "originName": "Echoes Of The Fallen",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261021/dich-nhan-kiet-bat-tu-quan-poster.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
       "id": "love-on-hire-uncut-ver-2026-495367c8",
       "source": "phimapi",
       "slug": "dich-vu-chia-tay-thue",
@@ -281,7 +220,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -296,6 +235,39 @@
         {
           "name": "Thái Lan",
           "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "the-eyes-2026-e07ad773",
+      "source": "phimapi",
+      "slug": "diem-mu-2026",
+      "name": "Điểm Mù",
+      "originName": "The Eyes",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261120/diem-mu-2026-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261120/diem-mu-2026-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
@@ -339,7 +311,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 21",
+      "episodeCurrent": "Tập 23",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -368,7 +340,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -424,43 +396,6 @@
       ]
     },
     {
-      "id": "don-t-move-2026-9c973fe2",
-      "source": "phimapi",
-      "slug": "dung-di-chuyen",
-      "name": "Đừng Di Chuyển",
-      "originName": "Don't Move",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261019/dung-di-chuyen-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261019/dung-di-chuyen-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Canada",
-          "slug": "canada"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "quite-the-girl-2026-ac3ae717",
       "source": "phimapi",
       "slug": "dung-la-mot-co-gai-ngoan-ngoan",
@@ -500,7 +435,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -523,6 +458,35 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "under-her-rules-2026-21ee55e7",
+      "source": "phimapi",
+      "slug": "duoi-anh-trang-cua-nang",
+      "name": "Dưới Ánh Trăng Của Nàng",
+      "originName": "Under Her Rules",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261115/duoi-anh-trang-cua-nang-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261115/duoi-anh-trang-cua-nang-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 2",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
         }
       ]
     },
@@ -672,8 +636,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 22",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (27/27)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -692,43 +656,6 @@
       ]
     },
     {
-      "id": "the-love-hypothesis-2026-a4a322e3",
-      "source": "phimapi",
-      "slug": "gia-thuyet-tinh-yeu",
-      "name": "Giả Thuyết Tình Yêu",
-      "originName": "The Love Hypothesis",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261019/gia-thuyet-tinh-yeu-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261019/gia-thuyet-tinh-yeu-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "sixth-sense-b-side-2026-58b9a33c",
       "source": "phimapi",
       "slug": "giac-quan-thu-sau-mat-trai",
@@ -739,7 +666,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hài Hước",
@@ -791,6 +718,80 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "collision-course-2026-ba76db8c",
+      "source": "phimapi",
+      "slug": "giao-diem-xung-dot",
+      "name": "Giao Điểm Xung Đột",
+      "originName": "Collision Course",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261031/giao-diem-xung-dot-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261031/giao-diem-xung-dot-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Tây Ban Nha",
+          "slug": "tay-ban-nha"
+        }
+      ]
+    },
+    {
+      "id": "the-long-watch-2026-bcd3d2db",
+      "source": "phimapi",
+      "slug": "giao-phong",
+      "name": "Giao Phong",
+      "originName": "The Long Watch",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260908/giao-phong-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260908/giao-phong-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (40/40)",
+      "categories": [
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     }

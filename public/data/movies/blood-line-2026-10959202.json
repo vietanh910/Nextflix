@@ -8,7 +8,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -76,13 +76,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261113/ikL2MeZe/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261113/ikL2MeZe/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261120/paAV0ufA/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261120/paAV0ufA/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261120/vTloogUI/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261120/vTloogUI/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "lan-ranh-mau",
-      "episodeCount": 6,
+      "episodeCount": 8,
       "priority": 1
     }
   ],

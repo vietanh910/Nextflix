@@ -15,7 +15,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 18",
+      "episodeCurrent": "Tập 30",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -80,8 +80,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20261106/am-thanh-cua-nhung-vien-duong-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -108,18 +108,22 @@
       ]
     },
     {
-      "id": "death-is-coming-2026-eb70d25a",
+      "id": "murder-in-galicia-2026-7b95bfeb",
       "source": "phimapi",
-      "slug": "an-tu-can-ke",
-      "name": "Án Tử Cận Kề",
-      "originName": "Death Is Coming",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261005/an-tu-can-ke-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261005/an-tu-can-ke-thumb.webp",
+      "slug": "an-mang-o-galicia",
+      "name": "Án Mạng Ở Galicia",
+      "originName": "Murder in Galicia",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261119/an-mang-o-galicia-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261119/an-mang-o-galicia-thumb.webp",
       "year": 2026,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (27/27)",
+      "episodeCurrent": "Hoàn Tất (3/3)",
       "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
         {
           "name": "Bí Ẩn",
           "slug": "bi-an"
@@ -135,8 +139,8 @@
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Tây Ban Nha",
+          "slug": "tay-ban-nha"
         }
       ]
     },
@@ -150,8 +154,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20261010/bac-si-x-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
       "categories": [
         {
           "name": "Bí Ẩn",
@@ -299,7 +303,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -330,33 +334,25 @@
       ]
     },
     {
-      "id": "carrie-2026-b5fdc172",
+      "id": "the-blue-road-2026-4487c255",
       "source": "phimapi",
-      "slug": "con-thinh-no-cua-carrie-2026",
-      "name": "Cơn Thịnh Nộ của Carrie",
-      "originName": "Carrie",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261023/con-thinh-no-cua-carrie-2026-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261023/con-thinh-no-cua-carrie-2026-thumb.webp",
+      "slug": "con-duong-buon-dau",
+      "name": "Con Đường Buồn Đau",
+      "originName": "The Blue Road",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261120/con-duong-buon-dau-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261120/con-duong-buon-dau-thumb.webp",
       "year": 2026,
       "type": "series",
       "status": "completed",
       "episodeCurrent": "Hoàn Tất (8/8)",
       "categories": [
         {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
           "name": "Bí Ẩn",
           "slug": "bi-an"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
         },
         {
           "name": "Tâm Lý",
@@ -365,12 +361,8 @@
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
@@ -454,7 +446,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -574,39 +566,6 @@
         {
           "name": "Âm Nhạc",
           "slug": "am-nhac"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "crystal-lake-2026-b26e36d6",
-      "source": "phimapi",
-      "slug": "ho-crystal",
-      "name": "Hồ Crystal",
-      "originName": "Crystal Lake",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261021/ho-crystal-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261021/ho-crystal-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
         }
       ],
       "countries": [
@@ -738,7 +697,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -779,7 +738,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -824,7 +783,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -860,8 +819,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20260919/lang-nghe-thanh-am-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -884,6 +843,35 @@
         {
           "name": "Thái Lan",
           "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "obsess-2026-78e53fba",
+      "source": "phimapi",
+      "slug": "linh-hon-thu-han",
+      "name": "Linh Hồn Thù Hận",
+      "originName": "Obsess",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261103/linh-hon-thu-han-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261103/linh-hon-thu-han-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (4/4)",
+      "categories": [
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "KW",
+          "slug": "kw"
         }
       ]
     }

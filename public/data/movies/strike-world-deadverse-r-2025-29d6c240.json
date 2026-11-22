@@ -9,7 +9,7 @@
   "year": 2025,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -69,13 +69,45 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261115/8tlGSieT/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261115/8tlGSieT/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261117/gWcH93Kb/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261117/gWcH93Kb/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261117/0F7xOW7l/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261117/0F7xOW7l/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261117/KautTrAY/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261117/KautTrAY/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261117/HfbVU8iD/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261117/HfbVU8iD/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "monster-strike-deadverse-reloaded",
-      "episodeCount": 4,
+      "episodeCount": 8,
       "priority": 1
     }
   ],

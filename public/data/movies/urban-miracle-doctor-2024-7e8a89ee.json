@@ -9,7 +9,7 @@
   "year": 2024,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 228",
+  "episodeCurrent": "Tập 230",
   "categories": [
     {
       "name": "Hành Động",
@@ -1857,13 +1857,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261111/aAgjIHuw/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261111/aAgjIHuw/index.m3u8"
+    },
+    {
+      "name": "Tập 229",
+      "slug": "tap-229",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261115/WIZdyTs8/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261115/WIZdyTs8/index.m3u8"
+    },
+    {
+      "name": "Tập 230",
+      "slug": "tap-230",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261118/rqPGf3vn/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261118/rqPGf3vn/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "than-y-co-dai-o-do-thi-do-thi-co-tien-y",
-      "episodeCount": 228,
+      "episodeCount": 230,
       "priority": 1
     }
   ],

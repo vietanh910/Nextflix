@@ -1,0 +1,51 @@
+{
+  "id": "bad-actor-2024-84837d1e",
+  "source": "phimapi",
+  "slug": "loi-to-cao-tren-phim-truong",
+  "name": "Lời Tố Cáo Trên Phim Trường",
+  "originName": "Bad Actor",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261120/loi-to-cao-tren-phim-truong-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261120/loi-to-cao-tren-phim-truong-thumb.webp",
+  "year": 2024,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Mexico",
+      "slug": "mexico"
+    }
+  ],
+  "description": "<p>Khi phim còn đang quay, nữ diễn viên Sandra Navarro tố cáo đồng nghiệp Daniel Zavala xâm hại cô ở một cảnh quay giường chiếu nhưng Daniel lại khăng khăng mình vô tội. Liệu ai mới là người nói thật?</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261120/0O1OFXXh/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261120/0O1OFXXh/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "loi-to-cao-tren-phim-truong",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

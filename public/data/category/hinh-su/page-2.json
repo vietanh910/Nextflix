@@ -2,94 +2,8 @@
   "slug": "hinh-su",
   "name": "Hình Sự",
   "page": 2,
-  "totalPages": 3,
+  "totalPages": 4,
   "items": [
-    {
-      "id": "love-in-disguise-2026-7831d768",
-      "source": "phimapi",
-      "slug": "tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang",
-      "name": "Tình Yêu Trong Vỏ Bọc / Tình Yêu Ngụy Trang",
-      "originName": "Love in Disguise",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261020/tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261020/tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 8",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "tokyo-revengers-war-of-t-2026-d09e766c",
-      "source": "phimapi",
-      "slug": "tokyo-revengers-cuoc-chien-cua-ba-titan",
-      "name": "Tokyo Revengers: Cuộc chiến của ba Titan",
-      "originName": "Tokyo Revengers: War of the Three Titan Arc",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261013/tokyo-revengers-cuoc-chien-cua-ba-titan-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261013/tokyo-revengers-cuoc-chien-cua-ba-titan-thumb.webp",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 6",
-      "categories": [
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
     {
       "id": "kidnap-game-2026-6773d818",
       "source": "phimapi",
@@ -749,6 +663,39 @@
       ]
     },
     {
+      "id": "vigil-season-2-2023-7c39a70e",
+      "source": "phimapi",
+      "slug": "mat-an-vigil-phan-2",
+      "name": "Mật Án Vigil (Phần 2)",
+      "originName": "Vigil (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261117/mat-an-vigil-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261117/mat-an-vigil-phan-2-thumb.webp",
+      "year": 2023,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 4",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
       "id": "psycho-pass-providence-2023-07471305",
       "source": "phimapi",
       "slug": "psycho-pass-su-menh",
@@ -881,6 +828,43 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "lupin-season-3-2023-d974464e",
+      "source": "phimapi",
+      "slug": "sieu-trom-lupin-phan-3",
+      "name": "Siêu Trộm Lupin (Phần 3)",
+      "originName": "Lupin (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261024/lupin-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261024/lupin-phan-3-thumb.webp",
+      "year": 2023,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (7/7)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
         }
       ]
     }

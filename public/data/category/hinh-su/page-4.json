@@ -5,18 +5,22 @@
   "totalPages": 4,
   "items": [
     {
-      "id": "kazama-kimichika-kyojo-z-2023-3cb2a653",
+      "id": "monster-2004-3b96146b",
       "source": "phimapi",
-      "slug": "giang-duong-thep",
-      "name": "Giảng Đường Thép",
-      "originName": "Kazama Kimichika: Kyojo Zero",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260808/giang-duong-thep-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260808/giang-duong-thep-thumb.webp",
-      "year": 2023,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "slug": "quai-vat-2004",
+      "name": "Quái Vật",
+      "originName": "Monster",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261115/quai-vat-2004-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261115/quai-vat-2004-thumb.webp",
+      "year": 2004,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (75/75)",
       "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
@@ -42,111 +46,25 @@
       ]
     },
     {
-      "id": "reacher-season-2-2023-526fdd55",
+      "id": "money-train-1995-3da01527",
       "source": "phimapi",
-      "slug": "phat-sung-cuoi-cung-phan-2",
-      "name": "Phát Súng Cuối Cùng (Phần 2)",
-      "originName": "Reacher (Season 2)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260817/phat-sung-cuoi-cung-phan-2-poster.webp",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250227-1/3cb43c61ae7ecb806743a9c3da06f1c7.jpg",
-      "year": 2023,
-      "type": "series",
+      "slug": "tau-cho-tien",
+      "name": "Tàu Chở Tiền",
+      "originName": "Money Train",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261030/tau-cho-tien-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261030/tau-cho-tien-thumb.webp",
+      "year": 1995,
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
         },
         {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "avalanche-2021-b6b7c2bb",
-      "source": "phimapi",
-      "slug": "biet-doi-cong-ly-avalanche",
-      "name": "Biệt Đội Công Lý Avalanche",
-      "originName": "Avalanche",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260808/biet-doi-cong-ly-avalanche-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260808/biet-doi-cong-ly-avalanche-thumb.webp",
-      "year": 2021,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 8",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "War & Politics",
-          "slug": "war-politics"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "godfather-of-harlem-seas-2021-4a1bac1a",
-      "source": "phimapi",
-      "slug": "bo-gia-vung-harlem-phan-2",
-      "name": "Bố Già Vùng Harlem (Phần 2)",
-      "originName": "Godfather Of Harlem (Season 2)",
-      "posterUrl": "https://phimimg.com/upload/vod/20250308-1/1d3be99f7e6eccfe182a3f2574bdb47c.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250308-1/35ab619ae8cd329b634cf9646097cac0.jpg",
-      "year": 2021,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
           "name": "Hình Sự",
@@ -165,14 +83,14 @@
       ]
     },
     {
-      "id": "and-tomorrow-the-entire--2021-c1c96411",
+      "id": "a-brighter-summer-day-1991-e0f207a8",
       "source": "phimapi",
-      "slug": "va-ngay-mai-ca-the-gioi",
-      "name": "Và Ngày Mai, Cả Thế Giới",
-      "originName": "And Tomorrow The Entire World / Und morgen die ganze Welt",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260815/va-ngay-mai-ca-the-gioi-und-morgen-die-ganze-welt-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260815/va-ngay-mai-ca-the-gioi-und-morgen-die-ganze-welt-thumb.webp",
-      "year": 2021,
+      "slug": "mot-ngay-he-tuoi-sang-hon",
+      "name": "Một Ngày Hè Tươi Sáng Hơn",
+      "originName": "A Brighter Summer Day",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261112/mot-ngay-he-tuoi-sang-hon-poster-3.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261112/mot-ngay-he-tuoi-sang-hon-thumb-2.webp",
+      "year": 1991,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
@@ -196,288 +114,8 @@
       ],
       "countries": [
         {
-          "name": "Pháp",
-          "slug": "phap"
-        },
-        {
-          "name": "Đức",
-          "slug": "duc"
-        }
-      ]
-    },
-    {
-      "id": "godfather-of-harlem-seas-2019-8a3a9955",
-      "source": "phimapi",
-      "slug": "bo-gia-vung-harlem-phan-1",
-      "name": "Bố Già Vùng Harlem (Phần 1)",
-      "originName": "Godfather Of Harlem (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20250308-1/889a1f5ff47531da2bca20c1a2fdfb42.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250308-1/10fd97dfa2fcf0367b8e6719428ed44d.jpg",
-      "year": 2019,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "no-way-for-stumer-2019-fb626933",
-      "source": "phimapi",
-      "slug": "hoi-ket-cua-ke-lam-tien-gia",
-      "name": "Hồi Kết Của Kẻ Làm Tiền Giả",
-      "originName": "No Way For Stumer",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260821/hoi-ket-cua-ke-lam-tien-gia-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260821/hoi-ket-cua-ke-lam-tien-gia-thumb.webp",
-      "year": 2019,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (24/24)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "don-t-breathe-2016-3a36d342",
-      "source": "phimapi",
-      "slug": "sat-nhan-trong-bong-toi",
-      "name": "Sát Nhân Trong Bóng Tối",
-      "originName": "Don't Breathe",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260809/sat-nhan-trong-bong-toi-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260809/sat-nhan-trong-bong-toi-thumb.webp",
-      "year": 2016,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "007-spectre-2015-353a6cd1",
-      "source": "ophim",
-      "slug": "diep-vien-007-bong-ma",
-      "name": "Điệp Viên 007: Bóng Ma",
-      "originName": "007: SPECTRE",
-      "posterUrl": "diep-vien-007-bong-ma-poster.jpg",
-      "thumbUrl": "diep-vien-007-bong-ma-thumb.jpg",
-      "year": 2015,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Anh",
-          "slug": "anh"
-        }
-      ]
-    },
-    {
-      "id": "vigilante-force-2003-5734d388",
-      "source": "ophim",
-      "slug": "tri-dung-song-hung",
-      "name": "Trí Dũng Song Hùng",
-      "originName": "Vigilante Force",
-      "posterUrl": "tri-dung-song-hung-poster.jpg",
-      "thumbUrl": "tri-dung-song-hung-thumb.jpg",
-      "year": 2003,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (30/30)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        },
-        {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
-        }
-      ]
-    },
-    {
-      "id": "the-man-who-wasn-t-there-2001-ce519499",
-      "source": "phimapi",
-      "slug": "nguoi-dan-ong-vang-mat",
-      "name": "Người Đàn Ông Vắng Mặt",
-      "originName": "The Man Who Wasn't There",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260821/nguoi-dan-ong-vang-mat-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260821/nguoi-dan-ong-vang-mat-thumb.webp",
-      "year": 2001,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "higher-learning-1995-c83a77b5",
-      "source": "phimapi",
-      "slug": "sinh-ton-o-dai-hoc",
-      "name": "Sinh Tồn Ở Đại Học",
-      "originName": "Higher Learning",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260815/sinh-ton-o-dai-hoc-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260815/sinh-ton-o-dai-hoc-thumb.webp",
-      "year": 1995,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-pink-panther-1963-4c010570",
-      "source": "phimapi",
-      "slug": "diep-vu-bao-hong-1963",
-      "name": "Điệp Vụ Báo Hồng",
-      "originName": "The Pink Panther",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260822/diep-vu-bao-hong-1963-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260822/diep-vu-bao-hong-1963-thumb.webp",
-      "year": 1963,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Đài Loan",
+          "slug": "dai-loan"
         }
       ]
     }

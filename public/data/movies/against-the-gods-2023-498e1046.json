@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 63",
+  "episodeCurrent": "Tập 64",
   "categories": [
     {
       "name": "Hành Động",
@@ -545,13 +545,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261112/N0Xv9iVm/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261112/N0Xv9iVm/index.m3u8"
+    },
+    {
+      "name": "Tập 64",
+      "slug": "tap-64",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261119/6t5iUFT1/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261119/6t5iUFT1/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nghich-thien-ta-than",
-      "episodeCount": 63,
+      "episodeCount": 64,
       "priority": 1
     }
   ],

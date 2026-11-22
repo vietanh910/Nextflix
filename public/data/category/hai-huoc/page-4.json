@@ -2,20 +2,53 @@
   "slug": "hai-huoc",
   "name": "Hài Hước",
   "page": 4,
-  "totalPages": 5,
+  "totalPages": 6,
   "items": [
     {
-      "id": "king-of-comedy-2026-9006d29d",
+      "id": "kamui-he-s-behind-you-2026-2f84b0b0",
       "source": "phimapi",
-      "slug": "vua-hai-kich-2026",
-      "name": "Vua Hài Kịch",
-      "originName": "King Of Comedy",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261021/vua-hai-kich-2026-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261021/vua-hai-kich-2026-thumb.webp",
+      "slug": "ushiro-no-shoumen-kamui-san",
+      "name": "Ushiro no Shoumen Kamui-san",
+      "originName": "KAMUI: He's Behind You",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260829/ushiro-no-shoumen-kamui-san-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260829/ushiro-no-shoumen-kamui-san-thumb.webp",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "valentina-and-the-12-sig-2026-29bc050d",
+      "source": "phimapi",
+      "slug": "valentina-va-12-cung-hoang-dao",
+      "name": "Valentina Và 12 Cung Hoàng Đạo",
+      "originName": "Valentina And The 12 Signs",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261119/valentina-va-12-cung-hoang-dao-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261119/valentina-va-12-cung-hoang-dao-thumb.webp",
       "year": 2026,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (24/24)",
+      "episodeCurrent": "Hoàn Tất (8/8)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -32,8 +65,82 @@
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Brazil",
+          "slug": "brazil"
+        }
+      ]
+    },
+    {
+      "id": "guarding-stars-2026-f3b2e082",
+      "source": "phimapi",
+      "slug": "ve-si-cua-ngoi-sao",
+      "name": "Vệ Sĩ Của Ngôi Sao",
+      "originName": "Guarding Stars",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261120/ve-si-cua-ngoi-sao-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261120/ve-si-cua-ngoi-sao-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "last-one-standing-season-2026-1dc81e0d",
+      "source": "phimapi",
+      "slug": "vua-chuyen-bi-hai-phan-4",
+      "name": "Vua Chuyện Bi Hài (Phần 4)",
+      "originName": "Last One Standing (Season 4)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261117/vua-chuyen-bi-hai-phan-4-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261117/vua-chuyen-bi-hai-phan-4-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -85,7 +192,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -122,7 +229,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 18",
+      "episodeCurrent": "Tập 20",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -192,7 +299,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Hài Hước",
@@ -215,6 +322,39 @@
         {
           "name": "Thái Lan",
           "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "golden-sixtones-2025-5b299315",
+      "source": "phimapi",
+      "slug": "6-vien-da-vang",
+      "name": "6 Viên Đá Vàng",
+      "originName": "Golden SixTONES",
+      "posterUrl": "https://phimimg.com/upload/vod/20250620-1/cc6691d4af0f6898d1189acba5d09f5b.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250620-1/6cb392134f2e9564841005719746e088.jpg",
+      "year": 2025,
+      "type": "tvshow",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 65",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -264,39 +404,6 @@
       ]
     },
     {
-      "id": "nobody-wants-this-season-2025-ceeace7b",
-      "source": "phimapi",
-      "slug": "chang-ai-tac-hop-phan-2",
-      "name": "Chẳng Ai Tác Hợp (Phần 2)",
-      "originName": "Nobody Wants This (Season 2)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251023-1/78b965a5f053df1fafe711c78ee43f15.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251023-1/3039205f111d7162f39ea620bab8eb75.jpg",
-      "year": 2025,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "chitose-is-in-the-ramune-2025-e3e06131",
       "source": "phimapi",
       "slug": "chitose-trong-chai-ramune",
@@ -307,7 +414,7 @@
       "year": 2025,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 18",
+      "episodeCurrent": "Tập 19",
       "categories": [
         {
           "name": "Hài Hước",
@@ -474,25 +581,25 @@
       ]
     },
     {
-      "id": "nobody-wants-this-season-2024-a8c7b12e",
+      "id": "good-partner-season-1-2024-fdc0e786",
       "source": "phimapi",
-      "slug": "chang-ai-tac-hop-phan-1",
-      "name": "Chẳng Ai Tác Hợp (Phần 1)",
-      "originName": "Nobody Wants This (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251023-1/f329e4b4eb025720d1a2bfc979e0a207.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20240927-1/05914ca7d21a332b968b4d80441f429c.jpg",
+      "slug": "cong-su-hoan-hao-phan-1",
+      "name": "Cộng Sự Hoàn Hảo (Phần 1)",
+      "originName": "Good Partner (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261121/cong-su-hoan-hao-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261121/cong-su-hoan-hao-phan-1-thumb.webp",
       "year": 2024,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
+      "episodeCurrent": "Hoàn Tất (16/16)",
       "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
         },
         {
           "name": "Tâm Lý",
@@ -501,8 +608,8 @@
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
@@ -593,25 +700,29 @@
       ]
     },
     {
-      "id": "the-mothers-of-penguins--2024-8e11d743",
+      "id": "last-one-standing-season-2024-80e6639c",
       "source": "phimapi",
-      "slug": "nhung-nguoi-me-cua-bay-canh-cut-phan-1",
-      "name": "Những Người Mẹ Của Bầy Cánh Cụt (Phần 1)",
-      "originName": "The Mothers Of Penguins (Season 1)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261022/nhung-nguoi-me-cua-bay-canh-cut-phan-1-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261022/nhung-nguoi-me-cua-bay-canh-cut-phan-1-thumb.webp",
+      "slug": "vua-chuyen-bi-hai-phan-3",
+      "name": "Vua Chuyện Bi Hài (Phần 3)",
+      "originName": "Last One Standing (Season 3)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261117/vua-chuyen-bi-hai-phan-3-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261117/vua-chuyen-bi-hai-phan-3-thumb.webp",
       "year": 2024,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (6/6)",
+      "episodeCurrent": "Hoàn Tất (8/8)",
       "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Tâm Lý",
@@ -620,8 +731,8 @@
       ],
       "countries": [
         {
-          "name": "Ba Lan",
-          "slug": "ba-lan"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -659,47 +770,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "kubi-2023-65361502",
-      "source": "phimapi",
-      "slug": "loan-chien-lanh-chua-thu-cap",
-      "name": "Loạn Chiến Lãnh Chúa / Thủ Cấp",
-      "originName": "Kubi",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261025/loan-chien-lanh-chua-thu-cap-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261025/loan-chien-lanh-chua-thu-cap-thumb.webp",
-      "year": 2023,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Lịch Sử",
-          "slug": "lich-su"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
         }
       ]
     },
@@ -747,7 +817,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 167",
+      "episodeCurrent": "Tập 168",
       "categories": [
         {
           "name": "Hài Hước",
@@ -770,25 +840,25 @@
       ]
     },
     {
-      "id": "yowamushi-pedal-season-5-2022-1def70d1",
+      "id": "last-one-standing-season-2023-09c8742b",
       "source": "phimapi",
-      "slug": "cua-ro-trung-hoc-phan-5",
-      "name": "Cua-rơ Trung Học (Phần 5)",
-      "originName": "Yowamushi Pedal (Season 5)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261113/cua-ro-trung-hoc-phan-5-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261113/cua-ro-trung-hoc-phan-5-thumb.webp",
-      "year": 2022,
-      "type": "anime",
+      "slug": "vua-chuyen-bi-hai-phan-2",
+      "name": "Vua Chuyện Bi Hài (Phần 2)",
+      "originName": "Last One Standing (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261117/vua-chuyen-bi-hai-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261117/vua-chuyen-bi-hai-phan-2-thumb.webp",
+      "year": 2023,
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (25/25)",
+      "episodeCurrent": "Hoàn Tất (8/8)",
       "categories": [
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
         },
         {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
         },
         {
           "name": "Chính Kịch",
@@ -803,80 +873,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "bros-2022-e85eb041",
-      "source": "phimapi",
-      "slug": "bros-2022",
-      "name": "Người Anh Em",
-      "originName": "Bros",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261109/bros-2022-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261109/bros-2022-thumb.webp",
-      "year": 2022,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "high-heat-2022-d7e98e85",
-      "source": "phimapi",
-      "slug": "ngon-lua-cuong-nhiet-2022",
-      "name": "Tức Giận Tột Cùng",
-      "originName": "High Heat",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261108/ngon-lua-cuong-nhiet-2022-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261108/ngon-lua-cuong-nhiet-2022-thumb.webp",
-      "year": 2022,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     }

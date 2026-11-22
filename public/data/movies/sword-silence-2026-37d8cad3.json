@@ -1,0 +1,71 @@
+{
+  "id": "sword-silence-2026-37d8cad3",
+  "source": "phimapi",
+  "slug": "van-vu-vuong",
+  "name": "Văn Vũ Vương",
+  "originName": "Sword & Silence",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261115/van-vu-vuong-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261115/van-vu-vuong-thumb.webp",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 3",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "<p>Sáu thế kỷ chiến tranh khiến Tam Quốc chìm trong loạn lạc. Đối mặt với những đối thủ hùng mạnh, một tiểu quốc đấu tranh để thống nhất vùng đất bị chia cắt.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261115/cu0Efpbp/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261115/cu0Efpbp/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261116/ZBOJ92YV/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261116/ZBOJ92YV/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261122/ziKWkFjc/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261122/ziKWkFjc/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "van-vu-vuong",
+      "episodeCount": 3,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

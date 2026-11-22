@@ -1,0 +1,63 @@
+{
+  "id": "love-bound-2026-09fa0b7d",
+  "source": "phimapi",
+  "slug": "dau-an-tinh-yeu",
+  "name": "Dấu Ấn Tình Yêu",
+  "originName": "Love Bound",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261117/dau-an-tinh-yeu-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261117/dau-an-tinh-yeu-thumb.webp",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thái Lan",
+      "slug": "thai-lan"
+    }
+  ],
+  "description": "<p>Những vết rạn nứt chực chờ vỡ vụn; ba con đường tình yêu bị định mệnh \"xé toạc\". Tình yêu bắt đầu tựa như một tia sáng... nhưng lại bị vấy bẩn bởi những vết thương từ quá khứ. Tình yêu thuần khiết sẵn sàng bảo vệ và chữa lành một trái tim tan vỡ. Tình yêu tựa như một sợi dây gắn kết, nhưng lại đầu hàng trước trái tim của tình yêu đích thực.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261117/3slihKYI/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261117/3slihKYI/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261117/KC4AKIqV/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261117/KC4AKIqV/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "dau-an-tinh-yeu",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

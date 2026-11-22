@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/uploads/movies/20260921/ky-tuc-xa-lam-chieu-thumb.webp",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 9",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (10/10)",
   "categories": [
     {
       "name": "Hài Hước",
@@ -101,13 +101,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261114/npsYKMKV/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261114/npsYKMKV/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261121/3GABtnvx/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261121/3GABtnvx/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "ky-tuc-xa-lam-chieu-ky-tuc-xa-ba-dao",
-      "episodeCount": 9,
+      "episodeCount": 10,
       "priority": 1
     }
   ],

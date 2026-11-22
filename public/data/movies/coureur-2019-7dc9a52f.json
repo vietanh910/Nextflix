@@ -1,0 +1,55 @@
+{
+  "id": "coureur-2019-7dc9a52f",
+  "source": "phimapi",
+  "slug": "tay-dua-xe-dap",
+  "name": "Tay Đua Xe Đạp",
+  "originName": "Coureur",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261118/tay-dua-xe-dap-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261118/tay-dua-xe-dap-thumb.webp",
+  "year": 2019,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Bỉ",
+      "slug": "bi"
+    },
+    {
+      "name": "Ý",
+      "slug": "y"
+    }
+  ],
+  "description": "<p>Felix lớn lên trong môi trường đua xe đạp chuyên nghiệp đầy cám dỗ, nơi rượu và ma túy gắn liền với lối sống hưởng lạc của cha mình. Bị ảnh hưởng bởi quá khứ và sự nghiệp của cha, cậu sớm nuôi tham vọng trở thành vận động viên đua xe đạp chuyên nghiệp. Khi bước vào tuổi thiếu niên, Felix quyết tâm vượt qua những thành tích của cha để khẳng định năng lực bản thân. Tuy nhiên, trên hành trình theo đuổi ước mơ, cậu phải đối mặt với những cám dỗ và áp lực có thể làm chệch hướng tương lai của mình.</p>",
+  "quality": "FHD",
+  "lang": "Thuyết Minh",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Thuyết Minh",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261118/D8lIJztx/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261118/D8lIJztx/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "tay-dua-xe-dap",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

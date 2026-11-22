@@ -5,6 +5,80 @@
   "totalPages": 3,
   "items": [
     {
+      "id": "it-lives-inside-2023-c7f32ca1",
+      "source": "phimapi",
+      "slug": "phong-an-quy-du",
+      "name": "Phong Ấn Quỷ Dữ",
+      "originName": "It Lives Inside",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261120/phong-an-quy-du-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261120/phong-an-quy-du-thumb.webp",
+      "year": 2023,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "psycho-pass-providence-2023-07471305",
+      "source": "phimapi",
+      "slug": "psycho-pass-su-menh",
+      "name": "Psycho-Pass: Sứ Mệnh",
+      "originName": "Psycho-Pass: Providence",
+      "posterUrl": "https://phimimg.com/upload/vod/20251023-1/aa8028750edee535e1d49f527bcd5f78.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251023-1/c932978f0ba6184d8b6711eef471d09b.jpg",
+      "year": 2023,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
       "id": "lupin-season-3-2023-d974464e",
       "source": "phimapi",
       "slug": "sieu-trom-lupin-phan-3",
@@ -79,6 +153,117 @@
       ]
     },
     {
+      "id": "last-one-standing-season-2023-09c8742b",
+      "source": "phimapi",
+      "slug": "vua-chuyen-bi-hai-phan-2",
+      "name": "Vua Chuyện Bi Hài (Phần 2)",
+      "originName": "Last One Standing (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261117/vua-chuyen-bi-hai-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261117/vua-chuyen-bi-hai-phan-2-thumb.webp",
+      "year": 2023,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "somebody-2022-979abefa",
+      "source": "phimapi",
+      "slug": "nguoi-nao-do",
+      "name": "Người Nào Đó",
+      "originName": "Somebody",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261117/nguoi-nao-do-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261117/nguoi-nao-do-thumb.webp",
+      "year": 2022,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "last-one-standing-season-2022-57603ba8",
+      "source": "phimapi",
+      "slug": "vua-chuyen-bi-hai-phan-1",
+      "name": "Vua Chuyện Bi Hài (Phần 1)",
+      "originName": "Last One Standing (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261117/vua-chuyen-bi-hai-phan-1-poster-2.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261117/vua-chuyen-bi-hai-phan-1-thumb.webp",
+      "year": 2022,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
       "id": "where-the-crawdads-sing-2022-44b44c93",
       "source": "phimapi",
       "slug": "xa-ngoai-kia-noi-loai-tom-hat",
@@ -112,6 +297,47 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "are-you-lonesome-tonight-2021-87debb6f",
+      "source": "phimapi",
+      "slug": "chuyen-cu-nhiet-doi",
+      "name": "Chuyện Cũ Nhiệt Đới",
+      "originName": "Are You Lonesome Tonight?",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261120/chuyen-cu-nhiet-doi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261120/chuyen-cu-nhiet-doi-thumb.webp",
+      "year": 2021,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -219,47 +445,6 @@
         {
           "name": "Thổ Nhĩ Kỳ",
           "slug": "tho-nhi-ky"
-        }
-      ]
-    },
-    {
-      "id": "elizabeth-harvest-2018-737bc8c0",
-      "source": "phimapi",
-      "slug": "chan-dai-va-ac-quy",
-      "name": "Chân Dài Và Ác Quỷ",
-      "originName": "Elizabeth Harvest",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261021/chan-dai-va-ac-quy-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261021/chan-dai-va-ac-quy-thumb.webp",
-      "year": 2018,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     },
@@ -412,43 +597,6 @@
       ]
     },
     {
-      "id": "detective-conan-the-time-1997-13c487ef",
-      "source": "phimapi",
-      "slug": "tham-tu-lung-danh-conan-qua-bom-choc-troi",
-      "name": "Thám Tử Lừng Danh Conan: Quả Bom Chọc Trời",
-      "originName": "Detective Conan: The Time Bombed Skyscraper",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260801/tham-tu-lung-danh-conan-qua-bom-choc-troi-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260801/tham-tu-lung-danh-conan-qua-bom-choc-troi-thumb.webp",
-      "year": 1997,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Hoạt Hình",
-          "slug": "hoat-hinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
       "id": "detective-conan-1996-7e203c67",
       "source": "phimapi",
       "slug": "tham-tu-lung-danh-conan",
@@ -459,7 +607,7 @@
       "year": 1996,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 1220",
+      "episodeCurrent": "Tập 1221",
       "categories": [
         {
           "name": "Bí Ẩn",

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 7",
   "categories": [
     {
       "name": "Hành Động",
@@ -81,13 +81,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261110/ZcAeGPWP/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261110/ZcAeGPWP/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261117/61Qo5QoK/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261117/61Qo5QoK/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261117/i7V6WvQm/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261117/i7V6WvQm/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "psyren",
-      "episodeCount": 5,
+      "episodeCount": 7,
       "priority": 1
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 15",
+  "episodeCurrent": "Tập 18",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -153,13 +153,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261112/q8aLSX1J/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261112/q8aLSX1J/index.m3u8"
+    },
+    {
+      "name": "Tập 16",
+      "slug": "tap-16",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261117/tTUb4bNz/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261117/tTUb4bNz/index.m3u8"
+    },
+    {
+      "name": "Tập 17",
+      "slug": "tap-17",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261119/5ylSPeuh/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261119/5ylSPeuh/index.m3u8"
+    },
+    {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261119/qnqY1t12/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261119/qnqY1t12/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "can-nha-khong-mai-che",
-      "episodeCount": 15,
+      "episodeCount": 18,
       "priority": 1
     }
   ],

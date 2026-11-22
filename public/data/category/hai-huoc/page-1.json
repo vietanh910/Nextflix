@@ -2,8 +2,41 @@
   "slug": "hai-huoc",
   "name": "Hài Hước",
   "page": 1,
-  "totalPages": 5,
+  "totalPages": 6,
   "items": [
+    {
+      "id": "alan-s-universe-2026-a9732fd8",
+      "source": "phimapi",
+      "slug": "alan-s-universe",
+      "name": "Alan's Universe",
+      "originName": "Alan's Universe",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261117/alan-s-universe-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261117/alan-s-universe-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (32/32)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Mỹ",
+          "slug": "my"
+        }
+      ]
+    },
     {
       "id": "allen-2026-a64ff307",
       "source": "phimapi",
@@ -59,8 +92,8 @@
       "thumbUrl": "https://phimimg.com/uploads/movies/20261106/am-thanh-cua-nhung-vien-duong-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -97,7 +130,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -198,43 +231,6 @@
       ]
     },
     {
-      "id": "money-trap-2026-e1efde89",
-      "source": "phimapi",
-      "slug": "bang-dang-ki-cuc-bay-tien",
-      "name": "Băng Đảng Kì Cục: Bẫy Tiền",
-      "originName": "Money Trap",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261025/bang-dang-ki-cuc-bay-tien-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261016/bang-dang-ki-cuc-bay-tien-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thổ Nhĩ Kỳ",
-          "slug": "tho-nhi-ky"
-        }
-      ]
-    },
-    {
       "id": "the-world-s-strongest-wi-2026-373504bc",
       "source": "phimapi",
       "slug": "bat-dau-lam-ma-nu-manh-nhat-the-gioi",
@@ -245,7 +241,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -290,7 +286,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -329,47 +325,6 @@
       ]
     },
     {
-      "id": "buddy-2026-cc7c2fe1",
-      "source": "phimapi",
-      "slug": "buddy",
-      "name": "Buddy",
-      "originName": "Buddy",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261019/buddy-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261019/buddy-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Israel",
-          "slug": "israel"
-        }
-      ]
-    },
-    {
       "id": "how-to-ruin-diwali-meet--2026-e8102f73",
       "source": "phimapi",
       "slug": "cach-huy-hoai-diwali-gap-go-phu-huynh",
@@ -403,31 +358,51 @@
       ]
     },
     {
-      "id": "nobody-wants-this-season-2026-3d16bb09",
+      "id": "steps-2026-4605b25d",
       "source": "phimapi",
-      "slug": "chang-ai-tac-hop-phan-3",
-      "name": "Chẳng Ai Tác Hợp (Phần 3)",
-      "originName": "Nobody Wants This (Season 3)",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261024/chang-ai-tac-hop-phan-3-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261024/chang-ai-tac-hop-phan-3-thumb.webp",
+      "slug": "chi-em-ke",
+      "name": "Chị Em Kế",
+      "originName": "Steps",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261120/chi-em-ke-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261120/chi-em-ke-thumb.webp",
       "year": 2026,
-      "type": "series",
+      "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
+      "episodeCurrent": "Hoàn Tất (1/1)",
       "categories": [
+        {
+          "name": "Hoạt Hình",
+          "slug": "hoat-hinh"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
         },
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        },
+        {
+          "name": "Úc",
+          "slug": "uc"
         }
       ]
     },
@@ -479,7 +454,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -557,7 +532,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -617,25 +592,25 @@
       ]
     },
     {
-      "id": "did-someone-happen-to-me-2026-628a4729",
+      "id": "good-partner-season-2-2026-ca26564b",
       "source": "phimapi",
-      "slug": "co-ai-nhac-den-toi-a",
-      "name": "Có Ai Nhắc Đến Tôi À",
-      "originName": "Did Someone Happen To Mention Me?",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261023/co-ai-nhac-den-toi-a-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261023/co-ai-nhac-den-toi-a-thumb.webp",
+      "slug": "cong-su-hoan-hao-phan-2",
+      "name": "Cộng Sự Hoàn Hảo (Phần 2)",
+      "originName": "Good Partner (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261121/cong-su-hoan-hao-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261121/cong-su-hoan-hao-phan-2-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 1",
       "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
           "name": "Tâm Lý",
@@ -644,8 +619,41 @@
       ],
       "countries": [
         {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "cunk-on-cinema-2026-3b8d807a",
+      "source": "phimapi",
+      "slug": "cunk-noi-ve-dien-anh",
+      "name": "Cunk Nói Về Điện Ảnh",
+      "originName": "Cunk On Cinema",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261116/cunk-noi-ve-dien-anh-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261116/cunk-noi-ve-dien-anh-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (6/6)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tài Liệu",
+          "slug": "tai-lieu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
         }
       ]
     },
@@ -660,7 +668,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -695,6 +703,43 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "bid-coin-chef-2026-e669ce30",
+      "source": "phimapi",
+      "slug": "dau-bep-dau-gia",
+      "name": "Đầu Bếp Đấu Giá",
+      "originName": "Bid Coin Chef",
+      "posterUrl": "https://phimimg.com/uploads/movies/20260722/dau-bep-dau-gia-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20260730/dau-bep-dau-gia-thumb.webp",
+      "year": 2026,
+      "type": "tvshow",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
         }
       ]
     },
@@ -736,6 +781,39 @@
       ]
     },
     {
+      "id": "dhindora-season-2-2026-21fd9ccc",
+      "source": "phimapi",
+      "slug": "dhindora-phan-2",
+      "name": "Dhindora (Phần 2)",
+      "originName": "Dhindora (Season 2)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261121/dhindora-phan-2-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261121/dhindora-phan-2-thumb.webp",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ấn Độ",
+          "slug": "an-do"
+        }
+      ]
+    },
+    {
       "id": "ace-of-diamond-act-ii-se-2026-4ba755b7",
       "source": "phimapi",
       "slug": "diamond-no-ace-act-ii-second-season",
@@ -746,7 +824,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 18",
+      "episodeCurrent": "Tập 19",
       "categories": [
         {
           "name": "Hài Hước",
@@ -808,7 +886,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hoạt Hình",
@@ -835,72 +913,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "her-in-frame-2026-af1ceace",
-      "source": "phimapi",
-      "slug": "em-trong-khung-anh",
-      "name": "Em Trong Khung Ảnh",
-      "originName": "Her in Frame",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261029/em-trong-khung-anh-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261029/em-trong-khung-anh-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "you-me-us-2026-aba0e452",
-      "source": "phimapi",
-      "slug": "em-anh-chung-ta",
-      "name": "Em, Anh, Chúng Ta",
-      "originName": "You, Me, Us",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261030/em-anh-chung-ta-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261030/em-anh-chung-ta-thumb.webp",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Ý",
-          "slug": "y"
         }
       ]
     }

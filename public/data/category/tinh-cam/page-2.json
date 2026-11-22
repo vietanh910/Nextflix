@@ -5,76 +5,6 @@
   "totalPages": 3,
   "items": [
     {
-      "id": "bloom-life-2026-08d3ed90",
-      "source": "phimapi",
-      "slug": "tinh-ca-kashgar",
-      "name": "Tình Ca Kashgar",
-      "originName": "Bloom Life",
-      "posterUrl": "https://phimimg.com/upload/vod/20260506-1/5b969212efd973b56700ab36f264d2a7.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260506-1/27680fc97bc7c7bfd9279325197fcfd0.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "one-of-a-kind-romance-2026-7ad74cab",
-      "source": "phimapi",
-      "slug": "tinh-yeu-doc-nhat",
-      "name": "Tình Yêu Độc Nhất",
-      "originName": "One Of A Kind Romance",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261111/tinh-yeu-doc-nhat-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261111/tinh-yeu-doc-nhat-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 2",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
       "id": "north-of-north-season-2-2026-de656133",
       "source": "phimapi",
       "slug": "tit-xa-phuong-bac-phan-2",
@@ -118,7 +48,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -131,35 +61,6 @@
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "a-parasite-s-heart-2026-20f81ae6",
-      "source": "phimapi",
-      "slug": "trai-tim-cua-ke-ky-sinh",
-      "name": "Trái tim của kẻ ký sinh",
-      "originName": "A Parasite's Heart",
-      "posterUrl": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-thumb.webp",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (30/30)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
         }
       ],
       "countries": [
@@ -236,6 +137,43 @@
       ]
     },
     {
+      "id": "guarding-stars-2026-f3b2e082",
+      "source": "phimapi",
+      "slug": "ve-si-cua-ngoi-sao",
+      "name": "Vệ Sĩ Của Ngôi Sao",
+      "originName": "Guarding Stars",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261120/ve-si-cua-ngoi-sao-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261120/ve-si-cua-ngoi-sao-thumb.webp",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "oxytoxin-2026-39f640dd",
       "source": "phimapi",
       "slug": "vo-ve-trai-tim",
@@ -246,7 +184,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -316,7 +254,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 16",
+      "episodeCurrent": "Tập 21",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -401,17 +339,17 @@
       ]
     },
     {
-      "id": "love-is-blind-netherland-2026-7102f3e1",
+      "id": "love-me-to-hurt-me-2026-34f655a2",
       "source": "phimapi",
-      "slug": "yeu-la-mu-quang-ha-lan",
-      "name": "Yêu Là Mù Quáng: Hà Lan",
-      "originName": "Love Is Blind: Netherlands",
-      "posterUrl": "https://phimimg.com/uploads/movies/20261021/yeu-la-mu-quang-ha-lan-poster.webp",
-      "thumbUrl": "https://phimimg.com/uploads/movies/20261021/yeu-la-mu-quang-ha-lan-thumb.webp",
+      "slug": "yeu-la-tan-nhan",
+      "name": "Yêu Là Tàn Nhẫn",
+      "originName": "Love Me to Hurt Me",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261115/yeu-la-tan-nhan-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261115/yeu-la-tan-nhan-thumb.webp",
       "year": 2026,
       "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -428,8 +366,8 @@
       ],
       "countries": [
         {
-          "name": "NL",
-          "slug": "nl"
+          "name": "Thái Lan",
+          "slug": "thai-lan"
         }
       ]
     },
@@ -444,7 +382,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "episodeCurrent": "Tập 13",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -518,7 +456,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Hài Hước",
@@ -611,39 +549,6 @@
       ]
     },
     {
-      "id": "nobody-wants-this-season-2024-a8c7b12e",
-      "source": "phimapi",
-      "slug": "chang-ai-tac-hop-phan-1",
-      "name": "Chẳng Ai Tác Hợp (Phần 1)",
-      "originName": "Nobody Wants This (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251023-1/f329e4b4eb025720d1a2bfc979e0a207.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20240927-1/05914ca7d21a332b968b4d80441f429c.jpg",
-      "year": 2024,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "love-your-enemy-2024-5c656559",
       "source": "phimapi",
       "slug": "phai-long-oan-gia",
@@ -673,6 +578,39 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "love-is-blind-habibi-sea-2024-d6ec49df",
+      "source": "phimapi",
+      "slug": "yeu-la-mu-quang-habibi-phan-1",
+      "name": "Yêu Là Mù Quáng, Habibi (Phần 1)",
+      "originName": "Love Is Blind, Habibi (Season 1)",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261117/yeu-la-mu-quang-habibi-phan-1-poster.webp",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260507-1/4be10b670277eaa39d023b30ac4a6381.jpg",
+      "year": 2024,
+      "type": "tvshow",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Lebanon",
+          "slug": "lebanon"
         }
       ]
     },
@@ -710,6 +648,39 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "just-the-two-of-us-2023-08ae5759",
+      "source": "phimapi",
+      "slug": "nguoi-tinh-chiem-huu",
+      "name": "Người Tình Chiếm Hữu",
+      "originName": "Just The Two Of Us",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261120/nguoi-tinh-chiem-huu-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261120/nguoi-tinh-chiem-huu-thumb.webp",
+      "year": 2023,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
         }
       ]
     },
@@ -780,6 +751,47 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "are-you-lonesome-tonight-2021-87debb6f",
+      "source": "phimapi",
+      "slug": "chuyen-cu-nhiet-doi",
+      "name": "Chuyện Cũ Nhiệt Đới",
+      "originName": "Are You Lonesome Tonight?",
+      "posterUrl": "https://phimimg.com/uploads/movies/20261120/chuyen-cu-nhiet-doi-poster.webp",
+      "thumbUrl": "https://phimimg.com/uploads/movies/20261120/chuyen-cu-nhiet-doi-thumb.webp",
+      "year": 2021,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },

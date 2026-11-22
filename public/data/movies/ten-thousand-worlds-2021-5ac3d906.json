@@ -9,7 +9,7 @@
   "year": 2021,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 499",
+  "episodeCurrent": "Tập 502",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -4009,13 +4009,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261111/2N9gu2G8/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261111/2N9gu2G8/index.m3u8"
+    },
+    {
+      "name": "Tập 500",
+      "slug": "tap-500",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261117/ysBMu1KQ/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261117/ysBMu1KQ/index.m3u8"
+    },
+    {
+      "name": "Tập 501",
+      "slug": "tap-501",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261121/kb1u2w6s/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261121/kb1u2w6s/index.m3u8"
+    },
+    {
+      "name": "Tập 502",
+      "slug": "tap-502",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261122/MgyyPlKI/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261122/MgyyPlKI/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "van-gioi-doc-ton",
-      "episodeCount": 496,
+      "episodeCount": 499,
       "priority": 1
     }
   ],

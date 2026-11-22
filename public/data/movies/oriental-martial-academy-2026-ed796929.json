@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 17",
+  "episodeCurrent": "Tập 18",
   "categories": [
     {
       "name": "Hoạt Hình",
@@ -181,13 +181,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261112/WufgCgRA/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261112/WufgCgRA/index.m3u8"
+    },
+    {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261116/aRdncDNw/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261116/aRdncDNw/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "hoc-vien-cao-vo-dong-dai",
-      "episodeCount": 18,
+      "episodeCount": 19,
       "priority": 1
     }
   ],

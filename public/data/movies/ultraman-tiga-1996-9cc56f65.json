@@ -9,7 +9,7 @@
   "year": 1996,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 17",
+  "episodeCurrent": "Tập 20",
   "categories": [
     {
       "name": "Khoa Học",
@@ -183,6 +183,30 @@
       "m3u8Url": "https://a.kvp726.com/20261113/IWSxH7Kw/index.m3u8"
     },
     {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261117/gR9E3xoQ/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261117/gR9E3xoQ/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261118/6l8Zu6bq/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261118/6l8Zu6bq/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261120/DH5RDvmN/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261120/DH5RDvmN/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "Lồng Tiếng",
@@ -317,13 +341,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261113/JcKYeWQc/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261113/JcKYeWQc/index.m3u8"
+    },
+    {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261117/lzfGjSzi/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261117/lzfGjSzi/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261118/vj8zDRNR/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261118/vj8zDRNR/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261120/IdxCrHWu/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261120/IdxCrHWu/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "sieu-nhan-tiga",
-      "episodeCount": 34,
+      "episodeCount": 40,
       "priority": 1
     }
   ],

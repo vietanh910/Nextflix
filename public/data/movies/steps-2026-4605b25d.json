@@ -1,0 +1,79 @@
+{
+  "id": "steps-2026-4605b25d",
+  "source": "phimapi",
+  "slug": "chi-em-ke",
+  "name": "Chị Em Kế",
+  "originName": "Steps",
+  "posterUrl": "https://phimimg.com/uploads/movies/20261120/chi-em-ke-poster.webp",
+  "thumbUrl": "https://phimimg.com/uploads/movies/20261120/chi-em-ke-thumb.webp",
+  "year": 2026,
+  "type": "anime",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (1/1)",
+  "categories": [
+    {
+      "name": "Hoạt Hình",
+      "slug": "hoat-hinh"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Gia Đình",
+      "slug": "gia-dinh"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Úc",
+      "slug": "uc"
+    }
+  ],
+  "description": "<p>Sẽ ra sao nếu các chị em kế của Lọ Lem không hề độc ác… mà đó chỉ là những hiểu lầm tai hại? \"Ngày xửa ngày xưa\" bỗng trở nên thú vị hơn bao giờ hết.</p>",
+  "quality": "FHD",
+  "lang": "Vietsub + Lồng Tiếng",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261120/lduijTxw/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261120/lduijTxw/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Lồng Tiếng",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261120/xHEphPe0/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261120/xHEphPe0/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "chi-em-ke",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

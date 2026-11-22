@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 11",
+  "episodeCurrent": "Tập 13",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -117,13 +117,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261111/Pm64ghnR/index.m3u8",
       "m3u8Url": "https://a.kvp726.com/20261111/Pm64ghnR/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261117/bPnsvoJd/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261117/bPnsvoJd/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "Vietsub",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://a.kvp726.com/20261118/n7PejUWg/index.m3u8",
+      "m3u8Url": "https://a.kvp726.com/20261118/n7PejUWg/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "phia-sau-doi-tra",
-      "episodeCount": 11,
+      "episodeCount": 13,
       "priority": 1
     }
   ],
